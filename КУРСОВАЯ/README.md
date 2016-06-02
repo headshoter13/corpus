@@ -3,7 +3,7 @@
 <p>Contact information: Naumov Alexander, headshoter13@gmail.com</p>
 
 You can find the results in folder *Corpora*
-Исходные данные zip-архивы в папке subs
+<br>Исходные данные zip-архивы в папке subs
 Извлеченные файлы srt в папке Extracted_Data
 
 Порядок запуска скриптов:
