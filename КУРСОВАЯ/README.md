@@ -21,7 +21,7 @@ In this case, you will have 100 different subtitles
 The script extracts all the *srt*-subs from zips from folder *subs* to folder *Extracted_Data* and write down the statistics about the films and languages to file *MetaInfo.csv*
 
 #### 3)To launch the Allignment.py
-This big script perform the allignment of *srt*-files from folder *Extracted_Data* to new folder *Corpora*. In result, it creates 1 *xml*-file with all the languages for each film
+This big script perform the allignment of *srt*-files from folder *Extracted_Data* and create the additional file to new folder *Corpora*. In result, it creates 1 *xml*-file with all the languages for each film
 
 
 
