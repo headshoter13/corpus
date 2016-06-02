@@ -6,7 +6,7 @@ You can find the results of allignment in folder *Corpora*
 <br>Source zip-files in folder *subs*
 <br> Extracted srt-files in folder *Extracted_Data*
 <br>
-<br>## How does it work?
+<br>### How does it work?
 <br>
 <br>In order to create the corpus you have to perform some actions:
 
