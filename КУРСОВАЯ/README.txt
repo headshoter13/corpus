@@ -1,4 +1,4 @@
-\**Parallel Corpora**
+# Parallel Corpora
 
 Результаты находятся в папке Corpora 
 Исходные данные zip-архивы в папке subs
