@@ -1,0 +1,7995 @@
+1
+00:00:36,261 --> 00:00:41,140
+STÃPÂNUL INELELOR
+
+2
+00:01:17,552 --> 00:01:19,011
+Sméagol !
+
+3
+00:01:19,179 --> 00:01:21,430
+Am prins unul !
+
+4
+00:01:22,056 --> 00:01:24,057
+Am prins un peºte, Sméag !
+
+5
+00:01:24,225 --> 00:01:27,352
+Scoate-l ! Haide !
+
+6
+00:01:35,570 --> 00:01:37,404
+Déagol !
+
+7
+00:02:34,796 --> 00:02:36,630
+Déagol ?
+
+8
+00:02:39,175 --> 00:02:41,426
+Déagol.
+
+9
+00:02:57,235 --> 00:02:59,319
+Dã-ni-l nouã,
+Déagol, dragul meu...
+
+10
+00:03:04,284 --> 00:03:05,575
+De ce ?
+
+11
+00:03:06,661 --> 00:03:08,912
+Pentru cã...
+
+12
+00:03:09,080 --> 00:03:12,833
+e ziua mea ºi îl vreau.
+
+13
+00:04:46,886 --> 00:04:52,140
+Nepreþuitul meu !
+
+14
+00:04:59,690 --> 00:05:02,609
+<i>Ne-au blestemat...</i>
+
+15
+00:05:02,777 --> 00:05:04,152
+<i>Ucigaºule !</i>
+
+16
+00:05:04,320 --> 00:05:06,780
+<i>"Ucigaº" ne spun...</i>
+
+17
+00:05:06,948 --> 00:05:11,743
+<i>Ne-au blestemat ºi ne-au alungat.</i>
+
+18
+00:05:12,870 --> 00:05:14,579
+Gollum, gollum...
+
+19
+00:05:14,747 --> 00:05:16,456
+Gollum.
+
+20
+00:05:16,624 --> 00:05:18,583
+Gollum.
+
+21
+00:05:22,130 --> 00:05:25,132
+<i>ªi am plâns, Nepreþuitule.</i>
+
+22
+00:05:25,299 --> 00:05:28,885
+<i>Am plâns</i>
+<i>fiindcã eram atât de singuri !</i>
+
+23
+00:05:31,472 --> 00:05:35,267
+<i>...ºi rece</i>
+<i>Ce plãcut pentru tãlpi</i>
+
+24
+00:05:36,269 --> 00:05:40,647
+<i>ªi vrem doar</i>
+<i>Sã prindem un peºte</i>
+
+25
+00:05:40,815 --> 00:05:44,067
+<i>Un peºte dulce ºi zemos</i>
+
+26
+00:05:49,824 --> 00:05:53,952
+<i>ªi am uitat gustul pâinii...</i>
+
+27
+00:05:54,120 --> 00:05:57,747
+<i>Foºnetul copacilor...</i>
+
+28
+00:05:58,624 --> 00:06:01,835
+<i>Adierea vântului...</i>
+
+29
+00:06:02,462 --> 00:06:08,133
+<i>Ne-am uitat chiar ºi numele.</i>
+
+30
+00:06:16,267 --> 00:06:22,689
+<i>Nepreþuitul meu !</i>
+
+31
+00:07:06,943 --> 00:07:09,194
+Treziþi-vã !
+
+32
+00:07:10,238 --> 00:07:11,905
+Treziþi-vã !
+
+33
+00:07:12,073 --> 00:07:13,865
+Treziþi-vã, somnoroºilor !
+
+34
+00:07:14,033 --> 00:07:15,909
+Trebuie sã plecãm, da !
+
+35
+00:07:16,077 --> 00:07:18,745
+Trebuie sã plecãm de-ndat' !
+
+36
+00:07:22,291 --> 00:07:25,377
+N-ai dormit deloc, domnu' Frodo.
+
+37
+00:07:27,588 --> 00:07:30,131
+Pe mine m-a luat somnul
+ºi am dormit prea mult.
+
+38
+00:07:31,509 --> 00:07:33,260
+Trebuie sã fie târziu.
+
+39
+00:07:33,427 --> 00:07:34,928
+Nu,
+
+40
+00:07:35,096 --> 00:07:37,013
+nu este.
+
+41
+00:07:37,181 --> 00:07:40,225
+Nu e nici amiaza încã.
+
+42
+00:07:40,393 --> 00:07:42,978
+Zilele sunt tot mai întunecate.
+
+43
+00:07:47,233 --> 00:07:49,442
+Veniþi !
+
+44
+00:07:51,862 --> 00:07:54,114
+Trebuie sã plecãm !
+Nu e timp !
+
+45
+00:07:54,282 --> 00:07:56,658
+Nu înainte sã-mbuce ceva
+domnu' Frodo.
+
+46
+00:07:56,826 --> 00:07:59,703
+Nu avem timp de pierdut,
+prostãnacule !
+
+47
+00:08:08,462 --> 00:08:09,754
+Poftim !
+
+48
+00:08:12,967 --> 00:08:14,801
+ªi tu ?
+
+49
+00:08:14,969 --> 00:08:18,346
+Mie nu mi-e foame. N-am chef
+de pâine de-a elfilor, în tot cazul.
+
+50
+00:08:18,931 --> 00:08:20,307
+Sam...
+
+51
+00:08:22,893 --> 00:08:24,436
+Bine.
+
+52
+00:08:24,604 --> 00:08:27,105
+Dar nu mai avem prea multã.
+
+53
+00:08:27,273 --> 00:08:30,150
+Trebuie sã fim cu bãgare de seamã,
+altfel, vom rãmâne fãrã mâncare.
+
+54
+00:08:32,320 --> 00:08:35,238
+Hai, mãnâncã, domnu' Frodo !
+
+55
+00:08:35,406 --> 00:08:36,823
+Am numãrat îmbucãturile.
+
+56
+00:08:37,325 --> 00:08:38,992
+Ar trebui sã ne ajungã.
+
+57
+00:08:41,162 --> 00:08:42,370
+Pentru ce ?
+
+58
+00:08:44,040 --> 00:08:45,790
+Pentru drumul spre casã.
+
+59
+00:08:53,633 --> 00:08:55,967
+Veniþi, hobbiþilor !
+
+60
+00:08:57,345 --> 00:08:59,220
+Suntem foarte aproape acum.
+
+61
+00:08:59,388 --> 00:09:02,641
+Foarte aproape de Mordor...
+
+62
+00:09:02,808 --> 00:09:05,477
+Aici niciun loc nu-i sigur.
+
+63
+00:09:05,645 --> 00:09:07,812
+Grãbiþi-vã !
+
+64
+00:09:30,645 --> 00:09:40,812
+SupRip by Driv3r
+www.titrãri.ro
+
+65
+00:09:50,523 --> 00:09:56,111
+ÎNTOARCEREA REGELUI
+
+66
+00:10:00,366 --> 00:10:01,908
+E bun.
+
+67
+00:10:02,827 --> 00:10:04,577
+E desigur din Comitat.
+
+68
+00:10:06,789 --> 00:10:08,915
+Frunzã din Valea Lungã.
+
+69
+00:10:14,255 --> 00:10:18,591
+Mã simt de parcã aº fi acasã, la
+Dragonul Verde.
+
+70
+00:10:19,677 --> 00:10:22,929
+- Dragonul verde.
+- Cu o halbã de bere în mânã.
+
+71
+00:10:23,097 --> 00:10:27,684
+Sã-mi pun picioarele pe laviþã
+dupã ce am trudit din greu.
+
+72
+00:10:28,269 --> 00:10:31,730
+Doar cã tu n-ai trudit
+în viaþa ta o zi.
+
+73
+00:10:44,535 --> 00:10:47,579
+Bine aþi venit, domniile voastre,
+
+74
+00:10:47,747 --> 00:10:49,998
+la Isengard.
+
+75
+00:10:50,374 --> 00:10:54,127
+Piºicherilor ! Ne-aþi fãcut
+sã venim într-o goanã,
+
+76
+00:10:54,295 --> 00:10:59,299
+ca sã vã gãsim aici chefuind !
+ªi fumând !
+
+77
+00:10:59,467 --> 00:11:02,635
+Suntem pe câmpul de izbândã,
+
+78
+00:11:02,803 --> 00:11:06,306
+îngãduindu-ne câteva rãsfãþuri
+binemeritate.
+
+79
+00:11:07,391 --> 00:11:11,227
+Carnea de porc, mai ales,
+e grozav de bunã.
+
+80
+00:11:11,771 --> 00:11:14,147
+Carnea de porc ?
+
+81
+00:11:15,357 --> 00:11:18,777
+- Hobbiþi...
+- Suntem la porunca lui Arbore-bãrbos,
+
+82
+00:11:18,944 --> 00:11:21,780
+care se îngrijeºte acum
+de rânduielile din Isengard.
+
+83
+00:11:24,325 --> 00:11:27,327
+Tinere Gandalf,
+
+84
+00:11:27,495 --> 00:11:32,081
+mã bucur cã eºti aici.
+
+85
+00:11:32,249 --> 00:11:36,669
+Lemnul ºi apa, buºteanul ºi piatra,
+pe toate le pot stãpâni.
+
+86
+00:11:36,837 --> 00:11:40,507
+Dar aici avem de-a face
+cu un vrãjitor
+
+87
+00:11:40,674 --> 00:11:42,675
+care s-a ferecat în turnul lui.
+
+88
+00:11:45,346 --> 00:11:46,679
+Aratã-te.
+
+89
+00:11:46,931 --> 00:11:48,640
+Ai grijã.
+
+90
+00:11:49,433 --> 00:11:52,101
+Chiar ºi înfrânt, Saruman e periculos.
+
+91
+00:11:52,269 --> 00:11:54,395
+Sã-l scurtãm de cap
+ºi sã isprãvim cu el !
+
+92
+00:11:54,563 --> 00:11:56,606
+Nu !
+
+93
+00:11:56,941 --> 00:11:59,275
+Avem nevoie de el viu.
+
+94
+00:12:00,277 --> 00:12:02,862
+Avem nevoie sã vorbeascã.
+
+95
+00:12:04,740 --> 00:12:08,952
+Ai purtat multe rãzboaie ºi
+ai rãpus mulþi oameni, rege Théoden
+
+96
+00:12:09,119 --> 00:12:10,620
+ºi ai încheiat pace dupã aceea.
+
+97
+00:12:10,788 --> 00:12:15,750
+Nu ne putem înþelege aºa cum
+am fãcut demult, prietene ?
+
+98
+00:12:15,918 --> 00:12:19,128
+Nu putem face pace ?
+
+99
+00:12:19,296 --> 00:12:21,089
+Vom avea pace.
+
+100
+00:12:23,133 --> 00:12:25,260
+Vom avea pace
+
+101
+00:12:25,427 --> 00:12:29,472
+când vei da socotealã pentru
+arderea meleagurilor de la Apus
+
+102
+00:12:29,640 --> 00:12:32,392
+ºi pentru moartea
+copiilor îngropaþi acolo !
+
+103
+00:12:33,143 --> 00:12:37,313
+Vom avea pace când vieþile soldaþilor
+
+104
+00:12:37,481 --> 00:12:39,566
+ale cãror leºuri au fost ciopârþite
+
+105
+00:12:39,733 --> 00:12:43,278
+la porþile Hornburgului,
+vor fi rãzbunate !
+
+106
+00:12:44,822 --> 00:12:50,410
+Când vei atârna în ºtreang
+spre desfãtarea ciorilor tale...
+
+107
+00:12:51,328 --> 00:12:53,580
+atunci vom avea pace.
+
+108
+00:12:56,333 --> 00:12:59,043
+ªtreanguri ºi ciori ?
+
+109
+00:12:59,378 --> 00:13:00,503
+Dotard !
+
+110
+00:13:02,089 --> 00:13:04,924
+Ce vrei, Gandalf cel Sur ?
+
+111
+00:13:05,926 --> 00:13:08,428
+Sã vedem dacã ghicesc.
+Cheia Orthancului.
+
+112
+00:13:08,596 --> 00:13:11,514
+Sau poate cheile Barad-dur-ului însuºi...
+
+113
+00:13:11,682 --> 00:13:15,685
+ºi coroanele celor ºapte regi
+ºi baghetele celor Cinci Vrãjitori.
+
+114
+00:13:15,853 --> 00:13:18,813
+Trãdarea ta a provocat deja
+pierderea multor vieþi.
+
+115
+00:13:18,981 --> 00:13:21,357
+Alte mii de vieþi sunt acum în primejdie.
+
+116
+00:13:21,525 --> 00:13:23,902
+Dar le-ai putea salva, Saruman.
+
+117
+00:13:24,069 --> 00:13:26,362
+Ai fãcut parte din sfatul duºmanului.
+
+118
+00:13:26,530 --> 00:13:29,824
+Deci ai venit aici pentru informaþii.
+
+119
+00:13:30,701 --> 00:13:32,535
+Am câteva pentru tine.
+
+120
+00:13:38,000 --> 00:13:40,960
+Ceva macinã inima
+Pãmântului-de-Mijloc.
+
+121
+00:13:41,128 --> 00:13:43,379
+Ceva ce þie þi-a scãpat din vedere.
+
+122
+00:13:45,883 --> 00:13:49,385
+Ceva pe care Ochiul l-a vãzut.
+
+123
+00:13:50,429 --> 00:13:54,098
+Chiar acum profitã de avantajul sãu.
+
+124
+00:13:55,893 --> 00:13:59,228
+Atacul sãu e iminent.
+
+125
+00:14:01,440 --> 00:14:03,566
+Veþi muri cu toþii.
+
+126
+00:14:06,028 --> 00:14:09,238
+Dar tu ºtii toate astea,
+nu-i aºa, Gandalf ?
+
+127
+00:14:09,406 --> 00:14:14,118
+Nu poþi crede cã acest pribeag se va
+urca vreodatã pe tronul Gondorului.
+
+128
+00:14:14,286 --> 00:14:20,375
+Acest exilat, apãrut din umbrã,
+nu va fi niciodatã încoronat rege.
+
+129
+00:14:21,710 --> 00:14:25,380
+Gandalf nu ezitã sã-i sacrifice
+pe cei care-i sunt aproape
+
+130
+00:14:26,298 --> 00:14:28,508
+pe cei despre care spune cã-i sunt dragi.
+
+131
+00:14:29,551 --> 00:14:34,097
+Spune-mi, ce cuvinte de împãciuire
+i-ai spus jumãtãþii de om
+
+132
+00:14:34,264 --> 00:14:37,308
+înainte de a-l trimite la osândã ?
+
+133
+00:14:39,728 --> 00:14:44,440
+Calea pe care i-ai arãtat-o
+nu poate duce decât la pieire.
+
+134
+00:14:44,775 --> 00:14:46,943
+Au auzit destul !
+
+135
+00:14:47,111 --> 00:14:48,945
+Omoarã-l.
+Înfige-i o sãgeatã în plisc.
+
+136
+00:14:49,446 --> 00:14:51,114
+Nu.
+
+137
+00:14:51,573 --> 00:14:53,783
+Coboarã, Saruman...
+
+138
+00:14:53,951 --> 00:14:57,912
+- ...ºi viaþa îþi va fi cruþatã.
+- Pãstreazã-þi mila ºi îndurarea.
+
+139
+00:14:58,080 --> 00:14:59,414
+N-am ce face cu ele !
+
+140
+00:15:08,632 --> 00:15:10,091
+Saruman...
+
+141
+00:15:11,135 --> 00:15:14,303
+...toiagul tãu e rupt.
+
+142
+00:15:25,190 --> 00:15:28,651
+Gríma, nu trebuie sã-l urmezi.
+
+143
+00:15:29,820 --> 00:15:32,488
+N-ai fost dintotdeauna aºa cum eºti acum.
+
+144
+00:15:32,656 --> 00:15:35,491
+Cândva ai fost un om al Rohanului.
+
+145
+00:15:35,659 --> 00:15:36,909
+Coboarã.
+
+146
+00:15:37,077 --> 00:15:39,787
+Om al Rohanului ?
+
+147
+00:15:40,706 --> 00:15:42,957
+Ce altceva e casa Rohanului
+
+148
+00:15:43,125 --> 00:15:46,794
+decât un hambar cu acoperiº de paie
+în care tâlharii se îmbatã criþã
+
+149
+00:15:46,962 --> 00:15:50,673
+ºi în care odraslele lor se tãvãlesc
+pe podele cu câinii ?
+
+150
+00:15:51,175 --> 00:15:57,638
+Biruinþa de la Vãgãuna lui Helm
+nu-þi aparþine, Théoden.
+
+151
+00:15:58,265 --> 00:16:02,852
+Eºti fiul nevrednic al unor nobili mãreþi.
+
+152
+00:16:05,189 --> 00:16:06,898
+Gríma...
+
+153
+00:16:07,733 --> 00:16:09,609
+...coboarã.
+
+154
+00:16:09,943 --> 00:16:11,060
+Elibereazã-te.
+
+155
+00:16:11,328 --> 00:16:12,331
+Sã se elibereze ?
+
+156
+00:16:12,428 --> 00:16:15,531
+- Nu va fi niciodatã liber.
+- Nu.
+
+157
+00:16:15,908 --> 00:16:18,534
+Coboarã, potaie !
+
+158
+00:16:20,287 --> 00:16:21,579
+Saruman !
+
+159
+00:16:21,747 --> 00:16:24,373
+Ai fãcut parte din sfatul duºmanului.
+
+160
+00:16:24,875 --> 00:16:27,043
+Spune-ne ce ºtii.
+
+161
+00:16:28,545 --> 00:16:33,800
+Retrage-þi gãrzile ºi o sã-þi spun
+unde þi se va hotãrî osânda.
+
+162
+00:16:33,967 --> 00:16:37,512
+Nu voi fi þinut prizonier aici.
+
+163
+00:17:04,623 --> 00:17:06,165
+Trimite vorbã tuturor aliaþilor
+
+164
+00:17:06,333 --> 00:17:09,252
+ºi cãtre toate colþurile
+Pãmântului-de-Mijloc rãmase libere.
+
+165
+00:17:09,795 --> 00:17:12,922
+Duºmanul se îndreaptã spre noi.
+Trebuie sã aflãm unde va lovi.
+
+166
+00:17:32,109 --> 00:17:36,070
+Scârbãvnicia lui Saruman
+
+167
+00:17:36,238 --> 00:17:40,074
+e dusã de ape.
+
+168
+00:17:40,242 --> 00:17:44,787
+Aici vor trãi din nou copaci.
+
+169
+00:17:45,289 --> 00:17:47,456
+Copaci tineri...
+
+170
+00:17:47,624 --> 00:17:49,834
+- Copaci sãlbatici...
+- Pippin !
+
+171
+00:17:59,303 --> 00:18:01,470
+Pe scoarþa mea !
+
+172
+00:18:01,638 --> 00:18:03,514
+Peregrin Took !
+
+173
+00:18:03,682 --> 00:18:06,309
+Iau eu asta, bãiete.
+
+174
+00:18:06,476 --> 00:18:08,352
+Repede !
+
+175
+00:18:58,528 --> 00:19:04,116
+Astã-searã îi slãvim pe cei ce ºi-au
+vãrsat sângele ca sã apere acest pãmânt.
+
+176
+00:19:04,785 --> 00:19:06,827
+Slavã bravilor morþi !
+
+177
+00:19:06,995 --> 00:19:08,412
+Slavã !
+
+178
+00:19:19,383 --> 00:19:21,300
+Fãrã pauze.
+
+179
+00:19:21,468 --> 00:19:25,638
+- Nu daþi pe jos.
+- ªi nu regurgitaþi.
+
+180
+00:19:26,139 --> 00:19:27,807
+Deci e o întrecere de bãutori ?
+
+181
+00:19:29,351 --> 00:19:32,061
+Câºtigã cine rãmâne ultimul.
+
+182
+00:19:36,400 --> 00:19:38,401
+Pentru ce bem ?
+Hai sã bem pentru victorie.
+
+183
+00:19:38,568 --> 00:19:39,986
+Pentru victorie !
+
+184
+00:20:23,947 --> 00:20:25,614
+Mã bucur pentru tine.
+
+185
+00:20:25,991 --> 00:20:28,409
+E un om de ispravã.
+
+186
+00:20:28,827 --> 00:20:31,287
+Amândoi sunteþi oameni de ispravã.
+
+187
+00:20:33,123 --> 00:20:38,461
+Nu Théoden din Rohan a fost cel
+care ne-a dus poporul la izbândã.
+
+188
+00:20:46,636 --> 00:20:48,471
+Nu mã bãga în seamã...
+
+189
+00:20:49,306 --> 00:20:50,806
+Eºti tânãrã,
+
+190
+00:20:50,974 --> 00:20:53,309
+iar seara asta e pentru tine.
+
+191
+00:21:07,657 --> 00:21:09,325
+Poftim.
+
+192
+00:21:10,827 --> 00:21:16,749
+Gnomii se duc la scãldat
+cu femeiuºti mici ºi pãroase.
+
+193
+00:21:22,130 --> 00:21:23,381
+Simt ceva.
+
+194
+00:21:25,509 --> 00:21:28,010
+O furnicãturã în degete.
+
+195
+00:21:28,720 --> 00:21:30,304
+Mã cuprinde.
+
+196
+00:21:32,224 --> 00:21:33,933
+Ce am spus eu ?
+
+197
+00:21:34,101 --> 00:21:37,436
+Nu þine la bãuturã.
+
+198
+00:21:44,778 --> 00:21:46,112
+Jocul s-a terminat.
+
+199
+00:21:46,279 --> 00:21:49,698
+<i>Poþi sã cauþi în lung ºi-n lat,</i>
+
+200
+00:21:49,866 --> 00:21:53,828
+<i>N-ai sã gãseºti bere aºa de bunã</i>
+
+201
+00:21:53,995 --> 00:21:58,374
+<i>Cum era cea de-o beam acas'.</i>
+
+202
+00:21:58,542 --> 00:22:02,461
+<i>Amãgiþi-vã cu berea voastrã,</i>
+
+203
+00:22:02,629 --> 00:22:05,798
+<i>Beþi carafe-ntregi de vreþi.</i>
+
+204
+00:22:08,427 --> 00:22:09,718
+Pippin !
+
+205
+00:22:10,178 --> 00:22:13,222
+<i>Singura licoare pentru cei bravi</i>
+
+206
+00:22:13,557 --> 00:22:16,267
+<i>E cea de la Dragonul Verde.</i>
+
+207
+00:22:18,979 --> 00:22:21,814
+Mulþumesc ! Câºtig !
+
+208
+00:22:23,567 --> 00:22:26,068
+Nicio veste despre Frodo ?
+
+209
+00:22:26,236 --> 00:22:29,738
+Nici cea mai vagã. Nimic.
+
+210
+00:22:30,574 --> 00:22:32,741
+Avem timp.
+
+211
+00:22:34,244 --> 00:22:37,538
+Cu fiecare zi, Frodo se apropie
+tot mai mult de Mordor.
+
+212
+00:22:38,290 --> 00:22:40,374
+Cum putem fi siguri de asta ?
+
+213
+00:22:44,212 --> 00:22:45,921
+Ce-þi spune inima ?
+
+214
+00:22:52,971 --> 00:22:56,307
+Cã Frodo trãieºte.
+
+215
+00:22:58,477 --> 00:23:00,269
+Da.
+
+216
+00:23:02,856 --> 00:23:04,815
+Trãieºte.
+
+217
+00:23:07,277 --> 00:23:10,112
+Prea primejdios !
+
+218
+00:23:10,280 --> 00:23:11,530
+Hoþii !
+
+219
+00:23:11,698 --> 00:23:13,741
+Ei ni l-au furat !
+
+220
+00:23:13,909 --> 00:23:17,411
+Omoarã-i !
+Omoarã-i pe amândoi !
+
+221
+00:23:19,456 --> 00:23:22,291
+Liniºte !
+Nu trebuie sã-i trezim.
+
+222
+00:23:22,459 --> 00:23:25,002
+Sã nu stricãm totul tocmai acum !
+
+223
+00:23:25,170 --> 00:23:27,254
+Dar ei ºtiu !
+
+224
+00:23:27,422 --> 00:23:29,298
+ªtiu.
+
+225
+00:23:29,466 --> 00:23:32,092
+Ne privesc bãnuitor.
+
+226
+00:23:33,303 --> 00:23:36,847
+Ce spui, nepreþuitule drag ?
+
+227
+00:23:37,015 --> 00:23:40,601
+Sméagol îºi pierde cumva cumpãtul ?
+
+228
+00:23:41,269 --> 00:23:43,646
+Nu. Defel.
+
+229
+00:23:43,813 --> 00:23:48,067
+Niciodatã !
+Sméagol îi urãºte pe hobbiþii nesuferiþi !
+
+230
+00:23:48,235 --> 00:23:53,072
+Sméagol vrea sã-i vadã morþi.
+
+231
+00:23:53,240 --> 00:23:55,783
+ªi îi vom vedea.
+
+232
+00:23:55,951 --> 00:23:59,995
+Sméagol a fãcut asta cândva.
+Poate s-o facã din nou.
+
+233
+00:24:03,333 --> 00:24:06,001
+E al nostru !
+
+234
+00:24:06,169 --> 00:24:08,837
+Al nostru !
+
+235
+00:24:09,965 --> 00:24:12,841
+Trebuie sã le luãm Nepreþuitul.
+Trebuie sã ni-l luãm înapoi !
+
+236
+00:24:13,009 --> 00:24:16,428
+Rãbdare, dragul meu !
+
+237
+00:24:16,596 --> 00:24:20,975
+Întâi de toate,
+trebuie sã-i ducem la Ea.
+
+238
+00:24:21,851 --> 00:24:26,855
+O sã le ducem paºii
+spre Scara ªerpuitã.
+
+239
+00:24:27,023 --> 00:24:29,692
+Da, scãrile... ªi apoi ?
+
+240
+00:24:29,859 --> 00:24:32,861
+Sus, sus !
+În sus pe scãri om merge,
+
+241
+00:24:33,029 --> 00:24:39,451
+pânã om ajunge la tunel.
+
+242
+00:24:39,828 --> 00:24:42,955
+ªi-odatã ce vor intra acolo...
+
+243
+00:24:43,123 --> 00:24:45,916
+Nu va mai exista ieºire.
+
+244
+00:24:46,835 --> 00:24:49,712
+Ea e veºnic flãmândã.
+
+245
+00:24:50,463 --> 00:24:54,675
+Veºnic cautã de mâncare.
+
+246
+00:24:54,843 --> 00:24:56,260
+Ea trebuie sã mãnânce.
+
+247
+00:24:56,428 --> 00:24:58,554
+ªi nu are parte decât de orci jegoºi.
+
+248
+00:24:58,722 --> 00:25:01,473
+Care nu-s tocmai buni la gust,
+aºa-i, nepreþuitule ?
+
+249
+00:25:02,100 --> 00:25:03,726
+Nu.
+
+250
+00:25:03,893 --> 00:25:08,606
+Nu-s deloc gustoºi,
+dragul meu.
+
+251
+00:25:08,773 --> 00:25:11,567
+Ea tânjeºte cumplit
+dupã niscaiva carne dulce.
+
+252
+00:25:11,735 --> 00:25:13,569
+Carne de hobbit !
+
+253
+00:25:13,737 --> 00:25:18,574
+ªi când, dupã ce-o isprãvi,
+le-o zvârli oasele ºi hainele,
+
+254
+00:25:18,742 --> 00:25:21,827
+atunci îl vom gãsi !
+
+255
+00:25:21,995 --> 00:25:26,332
+ªi va fi al meu !
+
+256
+00:25:28,084 --> 00:25:29,501
+Al nostru.
+
+257
+00:25:30,003 --> 00:25:33,005
+Da, am vrut sã spunem "al nostru"...
+
+258
+00:25:33,173 --> 00:25:36,634
+Gollum, gollum...
+
+259
+00:25:36,801 --> 00:25:41,305
+Nepreþuitul va fi al nostru,
+
+260
+00:25:41,473 --> 00:25:45,976
+odatã ce hobbiþii vor fi morþi !
+
+261
+00:25:46,478 --> 00:25:47,936
+Nemernic ce...
+
+262
+00:25:50,649 --> 00:25:52,941
+Nu ! Stãpâne !
+
+263
+00:25:53,109 --> 00:25:54,735
+Nu, Sam ! Dã-i pace !
+
+264
+00:25:55,612 --> 00:25:58,280
+L-am auzit cu urechile mele
+zicând cã vrea sã ne omoare !
+
+265
+00:25:58,448 --> 00:26:02,618
+Niciodatã ! Sméagol n-ar putea
+sã facã rãu nici unei muºte !
+
+266
+00:26:04,120 --> 00:26:06,705
+Hobbitul gras ºi urât
+
+267
+00:26:06,873 --> 00:26:08,457
+îl urãºte pe Sméagol
+
+268
+00:26:08,625 --> 00:26:11,418
+ºi nãscoceºte minciuni scârboase !
+
+269
+00:26:11,586 --> 00:26:14,254
+Vierme nenorocit !
+Îþi rup gâtul !
+
+270
+00:26:14,631 --> 00:26:15,923
+Sam !
+
+271
+00:26:16,299 --> 00:26:18,592
+Mã faci pe mine mincinos !
+Tu eºti mincinosul !
+
+272
+00:26:19,552 --> 00:26:23,472
+- Dacã se sperie ºi fuge, s-a zis cu noi !
+- Nu-mi pasã ! Nu pot sã fac asta.
+
+273
+00:26:23,640 --> 00:26:26,809
+- N-o sã aºtept sã ne omoare !
+- Nu-l gonesc !
+
+274
+00:26:27,143 --> 00:26:28,477
+Nu pricepi, nu-i aºa ?
+
+275
+00:26:28,895 --> 00:26:30,312
+E un ticãlos !
+
+276
+00:26:31,314 --> 00:26:34,942
+Nu putem sã facem asta
+fãrã o cãlãuzã, Sam.
+
+277
+00:26:35,777 --> 00:26:38,654
+Am nevoie sã-mi fii alãturi.
+
+278
+00:26:39,447 --> 00:26:41,782
+Îþi sunt alãturi, domnu' Frodo.
+
+279
+00:26:43,284 --> 00:26:46,245
+ªtiu, Sam.
+
+280
+00:26:46,788 --> 00:26:48,789
+Ai încredere în mine !
+
+281
+00:26:48,957 --> 00:26:51,333
+Vino, Sméagol !
+
+282
+00:27:59,277 --> 00:28:00,736
+Ce orã e ?
+
+283
+00:28:03,072 --> 00:28:04,573
+Nu s-a crãpat încã de zi.
+
+284
+00:28:11,498 --> 00:28:14,541
+Am visat cã am vãzut un val mare
+
+285
+00:28:14,709 --> 00:28:18,712
+nãpustindu-se peste pãmânturile verzi
+ºi peste dealuri.
+
+286
+00:28:19,964 --> 00:28:22,424
+Am stat pe margine.
+
+287
+00:28:23,343 --> 00:28:26,512
+Era întuneric cumplit în hãul
+ce se cãsca la picioarele mele.
+
+288
+00:28:28,431 --> 00:28:31,225
+O luminã strãlucea în spatele meu,
+
+289
+00:28:31,851 --> 00:28:34,269
+dar nu m-am putut întoarce.
+
+290
+00:28:34,437 --> 00:28:37,856
+Nu puteam decât sta acolo, aºteptând.
+
+291
+00:28:39,317 --> 00:28:42,027
+Noaptea schimbã multe gânduri.
+
+292
+00:28:42,403 --> 00:28:44,571
+Dormi, Éowyn.
+
+293
+00:28:45,114 --> 00:28:47,366
+Dormi
+
+294
+00:28:50,078 --> 00:28:51,954
+acum cât mai poþi.
+
+295
+00:29:16,104 --> 00:29:18,397
+Stelele sunt acoperite de un vãl...
+
+296
+00:29:19,399 --> 00:29:22,901
+Ceva se miºcã la Rãsãrit.
+
+297
+00:29:23,570 --> 00:29:26,697
+Un rãu neadormit.
+
+298
+00:29:28,700 --> 00:29:31,493
+Ochiul duºmanului
+se pune în miºcare.
+
+299
+00:29:44,924 --> 00:29:47,634
+Ce faci ?
+
+300
+00:29:52,265 --> 00:29:53,724
+Pippin !
+
+301
+00:30:01,232 --> 00:30:02,983
+Pippin ?
+
+302
+00:30:15,872 --> 00:30:17,205
+Pippin.
+
+303
+00:30:17,874 --> 00:30:20,542
+- Te-ai scrântit ?
+- Vreau doar sã-l vãd.
+
+304
+00:30:20,710 --> 00:30:21,835
+O singurã datã.
+
+305
+00:30:22,086 --> 00:30:24,171
+Pune-l la loc !
+
+306
+00:30:34,432 --> 00:30:36,224
+Pippin.
+
+307
+00:30:42,732 --> 00:30:44,232
+Nu !
+
+308
+00:30:49,322 --> 00:30:50,572
+Pippin.
+
+309
+00:30:53,910 --> 00:30:55,118
+E aici !
+
+310
+00:30:55,286 --> 00:30:57,579
+<i>Te vãd !</i>
+
+311
+00:31:00,583 --> 00:31:02,209
+Pippin !
+
+312
+00:31:16,849 --> 00:31:19,601
+Ajutor ! Gandalf, ajutã-l !
+
+313
+00:31:21,354 --> 00:31:23,230
+Ajutaþi-l !
+
+314
+00:31:29,612 --> 00:31:30,821
+Pippin !
+
+315
+00:31:31,948 --> 00:31:33,198
+Took, prostovanule !
+
+316
+00:31:54,303 --> 00:31:56,513
+Uitã-te la mine !
+
+317
+00:31:58,474 --> 00:32:02,602
+Gandalf... Iartã-mã !
+
+318
+00:32:02,770 --> 00:32:04,646
+Uitã-te la mine !
+
+319
+00:32:04,814 --> 00:32:06,648
+Ce ai vãzut ?
+
+320
+00:32:10,153 --> 00:32:12,237
+Un copac.
+
+321
+00:32:13,197 --> 00:32:15,073
+Un copac alb,
+
+322
+00:32:15,241 --> 00:32:16,742
+într-o curte de piatrã...
+
+323
+00:32:19,537 --> 00:32:20,829
+Un copac uscat.
+
+324
+00:32:25,001 --> 00:32:26,835
+Oraºul era în flãcãri.
+
+325
+00:32:27,003 --> 00:32:30,380
+Minas Tirith ?
+Asta e ceea ce ai vãzut ?
+
+326
+00:32:31,049 --> 00:32:33,091
+Am vãzut...
+
+327
+00:32:36,471 --> 00:32:37,846
+L-am vãzut pe El !
+
+328
+00:32:40,850 --> 00:32:43,101
+I-am auzit glasul
+vorbind în mintea mea.
+
+329
+00:32:43,269 --> 00:32:45,687
+Ce i-ai spus ?
+
+330
+00:32:45,855 --> 00:32:47,689
+Vorbeºte !
+
+331
+00:32:51,861 --> 00:32:55,030
+M-a întrebat care mi-e numele.
+Nu i-am rãspuns.
+
+332
+00:32:55,198 --> 00:32:56,656
+A durut !
+
+333
+00:32:56,824 --> 00:32:59,284
+Ce i-ai spus despre Frodo
+ºi despre Inel ?
+
+334
+00:33:02,789 --> 00:33:05,248
+Nu era urmã de minciunã
+în ochii lui Pippin.
+
+335
+00:33:06,084 --> 00:33:08,335
+Un prostovan,
+
+336
+00:33:08,503 --> 00:33:10,796
+e drept,
+dar unul cu inima cinstitã.
+
+337
+00:33:11,255 --> 00:33:14,800
+Nu i-a spus nimic lui Sauron
+despre Frodo ºi despre Inel.
+
+338
+00:33:15,843 --> 00:33:18,220
+În chip ciudat, am avut noroc.
+
+339
+00:33:18,387 --> 00:33:22,265
+Pippin a zãrit în palantir o
+strãfulgerare a planului duºmanului.
+
+340
+00:33:23,184 --> 00:33:27,145
+Sauron se pregãteºte sã atace
+oraºul Minas Tirith.
+
+341
+00:33:27,730 --> 00:33:31,483
+Înfrângerea de la Vãgãuna lui Helm
+i-a spus mult duºmanului.
+
+342
+00:33:31,651 --> 00:33:33,985
+ªtie cã moºtenitorul lui Elendil
+e gata sã-l înfrunte.
+
+343
+00:33:34,153 --> 00:33:36,279
+Oamenii nu sunt aºa de nevolnici
+cum credea el.
+
+344
+00:33:36,447 --> 00:33:40,242
+Sunt încã îndeajuns de curajoºi
+ºi de puternici ca sã fie un pericol.
+
+345
+00:33:40,451 --> 00:33:42,327
+Sauron se teme de asta.
+
+346
+00:33:42,495 --> 00:33:46,832
+Nu vrea ca oamenii din Pãmântul-de-Mijloc
+sã se uneascã sub o singurã flamurã.
+
+347
+00:33:48,000 --> 00:33:50,418
+Va ºterge Minas Tirith
+de pe faþa pãmântului,
+
+348
+00:33:50,586 --> 00:33:54,089
+înainte ca pe tronul oamenilor
+sã urce un nou rege.
+
+349
+00:33:54,257 --> 00:33:58,176
+De se aprind fãcliile din Gondor,
+Rohanul trebuie sã fie gata de rãzboi.
+
+350
+00:33:59,095 --> 00:34:01,304
+Spune-mi,
+
+351
+00:34:01,472 --> 00:34:05,267
+de ce am sãri în ajutorul
+celor care nu ne-au ajutat la greu ?
+
+352
+00:34:09,147 --> 00:34:10,981
+Ce datorãm noi Gondorului ?
+
+353
+00:34:12,108 --> 00:34:14,151
+- Mã duc eu.
+- Nu !
+
+354
+00:34:14,318 --> 00:34:17,487
+- Trebuie sã fie înºtiinþaþi !
+- Vor fi.
+
+355
+00:34:20,908 --> 00:34:23,451
+Trebuie sã ajungi la Minas Tirith
+pe un alt drum.
+
+356
+00:34:23,995 --> 00:34:28,456
+Urmeazã cursul râului
+ºi ai grijã la corãbiile negre !
+
+357
+00:34:29,417 --> 00:34:31,376
+Trebuie sã înþelegeþi,
+
+358
+00:34:31,544 --> 00:34:35,213
+ceea ce s-a urnit acum
+nu mai poate fi stãvilit.
+
+359
+00:34:36,716 --> 00:34:38,800
+Plec spre Minas Tirith.
+
+360
+00:34:41,053 --> 00:34:43,722
+ªi nu voi fi singur.
+
+361
+00:34:45,474 --> 00:34:49,144
+Dintre toþi hobbiþii bãgãcioºi,
+tu eºti cel mai rãu, Peregrin Took !
+
+362
+00:34:50,146 --> 00:34:51,813
+Daþi-i zor !
+
+363
+00:34:53,316 --> 00:34:54,733
+Unde mergem ?
+
+364
+00:34:54,901 --> 00:34:56,151
+De ce te-ai uitat ?
+
+365
+00:34:56,319 --> 00:34:59,070
+De ce trebuie sã-þi bagi tu nasul
+întotdeauna ?
+
+366
+00:34:59,238 --> 00:35:02,324
+- Nu ºtiu. Nu mã pot abþine.
+- Niciodatã nu poþi !
+
+367
+00:35:02,783 --> 00:35:04,201
+Îmi pare rãu, da ?
+
+368
+00:35:06,287 --> 00:35:09,206
+- N-o sã mai fac.
+- Nu pricepi ?
+
+369
+00:35:09,957 --> 00:35:11,917
+Duºmanul crede cã Inelul e la tine.
+
+370
+00:35:12,084 --> 00:35:15,837
+O sã încerce sã punã mâna pe tine.
+Trebuie sã te ducã de aici.
+
+371
+00:35:17,256 --> 00:35:19,925
+ªi tu ? Vii cu mine !
+
+372
+00:35:22,136 --> 00:35:23,553
+Merry ?
+
+373
+00:35:23,721 --> 00:35:25,013
+Vino !
+
+374
+00:35:30,519 --> 00:35:31,895
+Cât de departe e Minas Tirith ?
+
+375
+00:35:32,063 --> 00:35:34,689
+Cale de trei zile,
+pentru un Nazgul înaripat.
+
+376
+00:35:34,857 --> 00:35:38,360
+Roagã-te sã nu ne trezim
+cu vreunul pe urme.
+
+377
+00:35:39,070 --> 00:35:40,570
+Poftim...
+
+378
+00:35:40,738 --> 00:35:42,530
+Sã aveþi pe drum.
+
+379
+00:35:43,407 --> 00:35:45,367
+Cea din urmã frunzã
+din Valea Lungã !
+
+380
+00:35:45,534 --> 00:35:49,537
+ªtiu cã ai rãmas fãrã buruiana-pipei.
+Fumezi prea mult, Pippin.
+
+381
+00:35:49,705 --> 00:35:52,207
+Dar...
+Doar o sã ne vedem în curând !
+
+382
+00:35:55,544 --> 00:35:58,046
+- Nu-i aºa ?
+- Nu ºtiu.
+
+383
+00:36:00,049 --> 00:36:02,092
+Nu ºtiu ce o sã se întâmple...
+
+384
+00:36:02,260 --> 00:36:03,969
+- Merry !
+- Aleargã, lute ca Gândul !
+
+385
+00:36:04,136 --> 00:36:05,595
+Aratã-ne ce înseamnã zorul !
+
+386
+00:36:05,763 --> 00:36:07,681
+Merry !
+
+387
+00:36:18,150 --> 00:36:19,276
+Merry !
+
+388
+00:36:29,745 --> 00:36:31,246
+Întotdeauna m-a urmat
+
+389
+00:36:31,914 --> 00:36:33,957
+oriunde m-aº fi dus
+
+390
+00:36:34,292 --> 00:36:36,084
+de dinainte de a fi gemeni.
+
+391
+00:36:37,253 --> 00:36:41,172
+Obiºnuiam sã-l bag
+în tot felul de necazuri
+
+392
+00:36:41,340 --> 00:36:43,425
+dar eram mereu acolo ca sã-l scap.
+
+393
+00:36:45,886 --> 00:36:47,762
+Acum s-a dus.
+
+394
+00:36:49,432 --> 00:36:52,350
+Ca Frodo ºi Sam.
+
+395
+00:36:52,977 --> 00:36:55,729
+Am învãþat un lucru despre hobbiþi.
+
+396
+00:36:55,896 --> 00:36:57,564
+Sunt foarte zdraveni.
+
+397
+00:36:58,107 --> 00:37:01,818
+Inconºtienþi mai degrabã. E un Took.
+
+398
+00:37:16,292 --> 00:37:18,585
+<i>Duceþi-o pe drumul cel mai ferit.</i>
+
+399
+00:37:18,753 --> 00:37:21,254
+<i>O corabie aºteaptã ancoratã</i>
+<i>la Limanurile Cenuºii,</i>
+
+400
+00:37:21,422 --> 00:37:25,300
+<i>gata s-o poarte dincolo de mare.</i>
+
+401
+00:37:25,468 --> 00:37:28,845
+<i>Cea din urmã cãlãtorie</i>
+<i>a lui Arwen Undómiel...</i>
+
+402
+00:38:34,453 --> 00:38:37,539
+Aici nu mai e nimic pentru tine.
+
+403
+00:38:38,040 --> 00:38:40,250
+Doar moarte.
+
+404
+00:38:47,550 --> 00:38:48,842
+Domniþã Arwen...
+
+405
+00:38:49,760 --> 00:38:51,678
+Nu putem zãbovi.
+
+406
+00:38:54,140 --> 00:38:55,390
+Domnia Ta !
+
+407
+00:39:14,785 --> 00:39:17,412
+- Spune-mi ce ai vãzut !
+- Arwen !
+
+408
+00:39:17,580 --> 00:39:19,539
+Ai darul clarviziunii.
+
+409
+00:39:19,707 --> 00:39:21,499
+Ce ai vãzut ?
+
+410
+00:39:22,126 --> 00:39:25,462
+Am scrutat viitorul tãu
+ºi am vãzut moarte.
+
+411
+00:39:26,005 --> 00:39:28,131
+Dar existã ºi viaþã !
+
+412
+00:39:30,050 --> 00:39:34,095
+Ai vãzut acolo un copil !
+L-ai vãzut pe fiul meu.
+
+413
+00:39:34,722 --> 00:39:37,265
+Viitorul acela e aproape risipit.
+
+414
+00:39:37,433 --> 00:39:39,434
+Dar nu e pierdut !
+
+415
+00:39:42,021 --> 00:39:44,230
+Nimic nu e dincolo de îndoialã.
+
+416
+00:39:45,941 --> 00:39:48,651
+Unele lucruri sunt.
+
+417
+00:39:52,448 --> 00:39:55,283
+Dacã îl pãrãsesc acum,
+
+418
+00:39:55,451 --> 00:39:58,077
+voi regreta pe vecie.
+
+419
+00:39:59,163 --> 00:40:01,498
+E timpul.
+
+420
+00:40:06,754 --> 00:40:10,548
+<i>Cenuºa flacãrã-ncinsã se va trezi</i>
+
+421
+00:40:10,716 --> 00:40:14,135
+<i>Din calea luminii umbrele vor fugi</i>
+
+422
+00:40:14,303 --> 00:40:17,597
+<i>Sabia cândva frântã</i>
+<i>renãscutã va fi...</i>
+
+423
+00:40:24,980 --> 00:40:28,191
+<i>ªi cel fãr'de coroanã</i>
+<i>rege va deveni.</i>
+
+424
+00:40:31,946 --> 00:40:33,988
+Fã sabia la loc !
+
+425
+00:41:08,857 --> 00:41:11,568
+Mâinile îþi sunt reci.
+
+426
+00:41:14,947 --> 00:41:18,074
+Suflarea Eldarilor te pãrãseºte.
+
+427
+00:41:21,495 --> 00:41:23,413
+A fost voinþa mea.
+
+428
+00:41:25,249 --> 00:41:27,542
+De-þi place sau nu,
+
+429
+00:41:28,877 --> 00:41:33,172
+acum nu mai e nicio corabie
+care sã mã ducã de aici.
+
+430
+00:42:20,387 --> 00:42:23,222
+Tocmai am intrat
+pe pãmânturile Gondorului.
+
+431
+00:42:34,860 --> 00:42:37,111
+Minas Tirith !
+
+432
+00:42:37,696 --> 00:42:40,031
+Oraºul regilor.
+
+433
+00:43:11,397 --> 00:43:13,189
+Faceþi loc !
+
+434
+00:43:42,386 --> 00:43:44,220
+Ãsta e copacul !
+
+435
+00:43:44,388 --> 00:43:46,055
+Gandalf !
+
+436
+00:43:46,223 --> 00:43:48,474
+E Copacul Alb din Gondor.
+
+437
+00:43:48,642 --> 00:43:50,476
+E Copacul Regelui.
+
+438
+00:43:50,644 --> 00:43:53,312
+De fapt, Denethor nu e rege.
+
+439
+00:43:53,480 --> 00:43:56,149
+E doar un majordom,
+pãzitor al tronului.
+
+440
+00:43:56,900 --> 00:44:00,445
+Ascultã-mã acum cu mare atenþie.
+Denethor e tatãl lui Boromir.
+
+441
+00:44:00,988 --> 00:44:04,782
+Sã pomeneºti de moartea preaiubitului
+sãu fiu ar fi cât se poate de nechibzuit.
+
+442
+00:44:05,242 --> 00:44:08,703
+Nu pomeni nici de Frodo,
+nici de Inel.
+
+443
+00:44:09,580 --> 00:44:12,331
+ªi nu spune nimic
+nici despre Aragorn.
+
+444
+00:44:14,168 --> 00:44:18,045
+De fapt, ar fi cel mai bine
+sã taci chitic, Peregrin Took.
+
+445
+00:44:48,202 --> 00:44:54,707
+Slavã þie, Denethor, fiu al lui Ecthelion,
+senior ºi cârmuitor al Gondorului !
+
+446
+00:45:00,214 --> 00:45:04,926
+Am venit cu veºti ºi cu sfaturi,
+în acest ceas întunecat.
+
+447
+00:45:05,886 --> 00:45:09,263
+Poate cã ai venit sã-mi explici asta.
+
+448
+00:45:14,895 --> 00:45:19,440
+Poate cã ai venit sã-mi spui
+de ce e mort fiul meu.
+
+449
+00:45:33,914 --> 00:45:36,916
+Boromir a murit
+ca sã ne salveze pe noi,
+
+450
+00:45:37,084 --> 00:45:38,751
+pe mine ºi pe rubedenia mea.
+
+451
+00:45:38,919 --> 00:45:42,421
+A murit apãrându-ne
+de-o sumedenie de duºmani.
+
+452
+00:45:47,928 --> 00:45:51,389
+Oricât de puþin ar însemna, mã ofer
+sã intru în slujba Domniei Tale,
+
+453
+00:45:51,932 --> 00:45:53,933
+drept rãsplatã
+pentru ceea ce îi datorez.
+
+454
+00:45:56,103 --> 00:45:59,438
+Asta e prima mea poruncã pentru tine.
+
+455
+00:46:00,148 --> 00:46:03,609
+Cum de ai scãpat,
+iar fiul meu n-a putut
+
+456
+00:46:03,944 --> 00:46:06,279
+la cât de puternic era ?
+
+457
+00:46:06,947 --> 00:46:10,283
+Cel mai puternic poate fi strãpuns
+de o sãgeatã
+
+458
+00:46:10,534 --> 00:46:12,451
+iar Boromir a fost strãpuns de multe.
+
+459
+00:46:16,582 --> 00:46:18,291
+Ridicã-te !
+
+460
+00:46:18,458 --> 00:46:23,087
+Domnia Ta, va veni vremea
+sã plângem moartea lui Boromir.
+
+461
+00:46:23,547 --> 00:46:25,298
+Dar vremea aceea nu poate fi acum.
+
+462
+00:46:26,008 --> 00:46:28,217
+Rãzboiul bate la uºã.
+
+463
+00:46:28,552 --> 00:46:32,972
+Duºmanul e la porþile cetãþii.
+Eºti majordomul oraºului,
+
+464
+00:46:33,140 --> 00:46:37,310
+rãspunzi de apãrarea lui.
+Unde sunt oºtirile Gondorului ?
+
+465
+00:46:37,477 --> 00:46:42,356
+Ai încã prieteni.
+Nu eºti singur în bãtãlia asta.
+
+466
+00:46:42,524 --> 00:46:47,028
+Trimite solie lui Théoden din Rohan !
+Aprinde fãcliile !
+
+467
+00:46:48,614 --> 00:46:52,158
+Te crezi tare isteþ, Mithrandir.
+
+468
+00:46:52,326 --> 00:46:55,369
+Dar, cu toatã agerimea ta,
+n-ai pic de înþelepciune.
+
+469
+00:46:57,497 --> 00:47:01,667
+Crezi cã ochii Turnului Alb
+sunt orbi ?
+
+470
+00:47:01,835 --> 00:47:04,921
+Am vãzut mai multe decât crezi.
+
+471
+00:47:05,088 --> 00:47:08,299
+Pe de-o parte, vrei sã mã foloseºti
+drept pavãzã în faþa Mordorului.
+
+472
+00:47:08,467 --> 00:47:11,344
+Iar de pe alta,
+cauþi sã mã înlãturi.
+
+473
+00:47:11,511 --> 00:47:15,222
+ªtiu cine îl însoþeºte
+pe Théoden din Rohan.
+
+474
+00:47:15,390 --> 00:47:21,354
+Da, a ajuns la urechile mele zvon despre
+acest Aragorn, fiul lui Arathorn.
+
+475
+00:47:21,521 --> 00:47:26,359
+ªi îþi spun de pe-acum, nu mã voi închina
+în faþa acestui pribeag de la Miazãnoapte,
+
+476
+00:47:26,526 --> 00:47:31,030
+cel din urmã dintr-o casã decãzutã
+ºi de mult lipsitã de mãreþie !
+
+477
+00:47:31,198 --> 00:47:37,036
+N-ai fost numit majordom ca sã
+nu îngãdui întoarcerea regelui !
+
+478
+00:47:37,204 --> 00:47:41,624
+Eu sunt cârmuitorul Gondorului,
+nimeni altcineva !
+
+479
+00:47:46,797 --> 00:47:48,589
+Vino !
+
+480
+00:47:56,515 --> 00:47:59,100
+S-a ales praful de tot.
+
+481
+00:47:59,267 --> 00:48:02,728
+ªi-ar folosi ºi mâhnirea ca pe o manta.
+
+482
+00:48:05,607 --> 00:48:08,401
+O mie de ani a rezistat acest oraº.
+
+483
+00:48:09,486 --> 00:48:11,904
+Acum, din cauza toanelor
+unui nebun, va cãdea.
+
+484
+00:48:13,115 --> 00:48:15,324
+Iar Copacul alb, copacul regelui,
+
+485
+00:48:15,492 --> 00:48:17,034
+nu va mai înflori niciodatã.
+
+486
+00:48:17,202 --> 00:48:20,579
+- De ce încã îl mai pãzesc ?
+- Îl pãzesc pentru cã încã mai au speranþã.
+
+487
+00:48:20,747 --> 00:48:23,916
+Speranþa slabã cã într-o bunã zi
+va înflori.
+
+488
+00:48:24,084 --> 00:48:28,838
+Cã va veni un rege iar acest oraº
+va fi din nou cum a fost odatã
+
+489
+00:48:29,006 --> 00:48:31,924
+înainte sã cadã în paraginã.
+
+490
+00:48:32,092 --> 00:48:35,344
+S-au lepãdat de vechea înþelepciune
+nãscutã în Apus.
+
+491
+00:48:35,512 --> 00:48:39,807
+Regii au fãcut morminte mai mãreþe
+decât casele viilor
+
+492
+00:48:40,017 --> 00:48:41,934
+ºi preþuiau vechile nume
+ale strãmoºilor
+
+493
+00:48:42,102 --> 00:48:44,895
+mai mult decât numele fiilor lor.
+
+494
+00:48:45,063 --> 00:48:50,109
+Nobili fãrã odrasle se închideau în odãile
+vechi, admirându-ºi blazoanele,
+
+495
+00:48:50,277 --> 00:48:55,614
+sau în turnuri înalte ºi reci,
+cãutând rãspunsul în stele.
+
+496
+00:48:55,782 --> 00:48:59,577
+ªi astfel poporul Gondorului
+a cãzut în ruinã.
+
+497
+00:49:00,537 --> 00:49:02,872
+Stirpea regilor s-a stins.
+
+498
+00:49:03,582 --> 00:49:05,958
+Arborele alb s-a veºtejit.
+
+499
+00:49:06,668 --> 00:49:10,838
+Domnia Gondorului a fost încredinþatã
+celor nepricepuþi.
+
+500
+00:49:21,558 --> 00:49:22,808
+Mordor.
+
+501
+00:49:23,310 --> 00:49:26,979
+Da, acolo se aflã.
+
+502
+00:49:27,814 --> 00:49:31,150
+Oraºul s-a pãstrat în umbra sa.
+
+503
+00:49:33,153 --> 00:49:34,820
+Vine furtuna.
+
+504
+00:49:35,489 --> 00:49:38,407
+Nu e vreme lumeascã.
+
+505
+00:49:38,575 --> 00:49:40,785
+E fãcãtura lui Sauron.
+
+506
+00:49:40,952 --> 00:49:44,705
+Un nor de fum trimite spre a vesti
+sosirea solului sãu.
+
+507
+00:49:45,290 --> 00:49:47,750
+Orcii din Mordor
+nu suferã lumina zilei
+
+508
+00:49:47,918 --> 00:49:49,752
+ºi de aceea el acoperã faþa soarelui
+
+509
+00:49:49,920 --> 00:49:53,672
+spre a le uºura trecerea pe calea
+ce duce la rãzboi.
+
+510
+00:49:53,840 --> 00:49:57,134
+Când Umbra din Mordor
+va ajunge în acest oraº,
+
+511
+00:49:57,844 --> 00:49:59,553
+atunci va începe.
+
+512
+00:50:01,223 --> 00:50:02,807
+Aºadar,
+
+513
+00:50:03,183 --> 00:50:04,517
+Minas Tirith...
+
+514
+00:50:06,436 --> 00:50:07,853
+foarte impresionant.
+
+515
+00:50:08,021 --> 00:50:10,648
+- Unde mergem dupã aceea ?
+- Prea târziu, Peregrin.
+
+516
+00:50:10,816 --> 00:50:13,025
+Nu mai plecãm de aici.
+
+517
+00:50:15,362 --> 00:50:18,489
+Trebuie sã soseascã ajutoare.
+
+518
+00:50:20,075 --> 00:50:22,743
+Se apropie ora ceaiului.
+
+519
+00:50:22,911 --> 00:50:26,622
+Mã rog, mã refer la locurile decente
+unde încã se mai serveºte ceai.
+
+520
+00:50:26,790 --> 00:50:30,376
+Nu ne aflãm într-un astfel de loc.
+
+521
+00:50:35,924 --> 00:50:37,174
+Domnu' Frodo ?
+
+522
+00:50:40,220 --> 00:50:41,428
+Ce este ?
+
+523
+00:50:43,890 --> 00:50:46,267
+Doar o presimþire.
+
+524
+00:50:48,687 --> 00:50:50,855
+Nu cred cã mã voi mai întoarce.
+
+525
+00:50:55,360 --> 00:50:57,903
+Ba da. Bineînþeles cã te vei întoarce.
+
+526
+00:50:58,530 --> 00:51:00,406
+Sunt doar gânduri negre.
+
+527
+00:51:00,866 --> 00:51:03,325
+Mergem acolo ºi înapoi,
+
+528
+00:51:03,493 --> 00:51:05,786
+exact ca domnu' Bilbo.
+
+529
+00:51:06,746 --> 00:51:08,873
+O sã vezi.
+
+530
+00:51:17,048 --> 00:51:20,676
+Cred cã aceste pãmânturi au fãcut
+parte din regatul Gondorului.
+
+531
+00:51:25,056 --> 00:51:29,101
+Demult, pe vremea când exista un rege.
+
+532
+00:51:49,748 --> 00:51:52,583
+Domnu' Frodo, uite.
+
+533
+00:51:54,211 --> 00:51:56,962
+Regele poartã din nou coroanã.
+
+534
+00:52:08,099 --> 00:52:12,353
+Haideþi hobbiþilor.
+Nu trebuie sã ne oprim. Pe aici.
+
+535
+00:52:29,204 --> 00:52:33,249
+Bãnuiesc cã m-a primit în slujba
+lui doar aºa, de formã.
+
+536
+00:52:33,416 --> 00:52:37,670
+Doar nu se aºteaptã cineva
+sã merg la luptã !
+
+537
+00:52:38,505 --> 00:52:41,757
+- Nu-i aºa ?
+- Acum eºti în slujba seniorului.
+
+538
+00:52:41,925 --> 00:52:45,302
+Va trebui sã faci ce îþi va cere,
+Peregrin Took.
+
+539
+00:52:49,349 --> 00:52:51,850
+Ce hobbit ridicol.
+
+540
+00:52:53,019 --> 00:52:55,229
+Straja cetãþii.
+
+541
+00:53:04,739 --> 00:53:06,573
+Mulþumesc.
+
+542
+00:53:15,959 --> 00:53:18,210
+Nu mai sunt stele.
+
+543
+00:53:18,712 --> 00:53:19,920
+A venit timpul ?
+
+544
+00:53:21,089 --> 00:53:22,840
+Da.
+
+545
+00:53:25,468 --> 00:53:27,136
+Ce liniºte e !
+
+546
+00:53:28,138 --> 00:53:32,391
+E liniºtea cea mare
+dinaintea furtunii.
+
+547
+00:53:33,560 --> 00:53:36,437
+Nu-s rãzboinic de felul meu,
+
+548
+00:53:37,272 --> 00:53:42,234
+dar ºi mai cumplit e sã fiu în pragul
+unei bãtãlii de care nu pot sã scap.
+
+549
+00:53:45,780 --> 00:53:49,408
+Gandalf, e vreo nãdejde
+pentru Frodo ºi Sam ?
+
+550
+00:53:50,744 --> 00:53:53,871
+Nãdejde n-a fost nicicând
+prea multã.
+
+551
+00:53:55,832 --> 00:53:57,583
+Doar nãdejdea unui nebun...
+
+552
+00:54:03,465 --> 00:54:06,258
+Duºmanul e gata de înfruntare.
+
+553
+00:54:06,426 --> 00:54:09,094
+ªi-a adunat toate oºtirile.
+
+554
+00:54:09,262 --> 00:54:12,765
+Nu-s numai orci, ci ºi oameni.
+
+555
+00:54:12,932 --> 00:54:15,976
+Legiuni de haradrimi de la Miazãzi,
+
+556
+00:54:16,144 --> 00:54:18,854
+mercenari de la þãrmul mãrii...
+
+557
+00:54:19,022 --> 00:54:21,607
+Cu toþii vor rãspunde
+la chemarea Mordorului.
+
+558
+00:54:21,775 --> 00:54:23,317
+Haideþi.
+
+559
+00:54:24,444 --> 00:54:27,780
+Va fi sfârºitul Gondorului,
+aºa cum l-am cunoscut noi.
+
+560
+00:54:27,947 --> 00:54:31,325
+Aici va cãdea mai grea
+lovitura ciocanului.
+
+561
+00:54:32,285 --> 00:54:36,622
+Dacã râul va fi cucerit de duºman,
+dacã fortãreaþa Osgiliath va cãdea,
+
+562
+00:54:36,790 --> 00:54:40,459
+se va spulbera ºi cea din urmã
+apãrare a oraºului.
+
+563
+00:54:40,627 --> 00:54:44,671
+Dar noi îl avem pe Vrãjitorul Alb.
+Trebuie sã însemne ceva.
+
+564
+00:54:50,553 --> 00:54:52,137
+Gandalf ?
+
+565
+00:54:55,850 --> 00:54:59,520
+<i>Sauron îºi va arunca în luptã</i>
+<i>cel mai de temut slujitor,</i>
+
+566
+00:54:59,979 --> 00:55:03,816
+<i>pe cel care va conduce în luptã</i>
+<i>oºtirile Mordorului.</i>
+
+567
+00:55:03,983 --> 00:55:09,154
+<i>Se spune cã nicio fiinþã vie</i>
+<i>nu-l poate ucide.</i>
+
+568
+00:55:10,156 --> 00:55:12,324
+Regele-vrãjitor din Angmar.
+
+569
+00:55:13,410 --> 00:55:15,786
+L-ai mai întâlnit.
+
+570
+00:55:16,454 --> 00:55:19,039
+El l-a înjunghiat pe Frodo
+pe Þancul Vremii.
+
+571
+00:55:25,588 --> 00:55:28,298
+E cãpetenia Nazgulilor,
+
+572
+00:55:28,758 --> 00:55:31,218
+<i>cel mai de temut dintre Cei Nouã.</i>
+
+573
+00:55:31,386 --> 00:55:34,930
+<i>Minas Morgul e bârlogul lui.</i>
+
+574
+00:55:38,476 --> 00:55:42,020
+Oraºul Mort !
+
+575
+00:55:42,188 --> 00:55:47,401
+Tare urât loc !
+Miºunã de duºmani.
+
+576
+00:55:54,617 --> 00:55:56,785
+Repede ! Repede !
+
+577
+00:55:56,953 --> 00:56:00,956
+O sã ne vadã !
+
+578
+00:56:10,216 --> 00:56:15,512
+Veniþi ! Uite, l-am gãsit !
+
+579
+00:56:15,680 --> 00:56:19,558
+Drumul spre Mordor.
+
+580
+00:56:19,726 --> 00:56:24,062
+Scara tãinuitã !
+
+581
+00:56:24,481 --> 00:56:26,857
+Urcaþi !
+
+582
+00:56:47,128 --> 00:56:49,880
+- Nu, domnu' Frodo !
+- Nu pe acolo !
+
+583
+00:56:54,719 --> 00:56:57,596
+- Ce face ?
+- Nu !
+
+584
+00:56:57,764 --> 00:57:00,849
+- Mã cheamã...
+- Nu !
+
+585
+00:57:30,505 --> 00:57:33,465
+Ascundeþi-vã !
+
+586
+00:58:17,010 --> 00:58:19,845
+Simt împunsãtura pumnalului lui !
+
+587
+00:58:31,524 --> 00:58:33,650
+Am ajuns ºi la asta,
+în cele din urmã...
+
+588
+00:58:35,486 --> 00:58:38,363
+Marea bãtãlie
+a vremurilor noastre !
+
+589
+00:59:17,528 --> 00:59:20,781
+Veniþi, hobbiþilor !
+Urcãm ! Trebuie sã urcãm.
+
+590
+00:59:30,667 --> 00:59:33,669
+Tabla a fost aºezatã.
+
+591
+00:59:33,836 --> 00:59:36,171
+Piesele se miºcã pe ea...
+
+592
+00:59:38,925 --> 00:59:41,593
+Sus, sus, sus pe scãri.
+
+593
+00:59:41,761 --> 00:59:44,429
+ªi apoi în tunel.
+
+594
+00:59:44,597 --> 00:59:47,808
+Hei, ce e în tunel ?
+
+595
+00:59:48,351 --> 00:59:51,103
+Ascultã-mã, ºi ascultã-mã cu atenþie.
+
+596
+00:59:51,270 --> 00:59:54,147
+Dacã i se întâmplã ceva,
+o sã ai de a face cu mine.
+
+597
+00:59:54,315 --> 00:59:55,941
+Dacã ceva nu e în regulã,
+
+598
+00:59:56,109 --> 00:59:59,277
+dacã cineva îmi clinteºte
+un singur fir de pãr, s-a zis.
+
+599
+00:59:59,487 --> 01:00:02,155
+Nu umbla cu vicleºuguri.
+
+600
+01:00:02,490 --> 01:00:05,117
+S-a zis cu tine. Ai priceput ?
+
+601
+01:00:05,993 --> 01:00:07,994
+Sunt cu ochii pe tine.
+
+602
+01:00:13,334 --> 01:00:15,335
+Ce tot vorbiþi ?
+
+603
+01:00:15,503 --> 01:00:17,921
+Nimic. Doar lãmuream ceva.
+
+604
+01:00:24,554 --> 01:00:27,431
+Peregrin, flãcãule,
+am o misie pentru tine.
+
+605
+01:00:27,598 --> 01:00:32,185
+Încã un prilej pentru cineva din
+Comitat de a-ºi dovedi valoarea.
+
+606
+01:00:37,024 --> 01:00:38,608
+Sã nu mã dezamãgeºti !
+
+607
+01:01:12,852 --> 01:01:15,937
+E multã liniºte de-a lungul râului.
+
+608
+01:01:16,105 --> 01:01:18,440
+Orcii stau ascunºi.
+
+609
+01:01:18,608 --> 01:01:20,609
+Probabil cã garnizoanele s-au mutat.
+
+610
+01:01:21,736 --> 01:01:24,446
+Am trimis iscoade la Cair Andros.
+
+611
+01:01:24,614 --> 01:01:26,907
+Dacã orcii atacã de la Miazãnoapte
+vom fi înºtiinþaþi.
+
+612
+01:01:53,226 --> 01:01:54,434
+Liniºte !
+
+613
+01:01:58,523 --> 01:02:00,482
+Ne mai trebuie zece.
+
+614
+01:02:21,796 --> 01:02:23,338
+Omoarã-l !
+
+615
+01:02:40,648 --> 01:02:43,066
+Nu vin de la Miazãnoapte.
+
+616
+01:02:44,485 --> 01:02:48,822
+Spre râu ! Repede !
+Haide !
+
+617
+01:02:52,285 --> 01:02:53,869
+Mai repede !
+
+618
+01:03:07,008 --> 01:03:09,384
+Trageþi sãbiile !
+
+619
+01:04:03,940 --> 01:04:06,524
+Rezistaþi !
+
+620
+01:05:26,814 --> 01:05:28,690
+Ce...
+
+621
+01:05:41,245 --> 01:05:42,662
+Amon Dîn !
+
+622
+01:05:48,461 --> 01:05:51,504
+Focul !
+Fãclia din Amon Dîn e aprinsã !
+
+623
+01:05:54,759 --> 01:05:58,970
+Nãdejdea e reaprinsã.
+
+624
+01:07:31,355 --> 01:07:35,733
+Au fost aprinse
+fãcliile din Minas Tirith !
+
+625
+01:07:36,944 --> 01:07:38,570
+Gondorul cere ajutor !
+
+626
+01:07:49,081 --> 01:07:52,000
+ªi Rohanul îi va rãspunde.
+
+627
+01:07:52,418 --> 01:07:55,211
+Adunã-þi rohirrimii !
+
+628
+01:08:10,311 --> 01:08:12,270
+Strânge oºtirea la Dunharrow !
+
+629
+01:08:12,438 --> 01:08:16,816
+Adunã cât de mulþi oameni pot gãsi.
+Ai douã zile !
+
+630
+01:08:16,984 --> 01:08:22,280
+În cea de-a treia,
+vom porni spre Gondor, la rãzboi.
+
+631
+01:08:23,240 --> 01:08:24,574
+- Înainte.
+- Foarte bine.
+
+632
+01:08:24,742 --> 01:08:26,075
+- Gamling.
+- Domnia Ta.
+
+633
+01:08:26,243 --> 01:08:27,827
+Dã de veste
+în toatã Obºtea Cãlãreþilor.
+
+634
+01:08:27,995 --> 01:08:30,121
+Toþi oamenii buni de luptã
+sã se adune degrabã la Dunharrow.
+
+635
+01:08:30,289 --> 01:08:31,873
+Aºa voi face.
+
+636
+01:08:35,961 --> 01:08:39,130
+- Vii cu noi ?
+- Doar pânã în tabãrã.
+
+637
+01:08:39,298 --> 01:08:43,218
+Tradiþia cere femeilor sã-i petreacã
+pe bãrbaþii care pleacã la luptã.
+
+638
+01:08:49,767 --> 01:08:51,684
+Oamenii ºi-au gãsit cãpetenia.
+
+639
+01:08:51,852 --> 01:08:55,188
+Te vor urma în luptã,
+chiar de-ar fi sã meargã la moarte.
+
+640
+01:08:55,356 --> 01:08:56,940
+Tu ne-ai readus speranþa.
+
+641
+01:09:00,152 --> 01:09:02,111
+Scuzaþi-mã.
+
+642
+01:09:03,447 --> 01:09:04,948
+Am o spadã.
+
+643
+01:09:05,241 --> 01:09:06,616
+Vã rog s-o acceptaþi.
+
+644
+01:09:07,743 --> 01:09:12,247
+Vã ofer serviciile mele,
+rege Théoden.
+
+645
+01:09:15,668 --> 01:09:17,752
+Le accept bucuros.
+
+646
+01:09:18,837 --> 01:09:22,924
+Tu trebuie sã fii Meriadoc,
+nobile din Rohan.
+
+647
+01:09:27,805 --> 01:09:29,013
+Cavaleri.
+
+648
+01:09:29,682 --> 01:09:35,311
+Aº vrea sã pot strânge o legiune
+de gnomi înarmaþi ºi murdari.
+
+649
+01:09:35,688 --> 01:09:38,648
+Semenii tãi poate cã nu au motiv
+sã meargã la rãzboi.
+
+650
+01:09:38,816 --> 01:09:42,235
+Mã tem cã rãzboiul deja
+le bate la porþi.
+
+651
+01:10:00,713 --> 01:10:04,173
+<i>Aºadar, sub zidurile</i>
+<i>Minas Tirith-ului</i>
+
+652
+01:10:04,341 --> 01:10:08,219
+<i>se va hotãrî soarta</i>
+<i>vremii noastre.</i>
+
+653
+01:10:10,806 --> 01:10:16,352
+A sosit ceasul ! Cãlãreþi din Rohan,
+aþi fãcut jurãminte.
+
+654
+01:10:16,520 --> 01:10:20,064
+E vremea sã le împliniþi.
+Pentru stãpân ºi pentru þarã !
+
+655
+01:11:03,150 --> 01:11:05,109
+Faramir !
+
+656
+01:11:11,408 --> 01:11:15,119
+Nu le mai putem þine piept.
+Oraºul e pierdut !
+
+657
+01:11:15,704 --> 01:11:18,790
+Spune-le oamenilor sã se adune.
+Pornim spre Minas Tirith.
+
+658
+01:11:27,549 --> 01:11:29,801
+Nazgulii !
+
+659
+01:11:32,179 --> 01:11:34,639
+Adãpostiþi-vã !
+
+660
+01:11:34,807 --> 01:11:37,350
+Nazgul !
+
+661
+01:11:37,518 --> 01:11:41,187
+Retrageþi-vã !
+Ne întoarcem la Minas Tirith !
+
+662
+01:11:47,778 --> 01:11:49,654
+Retragerea !
+
+663
+01:11:56,703 --> 01:12:01,290
+- Retrageþi-vã.
+- Fugiþi !
+
+664
+01:12:25,524 --> 01:12:29,861
+Vremea oamenilor s-a sfârºit.
+
+665
+01:12:30,028 --> 01:12:35,658
+A sosit vremea orcilor.
+
+666
+01:12:38,036 --> 01:12:40,371
+Adãpostiþi-vã !
+
+667
+01:12:41,999 --> 01:12:44,375
+Adãposteºte-te, Domnia Ta !
+
+668
+01:12:44,668 --> 01:12:46,002
+Vine !
+
+669
+01:12:51,550 --> 01:12:54,927
+- E Mithrandir !
+- Cãlãreþul Alb !
+
+670
+01:13:34,885 --> 01:13:36,260
+Deschideþi !
+
+671
+01:13:53,987 --> 01:13:56,405
+Mithrandir !
+
+672
+01:13:56,573 --> 01:13:58,324
+Ne-au strãpuns apãrarea.
+
+673
+01:13:58,492 --> 01:14:00,701
+Au cucerit
+podul ºi malul dinspre Apus.
+
+674
+01:14:01,787 --> 01:14:05,957
+- Batalioane de orci trec râul.
+- E cum a spus seniorul Denethor !
+
+675
+01:14:06,124 --> 01:14:07,970
+El a vãzut de mult
+ce nãpastã ne va lovi !
+
+676
+01:14:08,024 --> 01:14:10,670
+A vãzut, dar n-a fãcut nimic !
+
+677
+01:14:14,049 --> 01:14:16,467
+Faramir ?
+
+678
+01:14:18,387 --> 01:14:22,223
+Nu e primul hobbit
+pe care îl vezi.
+
+679
+01:14:22,391 --> 01:14:24,600
+Nu.
+
+680
+01:14:25,936 --> 01:14:27,478
+I-ai vãzut pe Frodo ºi pe Sam ?
+
+681
+01:14:28,355 --> 01:14:31,774
+- Unde ? Când ?
+- În Ithilien.
+
+682
+01:14:31,942 --> 01:14:34,026
+Acum mai puþin de douã zile.
+
+683
+01:14:34,486 --> 01:14:38,948
+Au luat drumul spre Valea Morgul,
+Gandalf !
+
+684
+01:14:39,658 --> 01:14:42,285
+Urmeazã trecãtoarea Cirith Ungol...
+
+685
+01:14:44,496 --> 01:14:46,872
+Ce înseamnã asta ?
+
+686
+01:14:47,040 --> 01:14:51,961
+- Ce e ?
+- Spune-mi totul, de-a fir a pãr, Faramir.
+
+687
+01:14:52,129 --> 01:14:54,171
+Spune-mi tot ce ºtii.
+
+688
+01:14:55,340 --> 01:14:58,759
+Aºa îþi serveºti tu oraºul ?
+
+689
+01:14:58,927 --> 01:15:02,221
+Ai risca sã-l ruinezi ?
+
+690
+01:15:03,265 --> 01:15:04,849
+Am fãcut ce am considerat cã e drept.
+
+691
+01:15:05,559 --> 01:15:08,561
+Ce ai considerat cã e drept.
+
+692
+01:15:09,187 --> 01:15:15,067
+Ai trimis Inelul puterii în Mordor
+în mâinile unei jumãtãþi de om.
+
+693
+01:15:19,031 --> 01:15:23,868
+Ar fi trebuit sã fie adus înapoi la
+Citadelã spre a fi pãstrat în siguranþã.
+
+694
+01:15:25,495 --> 01:15:27,038
+Ascuns.
+
+695
+01:15:27,456 --> 01:15:30,207
+În întunericul vistieriei,
+
+696
+01:15:30,375 --> 01:15:32,543
+sã nu fie folosit.
+
+697
+01:15:36,715 --> 01:15:41,594
+Decât în clipe de nevoie absolutã.
+
+698
+01:15:42,054 --> 01:15:44,055
+N-aº folosi Inelul.
+
+699
+01:15:44,222 --> 01:15:47,350
+Nici dacã Minas Tirith ar cãdea în ruinã
+ºi numai eu aº putea-o salva.
+
+700
+01:15:47,684 --> 01:15:52,521
+Vrei sã pari nobil ºi binevoitor
+
+701
+01:15:52,689 --> 01:15:54,940
+ca un rege din trecut.
+
+702
+01:15:56,735 --> 01:16:00,488
+Boromir ºi-ar fi amintit de
+nevoile tatãlui sãu.
+
+703
+01:16:00,906 --> 01:16:03,366
+Mi-ar fi adus un dar regesc.
+
+704
+01:16:03,575 --> 01:16:06,118
+Boromir n-ar fi adus Inelul.
+
+705
+01:16:06,536 --> 01:16:09,664
+ªi-ar fi întins mâna dupã el
+ºi l-ar fi apucat. Ar fi cãzut.
+
+706
+01:16:09,831 --> 01:16:12,083
+- Nu ºtii nimic despre asta.
+- L-ar fi pãstrat pentru sine.
+
+707
+01:16:13,960 --> 01:16:16,128
+ªi când s-ar fi întors
+
+708
+01:16:17,172 --> 01:16:18,923
+nu þi-ai mai fi recunoscut fiul.
+
+709
+01:16:19,091 --> 01:16:21,634
+Boromir mi-a fost credincios.
+
+710
+01:16:21,802 --> 01:16:24,387
+N-a fost elevul unui vrãjitor.
+
+711
+01:16:32,521 --> 01:16:33,854
+Tatã ?
+
+712
+01:16:46,535 --> 01:16:48,452
+Fiule.
+
+713
+01:17:14,688 --> 01:17:16,063
+Lasã-mã.
+
+714
+01:17:49,639 --> 01:17:52,183
+Ai grijã, stãpâne !
+
+715
+01:17:52,517 --> 01:17:55,436
+Nu cumva sã cazi de aºa de sus !
+
+716
+01:17:57,939 --> 01:18:01,859
+Scãrile sunt tare primejdioase.
+
+717
+01:18:04,529 --> 01:18:07,072
+Vino, stãpâne !
+
+718
+01:18:12,871 --> 01:18:16,040
+Vino la Sméagol !
+
+719
+01:18:22,380 --> 01:18:23,881
+Domnu' Frodo !
+
+720
+01:18:24,883 --> 01:18:26,425
+Înapoi !
+
+721
+01:18:26,593 --> 01:18:28,803
+Nu-l atinge !
+
+722
+01:18:32,933 --> 01:18:35,768
+De ce-l urãºte
+pe sãrmanul Sméagol ?
+
+723
+01:18:35,936 --> 01:18:39,647
+Ce rãu i-a fãcut Sméagol lui ?
+
+724
+01:18:39,815 --> 01:18:42,191
+Stãpâne ?
+
+725
+01:18:42,984 --> 01:18:46,445
+Stãpânul poartã povarã grea...
+
+726
+01:18:46,613 --> 01:18:52,034
+Sméagol ºtie.
+Teribil de grea povarã !
+
+727
+01:18:52,202 --> 01:18:55,454
+Grasu' n-are de unde sã ºtie.
+
+728
+01:18:57,499 --> 01:19:00,251
+Sméagol are grijã de stãpân.
+
+729
+01:19:01,461 --> 01:19:03,671
+Grasul vrea Inelul.
+
+730
+01:19:03,839 --> 01:19:08,384
+Are nevoie de el.
+Sméagol a vãzut asta în ochii lui.
+
+731
+01:19:08,552 --> 01:19:14,014
+Foarte curând þi-l va cere.
+Ai sã vezi !
+
+732
+01:19:14,182 --> 01:19:18,060
+Grasul o sã þi-l ia.
+
+733
+01:19:25,277 --> 01:19:29,613
+Trimite toate trupele la luptã !
+
+734
+01:19:29,781 --> 01:19:33,826
+Nu slãbiþi atacul pânã când
+oraºul nu e în mâinile voastre !
+
+735
+01:19:34,536 --> 01:19:37,663
+Omorâþi-i pe toþi !
+
+736
+01:19:39,332 --> 01:19:45,129
+- ªi vrãjitorul ?
+- Pe el o sã-l nimicesc eu !
+
+737
+01:19:48,466 --> 01:19:50,885
+Unde sunt cãlãreþii lui Théoden ?
+
+738
+01:19:51,052 --> 01:19:53,637
+O sã vinã oºtirea Rohanului ?
+
+739
+01:19:53,805 --> 01:19:56,056
+Mithrandir !
+
+740
+01:19:57,100 --> 01:20:00,978
+Acum, curajul e cea mai bunã
+apãrare a voastrã.
+
+741
+01:20:05,775 --> 01:20:08,485
+La ce te gândeai, Peregrin Took ?
+
+742
+01:20:10,572 --> 01:20:16,285
+Ce serviciu ar putea oferi un hobbit
+unui stãpân al oamenilor atât de mãreþ ?
+
+743
+01:20:16,453 --> 01:20:17,953
+Era bine fãcut.
+
+744
+01:20:21,124 --> 01:20:25,169
+O astfel de faptã bunã n-ar trebui
+întâmpinatã cu rãcealã.
+
+745
+01:20:25,921 --> 01:20:28,464
+Te vei alãtura gãrzii turnului.
+
+746
+01:20:29,007 --> 01:20:32,009
+Nu credeam cã vor gãsi o livrea
+pe mãsura mea.
+
+747
+01:20:32,177 --> 01:20:34,637
+Cândva a aparþinut unui
+bãietan al oraºului.
+
+748
+01:20:34,804 --> 01:20:36,347
+Unul foarte nebunatic...
+
+749
+01:20:36,514 --> 01:20:40,768
+care ºi-a pierdut timpul ucigând
+dragoni în loc sã-ºi vadã de studii.
+
+750
+01:20:40,936 --> 01:20:43,687
+- A fost a ta ?
+- Da, a fost a mea.
+
+751
+01:20:43,855 --> 01:20:45,648
+Tatãl meu a poruncit
+sã fie fãcutã pentru mine.
+
+752
+01:20:46,691 --> 01:20:48,025
+Pãi,
+
+753
+01:20:48,193 --> 01:20:50,194
+sunt mai înalt decât erai tu.
+
+754
+01:20:50,362 --> 01:20:53,697
+Deºi nu cred cã voi mai creºte,
+poate doar în lateral.
+
+755
+01:20:56,660 --> 01:20:58,702
+Nici pe mine nu m-a încãput.
+
+756
+01:20:58,870 --> 01:21:01,705
+Boromir era soldatul.
+
+757
+01:21:04,709 --> 01:21:07,127
+El ºi tatãl meu se asemãnau atât de mult.
+
+758
+01:21:09,214 --> 01:21:10,839
+Mândru.
+
+759
+01:21:11,007 --> 01:21:12,216
+Chiar încãpãþânat.
+
+760
+01:21:13,969 --> 01:21:15,469
+Dar puternic.
+
+761
+01:21:16,972 --> 01:21:20,140
+Cred cã tu ai putere
+de un alt fel.
+
+762
+01:21:20,767 --> 01:21:23,227
+ªi într-o bunã zi tatãl tãu o va vedea.
+
+763
+01:21:27,399 --> 01:21:31,193
+Jur sã fiu credincios
+ºi sã slujesc Gondorul,
+
+764
+01:21:31,361 --> 01:21:32,861
+în vreme de pace ori de rãzboi,
+
+765
+01:21:33,488 --> 01:21:35,948
+întru viaþã ori întru moarte,
+
+766
+01:21:37,325 --> 01:21:38,575
+din...
+
+767
+01:21:41,246 --> 01:21:44,039
+Începând din acest ceas,
+
+768
+01:21:44,207 --> 01:21:46,125
+pânã când seniorul
+mã va dezlega de jurãmânt
+
+769
+01:21:47,627 --> 01:21:49,837
+sau moartea mã va rãpune.
+
+770
+01:21:50,422 --> 01:21:52,923
+Iar eu nu voi uita aceasta
+
+771
+01:21:53,091 --> 01:21:56,468
+ºi voi rãsplãti pe mãsurã
+ceea ce este dat.
+
+772
+01:22:04,060 --> 01:22:06,353
+Credinþa, cu dragoste.
+
+773
+01:22:07,439 --> 01:22:09,106
+Vitejia, cu preþuire.
+
+774
+01:22:10,692 --> 01:22:14,028
+Trãdarea, cu rãzbunare.
+
+775
+01:22:22,662 --> 01:22:26,749
+Cred cã n-ar trebui sã renunþãm
+cu atâta uºurinþã
+
+776
+01:22:26,916 --> 01:22:29,668
+la fortãreaþa pe care fratele tãu
+a pãstrat-o neatinsã atâta vreme.
+
+777
+01:22:29,836 --> 01:22:32,337
+- Ce doreºti sã fac ?
+- Nu voi ceda
+
+778
+01:22:32,505 --> 01:22:35,299
+fãrã de luptã râul Pelennor.
+
+779
+01:22:35,467 --> 01:22:37,134
+Osgiliath trebuie recuceritã.
+
+780
+01:22:37,302 --> 01:22:39,344
+Osgiliath e în mâinile duºmanului,
+Domnia Ta.
+
+781
+01:22:40,013 --> 01:22:42,806
+În vreme de rãzboi,
+riscurile sunt multe.
+
+782
+01:22:45,435 --> 01:22:49,396
+E aici vreun cãpitan care are curajul
+sã îndeplineascã porunca stãpânului ?
+
+783
+01:22:55,612 --> 01:22:58,864
+Îþi doreºti acum
+ca totul sã fi fost altminteri,
+
+784
+01:22:59,824 --> 01:23:02,659
+ca eu sã fi murit,
+iar Boromir sã trãiascã încã.
+
+785
+01:23:06,081 --> 01:23:07,831
+Da.
+
+786
+01:23:08,500 --> 01:23:10,709
+Asta îmi doresc.
+
+787
+01:23:19,094 --> 01:23:21,595
+Cum Boromir þi-a fost rãpit,
+
+788
+01:23:23,431 --> 01:23:26,350
+voi face tot ce îmi va sta în puteri,
+în locul lui.
+
+789
+01:23:34,526 --> 01:23:38,987
+Dacã mã întorc, poate cã vei gândi
+mai bine despre mine, tatã.
+
+790
+01:23:41,074 --> 01:23:44,701
+Depinde de felul
+în care te vei întoarce.
+
+791
+01:25:07,994 --> 01:25:10,329
+Ce pui la cale ?
+
+792
+01:25:10,496 --> 01:25:11,747
+Cotrobãi, nu ?
+
+793
+01:25:12,457 --> 01:25:14,291
+Cotrobãi ?
+
+794
+01:25:15,293 --> 01:25:17,461
+Cotrobãi ?
+
+795
+01:25:18,880 --> 01:25:22,049
+Hobbitul cel gras
+e aºa de amabil mereu !
+
+796
+01:25:22,217 --> 01:25:27,304
+Sméagol le aratã drumuri tainice,
+pe care nimeni altcineva nu le ºtie,
+
+797
+01:25:27,472 --> 01:25:29,640
+iar ei îi spun cã el cotrobãie !
+
+798
+01:25:30,266 --> 01:25:32,851
+Cotrobãie ?
+
+799
+01:25:33,478 --> 01:25:36,188
+Foarte drãguþi prieteni !
+Da, da, nepreþuitule !
+
+800
+01:25:36,356 --> 01:25:38,982
+Gata, înceteazã !
+
+801
+01:25:40,235 --> 01:25:42,444
+M-ai speriat din somn, asta-i tot.
+
+802
+01:25:42,946 --> 01:25:44,780
+Ce fãceai ?
+
+803
+01:25:46,407 --> 01:25:48,533
+Cotrobãiam.
+
+804
+01:25:48,910 --> 01:25:51,995
+Foarte bine. Fã ce vrei !
+
+805
+01:25:54,249 --> 01:25:56,750
+Îmi pare rãu cã te trezesc,
+domnu' Frodo.
+
+806
+01:25:57,126 --> 01:25:59,086
+Trebuie s-o luãm din loc.
+
+807
+01:26:04,259 --> 01:26:05,842
+E încã întuneric.
+
+808
+01:26:06,010 --> 01:26:08,220
+Aici e întuneric tot timpul.
+
+809
+01:26:12,475 --> 01:26:14,393
+A dispãrut !
+
+810
+01:26:15,603 --> 01:26:18,480
+- Pâinea de la elfi !
+- Cum ?
+
+811
+01:26:18,648 --> 01:26:20,107
+Era tot ce mai aveam !
+
+812
+01:26:24,195 --> 01:26:26,697
+El a luat-o, cu siguranþã !
+
+813
+01:26:27,198 --> 01:26:30,450
+Sméagol ?
+Nu, nu bietul Sméagol.
+
+814
+01:26:30,618 --> 01:26:33,537
+Sméagol nu poate sã sufere
+scârboºenia de pâine elfeascã.
+
+815
+01:26:33,705 --> 01:26:36,873
+Eºti un nemernic mincinos !
+Ce-ai fãcut cu ea ?
+
+816
+01:26:37,041 --> 01:26:38,583
+El nu mãnâncã aºa ceva.
+
+817
+01:26:39,585 --> 01:26:41,920
+- Nu putea s-o ia el.
+- Uite !
+
+818
+01:26:42,964 --> 01:26:44,798
+Ce e asta ?
+
+819
+01:26:47,468 --> 01:26:50,804
+Firimituri de pâine, pe haina lui !
+El a luat-o !
+
+820
+01:26:51,514 --> 01:26:53,181
+El a luat-o !
+
+821
+01:26:54,017 --> 01:26:58,228
+L-am vãzut. Se îndoapã mereu pe furiº
+când stãpânul nu se uitã !
+
+822
+01:26:58,396 --> 01:27:00,188
+Mincinos ordinar !
+
+823
+01:27:00,356 --> 01:27:02,566
+Nemernic neruºinat ºi fãþarnic !
+
+824
+01:27:02,734 --> 01:27:03,984
+Sam !
+
+825
+01:27:04,152 --> 01:27:05,402
+Înceteazã !
+
+826
+01:27:06,404 --> 01:27:07,612
+Sam !
+
+827
+01:27:08,906 --> 01:27:12,534
+- Îl omor !
+- Nu, Sam !
+
+828
+01:27:13,578 --> 01:27:19,124
+Îmi pare rãu... N-am vrut sã fac
+asta, dar eram aºa de furios !
+
+829
+01:27:19,292 --> 01:27:21,418
+Odihneºte-te un pic.
+
+830
+01:27:21,586 --> 01:27:23,670
+- E în ordine.
+- Nu.
+
+831
+01:27:23,838 --> 01:27:26,923
+Nu e deloc în ordine.
+Eºti epuizat.
+
+832
+01:27:27,091 --> 01:27:29,217
+De vinã e Gollum.
+
+833
+01:27:29,385 --> 01:27:31,094
+ªi locul ãsta !
+
+834
+01:27:31,262 --> 01:27:33,847
+ªi chestia aia
+pe care o porþi la gât.
+
+835
+01:27:37,352 --> 01:27:38,643
+Te pot ajuta.
+
+836
+01:27:38,811 --> 01:27:41,480
+Aº putea sã-l port eu un timp.
+
+837
+01:27:41,647 --> 01:27:43,398
+Aº putea sã-l port eu.
+
+838
+01:27:43,566 --> 01:27:44,816
+Aº putea sã-l port eu.
+
+839
+01:27:45,443 --> 01:27:50,906
+Sã împarþi povara...
+
+840
+01:27:51,074 --> 01:27:52,282
+Pleacã !
+
+841
+01:27:52,450 --> 01:27:54,034
+Nu vreau sã-l pãstrez.
+
+842
+01:27:57,622 --> 01:27:59,623
+Vreau doar sã te ajut.
+
+843
+01:28:01,667 --> 01:28:04,294
+Vezi ?
+
+844
+01:28:04,462 --> 01:28:07,881
+Îl vrea pentru el.
+
+845
+01:28:08,049 --> 01:28:09,758
+Þine-þi gura !
+
+846
+01:28:10,301 --> 01:28:12,135
+Pleacã de aici ! Întinde-o !
+
+847
+01:28:12,303 --> 01:28:14,137
+Nu, Sam.
+
+848
+01:28:14,305 --> 01:28:15,555
+Tu o sã pleci.
+
+849
+01:28:19,769 --> 01:28:21,478
+Îmi pare rãu, Sam.
+
+850
+01:28:23,147 --> 01:28:24,523
+Dar minte !
+
+851
+01:28:24,690 --> 01:28:27,359
+Te-a învrãjbit împotriva mea !
+
+852
+01:28:28,778 --> 01:28:30,695
+Nu-mi mai poþi fi de folos.
+
+853
+01:28:32,657 --> 01:28:34,533
+Nu vorbeºti serios...
+
+854
+01:28:37,036 --> 01:28:38,829
+Du-te acasã !
+
+855
+01:29:58,868 --> 01:30:00,660
+Faramir !
+
+856
+01:30:00,828 --> 01:30:02,746
+Faramir !
+
+857
+01:30:04,248 --> 01:30:06,291
+Dârzenia tatãlui tãu
+a devenit nebunie.
+
+858
+01:30:07,460 --> 01:30:09,503
+Nu-þi irosi viaþa în chip nesãbuit !
+
+859
+01:30:10,254 --> 01:30:12,589
+Cum sã-i dovedesc credinþa mea,
+dacã nu aºa ?
+
+860
+01:30:13,216 --> 01:30:16,134
+Acesta e oraºul oamenilor din Numenor.
+
+861
+01:30:16,761 --> 01:30:19,554
+Mi-aº da bucuros viaþa
+sã-i apãr frumuseþea,
+
+862
+01:30:19,722 --> 01:30:22,933
+memoria ºi înþelepciunea.
+
+863
+01:30:25,311 --> 01:30:28,730
+Tatãl tãu te iubeºte, Faramir.
+
+864
+01:30:29,440 --> 01:30:32,442
+Îºi va aminti asta
+înainte sã se sfârºeascã totul...
+
+865
+01:31:42,054 --> 01:31:43,597
+ªtii sã cânþi, jupâne hobbit ?
+
+866
+01:31:46,475 --> 01:31:47,976
+Pãi...
+
+867
+01:31:48,519 --> 01:31:50,145
+Da...
+
+868
+01:31:50,855 --> 01:31:54,608
+Cel puþin, îndeajuns de iscusit
+pentru cei de-un neam cu mine.
+
+869
+01:31:56,235 --> 01:31:58,653
+Dar noi nu avem cântece potrivite
+pentru sãli mari
+
+870
+01:31:59,697 --> 01:32:00,947
+ºi vremuri negre.
+
+871
+01:32:01,782 --> 01:32:04,951
+De ce n-ar fi cântecele tale
+potrivite pentru sãlile mele ?
+
+872
+01:32:07,747 --> 01:32:09,164
+Hai, cântã-mi ceva !
+
+873
+01:32:20,217 --> 01:32:23,553
+<i>Casa mi-a rãmas în urmã,</i>
+
+874
+01:32:23,721 --> 01:32:27,474
+<i>Lumea-ntreagã în faþã e.</i>
+
+875
+01:32:29,894 --> 01:32:35,732
+<i>Multe drumuri se întind,</i>
+
+876
+01:32:37,526 --> 01:32:41,071
+<i>Pe cãrãri de umbrã,</i>
+
+877
+01:32:41,238 --> 01:32:45,408
+<i>Prin bezna nopþii,</i>
+
+878
+01:32:47,078 --> 01:32:52,165
+<i>Pânã când stelele pe cer se aprind.</i>
+
+879
+01:32:55,169 --> 01:32:59,506
+<i>Negurã ºi ceþuri,</i>
+
+880
+01:32:59,674 --> 01:33:03,968
+<i>Nori grei ºi vãl de umbre,</i>
+
+881
+01:33:06,347 --> 01:33:09,683
+<i>Toate-acum vor dispãrea,</i>
+
+882
+01:33:12,061 --> 01:33:16,064
+<i>Toate vor...</i>
+
+883
+01:33:21,821 --> 01:33:24,197
+<i>Dispãrea...</i>
+
+884
+01:33:48,597 --> 01:33:52,058
+Înaintaþi.
+
+885
+01:33:52,226 --> 01:33:57,355
+Înaintaþi.
+
+886
+01:34:00,901 --> 01:34:03,236
+Faceþi loc regelui.
+
+887
+01:34:04,739 --> 01:34:06,740
+Faceþi loc.
+
+888
+01:34:09,201 --> 01:34:11,244
+A venit regele !
+
+889
+01:34:13,205 --> 01:34:14,831
+Mãria Ta !
+
+890
+01:34:16,083 --> 01:34:18,042
+Slavã þie, stãpâne !
+
+891
+01:34:18,502 --> 01:34:19,711
+Câþi, Grimbold ?
+
+892
+01:34:19,879 --> 01:34:22,338
+Am adus 500 de oameni
+de pe meleagurile de la Apus.
+
+893
+01:34:23,299 --> 01:34:25,967
+ªi încã 300,
+de la Hotarul Mlaºtinilor.
+
+894
+01:34:27,094 --> 01:34:28,755
+Unde sunt cãlãreþii
+din Þinutul Zãpezii ?
+
+895
+01:34:28,894 --> 01:34:31,055
+Nu a venit niciunul, Mãria Ta.
+
+896
+01:34:48,115 --> 01:34:50,241
+ªase mii de suliþe.
+
+897
+01:34:51,285 --> 01:34:53,286
+Mai puþin de jumãtate
+din cât am sperat...
+
+898
+01:34:53,579 --> 01:34:56,956
+ªase mii nu sunt de-ajuns
+sã înfrângem oºtirea Mordorului.
+
+899
+01:34:59,710 --> 01:35:01,461
+Vor mai veni ºi alþii.
+
+900
+01:35:01,837 --> 01:35:04,881
+Fiecare orã pierdutã
+scade ºansele Gondorului.
+
+901
+01:35:05,049 --> 01:35:07,550
+Mai aºteptãm pânã în zori.
+Apoi va trebui sã plecãm.
+
+902
+01:35:27,029 --> 01:35:29,364
+Caii sunt agitaþi,
+
+903
+01:35:29,532 --> 01:35:31,032
+iar oamenii nu scot o vorbã.
+
+904
+01:35:31,492 --> 01:35:34,619
+În umbra muntelui
+devin tot mai neliniºtiþi.
+
+905
+01:35:37,081 --> 01:35:38,957
+Drumul acela...
+
+906
+01:35:39,875 --> 01:35:41,960
+Unde duce ?
+
+907
+01:35:42,711 --> 01:35:46,548
+E drumul spre Dimholt,
+Poarta de sub munte.
+
+908
+01:35:47,258 --> 01:35:50,260
+Niciunul dintre cei care s-au
+aventurat acolo nu s-a mai întors.
+
+909
+01:35:51,470 --> 01:35:53,346
+Muntele acela e blestemat.
+
+910
+01:36:16,287 --> 01:36:18,121
+Aragorn !
+
+911
+01:36:18,873 --> 01:36:20,790
+Hai sã gãsim ceva de mâncare !
+
+912
+01:36:37,308 --> 01:36:38,725
+Aºa...
+
+913
+01:36:39,643 --> 01:36:42,645
+Un adevãrat cavaler din Rohan !
+
+914
+01:36:46,317 --> 01:36:48,318
+Sunt gata !
+
+915
+01:36:49,904 --> 01:36:51,154
+Îmi pare rãu...
+
+916
+01:36:51,322 --> 01:36:53,615
+Dar nu-i chiar aºa de periculoasã.
+
+917
+01:36:54,116 --> 01:36:56,451
+Nici mãcar nu-i ascuþitã.
+
+918
+01:36:57,119 --> 01:37:00,496
+Asta nu e bine. N-o sã omori
+prea mulþi orci cu un tãiº neascuþit.
+
+919
+01:37:00,664 --> 01:37:02,165
+Hai !
+
+920
+01:37:06,337 --> 01:37:08,838
+Du-te la fierar ! Haide !
+
+921
+01:37:10,341 --> 01:37:12,842
+N-ar trebui sã-l încurajezi.
+
+922
+01:37:13,052 --> 01:37:15,511
+N-ar trebui sã te îndoieºti de el.
+
+923
+01:37:15,679 --> 01:37:18,973
+Nu mã îndoiesc de suflet,
+doar de lungimea braþului.
+
+924
+01:37:21,685 --> 01:37:23,269
+De ce sã fie lãsat în urmã ?
+
+925
+01:37:23,437 --> 01:37:26,064
+Are la fel de multe
+de apãrat ca ºi voi !
+
+926
+01:37:28,192 --> 01:37:31,361
+De ce el n-ar avea dreptul
+sã lupte pentru cei dragi ?
+
+927
+01:37:34,657 --> 01:37:37,659
+Cunoºti la fel de puþin rãzboiul
+precum acel hobbit.
+
+928
+01:37:38,869 --> 01:37:40,995
+Când teama va pune stãpânire pe el
+
+929
+01:37:41,163 --> 01:37:46,209
+când sângele, þipetele ºi
+groaza bãtãliilor i se vor înfãþiºa
+
+930
+01:37:46,585 --> 01:37:48,711
+crezi cã va rãmâne sã lupte ?
+
+931
+01:37:51,298 --> 01:37:52,882
+Va fugi.
+
+932
+01:37:53,092 --> 01:37:55,134
+ªi va avea dreptate sã fugã.
+
+933
+01:37:57,346 --> 01:38:01,307
+Rãzboiul e de domeniul Oamenilor, Éowyn.
+
+934
+01:38:36,927 --> 01:38:40,680
+<i>Aleg o viaþã de muritor.</i>
+
+935
+01:38:43,600 --> 01:38:46,436
+Aº vrea sã-l mai fi putut vedea
+
+936
+01:38:47,604 --> 01:38:50,273
+pentru cea din urmã oarã...
+
+937
+01:39:01,452 --> 01:39:02,910
+Domnia Ta ?
+
+938
+01:39:04,747 --> 01:39:07,290
+Regele Théoden te aºteaptã.
+
+939
+01:39:28,103 --> 01:39:30,063
+Vã las singuri.
+
+940
+01:39:44,703 --> 01:39:45,953
+Domnia Ta Elrond...
+
+941
+01:39:46,497 --> 01:39:49,999
+Vin în numele unei fiinþe dragi.
+
+942
+01:39:53,128 --> 01:39:55,129
+Arwen e pe moarte.
+
+943
+01:39:59,927 --> 01:40:03,971
+Nu mai are mult, cãci rãul care vine
+dinspre Mordor se întinde repede.
+
+944
+01:40:04,723 --> 01:40:08,101
+Lumina Stelei Înserãrii se stinge.
+
+945
+01:40:08,268 --> 01:40:12,271
+Pe mãsurã ce puterea lui Sauron
+creºte, puterea ei se stinge.
+
+946
+01:40:12,439 --> 01:40:16,192
+Viaþa lui Arwen e acum legatã
+de soarta Inelului.
+
+947
+01:40:16,944 --> 01:40:19,529
+Umbra se întinde asupra noastrã,
+Aragorn.
+
+948
+01:40:19,863 --> 01:40:21,531
+Sfârºitul a sosit.
+
+949
+01:40:21,949 --> 01:40:24,534
+Nu va fi sfârºitul nostru, ci al lui.
+
+950
+01:40:25,327 --> 01:40:28,871
+Te duci la rãzboi,
+dar nu ºi la izbândã.
+
+951
+01:40:29,873 --> 01:40:33,543
+Oºtirile lui Sauron se îndreaptã
+spre Minas Tirith, cum ºtii.
+
+952
+01:40:33,752 --> 01:40:38,172
+Dar, în mare tainã, trimite alte
+trupe, care vor ataca dinspre râu.
+
+953
+01:40:38,632 --> 01:40:42,051
+O flotã de corãbii ale corsarilor
+pleacã dinspre Miazãzi.
+
+954
+01:40:42,678 --> 01:40:44,762
+Vor ajunge în oraº în douã zile.
+
+955
+01:40:45,264 --> 01:40:48,057
+Au cu mult mai mulþi soldaþi.
+
+956
+01:40:48,809 --> 01:40:50,893
+Aveþi nevoie mai mulþi oameni.
+
+957
+01:40:51,311 --> 01:40:53,062
+Nu mai sunt alþii.
+
+958
+01:40:54,815 --> 01:40:58,734
+Mai sunt cei care ºi-au fãcut bârlog
+în adâncul muntelui.
+
+959
+01:41:07,744 --> 01:41:09,912
+Ucigaºi...
+
+960
+01:41:10,080 --> 01:41:11,497
+Trãdãtori...
+
+961
+01:41:13,917 --> 01:41:16,085
+Vrei sã-i chemi la luptã ?
+
+962
+01:41:16,295 --> 01:41:17,879
+Nu cred în nimic !
+
+963
+01:41:18,046 --> 01:41:20,173
+Nu ascultã de nimeni !
+
+964
+01:41:20,340 --> 01:41:23,426
+Vor asculta de regele Gondorului.
+
+965
+01:41:30,559 --> 01:41:35,688
+Andúril, Flacãra de la Apus,
+fãuritã din frânturile lui Narsil.
+
+966
+01:41:49,953 --> 01:41:54,415
+Sauron nu va fi uitat
+sabia lui Elendil.
+
+967
+01:42:08,472 --> 01:42:13,226
+Tãiºul ce-a fost frânt cândva
+se va întoarce la Minas Tirith.
+
+968
+01:42:13,393 --> 01:42:15,811
+Omul care stãpâneºte
+puterea acestei sãbii
+
+969
+01:42:15,979 --> 01:42:19,857
+poate aduna o oºtire mai cumplitã decât
+oricare alta de pe faþa pãmântului.
+
+970
+01:42:21,652 --> 01:42:23,819
+Uitã de Pribeag !
+
+971
+01:42:23,987 --> 01:42:27,323
+Fii cel ce þi-a fost scris sã fii !
+
+972
+01:42:27,491 --> 01:42:29,492
+Ia drumul spre Dimholt !
+
+973
+01:42:33,497 --> 01:42:36,332
+Le dau speranþã oamenilor.
+
+974
+01:42:39,586 --> 01:42:43,673
+Pentru mine nu pãstrez niciuna.
+
+975
+01:42:55,519 --> 01:42:57,186
+De ce faci asta ?
+
+976
+01:42:57,688 --> 01:43:00,898
+Rãzboiul vine dinspre Rãsãrit.
+Nu poþi pleca în pragul bãtãliei !
+
+977
+01:43:03,318 --> 01:43:05,403
+Nu-i poþi pãrãsi pe oameni !
+
+978
+01:43:06,697 --> 01:43:08,281
+Éowyn...
+
+979
+01:43:08,448 --> 01:43:10,658
+Avem nevoie de tine aici !
+
+980
+01:43:11,785 --> 01:43:13,661
+De ce ai venit ?
+
+981
+01:43:15,330 --> 01:43:17,290
+Nu ºtii de ce ?
+
+982
+01:43:26,550 --> 01:43:29,552
+Iubeºti o umbrã doar, o plãsmuire.
+
+983
+01:43:33,515 --> 01:43:35,933
+Nu-þi pot da ceea ce cauþi.
+
+984
+01:43:49,448 --> 01:43:53,367
+Þi-am dorit fericirea de când
+te-am vãzut prima oarã.
+
+985
+01:44:12,512 --> 01:44:14,764
+Unde crezi cã pleci ?
+
+986
+01:44:14,973 --> 01:44:16,265
+Nu ºi acum !
+
+987
+01:44:16,475 --> 01:44:18,684
+De data asta, rãmâi aici, Gimli.
+
+988
+01:44:21,396 --> 01:44:24,231
+N-ai învãþat nimic
+despre încãpãþânarea gnomilor ?
+
+989
+01:44:24,399 --> 01:44:28,069
+Obiºnuieºte-te cu gândul !
+Mergem cu tine, flãcãu.
+
+990
+01:44:50,384 --> 01:44:52,551
+Ce se întâmplã ?
+
+991
+01:44:52,886 --> 01:44:54,762
+Unde pleacã ?
+
+992
+01:44:57,307 --> 01:44:59,392
+Nu înþeleg !
+
+993
+01:45:03,814 --> 01:45:05,606
+Domnia Ta Aragorn !
+
+994
+01:45:06,024 --> 01:45:08,734
+De ce pleacã în pragul bãtãliei ?
+
+995
+01:45:09,945 --> 01:45:12,029
+Pleacã pentru cã
+nu e nicio nãdejde.
+
+996
+01:45:12,656 --> 01:45:14,824
+Pleacã pentru cã
+trebuie sã facã asta.
+
+997
+01:45:14,991 --> 01:45:16,659
+Au venit prea puþini.
+
+998
+01:45:16,827 --> 01:45:19,036
+Nu putem
+înfrânge oºtirile Mordorului.
+
+999
+01:45:21,540 --> 01:45:23,165
+Nu.
+
+1000
+01:45:23,625 --> 01:45:24,834
+Nu putem.
+
+1001
+01:45:27,754 --> 01:45:31,549
+Cu toate astea,
+îi vom înfrunta în luptã.
+
+1002
+01:45:45,981 --> 01:45:47,690
+Am lãsat porunci clare.
+
+1003
+01:45:50,360 --> 01:45:53,654
+Oamenii vor asculta de tine,
+în lipsa mea.
+
+1004
+01:46:00,203 --> 01:46:02,496
+Ia-mi locul, în Lãcaºul Auriu !
+
+1005
+01:46:03,707 --> 01:46:06,542
+Fie sã aperi mult timp Edorasul,
+
+1006
+01:46:06,710 --> 01:46:09,086
+dacã bãtãlia se va sfârºi prost !
+
+1007
+01:46:10,172 --> 01:46:13,591
+Ce alte îndatoriri îmi laºi,
+stãpâne ?
+
+1008
+01:46:15,802 --> 01:46:17,720
+Îndatoriri ?
+
+1009
+01:46:19,890 --> 01:46:21,223
+Nu.
+
+1010
+01:46:29,566 --> 01:46:31,692
+Aº vrea sã zâmbeºti din nou,
+
+1011
+01:46:35,113 --> 01:46:40,117
+sã nu-i jeleºti pe cei
+pentru care a venit timpul.
+
+1012
+01:46:44,915 --> 01:46:48,417
+Vei trãi sã vezi reînviate
+acele zile.
+
+1013
+01:46:52,756 --> 01:46:55,549
+Fãrã de disperare...
+
+1014
+01:47:01,765 --> 01:47:05,434
+Ce fel de oºtire ar hãlãdui
+într-un loc ca ãsta ?
+
+1015
+01:47:05,644 --> 01:47:07,436
+Una blestematã.
+
+1016
+01:47:09,439 --> 01:47:11,941
+Cu mult timp în urmã,
+oamenii muntelui i-au jurat
+
+1017
+01:47:12,400 --> 01:47:15,152
+ultimului rege al Gondorului
+
+1018
+01:47:15,737 --> 01:47:17,279
+sã-i vinã în ajutor
+
+1019
+01:47:17,447 --> 01:47:19,198
+în bãtãlie.
+
+1020
+01:47:19,699 --> 01:47:21,867
+Dar, atunci când a sosit clipa,
+
+1021
+01:47:22,452 --> 01:47:25,120
+când Gondorul avea nevoie disperatã
+de ajutor,
+
+1022
+01:47:25,288 --> 01:47:27,122
+au dat bir cu fugiþii,
+
+1023
+01:47:27,290 --> 01:47:30,709
+ascunzându-se în bezna muntelui.
+
+1024
+01:47:31,753 --> 01:47:34,088
+Iar Isildur i-a blestemat
+
+1025
+01:47:35,632 --> 01:47:39,468
+sã nu-ºi gãseascã odihna,
+pânã nu-ºi vor fi împlinit jurãmântul.
+
+1026
+01:47:43,807 --> 01:47:46,976
+Cine îi va chema
+din crepusculul mohorât ?
+
+1027
+01:47:47,435 --> 01:47:49,645
+Poporul uitat.
+
+1028
+01:47:49,813 --> 01:47:52,314
+Moºtenitorul celui cãruia
+i-au fãcut jurãmântul.
+
+1029
+01:47:52,816 --> 01:47:54,692
+De la Miazãnoapte va veni.
+
+1030
+01:47:55,193 --> 01:47:56,819
+Nevoia îl va mâna.
+
+1031
+01:47:57,946 --> 01:48:01,448
+Va trece prin poarta spre
+Drumul Morþii.
+
+1032
+01:48:19,926 --> 01:48:23,220
+Simt cum mi se rãceºte sângele !
+
+1033
+01:48:28,768 --> 01:48:30,728
+Drumul e închis.
+
+1034
+01:48:31,479 --> 01:48:33,439
+A fost construit de cei morþi.
+
+1035
+01:48:34,024 --> 01:48:36,317
+ªi morþii îl pãzesc.
+
+1036
+01:48:36,860 --> 01:48:38,360
+Drumul e închis.
+
+1037
+01:48:49,748 --> 01:48:51,248
+Brego !
+
+1038
+01:48:54,753 --> 01:48:57,463
+Nu mã tem de moarte !
+
+1039
+01:49:09,768 --> 01:49:12,186
+Ãsta e un lucru nemaiauzit !
+
+1040
+01:49:12,354 --> 01:49:17,024
+Un elf intrã în mãruntaiele
+pãmântului, când un gnom se teme ?
+
+1041
+01:49:17,192 --> 01:49:18,525
+Oh.
+
+1042
+01:49:18,693 --> 01:49:21,528
+N-o sã aflu niciodatã
+cum se va sfârºi !
+
+1043
+01:49:36,544 --> 01:49:38,754
+Trebuie sã mergem iute,
+cu cât mai puþine poveri.
+
+1044
+01:49:38,922 --> 01:49:40,714
+Ne aºteaptã drum lung.
+
+1045
+01:49:40,882 --> 01:49:43,926
+Oameni ºi animale vor avea nevoie de
+putere, pentru lupta ce-i aºteaptã.
+
+1046
+01:49:49,432 --> 01:49:52,434
+Hobbiþii cei mãrunþei n-au ce cãuta
+la rãzboi, jupâne Meriadoc.
+
+1047
+01:49:52,811 --> 01:49:54,770
+Toþi prietenii mei sunt la luptã !
+
+1048
+01:49:54,938 --> 01:49:56,855
+Mi-ar fi ruºine sã rãmân mai prejos.
+
+1049
+01:49:57,023 --> 01:49:59,108
+E drum de trei zile, în galopul
+cailor, pânã la Minas Tirith.
+
+1050
+01:49:59,317 --> 01:50:01,694
+Niciunul dintre cãlãreþii mei
+nu te poate purta drept povarã.
+
+1051
+01:50:02,696 --> 01:50:04,822
+Vreau sã lupt !
+
+1052
+01:50:05,323 --> 01:50:07,324
+Am spus tot ce aveam de spus.
+
+1053
+01:50:24,134 --> 01:50:26,093
+Mergi cu mine !
+
+1054
+01:50:27,554 --> 01:50:28,971
+Domniþã ?
+
+1055
+01:50:29,139 --> 01:50:31,473
+Încolonaþi-vã ! Mai repede !
+
+1056
+01:50:31,641 --> 01:50:34,893
+Încolonaþi-vã ! Mai repede !
+
+1057
+01:50:37,981 --> 01:50:39,148
+Porniþi !
+
+1058
+01:50:39,357 --> 01:50:42,317
+Porniþi spre Gondor !
+
+1059
+01:51:23,943 --> 01:51:25,694
+Ce este ?
+
+1060
+01:51:25,862 --> 01:51:27,404
+Ce vezi ?
+
+1061
+01:51:27,655 --> 01:51:29,782
+Vãd siluete de oameni.
+
+1062
+01:51:32,452 --> 01:51:33,827
+ªi cai.
+
+1063
+01:51:34,537 --> 01:51:35,788
+Unde ?
+
+1064
+01:51:35,955 --> 01:51:38,916
+Stindarde palide ca nori zdrenþuiþi.
+
+1065
+01:51:41,336 --> 01:51:43,545
+Suliþele se ridicã
+
+1066
+01:51:44,172 --> 01:51:47,633
+precum desiºuri de gheaþã
+strãpungând giulgiul ceþii.
+
+1067
+01:51:48,885 --> 01:51:51,053
+Morþii urmeazã.
+
+1068
+01:51:52,222 --> 01:51:53,722
+Au fost chemaþi.
+
+1069
+01:51:54,432 --> 01:51:56,225
+Morþii ?
+
+1070
+01:51:56,643 --> 01:51:58,352
+Chemaþi ?
+
+1071
+01:51:58,728 --> 01:52:00,646
+ªtiam.
+
+1072
+01:52:03,983 --> 01:52:05,734
+Foarte bine.
+
+1073
+01:52:06,444 --> 01:52:08,529
+Foarte bine. Legolas !
+
+1074
+01:52:46,484 --> 01:52:47,901
+Nu te uita în jos.
+
+1075
+01:53:40,496 --> 01:53:45,626
+<i>Cine a intrat pe tãrâmul meu ?</i>
+
+1076
+01:53:49,339 --> 01:53:51,590
+Cel cãruia i te vei supune.
+
+1077
+01:53:54,552 --> 01:53:59,848
+Morþii nu îngãduie
+prezenþa celor vii.
+
+1078
+01:54:00,183 --> 01:54:02,851
+Pe a mea o veþi îngãdui !
+
+1079
+01:54:26,376 --> 01:54:29,795
+Drumul e închis.
+
+1080
+01:54:30,964 --> 01:54:35,384
+A fost construit de cei morþi.
+
+1081
+01:54:35,802 --> 01:54:39,972
+ªi morþii îl pãzesc.
+
+1082
+01:54:49,107 --> 01:54:52,192
+Drumul e închis.
+
+1083
+01:54:53,903 --> 01:54:56,571
+Acum trebuie sã muriþi !
+
+1084
+01:55:00,410 --> 01:55:03,245
+Îþi poruncesc
+sã-þi respecþi jurãmântul !
+
+1085
+01:55:03,621 --> 01:55:08,583
+Nimeni nu-mi poate porunci mie,
+în afarã doar de regele Gondorului !
+
+1086
+01:55:14,173 --> 01:55:16,341
+Sabia aceea a fost ruptã !
+
+1087
+01:55:18,928 --> 01:55:21,179
+A fost fãuritã din nou.
+
+1088
+01:55:29,105 --> 01:55:30,605
+Luptaþi pentru noi
+
+1089
+01:55:30,773 --> 01:55:33,358
+ºi redobândiþi-vã onoarea !
+
+1090
+01:55:37,530 --> 01:55:38,864
+Ce spuneþi ?
+
+1091
+01:55:51,085 --> 01:55:52,627
+Ce spuneþi ?
+
+1092
+01:55:53,379 --> 01:55:55,130
+Îþi pierzi vremea, Aragorn.
+
+1093
+01:55:55,298 --> 01:55:58,467
+N-au avut strop de onoare în viaþã,
+nu au nici acum, morþi.
+
+1094
+01:55:58,968 --> 01:56:01,470
+Sunt moºtenitorul lui Isildur !
+
+1095
+01:56:02,055 --> 01:56:03,972
+Luptaþi pentru mine
+
+1096
+01:56:04,599 --> 01:56:08,185
+ºi vã voi dezlega de jurãmânt,
+odatã împlinit !
+
+1097
+01:56:12,106 --> 01:56:14,066
+Ce spuneþi ?
+
+1098
+01:56:21,991 --> 01:56:24,201
+Ai cuvântul meu.
+
+1099
+01:56:24,494 --> 01:56:28,497
+Luptã ºi te voi elibera din aceastã
+moarte vie.
+
+1100
+01:56:29,957 --> 01:56:31,458
+Ce spuneþi ?!
+
+1101
+01:56:34,754 --> 01:56:37,714
+În picioare, trãdãtorilor.
+
+1102
+01:57:04,659 --> 01:57:05,700
+Afarã !
+
+1103
+01:57:27,056 --> 01:57:28,640
+Legolas !
+
+1104
+01:57:29,767 --> 01:57:30,976
+Fugiþi !
+
+1105
+01:58:37,293 --> 01:58:39,336
+Luptãm.
+
+1106
+01:58:49,722 --> 01:58:52,307
+Deschideþi porþile ! Repede !
+
+1107
+01:59:23,339 --> 01:59:25,340
+Repede !
+
+1108
+01:59:39,105 --> 01:59:40,689
+Faramir !
+
+1109
+01:59:41,691 --> 01:59:44,985
+Nu-mi spuneþi cã a fost rãpus !
+
+1110
+01:59:46,153 --> 01:59:47,696
+Au fost copleºiþi de duºman.
+
+1111
+01:59:48,114 --> 01:59:49,698
+Nu a scãpat nimeni cu viaþã.
+
+1112
+01:59:50,408 --> 01:59:52,409
+Teamã...
+
+1113
+01:59:52,952 --> 01:59:56,162
+Oraºul e doborât de teamã.
+
+1114
+01:59:58,499 --> 02:00:00,959
+Sã le uºurãm suferinþa.
+
+1115
+02:00:01,210 --> 02:00:02,961
+Eliberaþi prizonierii !
+
+1116
+02:00:03,129 --> 02:00:05,046
+Catapultele !
+
+1117
+02:00:18,436 --> 02:00:21,896
+Fiii mei au pierit !
+
+1118
+02:00:22,940 --> 02:00:25,859
+Stirpea mea s-a stins !
+
+1119
+02:00:28,696 --> 02:00:30,071
+Trãieºte !
+
+1120
+02:00:30,239 --> 02:00:33,408
+Casa Majordomilor moare aici.
+
+1121
+02:00:33,576 --> 02:00:35,076
+Are nevoie de îngrijire, Domnia Ta !
+
+1122
+02:00:36,078 --> 02:00:38,747
+Stirpea mea s-a stins !
+
+1123
+02:00:40,249 --> 02:00:42,250
+Domnia Ta !
+
+1124
+02:00:55,765 --> 02:00:57,599
+Rohanul
+
+1125
+02:00:58,392 --> 02:01:00,769
+ne-a lãsat în voia sorþii.
+
+1126
+02:01:15,242 --> 02:01:18,453
+Théoden m-a trãdat !
+
+1127
+02:01:29,590 --> 02:01:31,424
+Pãrãsiþi posturile !
+
+1128
+02:01:32,468 --> 02:01:36,388
+Fugiþi !
+Fugiþi ºi salvaþi-vã viaþa !
+
+1129
+02:01:46,524 --> 02:01:48,066
+Pregãtiþi-vã de luptã !
+
+1130
+02:01:48,609 --> 02:01:51,778
+Repede ! La ziduri !
+Apãraþi zidurile !
+
+1131
+02:01:52,947 --> 02:01:54,906
+Aici !
+
+1132
+02:01:55,658 --> 02:01:58,034
+Întoarceþi-vã la posturi !
+
+1133
+02:02:08,838 --> 02:02:11,464
+Trimiteþi bestiile alea în abis !
+
+1134
+02:02:21,642 --> 02:02:23,101
+Rãmâneþi pe loc !
+
+1135
+02:02:40,077 --> 02:02:41,494
+Avem nevoie de mai mulþi bolovani !
+
+1136
+02:02:41,662 --> 02:02:43,538
+Feriþi-vã !
+
+1137
+02:02:43,706 --> 02:02:46,207
+La nivelul de jos ! Repede !
+
+1138
+02:02:48,127 --> 02:02:49,669
+Mai repede !
+
+1139
+02:03:58,656 --> 02:04:01,658
+Þineþi-le piept ! Nu vã temeþi !
+
+1140
+02:04:02,159 --> 02:04:05,662
+Întoarceþi-vã la posturi !
+Luptaþi !
+
+1141
+02:04:46,328 --> 02:04:47,954
+Nu trageþi în turnuri !
+
+1142
+02:04:48,122 --> 02:04:51,124
+Ochiþi-i pe troli ! Omorâþi trolii !
+
+1143
+02:04:51,834 --> 02:04:53,710
+Doborâþi-i !
+
+1144
+02:05:28,829 --> 02:05:30,872
+Ripostaþi !
+
+1145
+02:05:31,040 --> 02:05:33,041
+Peregrin Took !
+
+1146
+02:05:33,876 --> 02:05:37,045
+- Întoarce-te în citadelã !
+- Am fost trimiºi sã luptãm.
+
+1147
+02:05:52,770 --> 02:05:55,146
+Un hobbit nu are ce cãuta aici.
+
+1148
+02:06:20,881 --> 02:06:22,340
+Adevãrat strãjer al citadelei !
+
+1149
+02:06:22,925 --> 02:06:26,302
+Întoarce-te sus ! Repede !
+
+1150
+02:06:37,606 --> 02:06:40,608
+Ce faci, lepãdãturã ?!
+
+1151
+02:06:40,776 --> 02:06:42,735
+Poarta nu cedeazã. E prea rezistentã.
+
+1152
+02:06:49,076 --> 02:06:51,452
+Întoarce-te ºi nimiceºte-o.
+
+1153
+02:06:51,620 --> 02:06:53,621
+Dar nimic n-o poate distruge.
+
+1154
+02:06:56,583 --> 02:06:58,835
+Grond o va distruge.
+
+1155
+02:07:02,256 --> 02:07:04,340
+Adu capul de lup.
+
+1156
+02:07:07,469 --> 02:07:12,849
+<i>Grond ! Grond ! Grond ! Grond !</i>
+
+1157
+02:07:13,142 --> 02:07:16,978
+<i>Grond ! Grond ! Grond !</i>
+
+1158
+02:07:18,939 --> 02:07:22,358
+<i>Grond ! Grond ! Grond !</i>
+
+1159
+02:07:23,068 --> 02:07:26,738
+<i>Grond ! Grond ! Grond !</i>
+
+1160
+02:07:27,156 --> 02:07:31,325
+<i>Grond ! Grond ! Grond !</i>
+
+1161
+02:07:31,493 --> 02:07:35,121
+<i>Grond ! Grond ! Grond !</i>
+
+1162
+02:07:49,400 --> 02:07:51,200
+Nu veþi merge mai departe.
+
+1163
+02:07:54,400 --> 02:07:57,300
+Nu veþi intra în Gondor.
+
+1164
+02:07:57,700 --> 02:08:00,000
+Cine eºti sã nu ne laºi sã trecem ?
+
+1165
+02:08:00,200 --> 02:08:04,001
+Legolas, trage un foc de avertisment
+sã-i piuie pocitaniei pe la ureche.
+
+1166
+02:08:06,201 --> 02:08:07,900
+Þinteºte bine.
+
+1167
+02:08:14,600 --> 02:08:17,000
+Asta e. V-am avertizat.
+
+1168
+02:08:17,200 --> 02:08:19,400
+Pregãtiþi-vã de îmbarcare.
+
+1169
+02:08:20,700 --> 02:08:22,000
+Îmbarcare ?
+
+1170
+02:08:22,200 --> 02:08:23,900
+Cine sã ne îmbarce ?
+Tu ºi care armatã ?
+
+1171
+02:08:25,400 --> 02:08:27,700
+Armata asta.
+
+1172
+02:08:44,399 --> 02:08:46,199
+Aici !
+
+1173
+02:08:47,899 --> 02:08:49,800
+Ce e locul ãsta ?
+
+1174
+02:08:54,100 --> 02:08:57,600
+Stãpânul trebuie sã intre în tunel.
+
+1175
+02:08:58,900 --> 02:09:02,900
+Odatã ajuns aici,
+nu prea vreau asta.
+
+1176
+02:09:05,000 --> 02:09:07,300
+E singurul drum.
+
+1177
+02:09:09,600 --> 02:09:11,600
+Intrã în tunel...
+
+1178
+02:09:12,200 --> 02:09:14,401
+sau întoarce-te.
+
+1179
+02:09:17,101 --> 02:09:19,800
+Nu mã pot întoarce.
+
+1180
+02:09:32,100 --> 02:09:34,800
+- Ce e putoarea asta ?
+- E mizeria orcilor.
+
+1181
+02:09:34,900 --> 02:09:38,100
+Vin aici uneori.
+
+1182
+02:09:43,100 --> 02:09:45,000
+Repede !
+
+1183
+02:09:49,900 --> 02:09:51,800
+Pe aici !
+
+1184
+02:09:54,699 --> 02:09:56,499
+Sméagol ?
+
+1185
+02:09:57,499 --> 02:09:59,599
+Aici !
+
+1186
+02:10:07,900 --> 02:10:11,000
+E lipicios ! Ce e asta ?
+
+1187
+02:10:11,200 --> 02:10:13,500
+O sã vezi.
+
+1188
+02:10:13,700 --> 02:10:16,000
+Da.
+
+1189
+02:10:16,200 --> 02:10:19,300
+O sã vezi !
+
+1190
+02:10:28,201 --> 02:10:29,900
+Sméagol ?
+
+1191
+02:10:31,200 --> 02:10:32,500
+Sméagol !
+
+1192
+02:10:35,200 --> 02:10:37,200
+Sméagol !
+
+1193
+02:10:46,400 --> 02:10:48,400
+Sam.
+
+1194
+02:12:28,400 --> 02:12:30,500
+<i>Iar þie, Frodo Baggins,</i>
+
+1195
+02:12:30,700 --> 02:12:36,100
+<i>îþi dãruiesc lumina lui Eärendil,</i>
+<i>cea mai iubitã stea a noastrã.</i>
+
+1196
+02:12:36,900 --> 02:12:40,200
+<i>Sã-þi lumineze calea</i>
+<i>în locuri întunecate,</i>
+
+1197
+02:12:40,300 --> 02:12:44,200
+<i>când toate celelalte lumini</i>
+<i>se vor fi stins în jurul tãu.</i>
+
+1198
+02:14:00,201 --> 02:14:03,500
+<i>Nesuferitã musculiþã</i>
+
+1199
+02:14:03,700 --> 02:14:06,900
+<i>De ce plângi tu oare ?</i>
+
+1200
+02:14:07,400 --> 02:14:10,700
+<i>Prinsã-n plasã acum tu eºti,</i>
+
+1201
+02:14:10,900 --> 02:14:13,700
+<i>Curând-curând vei fi...</i>
+
+1202
+02:14:14,100 --> 02:14:15,900
+Mâncatã !
+
+1203
+02:14:53,100 --> 02:14:55,800
+A scãpat,
+nu-i aºa, nepreþuitule ?
+
+1204
+02:14:56,000 --> 02:14:58,100
+Nu ºi de data asta.
+
+1205
+02:14:58,300 --> 02:15:01,300
+- Nu ºi de data asta !
+- Nu !
+
+1206
+02:15:08,100 --> 02:15:11,501
+N-am fãcut noi asta !
+
+1207
+02:15:12,001 --> 02:15:14,601
+Sméagol nu i-ar face rãu stãpânului !
+
+1208
+02:15:14,800 --> 02:15:16,600
+Noi am promis.
+
+1209
+02:15:16,800 --> 02:15:19,300
+Trebuie sã ne crezi !
+
+1210
+02:15:19,500 --> 02:15:21,200
+Nepreþuitul e de vinã.
+
+1211
+02:15:21,400 --> 02:15:26,200
+El ne-a împins sã facem asta !
+
+1212
+02:15:43,300 --> 02:15:46,200
+Trebuie sã-l distrug, Sméagol.
+
+1213
+02:15:55,199 --> 02:15:58,500
+Trebuie sã-l distrug,
+spre binele amândurora.
+
+1214
+02:16:08,700 --> 02:16:10,000
+Nu !
+
+1215
+02:16:33,300 --> 02:16:35,700
+Îmi pare aºa de rãu, Sam...
+
+1216
+02:16:40,200 --> 02:16:42,700
+Îmi pare rãu !
+
+1217
+02:17:08,500 --> 02:17:13,300
+<i>Misia asta þie þi-a fost hãrãzitã,</i>
+<i>Frodo din Comitat.</i>
+
+1218
+02:17:14,400 --> 02:17:16,900
+<i>Dacã tu nu gãseºti o cale,</i>
+
+1219
+02:17:18,100 --> 02:17:19,400
+<i>nimeni n-o va putea gãsi.</i>
+
+1220
+02:17:53,200 --> 02:17:56,000
+Iscoadele vestesc cã
+Minas Tirith e împresuratã.
+
+1221
+02:17:56,100 --> 02:17:58,400
+Nivelul de jos e cuprins
+de flãcãri.
+
+1222
+02:17:58,800 --> 02:18:01,300
+De peste tot avanseazã
+legiunile vrãjmaºului.
+
+1223
+02:18:01,500 --> 02:18:02,700
+Timpul ne e potrivnic.
+
+1224
+02:18:03,300 --> 02:18:04,600
+Pregãtiþi-vã !
+
+1225
+02:18:04,800 --> 02:18:06,600
+Ai nãdejde, Merry.
+
+1226
+02:18:06,800 --> 02:18:09,000
+În curând se va sfârºi totul.
+
+1227
+02:18:09,600 --> 02:18:11,200
+Domniþa mea...
+
+1228
+02:18:11,800 --> 02:18:14,299
+Eºti mândrã ºi curajoasã
+
+1229
+02:18:14,699 --> 02:18:17,099
+ºi ai multe pentru care
+meritã sã trãieºti.
+
+1230
+02:18:18,499 --> 02:18:20,800
+ªi sunt mulþi
+cei ce te iubesc.
+
+1231
+02:18:23,600 --> 02:18:26,300
+ªtiu cã e prea târziu
+sã renunþ.
+
+1232
+02:18:26,900 --> 02:18:30,100
+ªtiu cã nu prea e rost
+sã mai nutresc speranþã.
+
+1233
+02:18:31,300 --> 02:18:34,700
+Dacã eram un cavaler de-al lui Rohan,
+vrednic de fapte mãreþe...
+
+1234
+02:18:34,900 --> 02:18:38,000
+Dar nu sunt.
+
+1235
+02:18:38,200 --> 02:18:40,000
+Sunt doar un hobbit.
+
+1236
+02:18:42,701 --> 02:18:45,201
+ªi ºtiu cã nu pot salva
+Pãmântul-de-Mijloc.
+
+1237
+02:18:48,600 --> 02:18:51,000
+Vreau doar
+sã-mi ajut prietenii.
+
+1238
+02:18:53,000 --> 02:18:54,500
+Frodo.
+
+1239
+02:18:55,400 --> 02:18:57,200
+Sam.
+
+1240
+02:18:58,700 --> 02:19:00,700
+Pippin.
+
+1241
+02:19:02,200 --> 02:19:05,200
+Mai mult decât orice,
+îmi doresc sã-i pot revedea.
+
+1242
+02:19:09,500 --> 02:19:11,800
+Pregãtiþi-vã de plecare !
+
+1243
+02:19:12,000 --> 02:19:14,800
+Grãbiþi-vã.
+Vom cãlãri pânã în zori.
+
+1244
+02:19:31,400 --> 02:19:32,700
+La luptã.
+
+1245
+02:19:33,200 --> 02:19:34,600
+La luptã.
+
+1246
+02:19:57,701 --> 02:19:59,501
+Înapoi la porþi !
+
+1247
+02:19:59,800 --> 02:20:01,900
+Daþi-i zor !
+
+1248
+02:20:21,800 --> 02:20:26,300
+Sunt prinþ al seminþiei lui Anárion.
+
+1249
+02:20:26,500 --> 02:20:28,900
+Aºa mi-am trãit traiul.
+
+1250
+02:20:30,100 --> 02:20:33,200
+ªi aºa mã voi aºterne
+la somnul veºnic.
+
+1251
+02:20:39,299 --> 02:20:41,300
+Gondor e pierdut.
+
+1252
+02:20:41,800 --> 02:20:45,300
+Oamenii nu mai au sorþi
+de izbândã.
+
+1253
+02:20:59,900 --> 02:21:02,700
+De ce zboarã mãscãricii ?
+
+1254
+02:21:04,300 --> 02:21:07,301
+Mai bine sã mori mai devreme,
+decât mi târziu.
+
+1255
+02:21:09,501 --> 02:21:11,500
+Cu toþii suntem datori
+cu o moarte.
+
+1256
+02:21:23,700 --> 02:21:26,800
+Mormânt nu vor avea
+Denethor ºi Faramir !
+
+1257
+02:21:27,800 --> 02:21:33,900
+Nu vor cunoaºte somn prelung
+trupurile lor îmbãlsãmate.
+
+1258
+02:21:34,000 --> 02:21:39,200
+Vom arde precum regii pãgâni
+din strãvechime !
+
+1259
+02:21:42,900 --> 02:21:44,700
+Aduceþi lemne ºi ulei !
+
+1260
+02:21:47,499 --> 02:21:48,899
+Aºteptaþi !
+
+1261
+02:21:48,999 --> 02:21:51,099
+Aºteptaþi !
+
+1262
+02:22:05,500 --> 02:22:08,100
+Sunteþi oºtenii Gondorului !
+
+1263
+02:22:08,300 --> 02:22:12,700
+Indiferent ce va intra pe porþile
+acelea, vã veþi apãra cetatea !
+
+1264
+02:22:19,201 --> 02:22:20,401
+Fugiþi !
+
+1265
+02:22:22,300 --> 02:22:23,800
+Pregãtiþi sãgeþile !
+
+1266
+02:22:24,600 --> 02:22:26,400
+Trageþi !
+
+1267
+02:24:19,600 --> 02:24:21,600
+Dã-i drumul, scârbãvnicie !
+
+1268
+02:24:23,500 --> 02:24:25,200
+Dã-i drumul !
+
+1269
+02:24:26,500 --> 02:24:28,700
+Nu-l vei mai atinge în veci !
+
+1270
+02:24:31,700 --> 02:24:33,700
+Vino ºi terminã ce ai început !
+
+1271
+02:26:23,400 --> 02:26:25,000
+Înapoi !
+
+1272
+02:26:35,799 --> 02:26:37,099
+Domnu' Frodo !
+
+1273
+02:26:46,700 --> 02:26:48,700
+Nu...
+
+1274
+02:26:48,800 --> 02:26:50,800
+Frodo !
+
+1275
+02:26:51,100 --> 02:26:53,000
+Domnu' Frodo !
+
+1276
+02:26:57,500 --> 02:26:58,800
+Trezeºte-te !
+
+1277
+02:27:02,701 --> 02:27:05,101
+Nu mã lãsa singur aici !
+
+1278
+02:27:06,601 --> 02:27:09,000
+Nu te duce acolo
+unde nu te pot urma !
+
+1279
+02:27:13,400 --> 02:27:14,700
+Trezeºte-te !
+
+1280
+02:27:21,400 --> 02:27:23,600
+Nu e adormit...
+
+1281
+02:27:25,700 --> 02:27:27,700
+E mort !
+
+1282
+02:27:46,399 --> 02:27:47,899
+Înapoi, jigodie !
+
+1283
+02:27:57,500 --> 02:27:58,900
+Ce e asta ?
+
+1284
+02:28:00,000 --> 02:28:02,700
+Se pare cã bãtrâna Shelob
+s-a distrat puþin.
+
+1285
+02:28:04,700 --> 02:28:07,200
+A mai omorât unul, aºa-i ?
+
+1286
+02:28:07,500 --> 02:28:09,400
+Nu.
+
+1287
+02:28:12,200 --> 02:28:14,201
+Ãsta nu-i mort.
+
+1288
+02:28:14,501 --> 02:28:16,801
+Nu e mort ?
+
+1289
+02:28:16,901 --> 02:28:22,800
+Îi înþeapã cu acul ei ºi îi lasã
+neputincioºi ca un peºte spintecat.
+
+1290
+02:28:23,100 --> 02:28:25,800
+Apoi, îºi face poftele cu ei.
+
+1291
+02:28:26,200 --> 02:28:27,900
+Aºa îi place sã se hrãneascã.
+
+1292
+02:28:28,400 --> 02:28:30,500
+Sânge proaspãt !
+
+1293
+02:28:30,700 --> 02:28:33,000
+Duceþi-l în turn !
+
+1294
+02:28:36,400 --> 02:28:38,200
+Sam, prostovanule !
+
+1295
+02:28:38,300 --> 02:28:41,200
+Gunoiul ãsta o sã se trezeascã
+peste câteva ceasuri.
+
+1296
+02:28:41,300 --> 02:28:43,800
+ªi o sã-ºi doreascã
+sã nu se fi nãscut.
+
+1297
+02:29:08,100 --> 02:29:11,400
+Spiritul lui se stinge...
+
+1298
+02:29:12,400 --> 02:29:13,900
+Trupul îi arde.
+
+1299
+02:29:15,000 --> 02:29:16,300
+Arde deja.
+
+1300
+02:29:16,700 --> 02:29:18,700
+Nu e mort !
+
+1301
+02:29:19,200 --> 02:29:20,800
+Nu e mort !
+
+1302
+02:29:23,000 --> 02:29:24,801
+Nu !
+
+1303
+02:29:25,001 --> 02:29:27,301
+Nu !
+
+1304
+02:29:27,501 --> 02:29:29,501
+Nu e mort !
+
+1305
+02:29:29,900 --> 02:29:33,300
+Rãmas-bun, Peregrin,
+fiul lui Paladin !
+
+1306
+02:29:33,500 --> 02:29:36,800
+Te eliberez de jurãmânt.
+
+1307
+02:29:38,200 --> 02:29:42,500
+Te du ºi mori cum crezi
+cã va fi mai bine.
+
+1308
+02:29:44,700 --> 02:29:47,000
+Turnaþi ulei pe lemne !
+
+1309
+02:29:48,800 --> 02:29:50,800
+Hai ! Miºcaþi-vã !
+
+1310
+02:29:51,300 --> 02:29:54,200
+- Grãbiþi-vã !
+- Gandalf !
+
+1311
+02:29:54,600 --> 02:29:56,000
+Unde e Gandalf ?
+
+1312
+02:29:57,200 --> 02:29:58,400
+Gandalf !
+
+1313
+02:30:03,900 --> 02:30:05,000
+Retragerea !
+
+1314
+02:30:07,199 --> 02:30:08,999
+Zidurile au fost cucerite !
+
+1315
+02:30:09,199 --> 02:30:12,100
+Retrageþi-vã la al doilea nivel !
+
+1316
+02:30:15,900 --> 02:30:17,500
+Duceþi la adãpost
+femeile ºi copiii !
+
+1317
+02:30:17,900 --> 02:30:19,600
+Scoateþi-i de aici !
+
+1318
+02:30:19,800 --> 02:30:21,300
+Retrageþi-vã !
+
+1319
+02:30:21,400 --> 02:30:23,200
+Haideþi !
+
+1320
+02:30:23,600 --> 02:30:27,800
+Intraþi în oraº
+ºi ucideþi totul în cale !
+
+1321
+02:30:35,901 --> 02:30:38,201
+Duceþi-i de aici !
+
+1322
+02:30:58,800 --> 02:31:01,600
+Luptaþi !
+Luptaþi pânã la ultimul !
+
+1323
+02:31:01,800 --> 02:31:03,100
+Luptaþi pentru viaþa voastrã !
+
+1324
+02:31:03,300 --> 02:31:04,500
+Gandalf !
+
+1325
+02:31:08,900 --> 02:31:10,300
+Gandalf !
+
+1326
+02:31:10,400 --> 02:31:13,100
+Denethor ºi-a pierdut minþile !
+
+1327
+02:31:13,200 --> 02:31:15,500
+Îl arde pe Faramir de viu !
+
+1328
+02:31:15,600 --> 02:31:17,399
+Sus ! Repede !
+
+1329
+02:31:24,300 --> 02:31:25,800
+Înapoi în prãpastie.
+
+1330
+02:31:27,300 --> 02:31:30,500
+Cazi pradã nimicului care te aºteaptã
+pe tine ºi pe stãpânul tãu.
+
+1331
+02:31:30,600 --> 02:31:37,100
+Nu recunoºti moartea, când
+o întâlneºti, moºneagule ?
+
+1332
+02:31:37,300 --> 02:31:42,000
+A venit vremea mea.
+
+1333
+02:31:51,501 --> 02:31:53,100
+Gandalf !
+
+1334
+02:32:02,000 --> 02:32:05,500
+Ai dat greº.
+
+1335
+02:32:06,300 --> 02:32:11,200
+Lumea oamenilor va dispãrea.
+
+1336
+02:33:08,500 --> 02:33:09,900
+Curaj, Merry !
+
+1337
+02:33:10,100 --> 02:33:12,500
+Curaj !
+Pentru prietenii noºtri.
+
+1338
+02:33:16,000 --> 02:33:19,100
+Pregãtiþi-vã de luptã, viermilor !
+
+1339
+02:33:19,200 --> 02:33:22,500
+Suliþele în frunte,
+arcaºii în spate !
+
+1340
+02:33:30,600 --> 02:33:33,700
+Éomer, tu ºi éoredul tãu
+mergeþi în flancul stâng !
+
+1341
+02:33:33,900 --> 02:33:35,200
+Flancul e pregãtit.
+
+1342
+02:33:35,400 --> 02:33:38,200
+Gamling, vei urma stindardul regelui,
+pe mijloc !
+
+1343
+02:33:38,400 --> 02:33:42,099
+Grimbold, tu ºi ai tãi luaþi-o prin
+dreapta, dupã ce treceþi de zid !
+
+1344
+02:33:42,299 --> 02:33:45,000
+Înainte !
+Nu vã temeþi de Întuneric !
+
+1345
+02:33:45,200 --> 02:33:49,000
+Ridicaþi-vã,
+cãlãreþi ai lui Théoden !
+
+1346
+02:33:49,300 --> 02:33:54,400
+Suliþe vor fi frânte,
+scuturi se vor face fãrâme.
+
+1347
+02:33:54,600 --> 02:33:58,400
+O zi de luptã-ncrâncenatã,
+o zi scãldatã-n sânge,
+
+1348
+02:33:58,600 --> 02:34:02,100
+ºi soarele va rãsãri din nou !
+
+1349
+02:34:09,901 --> 02:34:14,201
+Orice s-ar întâmpla, stai cu mine !
+O sã am eu grijã de tine.
+
+1350
+02:34:20,600 --> 02:34:22,600
+Porniþi !
+
+1351
+02:34:24,100 --> 02:34:26,300
+Porniþi !
+
+1352
+02:34:26,800 --> 02:34:29,600
+Înainte, spre prãpãd
+
+1353
+02:34:29,800 --> 02:34:32,600
+ºi al lumii sfârºit !
+
+1354
+02:34:34,500 --> 02:34:35,900
+Moarte !
+
+1355
+02:34:36,300 --> 02:34:39,300
+Moarte !
+
+1356
+02:34:39,400 --> 02:34:42,600
+Moarte !
+
+1357
+02:34:43,100 --> 02:34:44,600
+Moarte !
+
+1358
+02:34:45,400 --> 02:34:48,800
+Moarte !
+
+1359
+02:34:53,899 --> 02:34:56,300
+Înainte, eorlingi !
+
+1360
+02:35:39,300 --> 02:35:41,000
+Trageþi !
+
+1361
+02:35:44,900 --> 02:35:46,000
+Moarte !
+
+1362
+02:35:50,300 --> 02:35:51,500
+Pregãtiþi sãgeþile !
+
+1363
+02:35:52,000 --> 02:35:53,600
+Trageþi de voie !
+
+1364
+02:36:50,900 --> 02:36:54,300
+Daþi-ne foc !
+
+1365
+02:37:11,900 --> 02:37:13,599
+Opriþi nebunia asta !
+
+1366
+02:37:17,999 --> 02:37:22,600
+Poþi fi învingãtor de-o zi
+pe câmpul de luptã,
+
+1367
+02:37:23,100 --> 02:37:26,800
+dar puterea ce s-a ridicat
+de la Soare-Rãsare
+
+1368
+02:37:26,900 --> 02:37:30,100
+nu poate fi înfrântã.
+
+1369
+02:37:59,300 --> 02:38:01,100
+Nu !
+
+1370
+02:38:01,300 --> 02:38:04,000
+Nu-mi vei lua fiul !
+
+1371
+02:38:04,100 --> 02:38:06,500
+Nu ! Nu !
+
+1372
+02:38:17,400 --> 02:38:19,000
+Faramir !
+
+1373
+02:38:32,600 --> 02:38:36,500
+Aºa s-a sfârºit Denethor,
+fiul lui Ecthelion...
+
+1374
+02:39:04,100 --> 02:39:05,900
+Mânaþi-i spre râu !
+
+1375
+02:39:08,600 --> 02:39:10,600
+Apãraþi oraºul !
+
+1376
+02:39:50,600 --> 02:39:52,600
+Reîncolonaþi-vã !
+
+1377
+02:39:53,700 --> 02:39:55,700
+Reîncolonaþi-vã !
+
+1378
+02:40:02,700 --> 02:40:05,301
+Sunã atacul ! Loviþi-i în plin !
+
+1379
+02:40:06,001 --> 02:40:08,101
+Pregãtiþi sãgeþile !
+
+1380
+02:41:27,000 --> 02:41:28,500
+Doborâþi-l !
+
+1381
+02:41:55,100 --> 02:41:57,699
+Þine frâiele !
+Trage spre stânga !
+
+1382
+02:42:00,099 --> 02:42:01,399
+Spre stânga !
+
+1383
+02:42:18,800 --> 02:42:20,500
+Þintiþi la cap !
+
+1384
+02:42:26,500 --> 02:42:29,801
+Doboarã-l !
+
+1385
+02:42:43,600 --> 02:42:45,100
+Merry !
+
+1386
+02:43:58,500 --> 02:44:00,600
+N-am crezut cã aºa se va sfârºi.
+
+1387
+02:44:01,900 --> 02:44:03,300
+Sã se sfârºeascã ?
+
+1388
+02:44:04,500 --> 02:44:06,700
+Nu, drumul nu se sfârºeºte aici.
+
+1389
+02:44:09,200 --> 02:44:12,300
+Moartea e doar o altã cãrare
+
+1390
+02:44:12,900 --> 02:44:14,500
+pe care trebuie sã pãºim cu toþii.
+
+1391
+02:44:15,800 --> 02:44:19,300
+Perdeaua cenuºie a ploii
+se ridicã încet deasupra lumii
+
+1392
+02:44:19,400 --> 02:44:23,099
+ºi totul se transformã
+în cristal argintiu.
+
+1393
+02:44:25,199 --> 02:44:27,200
+ªi atunci vezi...
+
+1394
+02:44:29,100 --> 02:44:31,500
+Ce, Gandalf ?
+
+1395
+02:44:32,600 --> 02:44:33,900
+Ce vezi ?
+
+1396
+02:44:35,200 --> 02:44:37,400
+Þãrmuri albe...
+
+1397
+02:44:39,100 --> 02:44:41,500
+ªi dincolo de ele...
+
+1398
+02:44:43,000 --> 02:44:44,700
+În depãrtare, meleaguri înverzite,
+
+1399
+02:44:45,500 --> 02:44:48,400
+scãldate-n vesel rãsãrit de soare.
+
+1400
+02:44:52,401 --> 02:44:53,901
+Pãi...
+
+1401
+02:44:54,101 --> 02:44:55,800
+Nu e chiar aºa de rãu.
+
+1402
+02:44:55,900 --> 02:44:57,400
+Nu.
+
+1403
+02:44:59,400 --> 02:45:01,100
+Nu este.
+
+1404
+02:45:17,400 --> 02:45:20,800
+Adunarea la mine !
+
+1405
+02:45:41,600 --> 02:45:46,100
+Ospãteazã-te din carnea lui !
+
+1406
+02:45:50,500 --> 02:45:52,800
+Te omor dacã îl atingi !
+
+1407
+02:45:53,000 --> 02:45:58,500
+Nu te pune între Nazgul
+ºi prada lui !
+
+1408
+02:47:06,900 --> 02:47:10,100
+Aþi întârziat, ca de obicei,
+corsari nemernici !
+
+1409
+02:47:10,500 --> 02:47:12,701
+Scoateþi-vã cuþitele ºi spintecaþi
+tot ce vã iese în cale !
+
+1410
+02:47:12,901 --> 02:47:16,101
+Coborâþi odatã, ºobolani de mare !
+
+1411
+02:47:31,600 --> 02:47:33,700
+Sunt destui pentru amândoi.
+
+1412
+02:47:33,900 --> 02:47:36,000
+Fie sã învingã cel mai bun gnom !
+
+1413
+02:47:53,400 --> 02:47:55,599
+Nesãbuitule !
+
+1414
+02:47:55,899 --> 02:47:59,299
+Niciun bãrbat nu mã poate ucide !
+
+1415
+02:48:01,600 --> 02:48:04,800
+Mori acum !
+
+1416
+02:48:15,500 --> 02:48:17,500
+Eu nu sunt bãrbat.
+
+1417
+02:48:34,000 --> 02:48:37,500
+- Cincisprezece ! 16 !
+- 17 !
+
+1418
+02:48:45,300 --> 02:48:47,200
+Merry !
+
+1419
+02:49:29,200 --> 02:49:31,000
+Legolas !
+
+1420
+02:49:53,400 --> 02:49:55,800
+Treizeci ºi trei, treizeci ºi patru.
+
+1421
+02:50:42,900 --> 02:50:45,300
+Tot unul singur se pune !
+
+1422
+02:50:45,400 --> 02:50:47,601
+Vin, vin !
+
+1423
+02:51:31,299 --> 02:51:34,200
+Îþi ºtiu chipul...
+
+1424
+02:51:36,000 --> 02:51:37,800
+Éowyn...
+
+1425
+02:51:40,500 --> 02:51:42,800
+Vederea mi se întunecã.
+
+1426
+02:51:44,000 --> 02:51:45,300
+Nu !
+
+1427
+02:51:46,200 --> 02:51:47,800
+Nu !
+
+1428
+02:51:49,800 --> 02:51:52,300
+O sã te salvez eu.
+
+1429
+02:51:53,700 --> 02:51:56,000
+M-ai salvat deja.
+
+1430
+02:51:59,701 --> 02:52:01,301
+Éowyn...
+
+1431
+02:52:02,801 --> 02:52:05,400
+Trupul mi-e frânt.
+
+1432
+02:52:10,400 --> 02:52:12,900
+Trebuie sã mã laºi sã plec.
+
+1433
+02:52:18,700 --> 02:52:21,300
+Mã duc la strãbunii mei,
+
+1434
+02:52:22,700 --> 02:52:25,600
+în a cãror mãreaþã tovãrãºie
+
+1435
+02:52:26,000 --> 02:52:29,400
+nu voi avea de ce
+sã mã simt ruºinat.
+
+1436
+02:52:46,000 --> 02:52:47,600
+Éowyn...
+
+1437
+02:53:34,100 --> 02:53:36,600
+Elibereazã-ne !
+
+1438
+02:53:38,500 --> 02:53:40,200
+Nu-i o idee bunã.
+
+1439
+02:53:40,400 --> 02:53:44,200
+Flãcãii ãºtia-s tare buni
+la ananghie, deºi sunt morþi.
+
+1440
+02:53:44,400 --> 02:53:46,400
+Ne-ai dat cuvântul tãu !
+
+1441
+02:53:48,100 --> 02:53:50,299
+V-aþi împlinit jurãmântul.
+
+1442
+02:53:51,599 --> 02:53:52,999
+Plecaþi !
+
+1443
+02:53:53,799 --> 02:53:55,499
+Gãsiþi-vã liniºtea !
+
+1444
+02:54:38,800 --> 02:54:40,800
+Merry !
+
+1445
+02:54:41,300 --> 02:54:44,500
+Nu !
+
+1446
+02:54:48,500 --> 02:54:50,800
+Nu !
+
+1447
+02:55:14,700 --> 02:55:18,500
+<i>Cu un suspin</i>
+
+1448
+02:55:18,700 --> 02:55:22,400
+<i>Te îndepãrtezi</i>
+
+1449
+02:55:22,500 --> 02:55:26,600
+<i>Cu inima plângând</i>
+
+1450
+02:55:26,700 --> 02:55:31,501
+<i>Nu mai e nimic de spus</i>
+
+1451
+02:55:31,701 --> 02:55:35,201
+<i>Vei afla</i>
+
+1452
+02:55:35,401 --> 02:55:39,400
+<i>Cã lumea s-a schimbat</i>
+
+1453
+02:55:39,600 --> 02:55:43,700
+<i>Pentru totdeauna</i>
+
+1454
+02:56:08,500 --> 02:56:15,399
+<i>ªi acum din verzi</i>
+<i>Copacii se-ngãlbenesc</i>
+
+1455
+02:56:20,100 --> 02:56:25,400
+<i>Soarele pãleºte</i>
+
+1456
+02:56:25,600 --> 02:56:32,200
+<i>Aº vrea sã te pot strânge</i>
+
+1457
+02:56:32,400 --> 02:56:35,000
+<i>Aproape, la piept</i>
+
+1458
+02:56:38,000 --> 02:56:39,200
+Merry !
+
+1459
+02:56:40,800 --> 02:56:42,801
+Merry !
+
+1460
+02:56:54,100 --> 02:56:56,000
+Merry.
+
+1461
+02:56:58,500 --> 02:56:59,700
+Merry, eu sunt !
+
+1462
+02:57:02,300 --> 02:57:03,900
+Pippin sunt...
+
+1463
+02:57:06,400 --> 02:57:08,700
+ªtiam cã ai sã mã gãseºti.
+
+1464
+02:57:08,800 --> 02:57:10,000
+Da.
+
+1465
+02:57:12,500 --> 02:57:14,500
+Mã pãrãseºti ?
+
+1466
+02:57:15,100 --> 02:57:16,800
+Nu, Merry.
+
+1467
+02:57:18,100 --> 02:57:20,300
+O sã am grijã de tine.
+
+1468
+02:58:04,400 --> 02:58:05,800
+Ia mâinile !
+
+1469
+02:58:06,000 --> 02:58:09,100
+Cãmaºa aia lucioasã e a mea !
+
+1470
+02:58:09,400 --> 02:58:13,600
+O sã meargã la Marele Ochi,
+la fel ca toate celelalte.
+
+1471
+02:58:15,100 --> 02:58:18,900
+Nu primesc ordine
+de la ºobolanii din Morgul !
+
+1472
+02:58:19,700 --> 02:58:24,900
+Pune mâna pe ea
+ºi te spintec într-o clipã !
+
+1473
+02:58:45,600 --> 02:58:47,400
+Jigodia a vrut sã mã taie !
+
+1474
+02:58:47,600 --> 02:58:49,300
+Omorâþi-l !
+
+1475
+03:00:32,500 --> 03:00:34,500
+Asta e pentru Frodo !
+
+1476
+03:00:34,900 --> 03:00:37,000
+Pentru Comitat !
+
+1477
+03:00:40,700 --> 03:00:42,700
+ªi asta, pentru bãtrânu' meu !
+
+1478
+03:01:12,200 --> 03:01:15,600
+Nu mai chiþãi, ºobolan laº !
+
+1479
+03:01:16,700 --> 03:01:21,400
+O sã te las într-o baltã de sânge,
+ca pe un porc înjunghiat !
+
+1480
+03:01:28,701 --> 03:01:30,401
+Nu ºi dacã te înjunghii eu primul !
+
+1481
+03:01:30,601 --> 03:01:32,201
+Sam !
+
+1482
+03:01:37,200 --> 03:01:39,300
+Îmi pare aºa de rãu, Sam...
+
+1483
+03:01:39,400 --> 03:01:41,400
+Pentru tot.
+
+1484
+03:01:41,900 --> 03:01:45,600
+- Sã te iau de aici !
+- Prea târziu. S-a sfârºit...
+
+1485
+03:01:45,800 --> 03:01:48,700
+Mi l-au luat !
+Sam...
+
+1486
+03:01:49,400 --> 03:01:50,900
+Mi-au luat Inelul !
+
+1487
+03:01:51,700 --> 03:01:54,400
+Sã-mi fie cu iertare,
+dar nu l-au luat.
+
+1488
+03:02:06,400 --> 03:02:08,600
+Am crezut cã te-am pierdut.
+
+1489
+03:02:08,999 --> 03:02:10,699
+Aºa cã l-am luat eu.
+
+1490
+03:02:11,799 --> 03:02:13,999
+Doar ca sã-l þin la adãpost.
+
+1491
+03:02:15,200 --> 03:02:17,000
+Dã-mi-l !
+
+1492
+03:02:20,500 --> 03:02:22,700
+Dã-mi Inelul, Sam !
+
+1493
+03:02:27,300 --> 03:02:28,600
+Sam !
+
+1494
+03:02:30,200 --> 03:02:32,100
+Dã-mi Inelul !
+
+1495
+03:02:52,900 --> 03:02:54,200
+Trebuie sã înþelegi.
+
+1496
+03:02:57,700 --> 03:02:59,500
+Inelul e povara mea.
+
+1497
+03:03:00,700 --> 03:03:02,800
+Te-ar distruge, Sam.
+
+1498
+03:03:06,000 --> 03:03:08,000
+Vino, domnu' Frodo !
+
+1499
+03:03:09,300 --> 03:03:11,000
+Sã-þi gãsim niºte haine.
+
+1500
+03:03:11,100 --> 03:03:14,200
+Nu poþi
+sã te plimbi prin Mordor gol puºcã.
+
+1501
+03:03:35,900 --> 03:03:38,100
+Am reuºit, domnu' Frodo !
+
+1502
+03:03:38,600 --> 03:03:40,900
+Am ajuns în Mordor !
+
+1503
+03:03:42,200 --> 03:03:43,900
+Sunt atât de mulþi !
+
+1504
+03:03:44,900 --> 03:03:47,400
+Nu vom reuºi
+sã ne strecurãm nevãzuþi.
+
+1505
+03:03:52,601 --> 03:03:55,900
+El e ! E Ochiul !
+
+1506
+03:04:03,600 --> 03:04:06,200
+Trebuie sã intrãm acolo,
+domnu' Frodo !
+
+1507
+03:04:06,700 --> 03:04:08,700
+Nu mai e cale de întoarcere.
+
+1508
+03:04:11,700 --> 03:04:16,200
+Sã mergem !
+Sã coborâm, deocamdatã.
+
+1509
+03:04:25,500 --> 03:04:28,800
+Nu-l mai pot vedea pe Frodo.
+
+1510
+03:04:30,100 --> 03:04:32,899
+Întunericul e tot mai adânc.
+
+1511
+03:04:33,099 --> 03:04:35,499
+Dacã Sauron ar fi pus mâna pe Inel,
+am fi ºtiut.
+
+1512
+03:04:35,599 --> 03:04:37,700
+Nu ºtim când, dar se va întâmpla.
+
+1513
+03:04:39,200 --> 03:04:41,600
+A suferit o înfrângere, e drept,
+
+1514
+03:04:42,700 --> 03:04:47,200
+dar, în spatele zidurilor Mordorului,
+duºmanul îºi adunã forþele.
+
+1515
+03:04:47,400 --> 03:04:49,200
+Lasã-l sã stea acolo !
+
+1516
+03:04:49,400 --> 03:04:52,000
+N-are decât sã putrezeascã !
+De ce ne-ar pãsa nouã ?
+
+1517
+03:04:52,200 --> 03:04:57,400
+Pentru cã zece mii de orci stau acum
+între Frodo ºi Muntele de Foc.
+
+1518
+03:05:04,101 --> 03:05:07,000
+L-am trimis la moarte.
+
+1519
+03:05:08,400 --> 03:05:09,400
+Nu.
+
+1520
+03:05:10,200 --> 03:05:12,400
+Mai existã nãdejde pentru Frodo.
+
+1521
+03:05:12,700 --> 03:05:16,800
+Are nevoie de timp ºi de un drum
+sigur prin câmpia Gorgoroth.
+
+1522
+03:05:17,900 --> 03:05:20,500
+- Putem sã-i oferim noi asta.
+- Cum ?
+
+1523
+03:05:20,800 --> 03:05:23,500
+Atrãgând oºtirile lui Sauron,
+
+1524
+03:05:23,700 --> 03:05:25,800
+eliberând drumul în Mordor.
+
+1525
+03:05:26,000 --> 03:05:29,200
+Apoi, ne vom aduna forþele
+ºi vom porni spre Poarta Neagrã.
+
+1526
+03:05:29,800 --> 03:05:32,800
+Nu putem învinge prin forþa armelor.
+
+1527
+03:05:33,000 --> 03:05:34,500
+Nu pentru noi.
+
+1528
+03:05:34,700 --> 03:05:40,300
+Dar îi putem da o ºansã lui Frodo
+atrâgând Ochiul lui Sauron asupra noastrã.
+
+1529
+03:05:42,100 --> 03:05:45,899
+Încât sã nu mai vadã
+nicio altã miºcare.
+
+1530
+03:05:46,699 --> 03:05:47,799
+Sã-i abatem atenþia...
+
+1531
+03:05:47,999 --> 03:05:49,800
+Moarte sigurã,
+
+1532
+03:05:50,000 --> 03:05:52,700
+ºanse infime de izbândã...
+
+1533
+03:05:53,600 --> 03:05:55,200
+Ce mai aºteptãm ?
+
+1534
+03:05:55,800 --> 03:05:58,200
+Sauron va bãnui cã e o capcanã.
+
+1535
+03:05:59,000 --> 03:06:01,000
+N-o sã muºte momeala.
+
+1536
+03:06:02,500 --> 03:06:05,000
+Ba eu cred cã da.
+
+1537
+03:06:39,500 --> 03:06:42,100
+De mult mã urmãreºti.
+
+1538
+03:06:42,700 --> 03:06:44,200
+Multã vreme m-am tot ferit de tine.
+
+1539
+03:06:46,100 --> 03:06:47,700
+Pânã acum.
+
+1540
+03:06:49,400 --> 03:06:51,800
+Iatã spada lui Elendil.
+
+1541
+03:07:36,300 --> 03:07:38,800
+Cetatea a amuþit.
+
+1542
+03:07:40,500 --> 03:07:43,500
+Soarele nu mai are putere
+sã-ncãlzeascã.
+
+1543
+03:07:44,300 --> 03:07:46,000
+Se rãceºte.
+
+1544
+03:07:49,000 --> 03:07:52,100
+E doar rãcoarea primei
+ploi de primãvarã.
+
+1545
+03:07:58,500 --> 03:08:01,600
+Nu cred cã întunericul
+va rãzbi.
+
+1546
+03:08:30,300 --> 03:08:31,800
+Uite !
+
+1547
+03:08:32,400 --> 03:08:34,400
+Orcii pleacã !
+
+1548
+03:08:35,501 --> 03:08:37,501
+Vezi, domnu' Frodo ?
+
+1549
+03:08:37,701 --> 03:08:40,001
+În sfârºit, un fir de noroc !
+
+1550
+03:08:40,201 --> 03:08:42,000
+Cãtre Poartã, puturoºilor !
+
+1551
+03:08:43,300 --> 03:08:46,700
+Miºcaþi-vã ! Cãtre Poartã !
+
+1552
+03:08:54,700 --> 03:08:58,000
+Miºcaþi-vã, jigodiilor...
+
+1553
+03:08:58,200 --> 03:09:02,400
+O sã vã biciui pânã la sânge...
+
+1554
+03:09:05,200 --> 03:09:06,900
+Miºcaþi-vã !
+
+1555
+03:09:07,000 --> 03:09:09,400
+Ce v-am spus ?!
+
+1556
+03:09:16,199 --> 03:09:17,699
+Ridicaþi-vã !
+
+1557
+03:09:18,099 --> 03:09:20,799
+Hai odatã, trântorilor !
+
+1558
+03:09:20,899 --> 03:09:24,600
+Voi doi treceþi direct
+în prima linie !
+
+1559
+03:09:24,700 --> 03:09:29,700
+Miºcaþi-vã ! Încolonarea !
+Jigodiilor !
+
+1560
+03:09:42,700 --> 03:09:46,501
+Spre Porþi, leneºilor !
+Miºcaþi-vã !
+
+1561
+03:09:55,900 --> 03:09:59,400
+Nu ºtiþi cã mergem la luptã ?
+
+1562
+03:10:21,800 --> 03:10:24,600
+Companie, stai !
+
+1563
+03:10:28,499 --> 03:10:31,799
+Inspecþie !
+
+1564
+03:10:31,999 --> 03:10:34,500
+Sam, ajutã-mã.
+
+1565
+03:10:34,600 --> 03:10:36,500
+Domnu' Frodo !
+
+1566
+03:10:39,200 --> 03:10:41,800
+Ridicã-te, domnu' Frodo.
+În picioare !
+
+1567
+03:10:41,900 --> 03:10:43,800
+E aºa de greu.
+
+1568
+03:10:52,900 --> 03:10:54,000
+Nu se poate.
+
+1569
+03:10:59,701 --> 03:11:01,701
+Ce fac ?
+Ce trebuie sã facem ?
+
+1570
+03:11:04,700 --> 03:11:05,900
+- Loveºte-mã.
+- Poftim ?
+
+1571
+03:11:06,000 --> 03:11:08,100
+Loveºte-mã, Sam.
+Hai sã ne hârjonim.
+
+1572
+03:11:08,300 --> 03:11:09,800
+Jos de pe mine !
+
+1573
+03:11:10,500 --> 03:11:12,800
+Nu mã împinge nimeni pe mine,
+jigodie !
+
+1574
+03:11:21,500 --> 03:11:23,500
+Jos de pe mine !
+
+1575
+03:11:24,500 --> 03:11:26,300
+Încetaþi !
+
+1576
+03:11:28,900 --> 03:11:33,500
+Îþi tai beregata dacã
+nu încetezi !
+
+1577
+03:11:33,700 --> 03:11:36,000
+Haide, Sam. Acum !
+
+1578
+03:11:44,900 --> 03:11:46,500
+Miºcã, jigodie !
+
+1579
+03:11:46,700 --> 03:11:48,500
+Înapoi în rânduri !
+
+1580
+03:11:49,000 --> 03:11:50,900
+Scârnãviilor !
+
+1581
+03:11:51,500 --> 03:11:54,500
+Încolonarea, trântorilor !
+
+1582
+03:11:56,900 --> 03:12:00,400
+Miºcaþi-vã, hai !
+
+1583
+03:12:03,100 --> 03:12:05,000
+Marº !
+
+1584
+03:12:49,200 --> 03:12:51,299
+Nu pot...
+
+1585
+03:12:51,399 --> 03:12:55,099
+Nu pot...
+Nu-i pot face faþã Inelului, Sam.
+
+1586
+03:12:55,399 --> 03:12:56,500
+E... E...
+
+1587
+03:12:56,600 --> 03:12:59,300
+E prea mare povara.
+
+1588
+03:13:00,100 --> 03:13:01,100
+E...
+
+1589
+03:13:01,400 --> 03:13:03,300
+E aºa de mare povara.
+
+1590
+03:13:08,300 --> 03:13:10,700
+O luãm într-acolo.
+De-a dreptul.
+
+1591
+03:13:12,200 --> 03:13:15,300
+Nu are rost sã cãrãm dupã noi
+ce ºtim cã ne e de prisos.
+
+1592
+03:13:30,500 --> 03:13:32,300
+Domnu' Frodo.
+
+1593
+03:13:33,800 --> 03:13:35,300
+Priveºte.
+
+1594
+03:13:37,900 --> 03:13:39,800
+E atâta luminã
+
+1595
+03:13:40,100 --> 03:13:42,500
+ºi frumuseþe, acolo sus...
+
+1596
+03:13:42,600 --> 03:13:44,400
+Umbra nu i se poate împotrivi.
+
+1597
+03:14:35,501 --> 03:14:37,000
+Ia-o pe a mea.
+
+1598
+03:14:37,500 --> 03:14:39,700
+Mai sunt câteva picãturi.
+
+1599
+03:14:54,900 --> 03:14:57,500
+N-o sã mai avem
+pentru drumul spre casã.
+
+1600
+03:14:58,400 --> 03:15:01,600
+Nu cred cã va mai exista
+un drum spre casã...
+
+1601
+03:15:54,400 --> 03:15:56,600
+Jos, Frodo !
+
+1602
+03:15:58,400 --> 03:16:00,300
+Ascunde-te !
+
+1603
+03:16:10,500 --> 03:16:12,500
+Frodo !
+
+1604
+03:16:18,300 --> 03:16:19,800
+Unde sunt ?
+
+1605
+03:16:56,301 --> 03:16:58,801
+Sã iasã seniorul Tãrâmului Negru !
+
+1606
+03:16:59,800 --> 03:17:02,600
+Sã se facã dreptate !
+
+1607
+03:17:46,100 --> 03:17:50,100
+Stãpânul meu, Sauron,
+vã ureazã bun venit.
+
+1608
+03:17:55,900 --> 03:17:59,700
+E cineva în adunãtura asta
+demn sã se-nvoiascã cu mine ?
+
+1609
+03:18:00,000 --> 03:18:03,100
+Nu cãutãm învoialã
+cu Sauron,
+
+1610
+03:18:03,300 --> 03:18:06,201
+cel lipsit de credinþã
+ºi supus blestemului.
+
+1611
+03:18:06,401 --> 03:18:09,901
+Spune-i aºa stãpânului tãu:
+oºtirile din Mordor trebuie sã plece.
+
+1612
+03:18:10,001 --> 03:18:12,700
+Va trebui sã plece de pe aceste tãrâmuri
+ºi sã nu se întoarcã niciodatã.
+
+1613
+03:18:13,800 --> 03:18:16,300
+Bãtrâne Barbã-cãruntã...
+
+1614
+03:18:17,700 --> 03:18:22,000
+Am un dar, pe care trebuie
+sã þi-l arãt.
+
+1615
+03:18:27,000 --> 03:18:28,300
+Frodo.
+
+1616
+03:18:31,200 --> 03:18:32,600
+Frodo.
+
+1617
+03:18:33,600 --> 03:18:34,800
+- Liniºte.
+- Nu !
+
+1618
+03:18:35,700 --> 03:18:37,000
+Liniºte !
+
+1619
+03:18:38,800 --> 03:18:42,600
+Piticania îþi era dragã, vãd bine.
+
+1620
+03:18:43,600 --> 03:18:47,599
+Aflã cã a suferit cumplit
+în mâinile vrãjmaºului.
+
+1621
+03:18:53,100 --> 03:18:58,900
+Cine-ar fi crezut cã cineva aºa mic
+poate îndura atâta suferinþã ?
+
+1622
+03:19:01,500 --> 03:19:03,600
+ªi a avut multe de îndurat, Gandalf.
+
+1623
+03:19:03,800 --> 03:19:05,600
+Multe.
+
+1624
+03:19:12,600 --> 03:19:14,100
+ªi cine e el ?
+
+1625
+03:19:14,300 --> 03:19:16,301
+Urmaºul lui Isildur ?
+
+1626
+03:19:16,501 --> 03:19:19,501
+E nevoie de mai mult de-o sabie
+ca sã devii rege.
+
+1627
+03:19:24,300 --> 03:19:26,800
+Cred cã aici se încheie
+negocierile.
+
+1628
+03:19:29,000 --> 03:19:30,200
+Nu pot sã cred aºa ceva.
+
+1629
+03:19:32,200 --> 03:19:33,500
+Nu pot.
+
+1630
+03:19:49,700 --> 03:19:51,500
+Înapoi !
+
+1631
+03:19:51,800 --> 03:19:53,800
+Înapoi !
+
+1632
+03:20:06,000 --> 03:20:08,000
+A plecat, domnu' Frodo !
+
+1633
+03:20:10,500 --> 03:20:13,500
+Lumina a trecut,
+s-a îndreptat spre Miazãnoapte.
+
+1634
+03:20:13,700 --> 03:20:15,500
+Ceva i-a atras privirea într-acolo.
+
+1635
+03:20:33,100 --> 03:20:35,800
+Rãmâneþi pe loc !
+
+1636
+03:20:37,900 --> 03:20:41,900
+Fii ai Gondorului ºi ai Rohanului !
+Fraþii mei !
+
+1637
+03:20:44,700 --> 03:20:46,600
+Vãd în ochii voºtri
+
+1638
+03:20:47,000 --> 03:20:51,100
+aceeaºi teamã
+care mi-ar îngheþa ºi mie inima.
+
+1639
+03:20:53,000 --> 03:20:56,900
+Poate cã va veni o zi în care
+curajul oamenilor va pieri,
+
+1640
+03:20:57,100 --> 03:21:00,400
+când ne vom pãrãsi prietenii
+ºi vom uita jurãmintele fãcute.
+
+1641
+03:21:00,600 --> 03:21:03,300
+Dar ziua aceea nu e azi !
+
+1642
+03:21:03,500 --> 03:21:06,600
+Cândva, lupii vor da nãvalã,
+scuturile þãndãri se vor face,
+
+1643
+03:21:06,800 --> 03:21:09,599
+iar vremea oamenilor
+se va nãrui în uitare.
+
+1644
+03:21:09,799 --> 03:21:12,299
+Dar ziua aceea nu e azi !
+
+1645
+03:21:12,399 --> 03:21:14,099
+Azi vom lupta !
+
+1646
+03:21:16,600 --> 03:21:20,200
+În numele a tot ceea ce vã e drag
+pe acest pãmânt,
+
+1647
+03:21:20,400 --> 03:21:24,600
+vã poruncesc sã vã ridicaþi,
+oameni de la Apus !
+
+1648
+03:22:53,101 --> 03:22:56,700
+N-aº fi crezut vreodatã cã o sã mor
+luptând cot la cot cu un elf !
+
+1649
+03:22:57,100 --> 03:22:59,500
+Dar cot la cot cu un prieten ?
+
+1650
+03:23:03,000 --> 03:23:04,700
+Da.
+
+1651
+03:23:05,500 --> 03:23:07,300
+Asta pot sã fac.
+
+1652
+03:23:37,700 --> 03:23:39,700
+Îþi mai aminteºti Comitatul,
+domnu' Frodo ?
+
+1653
+03:23:42,700 --> 03:23:45,000
+În curând, va veni primãvara.
+
+1654
+03:23:45,800 --> 03:23:48,500
+Livezile vor da în floare...
+
+1655
+03:23:48,600 --> 03:23:52,300
+Iar pãsãrile îºi vor face cuib
+în crângul de aluni.
+
+1656
+03:23:53,700 --> 03:23:57,700
+Ai noºtri vor semãna orzul
+pe câmpurile de jos,
+
+1657
+03:23:58,800 --> 03:24:03,101
+vor mânca cele dintâi
+cãpºuni cu friºcã...
+
+1658
+03:24:05,101 --> 03:24:07,600
+Mai þii minte gustul cãpºunilor ?
+
+1659
+03:24:09,100 --> 03:24:10,800
+Nu, Sam.
+
+1660
+03:24:11,000 --> 03:24:13,900
+Nu-mi amintesc
+gustul mâncãrii,
+
+1661
+03:24:15,100 --> 03:24:18,400
+nici susurul apei,
+
+1662
+03:24:18,600 --> 03:24:22,100
+nici mângâierea ierbii.
+
+1663
+03:24:23,100 --> 03:24:24,600
+Sunt...
+
+1664
+03:24:25,500 --> 03:24:26,900
+gol, în beznã.
+
+1665
+03:24:28,600 --> 03:24:30,800
+Nu mai e nimic.
+
+1666
+03:24:31,000 --> 03:24:35,800
+Niciun vãl,
+între mine ºi roata de foc.
+
+1667
+03:24:37,000 --> 03:24:38,900
+Îl vãd...
+
+1668
+03:24:39,300 --> 03:24:41,000
+cu ochii deschiºi.
+
+1669
+03:24:42,100 --> 03:24:44,499
+Atunci, sã scãpãm de el,
+
+1670
+03:24:45,099 --> 03:24:47,299
+o datã pentru totdeauna !
+
+1671
+03:24:48,099 --> 03:24:50,100
+Vino, domnu' Frodo !
+
+1672
+03:24:50,300 --> 03:24:52,900
+Nu-l pot purta în locul tãu,
+
+1673
+03:24:53,300 --> 03:24:55,400
+dar te pot purta pe tine.
+
+1674
+03:24:55,900 --> 03:24:57,700
+Vino !
+
+1675
+03:25:28,100 --> 03:25:31,000
+<i>Aragorn !</i>
+
+1676
+03:25:42,600 --> 03:25:45,200
+<i>Elessar !</i>
+
+1677
+03:25:57,199 --> 03:25:59,600
+Pentru Frodo !
+
+1678
+03:26:34,600 --> 03:26:36,100
+Uite, domnu' Frodo !
+
+1679
+03:26:36,800 --> 03:26:39,000
+O intrare !
+
+1680
+03:26:39,600 --> 03:26:41,300
+Aproape cã am ajuns !
+
+1681
+03:26:43,600 --> 03:26:47,600
+Isteþi hobbiþi !
+Ce sus s-au cãþãrat !
+
+1682
+03:27:01,400 --> 03:27:03,100
+Nu trebuie s-o apuci pe acolo.
+
+1683
+03:27:04,699 --> 03:27:07,099
+Nu trebuie sã-i faci
+rãu Nepreþuitului.
+
+1684
+03:27:07,299 --> 03:27:09,099
+Ai jurat !
+
+1685
+03:27:09,199 --> 03:27:11,300
+Ai jurat pe Nepreþuit !
+
+1686
+03:27:13,200 --> 03:27:15,100
+Sméagol a promis !
+
+1687
+03:27:16,100 --> 03:27:18,100
+Sméagol a minþit.
+
+1688
+03:28:10,600 --> 03:28:12,500
+Frodo !
+
+1689
+03:28:39,500 --> 03:28:41,300
+Vulturi !
+
+1690
+03:28:42,700 --> 03:28:44,200
+Vin vulturii !
+
+1691
+03:29:07,100 --> 03:29:08,900
+Frodo !
+
+1692
+03:29:14,200 --> 03:29:15,500
+Sunt aici, Sam.
+
+1693
+03:29:22,900 --> 03:29:24,600
+Distruge-l !
+
+1694
+03:29:35,100 --> 03:29:38,400
+Haide ! Acum !
+
+1695
+03:29:38,600 --> 03:29:41,100
+Aruncã-l în foc !
+
+1696
+03:29:54,500 --> 03:29:57,201
+Ce mai aºtepþi ?
+
+1697
+03:29:59,101 --> 03:30:01,501
+Dã-i drumul !
+
+1698
+03:30:34,700 --> 03:30:36,900
+Inelul e al meu.
+
+1699
+03:30:40,499 --> 03:30:42,199
+Nu !
+
+1700
+03:30:42,599 --> 03:30:43,899
+Nu !
+
+1701
+03:30:52,300 --> 03:30:55,000
+Nu !
+
+1702
+03:32:39,500 --> 03:32:41,300
+Da !
+
+1703
+03:32:42,500 --> 03:32:44,200
+Da !
+
+1704
+03:32:45,300 --> 03:32:48,200
+Nepreþuitul ! Nepreþuitul !
+
+1705
+03:32:48,300 --> 03:32:51,500
+Nepreþuitul ! Nepreþuitul !
+
+1706
+03:33:44,500 --> 03:33:46,300
+Dã-mi mâna !
+
+1707
+03:33:54,700 --> 03:33:57,000
+Prinde-mã de mânã !
+
+1708
+03:33:59,700 --> 03:34:01,000
+Nu !
+
+1709
+03:34:08,300 --> 03:34:10,200
+Nu-þi da drumul !
+
+1710
+03:34:14,899 --> 03:34:16,399
+Nu-þi da drumul !
+
+1711
+03:34:17,999 --> 03:34:19,500
+Prinde-mã !
+
+1712
+03:35:48,700 --> 03:35:51,600
+Frodo !
+
+1713
+03:35:52,100 --> 03:35:55,101
+Frodo !
+
+1714
+03:37:16,600 --> 03:37:18,400
+Nu mai e !
+
+1715
+03:37:22,900 --> 03:37:24,600
+Am reuºit !
+
+1716
+03:37:25,100 --> 03:37:27,100
+Da, domnu' Frodo.
+
+1717
+03:37:28,400 --> 03:37:30,900
+S-a sfârºit acum.
+
+1718
+03:37:56,600 --> 03:37:58,900
+Pot sã vãd Comitatul.
+
+1719
+03:38:01,100 --> 03:38:03,400
+Râul Brandywine...
+
+1720
+03:38:05,600 --> 03:38:07,600
+Fundãtura...
+
+1721
+03:38:09,900 --> 03:38:12,600
+Artificiile lui Gandalf...
+
+1722
+03:38:13,100 --> 03:38:16,801
+Luminile din Copacul Petrecerii...
+
+1723
+03:38:18,301 --> 03:38:21,500
+Pe Rosie Cotton dansând...
+
+1724
+03:38:22,600 --> 03:38:25,300
+Are funde în pãr...
+
+1725
+03:38:28,200 --> 03:38:31,100
+Dacã ar fi fost
+sã mã însor vreodatã,
+
+1726
+03:38:32,100 --> 03:38:34,300
+pe ea aº fi vrut-o de soaþã.
+
+1727
+03:38:35,800 --> 03:38:37,800
+Pe ea !
+
+1728
+03:38:50,000 --> 03:38:53,200
+Sam cel înþelept, mã bucur
+sã fiu împreunã cu tine.
+
+1729
+03:38:57,499 --> 03:39:00,399
+Aici, unde se sfârºesc toate...
+
+1730
+03:40:50,100 --> 03:40:52,100
+Gandalf ?!
+
+1731
+03:41:11,800 --> 03:41:13,800
+Frodo !
+
+1732
+03:41:33,600 --> 03:41:35,400
+Gimli !
+
+1733
+03:43:18,400 --> 03:43:22,100
+De-acum încep zilele Regelui !
+
+1734
+03:43:27,100 --> 03:43:29,400
+Fie ele binecuvântate !
+
+1735
+03:43:49,700 --> 03:43:52,400
+Ziua aceasta nu e a unui singur om,
+
+1736
+03:43:52,600 --> 03:43:54,500
+ci a tuturor.
+
+1737
+03:43:56,100 --> 03:43:59,000
+Sã reclãdim împreunã
+aceastã lume,
+
+1738
+03:43:59,200 --> 03:44:03,500
+ca sã ne putem bucura împreunã de ea
+în vremuri de pace.
+
+1739
+03:46:38,001 --> 03:46:40,001
+Prieteni !
+
+1740
+03:46:45,300 --> 03:46:48,000
+Voi nu vã plecaþi înaintea nimãnui.
+
+1741
+03:47:32,200 --> 03:47:34,300
+<i>ªi aºa a fost.</i>
+
+1742
+03:47:34,500 --> 03:47:38,100
+<i>Aºa a început cel de-al patrulea</i>
+<i>ev al Pãmântului-de-Mijloc.</i>
+
+1743
+03:47:38,200 --> 03:47:40,800
+<i>Iar Frãþia Inelului,</i>
+
+1744
+03:47:41,000 --> 03:47:45,501
+<i>deºi prietenia ºi dragostea dintre</i>
+<i>tovarãºi avea sã fie veºnicã,</i>
+
+1745
+03:47:45,601 --> 03:47:48,001
+<i>s-a sfârºit.</i>
+
+1746
+03:47:53,000 --> 03:47:57,900
+<i>Trecuserã 13 luni din ziua în care Gandalf</i>
+<i>ne trimisese în lunga noastrã cãlãtorie.</i>
+
+1747
+03:47:58,000 --> 03:48:02,200
+<i>Ne regãseam privind</i>
+<i>locuri ºi oameni dragi.</i>
+
+1748
+03:48:04,700 --> 03:48:07,500
+<i>Eram acasã.</i>
+
+1749
+03:48:14,100 --> 03:48:15,900
+Ziua bunã !
+
+1750
+03:48:33,100 --> 03:48:35,300
+Ai grijã cu dovleacul !
+
+1751
+03:49:23,400 --> 03:49:25,000
+Rosie, Rosie...
+
+1752
+03:49:25,100 --> 03:49:27,100
+Noapte bunã, bãieþi !
+
+1753
+03:50:24,700 --> 03:50:28,700
+<i>Cum înnozi la loc</i>
+<i>firele unui trai lãsat în urmã ?</i>
+
+1754
+03:50:30,000 --> 03:50:32,200
+<i>Cum îþi vezi mai departe de viaþa</i>
+<i>ta,</i>
+
+1755
+03:50:32,400 --> 03:50:37,700
+<i>când, în adâncul sufletului,</i>
+<i>începi sã înþelegi</i>
+
+1756
+03:50:38,900 --> 03:50:41,900
+<i>cã nu mai existã drum înapoi ?</i>
+
+1757
+03:50:42,500 --> 03:50:46,200
+<i>Existã lucruri pe care</i>
+<i>timpul nu le poate îndrepta,</i>
+
+1758
+03:50:46,700 --> 03:50:49,699
+<i>suferinþe atât de adânci,</i>
+
+1759
+03:50:51,399 --> 03:50:54,199
+<i>încât nu mai pot fi</i>
+<i>smulse din suflet.</i>
+
+1760
+03:51:15,300 --> 03:51:16,300
+"Într-acolo ºi din nou înapoi.
+Povestea unui hobbit"
+
+1761
+03:51:32,400 --> 03:51:34,200
+Domnu' Frodo ?
+
+1762
+03:51:37,600 --> 03:51:39,000
+Ce este ?
+
+1763
+03:51:40,800 --> 03:51:44,800
+Au trecut patru ani de la ziua aceea
+de pe Þancul Vremii, Sam.
+
+1764
+03:51:45,400 --> 03:51:48,200
+Nu s-a vindecat niciodatã
+pe deplin.
+
+1765
+03:51:52,100 --> 03:51:57,400
+"Într-acolo ºi iar înapoi. Povestea
+unui hobbit" de Bilbo Baggins.
+
+1766
+03:51:58,100 --> 03:52:01,899
+ªi "Stãpânul Inelelor"
+de Frodo Baggins...
+
+1767
+03:52:02,399 --> 03:52:04,599
+Ai terminat-o !
+
+1768
+03:52:07,500 --> 03:52:09,000
+Nu încã.
+
+1769
+03:52:09,800 --> 03:52:12,300
+Mai e loc pentru încã ceva.
+
+1770
+03:52:15,000 --> 03:52:19,200
+<i>Bilbo mi-a spus cândva cã rolul lui</i>
+<i>în povestea asta se va sfârºi,</i>
+
+1771
+03:52:19,300 --> 03:52:22,600
+<i>cã fiecare dintre noi va trebui</i>
+<i>sã-ºi spunã povestea lui.</i>
+
+1772
+03:52:23,500 --> 03:52:26,300
+<i>Povestea lui Bilbo</i>
+<i>se sfârºeºte aici.</i>
+
+1773
+03:52:26,800 --> 03:52:29,800
+<i>Pentru el nu vor mai exista</i>
+<i>alte cãlãtorii.</i>
+
+1774
+03:52:30,000 --> 03:52:31,501
+<i>În afarã de una...</i>
+
+1775
+03:52:32,301 --> 03:52:35,801
+Mai zi-mi o datã, bãiete.
+Unde mergem ?
+
+1776
+03:52:36,001 --> 03:52:38,000
+În port, Bilbo.
+
+1777
+03:52:38,100 --> 03:52:40,900
+Elfii þi-au acordat o mare onoare:
+
+1778
+03:52:41,000 --> 03:52:43,700
+un loc pe ultima corabie
+care va pãrãsi Pãmântul-de-Mijloc.
+
+1779
+03:52:45,400 --> 03:52:47,000
+Frodo...
+
+1780
+03:52:48,500 --> 03:52:53,000
+Am vreo ºansã sã mai vãd vreodatã
+vechiul meu inel ?
+
+1781
+03:52:53,700 --> 03:52:55,900
+Cel pe care þi l-am dat þie.
+
+1782
+03:52:59,500 --> 03:53:01,700
+Îmi pare rãu, unchiule.
+
+1783
+03:53:04,300 --> 03:53:06,800
+Mã tem cã l-am pierdut.
+
+1784
+03:53:07,000 --> 03:53:08,800
+O...
+
+1785
+03:53:09,500 --> 03:53:10,900
+Pãcat !
+
+1786
+03:53:13,699 --> 03:53:17,499
+Tare aº fi vrut
+sã-l mai þin în mânã o datã...
+
+1787
+03:53:46,701 --> 03:53:51,700
+Iatã o priveliºte pe care
+n-am mai vãzut-o nicicând.
+
+1788
+03:54:05,900 --> 03:54:09,200
+Puterea Celor Trei Inele
+s-a sfârºit.
+
+1789
+03:54:10,100 --> 03:54:12,900
+A venit vremea
+
+1790
+03:54:13,000 --> 03:54:16,300
+stãpânirii oamenilor.
+
+1791
+03:54:17,400 --> 03:54:20,200
+Marea ne cheamã acasã.
+
+1792
+03:54:28,699 --> 03:54:30,900
+Cred cã...
+
+1793
+03:54:31,100 --> 03:54:35,400
+sunt gata
+pentru o nouã aventurã.
+
+1794
+03:55:06,500 --> 03:55:08,800
+Rãmas-bun,
+
+1795
+03:55:09,000 --> 03:55:11,700
+vitejii mei hobbiþi !
+
+1796
+03:55:13,600 --> 03:55:15,600
+Mi-am dus treaba la bun sfârºit.
+
+1797
+03:55:19,600 --> 03:55:24,500
+Iatã-ne, în cele din urmã,
+pe þãrmul mãrii,
+
+1798
+03:55:25,100 --> 03:55:28,000
+unde se sfârºeºte ºi Frãþia noastrã.
+
+1799
+03:55:31,500 --> 03:55:34,000
+N-o sã vã spun sã nu plângeþi,
+
+1800
+03:55:34,699 --> 03:55:38,699
+cãci nu toate lacrimile sunt rele.
+
+1801
+03:55:56,200 --> 03:55:58,200
+E timpul, Frodo.
+
+1802
+03:56:03,700 --> 03:56:05,701
+Ce vrea sã spunã ?
+
+1803
+03:56:08,201 --> 03:56:11,000
+Am plecat sã salvãm Comitatul,
+Sam.
+
+1804
+03:56:12,700 --> 03:56:15,400
+ªi l-am salvat.
+
+1805
+03:56:19,000 --> 03:56:21,700
+Dar nu ºi pentru mine.
+
+1806
+03:56:22,700 --> 03:56:25,100
+Nu vorbeºti serios !
+
+1807
+03:56:26,300 --> 03:56:28,400
+Nu poþi sã pleci !
+
+1808
+03:56:36,900 --> 03:56:39,600
+Ultimele pagini
+sunt pentru tine, Sam.
+
+1809
+04:00:12,700 --> 04:00:15,600
+<i>Dragul meu Sam,</i>
+
+1810
+04:00:17,400 --> 04:00:20,799
+<i>nu poþi sã fii rupt în douã</i>
+<i>pentru totdeauna.</i>
+
+1811
+04:00:20,899 --> 04:00:25,099
+<i>Trebuie sã fii întreg ºi puternic</i>
+<i>mulþi ani de-acum încolo.</i>
+
+1812
+04:00:25,800 --> 04:00:31,300
+<i>Ai atâtea lucruri de care sã te bucuri,</i>
+<i>atâtea de fãcut, de simþit.</i>
+
+1813
+04:00:32,600 --> 04:00:35,700
+<i>Rolul tãu în poveste</i>
+<i>nu s-a sfârºit.</i>
+
+1814
+04:00:36,500 --> 04:00:38,300
+Pãi...
+
+1815
+04:00:40,200 --> 04:00:41,900
+M-am întors.
+
+1816
+04:00:45,200 --> 04:00:54,901
+SupRip by Driv3r
+www.titrãri.ro
+
+1817
+04:02:24,500 --> 04:02:28,500
+<i>Aºeazã-þi</i>
+
+1818
+04:02:30,100 --> 04:02:34,500
+<i>Tâmpla blândã, plinã de griji</i>
+
+1819
+04:02:36,200 --> 04:02:39,800
+<i>Se lasã seara</i>
+
+1820
+04:02:40,500 --> 04:02:45,399
+<i>Cãlãtoria þi s-a sfârºit</i>
+
+1821
+04:02:45,999 --> 04:02:49,700
+<i>Dormi acum</i>
+
+1822
+04:02:49,900 --> 04:02:55,600
+<i>ªi viseazã</i>
+<i>La cei ce-þi stau drept înaintaºi</i>
+
+1823
+04:02:57,400 --> 04:03:01,200
+<i>Te cheamã</i>
+
+1824
+04:03:01,500 --> 04:03:05,500
+<i>De pe celãlalt mal</i>
+
+1825
+04:03:07,200 --> 04:03:12,001
+<i>De ce plângi ?</i>
+
+1826
+04:03:12,201 --> 04:03:17,201
+<i>De ce lacrimile</i>
+<i>Îþi brãzdeazã faþa ?</i>
+
+1827
+04:03:17,401 --> 04:03:22,400
+<i>Vei vedea în curând</i>
+
+1828
+04:03:22,600 --> 04:03:27,600
+<i>Cã toate spaimele þi se vor risipi</i>
+
+1829
+04:03:27,700 --> 04:03:32,900
+<i>Braþele mele te-adãpostesc</i>
+
+1830
+04:03:33,000 --> 04:03:37,500
+<i>Nu faci decât sã dormi</i>
+
+1831
+04:03:37,700 --> 04:03:42,700
+<i>Ce poþi zãri</i>
+
+1832
+04:03:42,900 --> 04:03:48,100
+<i>Unde cerul atinge pãmântul ?</i>
+
+1833
+04:03:48,300 --> 04:03:52,800
+<i>De ce oare albii pescãruºi</i>
+
+1834
+04:03:52,900 --> 04:03:57,599
+<i>Ne-ndeamnã ?</i>
+
+1835
+04:03:58,799 --> 04:04:03,400
+<i>Dincolo de apã</i>
+
+1836
+04:04:03,600 --> 04:04:08,900
+<i>Rãsare luna palidã</i>
+
+1837
+04:04:09,100 --> 04:04:11,800
+<i>Corãbiile au sosit</i>
+
+1838
+04:04:11,900 --> 04:04:17,700
+<i>Sã te ducã acasã</i>
+
+1839
+04:04:19,900 --> 04:04:24,501
+<i>ªi totul se va tranforma</i>
+
+1840
+04:04:24,701 --> 04:04:30,000
+<i>În oglindire argintie</i>
+
+1841
+04:04:30,200 --> 04:04:34,500
+<i>Luminã pe ape</i>
+
+1842
+04:04:34,600 --> 04:04:40,100
+<i>Toate sufletele se duc</i>
+
+1843
+04:04:40,300 --> 04:04:44,500
+<i>Speranþa pãleºte</i>
+
+1844
+04:04:46,100 --> 04:04:51,000
+<i>Sub stãpânirea nopþii</i>
+
+1845
+04:04:51,600 --> 04:04:55,500
+<i>Prin umbrele ce se aºtern</i>
+
+1846
+04:04:56,300 --> 04:05:01,500
+<i>De dincolo de memorie ºi de timp</i>
+
+1847
+04:05:02,200 --> 04:05:05,899
+<i>Nu rosti nimic</i>
+
+1848
+04:05:06,699 --> 04:05:11,700
+<i>Ne trãim sfârºitul</i>
+
+1849
+04:05:12,500 --> 04:05:17,000
+<i>Þãrmuri albe ne cheamã</i>
+
+1850
+04:05:17,100 --> 04:05:20,700
+<i>Ne vom întâlni din nou</i>
+
+1851
+04:05:20,800 --> 04:05:27,300
+<i>ªi vei fi din nou în braþele mele</i>
+
+1852
+04:05:28,500 --> 04:05:32,600
+<i>Dormind</i>
+
+1853
+04:05:32,700 --> 04:05:37,601
+<i>Ce poþi zãri</i>
+
+1854
+04:05:37,701 --> 04:05:42,700
+<i>Unde cerul întâlneºte pãmântul ?</i>
+
+1855
+04:05:42,900 --> 04:05:47,700
+<i>De ce albii pescãruºi</i>
+
+1856
+04:05:47,900 --> 04:05:53,200
+<i>Ne-ndeamnã ?</i>
+
+1857
+04:05:53,400 --> 04:05:58,500
+<i>Dincolo de apã</i>
+
+1858
+04:05:58,700 --> 04:06:03,700
+<i>Rãsare luna palidã</i>
+
+1859
+04:06:03,900 --> 04:06:06,700
+<i>Corãbiile au venit</i>
+
+1860
+04:06:06,800 --> 04:06:13,200
+<i>Sã te ducã acasã</i>
+
+1861
+04:06:14,400 --> 04:06:19,499
+<i>ªi totul se va transforma</i>
+
+1862
+04:06:20,099 --> 04:06:24,900
+<i>În oglindire argintie</i>
+
+1863
+04:06:25,100 --> 04:06:29,200
+<i>Luminã pe apã</i>
+
+1864
+04:06:29,400 --> 04:06:33,200
+<i>Corãbii cenuºii trec</i>
+
+1865
+04:06:33,400 --> 04:06:39,100
+<i>Spre Apus</i>
+

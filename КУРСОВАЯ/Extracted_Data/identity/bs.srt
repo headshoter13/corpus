@@ -1,0 +1,856 @@
+{35}{110}Opet ga danas tamo nije bilo
+{172}{263}Želim|Želim da ode
+{285}{338}Gdje si to nauèio?
+{367}{423}Gdje si nauèio tu pjesmicu?
+{427}{483}Izmislio sam je.
+{487}{570}Kade sam bio dijete izmislio sam ju.
+{655}{733}Èega se još sjeæaš od onda?
+{856}{939}Ne dirajte oko grmlja doktore.|Ne dirajte oko grmlja.
+{944}{1064}Ne dirajte oko grmlja.|Ne dirajte oko grmlja doktore.
+{1092}{1199}Reci mi što se sjeæaš o|svojoj majci.
+{1231}{1267}Sjeæam se svoje majke.
+{1302}{1347}Sjeæam se svoje majke.
+{1400}{1447}Sjeæam se mama mi je bila kurva.
+{1687}{1758}Koliko te je dugo tamo držala?
+{1808}{1884}Dok je god bila zauzeta.
+{2218}{2295}Je li razumijes zašto sada|prièaš sa mnom?
+{2299}{2339}Vi biste trebali biti dobri s...
+{2371}{2395}...glavoboljama.
+{2440}{2509}Trebam nešto jaèe od Aspirina.|Razumijete me?
+{2513}{2609}Sjeæate li se ubojstava?
+{2654}{2704}Sjeæam se...
+{2721}{2808}...da je Columbia glavni grad|Južne Caroline.
+{2868}{2907}Sjeæam se...
+{3166}{3234}Jesi li ti osoba koja je |ubila 6 gostiju...|28|00:02:39,492 --> 00:02:42,984|...u Lakeworth apartmanima
+3436}{3490}To je moj roðendan.
+3621}{3670}S kime sada prièam?
+3730}{3794}Kako da te zovem?
+3825}{3903}Zovi me kako hoæeš.
+4156}{4199}Gary?
+4203}{4244}Gary?
+4258}{4307}Gary, jesi budan?
+4311}{4395}Da Greg, ustvari,|jesam budan.
+4399}{4442}Žao mi je što te smetam kod kuæe...
+4446}{4524}...ali biæe saslušanje u ponoæ|u vezi sluèaja Rivers.
+4529}{4622}Obrana je pronašla bilježnicu,|koje nije bilo u dokazima, dnevnik.
+4626}{4696}Žalili su se da je Vrhovnom sudu|da je dokaz bio potisnut.
+4717}{4759}O èemu prièaš?
+4763}{4842}Nije bilo medija..|Sve se desilo jako tiho.
+{4846}{4905}Optuženik je prije 1 sat|krenio iz Ely-a.
+{4909}{4984}Napustio Ely? Kako to mislite?|Kojim prijevozom?
+{4989}{5057}Dnevnik im je opet otvorio sluèaj |da se brane na ludilo.
+{5061}{5143}Rivers treba biti prisutan, da ga |uspavanog stave na prijevoz.
+{5147}{5199}Oni vode ovog seronju na saslušanje...
+{5203}{5247}...noæ prije smrtne kazne.
+{5251}{5304}Jebote, kako ste to dopustili?
+{5416}{5473}Je li bi itko htio još|jednu rundu?
+{5505}{5570}Uzmimo novu zagonetku,|Vanna. Šta imamo?
+{5574}{5633}- "Oko kuæe" je tema.|- Kupi samoglasnik.
+{5637}{5681}- Kupi samoglasnik.|- Uzmite to.
+{5698}{5784}- Kupi samoglasnik idiote.|- Kupio bih samoglasnik E.
+{5797}{5845}Jedno E.
+{5850}{5931}- U redu. 350 lijevo|-N.
+{5954}{5994}- Kupi samoglasnik.|- Kupi još jedan samoglasnik.
+{5998}{6043}- To!|- Samoglasnik "I".
+{6187}{6222}- Htio bih da riješim.|- Naravno.
+{6227}{6262}"Kibbles 'n Bits. "
+{4846}{4905}Neæe prestati da krvari.|Neæe prestati da krvari.
+{4909}{4984}- Isuse. Šta se dogodilo?|- Nesreæa. Imali smo nesreæu.
+{4989}{5057}Kiša i sijevane idu prema Elku.
+{5061}{5143}Radar je uoèio više grmljavinskih|oluja sa sijevanjem...
+{5147}{5199}na putu iz Pershinga i okruga Lander....
+{5203}{5247}- Moglo bi doæi do razornoga vjetra....|- 4 x 10 =
+{5251}{5304}4 x 10--
+{5416}{5473}TImothy, ajde ne radi to sada?|Pokušavamo èuti o oluji.
+{5505}{5570}- Sigurno ne želiš da je vozim?|- Ne.
+{5574}{5633}Ja æu voziti do Andersona,|onda ti možeš nakon što jedemo.
+{5637}{5681}Okreni u smjeru okretanja.
+{5698}{5784}Koèi kratkim èvrstim pritiscima.
+{5797}{5845}Provjeri ogledalo i razmak |i poèni...
+{5850}{5931}...se lagano zaustavljati.
+{5954}{5994}Jesi dobro, dušo? Timothy?
+{5998}{6043}Pojas,pojas,pojas.
+{6187}{6222}- To je cipela.|- Šta?
+{6227}{6262}To je cipela!
+{8473}{8559}Za njega dobrog prijatelja
+{8563}{8674}Za njega dobrog prijatelja
+{8678}{8833}Za njega dobrog prijatelja
+{8883}{9038}Što nitko ne može poreæi
+{9322}{9365}Sranje!
+{9494}{9599}- Zašto nisi kupila bolju rezervnu?|- Znaš li koliko koštaju radijalke, Alice?
+{9603}{9641}Dragi, ne prigovaraj.
+{9646}{9731}Pa, ako je cilj rasprave da upišemo|Timothya u pravu školu...
+{9735}{9791}-...apsudno je fokusirati se...|-George? George?
+{9795}{9856}-...na rezervne gume.|- Kako da pomognem?
+{9860}{9950}Nikako.  U redu je, ali...
+{9962}{10011}...hvala.
+{10689}{10772}O, moj Bože!|O, moj Bože! Alice?
+{10798}{10907}O, moj Bože! Alice?|Šta si napravio?
+{10931}{11020}Šta si napravio?|Šta si napravio?
+{11085}{11163}Bok, Harry.|Gdje da poènem?
+{11167}{11239}Opet sam na djelu, jeli tako?
+{11244}{11296}Znam da æe reæi da sam u razmaku...
+{11300}{11370}...ali oèito nisu èitali moj ugovor.
+{11374}{11429}Imali su me u Ramadi--
+{11521}{11570}O, Isuse.
+{11582}{11644}Mislim da imam rezervnu |bateriju u torbi.
+{11648}{11677}Oprostitie?
+{11681}{11779}Imam rezervnu bateriju u torbi,|sprijeda do vas.
+{11783}{11914}- Koje, gðice Suzanne?|- Louis Vuitton, pravo na vrhu.
+{12029}{12061}Ne vidim ništa
+{12065}{12165}Samo koristi oèi jebote!!|U džepu sastrane! Pogledaj!
+{12169}{12200}Isuse!
+{12409}{12487}Šta si napravio?|Šta si napravio?
+{12491}{12572}Ne, budalo! Ako pomogneš|prihvaæaš odgovornost.
+{12579}{12637}I je moja odgovornost.|Pusti me.
+{12659}{12704}Alice? Alice?
+{12708}{12761}Šta si napravio?|Šta si napravio?
+{12770}{12831}Pusti me da vidim.
+{12835}{12938}Vozaè svakog motornog vozila|upleten u bilo kakvu nesreæu...
+{12942}{13034}...uzrokovanu upravljanjem vozila|u 10 dana....
+{13038}{13094}Imate li ruènik ili nešto slièno u autu?
+{13098}{13162}U redu. Pomozi mi da pogledam.
+{13187}{13238}...u 10 dana od nesreæe...
+{13242}{13346}...ako æete upravljati vozilom|morali bi uvijek...
+{13350}{13452}- Budi tu. Održite ju suhom|- U redu je. U redu je, dušo.
+{13477}{13534}- Otvori vrata! Trebamo telefon.|- Ne!
+{13557}{13601}Ljubavi, u redu je.
+{13605}{13647}Honey, it's okay.
+{13711}{13795}- Daj mi prokleti telefon!|- Telefon je mrtav, u redu?
+{13800}{13906}Biæeš u redu.|Biæeš dobro.
+{14072}{14112}Ne!
+{14628}{14686}- Neæe da stane krvariti.|- Isuse. Šta se desilo ?
+{14690}{14757}Dogodila se nesreæa. Mogu li se |molim vas poslužiti telefonom?
+{14761}{14835}- Molim vas telefon?|- Da, naravno.
+{14902}{14993}Sranje. Nemogu dobiti signal.|Dogaða se kad je kiša.
+{14997}{15025}Telefon ne radi.
+{15029}{15101}St. Jude ima hitnu,|30 milja istoèno.
+{15125}{15153}U redu.
+{15203}{15254}Sjedi tu, u redu?
+{15285}{15358}Drži ranu pod pritiskom.|Vratiæu se s hitnom.
+{15606}{15645}Šta radite?
+{15649}{15727}Izvini. Malo je jadnije od Ramade,|ali moram to da uradim.
+{15731}{15779}Ja ne ostajem ovdje.|Jesi poludio?
+{15783}{15898}Ovo je moj auto. Ti radiš za mene.|Vrati torbe u auto odmah!
+{15936}{16057}Razumijem da osoba koja krvari treba|pomoæ, ali trebam i ja.
+{16061}{16193}Moja pluæa su se razbolila!|Ako ostanem, ugušiæu se
+{16295}{16383}Ne, molim, molim, molim,|molim, molim, molim.
+{16401}{16445}Molim!
+{16622}{16654}Hej!
+{16787}{16828}Stani. Molim te, molim.
+{16911}{16998}Bok. Izvini, moj auto je pokvaren.|Možeš me povesti?
+{17002}{17045}Može.
+{17478}{17527}Znaš da ideš na istok.
+{17548}{17603}Bolnica je u ovom smjeru.
+{17632}{17733}Poplavljeno je. Mislim,|to je slijepa ulica.
+{17741}{17824}Pa ako nemaš ništa protiv,|moram pokušati.
+{17959}{18042}U redu, to bi bilo 30$, molim.
+{18183}{18235}Zar vi niste bili glumica?
+{18302}{18347}Da.
+{18383}{18466}- Vau.|- Jeli to lijepa soba?
+{18506}{18622}Iako mislite da æu brzo otiæi,|svejedno trebam lijepu sobu.
+{18675}{18723}Najljepšu...
+{18753}{18798}...ako je moguæe.
+{18938}{18989}Soba 8 je jako udobna.
+{19206}{19266}Pokušala sam vam reæi.
+{19322}{19411}Hej! Hej, stani!|Tamo nema prolaska.
+{19415}{19480}Tamo nema prolaska!|Nema prolaska!
+{19484}{19519}- Lou, budi se.|- Šta?
+{19535}{19571}Mobitel.
+{19575}{19624}- Šta?|- Jel' iamš mobitel?
+{19628}{19662}Koga zanima?
+{19678}{19743}Dogodila se gadna nesreæa.|Dama je ozljeðena.
+{19747}{19816}- Trebamo mobitel odmah.|- Stari, stani malo.
+{19820}{19903}Prvo, neznamo tko si.|Drugo, ne vidimo nesreæu.
+{19907}{19996}Slušaj stari. Proživljavam stvarno |sjeban i nokar jebeni dan.
+{20000}{20059}Zato ako imaš mobitel daj mi ga!
+{20064}{20194}Stari, mi nemamo mobitela, |može da nas pustiš sada?!
+{20232}{20298}Treba mi prijevoz u drugom smjeru.
+{20302}{20388}I tamo je poplavljeno.|Gore od ovoga ovdje.
+{20435}{20480}Ginny, otvori vrata.|Pusti ih unutra.
+{20520}{20558}Pusti ih.
+{20971}{21017}Hej. Kako ste?
+{21178}{21244}- Telefon još ne radi?|-  Tako je. Gdje ti jeLincoln?
+{21248}{21334}Ostao na cesti 3 km dole uz cestu.|I druga cesta je sjebana.
+{21338}{21386}Klinci su nas povezli.|Cura se izgubila.
+{21398}{21458}- Postoji li drugi izlaz?|- Jel' ona kurva?
+{21461}{21500}Hej! Postoji li cesta odozada?
+{21505}{21565}Gdje misliš da ide voda?|Neæeš prijeæi ni 150 m.
+{21570}{21657}- Kako je žena?|- Ne znam. U èetvorci su
+{22025}{22094}Žao mi je. Ne iznajmljujemo sobe|oko jedan.
+{22140}{22218}Zanimljivo. Služite li hranu?
+{22222}{22320}Automati za hranu su iza ugla.|Samo izvolite.
+{22324}{22430}Sobe su 30 $ unaprijed sa osobnom|kartom. Trebate 1 ili 2 sobe?
+{22435}{22521}Izvinite. Prièala sam vama. Cijenila|bih kad bi me gledali u oèi.
+{22539}{22599}Pa, ja ne gledam u smeæe.
+{22775}{22884}Malo smo zapeli ovdje, George.|Mislim da se neæemo izvuæi veèeras.
+{22888}{23002}- Ona  nastavlja drhtati.|- U šoku je.
+{23006}{23063}- Daj da pogledam.|- Šta?
+{23068}{23129}Daj da pogledam.
+{23536}{23583}Ima li vaša žena pribor za šivanje?
+{23600}{23630}Ne.
+{23754}{23789}Ginny, prièekaj.
+{23872}{23924}6.
+{23937}{24003}Bar imamo dobar broj.
+{26680}{26767}- Jel' osjetiš to?|- Osjetim šta?
+{26771}{26811}Hladnoæu.
+{27138}{27182}Vi ste menadžer?
+{27186}{27234}Da.
+{27246}{27361}Ja sam policajac Rhodes.|Prevozim zatvorenika ovdje.
+{27365}{27434}Zakon vam daje pravo da odbijete|da nam pomognete...
+{27438}{27497}...ali ceste su poplavljene.|Trebala bi mi soba.
+{27501}{27583}- Ovo je hitno.|- Imate radio stanicu u autu?
+{27587}{27638}- Tko je ovo?|- Vozaè limuzine, imao sam nesreæu.
+{27642}{27718}Imam poprilièno ozljeðenu.|Koristila bi mi hitna.
+{27722}{27791}4-4-2 traži hitnu.
+{27795}{27860}4-4-2 traži hitnu.
+{27864}{27929}Ništa. Tako je veæ zadnjih sat vremena.
+{27933}{27992}Ona gubi puno krvi.|Imate li pribor za prvu pomoæ
+{27996}{28029}Samo zavoje, to je to.
+{28033}{28095}- A igla i konac?|- Možda u restoranu.
+{28099}{28208}Ja æu. Zakljuèano je.|Ostanite suhi.
+{28213}{28275}Vratit æu se s kljuæem.|Daæu vam sobu 10.
+{28279}{28357}- U redu. Hvala.|- Šta imaš tamo odozada?
+{28361}{28412}Zatvorski premještaj.
+{28417}{28497}Kad ga smjestite, doðite|u sobu 4 i pogledajte damu.
+{28501}{28578}- Koristilo bi mi drugo mišljenje|- Da, naravno.
+{28769}{28835}Izgleda da si sjeban.
+{28856}{28886}Zaèepi!
+{29221}{29285}- Bar da imam znaèku.|- U redu je.
+{29290}{29346}Bolje bi bilo.
+{29350}{29417}Moram smjestiti policajca. |Recite ako šta trebate.
+{29421}{29469}Odmah se vraæam.
+{29619}{29685}Gdje ste to nauèili?
+{29696}{29762}Otprilike tu gdje vi stojite.
+{30081}{30139}Hej, jeli...?
+{30157}{30227}Djeèak, jeli s njim sve u redu?
+{30231}{30289}Nije rekao ni rijeè od nesreæe.
+{30293}{30403}Ne, ne, ne. On ne prièa puno|otkad je....
+{30461}{30520}Ja sam njegov oèuh.
+{30524}{30575}Njegov otac....
+{30606}{30666}prije dvije godine, otišao je.
+{30706}{30762}Problemi s temperamentom.
+{31146}{31194}Pazi kuda hodaš.
+{31365}{31398}Namještaj je sranje.
+{31402}{31506}Ako tražite gdje da ga zavežete,|toalet je prièvršæen dole.
+{31510}{31556}Hvala vam puno za pomoæ.
+{31560}{31626}- Dobra ideja. Hajde.|- Imam okove.
+{31630}{31736}Okovi na ramenima i|ovi lanci
+{31740}{31795}Ovi lanci|Oni bi...
+{31894}{31936}Ajmo pogledati damu.
+{32039}{32097}- Jeste dobili koga?|- Šta?
+{32108}{32186}- Jeste dobili vezu?|- Ne, ne još.
+{32336}{32376}Dobro šivanje.
+{32449}{32515}Puls je slab, ali stabilan.|Neka joj bude udobno.
+{32519}{32579}Trebali bi se mijenjati na radio |stanici, ako se slažete.
+{32593}{32659}Ne, ne treba.|Mogu sam.
+{33045}{33119}Hoæete me uhapsiti, policajèe?
+{33204}{33251}Šta?
+{33275}{33358}Kako ste to napravili?|Kako znate da sam policajac?
+{33441}{33498}Ne seri.
+{33562}{33624}Èips za veèeru, a?
+{33628}{33713}- To nije u redu.|- Imate bolju ideju?
+{33717}{33819}Napravljen je nered u kuhinji.|Možda je restoran otvoren.
+{33823}{33895}Imaš dolar sitnog?
+{33908}{33980}Ne znam. Da vidim.
+{34202}{34261}Evoga.
+{34300}{34342}Imaš ime?
+{34374}{34441}-Paris.|-Paris, a?
+{34446}{34477}Biæu tamo.
+{34481}{34533}Nikad bio.
+{34537}{34613}E, veèeras baš neæeš.
+{34865}{34910}Molim te.
+{34914}{34980}Molim te budi jaka.
+{34995}{35086}Znaš, Timothy i ja...
+{35090}{35147}...trebamo te.
+{35162}{35225}Jako te trebamo.
+{36637}{36680}Lou?
+{36741}{36789}Lou?
+{37542}{37608}Moraš im reæi Harry da ne mogu|raditi, da ne mogu nastupati...
+{37612}{37681}...ne mogu živjeti u |takvoj okolini.
+{37685}{37791}Ne, nije rijeè o novcu,|veæ o uvjetima rada.
+{38550}{38596}Jedna crta.
+{38610}{38657}Jedna crta.
+{38662}{38689}Bez crte.
+{38713}{38750}Jedna crta
+{38754}{38782}Dvije crte.
+{38828}{38885}Ajde. Ajde.
+{38900}{38942}Idemo.
+{38999}{39067}Tako. Ajde.
+{39160}{39221}Prokleta pustinjska vukojebina.
+{39411}{39507}O, sranje! Baš sam ga uhvatila.
+{44824}{44890}A u kurac.
+{45602}{45691}- Isuse, Majko Božja|- Tko je to?
+{45695}{45773}Žena koju sam vozio.
+{45843}{45920}- Šta to dovraga radite?|- Nešto je unutra.
+{45924}{45974}- Evo ti ovo.|- Hvala.
+{45978}{46055}- Jesi ti drot?|- Bio sam.
+{46241}{46320}- Ona je bila u sobi 10?|- Ja sam.
+{46361}{46457}- Gdje je tvoj robijaš?|- Zavezan u toaletu.
+{46698}{46750}Kujin sin.
+{46781}{46839}To je bila jebena vožnja.
+{46940}{47011}- Gospodo.|- Vaša visosti.
+{47164}{47253}Spremna, Sharon? U redu.
+{47257}{47339}U vezi Rivers protiv Nevade,|u svrhu...
+{47343}{47477}Suèe Taylor, gospodine, s poštovanjem,|trebamo èekati dok mij klijent doðe.
+{47489}{47584}- Ima pravo da bude prisutan.|- Ima samo par malih prava.
+{47588}{47634}24 sata ga dijeli do egzekucije.
+{47660}{47732}Ali da bi pokazali njegovo duševno|stanje, što je i svrha...
+{47741}{47785}Njegovo duševno stanje?
+{47799}{47841}Njegovo duševno stanje?
+{47854}{47950}Znate li koliko ja sati?|Mislite da imam vremena za sranja?
+{47954}{48040}To što me je pravda zvala u pola noæi|da razmotrim sluèaj...
+{48045}{48151}...koji sam veæ rješavao, a odluku sam |veæ donio, a i biæe vam drago.| 
+{48155}{48204}A to me ljuti.
+{48210}{48304}Kada vaš momak doðe, radite što hoæete,|ali u ime pristojnosti...
+{48308}{48369}...izložite svoj prokleti sluèaj!
+{48414}{48465}Da, gospodine.
+{48469}{48517}Neka mi netko donese šalicu |kave, crne.
+{48654}{48753}U redu, slušajte svi!
+{48776}{48815}Dogodila se nesreæa sinoæ.
+{48819}{48869}To je policijski sleng za,|"Nekome su otkinuli glavu."
+{48874}{48907}Larry!
+{48940}{49012}- Caroline Suzanne je ubijena.|- Šta?
+{49017}{49106}- Tko jeCaroline Suzanne?|- Glumica koju sam vozio.
+{49110}{49188}I gdje se to dogodilo?
+{49192}{49269}Ne znamo, jer ne možemo |naæi tijelo.
+{49274}{49309}Bar ne cijelo tijelo.
+{49313}{49434}- Kako mislite, ne možete ga naæi?|- Smiri se. Sve æe biti u redu.
+{49438}{49533}Policajac Rhodes je vani.|Prevozio je osuðenika. 
+{49537}{49598}- Koji je pobjegao.|- Šta vi..?
+{49626}{49670}- Samo malo.|- Sad je slobodan!
+{49674}{49733}Zašto ne zaèepiš jebote, pa |da on može govoriti?
+{49737}{49808}To je moje mjesto!|Govoriæu šta želim!
+{49812}{49851}- Ovdje je sigurno.|- Ovdje nije sigurno!
+{49855}{49901}- Tu je policajac.|- Tako je, 2 policajca.
+{49905}{49945}Èekaj. Ti si drot?
+{49950}{50082}- Bio sam. Zaèepi Larry!|- Ovdje nije sigurno! Ja ne ostajem!
+{50094}{50157}U redu je. Dobro.
+{50194}{50245}Ništa
+{50250}{50327}- Jeli ona u redu?|- Ginny.
+{50334}{50433}Ginny, hoæeš li...?|Prestani. Ne radi to sada.
+{50455}{50523}- Šta to radiš?|- Stavljam ti ruku oko djevojke.
+{50527}{50625}- Ustvari, ona mi je žena.|- Svi ostanite ovdje.
+{50629}{50702}- Ostanite u ovoj sobi|- Èekaj! Ja ne ostajem ako on ostaje.
+{50709}{50745}- Da, ostaješ.|- Ne , ne ostajem.
+{50749}{50834}- Ne ostajem.|- U redu. Larry?
+{50838}{50873}- Poði s nama|- Zašto?
+{50879}{50949}- Ti poznaješ mjesto|- Evo šta znam. Nisam drot.
+{50953}{51015}Ne primam zapovijedi od|profesionalne kurve.
+{51023}{51095}- Jebi se!|- Slušaj. Samo ostani tu, molim te.
+{51099}{51139}Drži sve smirenim.
+{51344}{51419}Neæe on daleko.|Ne u ovome!
+{51462}{51509}Rhodes!
+{51517}{51554}Koga lovimo ovdje?
+{51623}{51690}Višestrukog ubojicu.
+{51700}{51782}Idem okolo ovuda.|Naðemo se odozada.
+{52100}{52172}To je gdje živiš|za stalno? Las Vegas?
+{52199}{52278}- Nekada živio.|- Što to znaèi?
+{52322}{52397}Znaèi da više ne živim tamo.
+{53277}{53307}Maine!
+{53344}{53433}Idemo vidjeti možemo li ovo iskoristiti.|Idemo ovdje.
+{53437}{53521}Pošto to nije uspjelo, idemo ovuda.
+{53528}{53637}Biæu vani. U redu je.|Èuvaæu stražu.
+{53643}{53759}Bez brige. Biæu ovdje.|Ne idem nikuda.
+{53924}{54025}Vidite, njegova majka je ovo radila.
+{54528}{54645}Hej, Ginny. Koliko dugo ste vas|dvoje vjenèani?
+{54649}{54742}Oko 9 sati. To je|brzo potezna odluka.
+{54758}{54798}Viva Las Vegas, aa, Gin?
+{54822}{54885}- Moramo iæi!|- Samo sam prièao s njom.
+{54890}{54952}Nešto se dogaða!|Moram iæi odavde!
+{54957}{55082}- Ginny! Ginny!|- Ne posjeduješ me, Lou!
+{55086}{55141}Posjedujem ono iznutra!|Bar pola.
+{55145}{55216}Nemaš ni jedan dio mene|ili mije bebe!
+{55220}{55263}Zašto sam te onda ženio?
+{55278}{55387}- Ne lupaj mi vratima pred nosom!|-Hej! Hej!
+{55391}{55451}Hej vi, smirite se!
+{55602}{55706}Ne idemo.|Nemamo kuda.
+{55710}{55807}Vani je poplava,|Ginny. Prestani! Prestani!
+{55811}{55880}Ja nisam trudna!
+{55979}{56036}Šta si rekla?
+{56103}{56159}Lagala sam.
+{56176}{56240}Nisam trudna.
+{56316}{56392}Šta prièaš?|Vidio sam test.
+{56503}{56552}Zašto bi mi to napravila?
+{56573}{56678}Zato što te je Alison vidjela u|"The Hawk" s tom jebenom ženskom!
+{56790}{56877}- Ginny, koliko je tebi, 15?|- Idi!
+{56911}{56967}Jebemti!
+{57425}{57503}- Otvori prokleta vrata, Ginny!|- Ne!
+{57507}{57575}Nisam bio u "The Hawk"|cijele godine jebote.
+{57579}{57717}Alison je glupa kuja koja voli|da ti sjebe mozak.
+{57721}{57777}Otvori prokleta vrata, Ginny.
+{57782}{57873}- Otvori jebena vrata!|- Neæu dok se ne smiriš!
+{57882}{57975}Smiren sam! Jebeno sam smiren!
+{58207}{58266}Šta to radiš?
+{58340}{58406}Lou?
+{58749}{58850}Ginny, otvori prokleta vrata!|Otvori vrata!
+{58862}{58929}- Otvori vrata!|- Prestani, prestani!
+{58957}{59065}Ginny, jebemti, otvori vrata!|Ginny, Ginny, Ginny!
+{59069}{59127}Lou, molim te prestani!
+{60036}{60093}Lou?
+{61081}{61186}O, moj Bože! O, moj Bože!
+{61190}{61257}Upomoæ! Netko nek' mi pomogne!
+{61450}{61507}Upomoæ!
+{61516}{61599}Upomoæ! Netko nek' mi pomogne!
+{61609}{61697}Jel' on unutra? Jel' on unutra? 
+{61735}{61821}Ginny, jesi dobro?|Šta je bilo? Šta je bilo?
+{61982}{62054}- O,  sranje.|- Isuse Kriste.
+{62255}{62328}Lou? Lou?
+{62356}{62406}Šta se dogaða?
+{64390}{64422}Šta dovraga?
+{64498}{64543}O, sranje!
+{64597}{64649}Doði tu!
+{65000}{65093}Uhvatili su ga. Uhvatili su ga.
+{65288}{65346}Zašto ga držimo ovdje unutra?
+{65365}{65441}- A gdje bi ti, Larry?|- Ne znam.
+{65447}{65510}Rekao sam ti da ostaneš u 3, zar ne?|Zar ti nisam rekao?
+{65514}{65629}Tukli su se! Pokušavao |sam da ih vratim unutra!
+{65633}{65699}Hoæemo pokušati opet|s radio stanicom?
+{65706}{65798}Larry, ostani ovdje i pazi ga.
+{65802}{65886}- Idite nazad i pazite na Ginny.|- A gdje vi idete?
+{65894}{65958}Samo uradi to, molim te.
+{65980}{66010}Ed?
+{66100}{66163}Ne znam baš je li mi je ugodno |biti osiguranje.
+{66179}{66255}Nema svijesti, Larry.|Zavezan je za gredu.
+{66807}{66865}Timothy.
+{66935}{66985}Timothy.
+{67139}{67266}Alice? O, moj Bože. Alice?
+{67298}{67355}Ne sjeæam se nièega.
+{67373}{67434}Imali smo nesreæu.
+{67457}{67517}George? Možeš li pripaziti malo |na Ginny?
+{67525}{67673}Sada je budna. Moram nabaviti |Aspirin da joj pomognem.
+{67706}{67781}Draga, moram nešto uzeti |iz moje sobe.
+{68183}{68250}- Sranje!|- Šta nevalja, majstore?
+{68266}{68310}Šta imaš u tome frižideru?
+{68331}{68396}- Zaèepi.|- Šta je unutra?
+{68454}{68517}Šta je unutra?
+{68522}{68569}- Šta držiš unutra?|- Zaèepi.
+{68578}{68622}Šta je to, a?
+{68626}{68669}- Zaèepi.|- Meni možeš reæi.
+{68676}{68774}Dobar sam u èuvanju tajni.|Imam puno tuðih.
+{69239}{69277}Šta to radiš?
+{69288}{69317}Jebem ti mater!
+{69321}{69413}- Šta radiš tamo?|- Uzimam sranje što je moje.
+{69417}{69504}Šta radiš to?|Šta, ne smijem pitati?
+{69508}{69590}Slikam. Dogodila su se 2 umorstva.|Prije nego svi dokazi...
+{69594}{69693}To nije odgovor. Ti si vozaè limuzine.|Šta to radiš?
+{69697}{69791}Pokušavate da budete junak pored |vozanja limuzine.
+{69795}{69874}Nisi više na dužnosti.|Ne trebaš biti heroj.
+{69878}{69935}Tamo vani je pravi, živi|djelatni policajac...
+{69939}{70006}Onaj kojem je uspjelo izgubiti|osuðenog ubojicu?
+{70068}{70110}Ti si kompliciran, Edward.
+{70138}{70195}Ne. Ustvari ne.
+{70205}{70259}Mislim da jesi.
+{70313}{70371}U kojem mjesecu si roðen?
+{70384}{70453}- Svibanj.|- Bik.
+{70479}{70522}Isto kao i ja.
+{70602}{70689}- Gdje si bio policajac?|- Los Angeles.
+{70702}{70778}Jesi dobio otkaz ili si ga dao?
+{70788}{70842}Uzeo sam otpust iz zdravstvenih|razloga.
+{70855}{70921}Poèeo sam biti bolestan.
+{70950}{71028}Mislim da sam izgorio.|Nisam bio za to.
+{71127}{71180}Jedan dan sam dobio poziv...
+{71237}{71293}...za skakaèa samoubojicu.
+{71297}{71344}Mlada meksikanka.
+{71405}{71488}Trudna, zaražena AIDS-om,|totalno sjebana.
+{71502}{71588}Bila je stvarno jedna od propalih.
+{71661}{71754}Govorio sam joj da siðe s grebena|i doðe meni u zagrljaj.
+{71768}{71840}Pitala me je zašto da se |uopæe trudi živjeti.
+{71994}{72050}Šta si joj rekao?
+{72100}{72166}Uèili su me da joj govorim|puno stvari
+{72167}{72246}O njenim snovima, ljudima|kojima bi nedostajala.
+{72267}{72337}Ali na trenutak sam zastao.
+{72364}{72413}I ona je to vidjela.
+{72490}{72622}U tom trenutku joj nisam mogao reæi|nijednu optimistiènu rijeè.
+{72713}{72790}I raširila je ruke i skoèila.
+{72915}{72970}Poèele su me muèiti glavobolje...
+{73025}{73101}...i poèeo sam blokirati.
+{73131}{73235}I otišao sam zbog zdravlja.
+{73616}{73667}Šta?
+{73722}{73764}Šta je?
+{73868}{73912}Rhodes!
+{73916}{74038}- Slabo je. Ništa osim šuma!|- Gdje je kljuè od glumice?
+{74073}{74128}Ovaj je bio na djeèaku.
+{74169}{74235}- Šta je ovo, nekakvo odbrojavanje?|- Larry?
+{74296}{74382}Koji on kurac radi?|Larry, dolazi ovdje!
+{74398}{74489}Dolazi ovdje, èovjeèe.|Šta radiš? Doði.
+{74522}{74597}- Šta radiš?|- Samo sam otišao po nešto.
+{74619}{74708}Rekli smo ti da èuvaš zatvorenika.|Šta si radio u svojoj kancelariji?
+{74727}{74762}Samo sam otišao po nešto.
+{74766}{74856}Koliko ima kompleta kljuèeva za sve ovo|ovdje? Gledaj me? Koliko? 
+{74860}{74918}- Dva i glavni komplet.|- O, jebote bog!
+{74938}{75092}Larry, jebemti...! Kujin...!|Dolazi ovdje jebemti! Dolazi!
+{75141}{75203}Zašto si ga ubio?|Zašto si ubio mog zatvorenika?
+{75207}{75325}U jebote! Tko je to uradio?|Isuse Kriste, ja nisam!
+{75329}{75367}Sereš! Lažeš!
+{75371}{75465}- Tvoja palica mu viri iz grla!|- Znam, ali nisam to ja napravio!
+{75469}{75510}Provjerite vrata!
+{75515}{75554}- Nisam to ja!|- Pogledaj ga!
+{75558}{75635}- Zašto si ga ubio?|- Zašto si izlazio van?
+{75639}{75688}- Zašto si ga ostavio?|- Bio sam uplašen.
+{75692}{75746}- Èega si se bojao?|- Ti to ne bi razumio.
+{75750}{75785}Pokušaj.
+{75789}{75831}- Zašto si ga ubio?|- Nisam!
+{75835}{75929}Neznam kako...|Samo sam otišao do kancelarije!
+{75933}{75997}- Zašto si ga ostavio?|- Jel' ovo tvoj kljuè? Broj 8?
+{76001}{76064}10, 9, 8, aa?|To je tvoj kljuè!
+{76068}{76115}Nemožeš to reæi!|To nisu moju kljuèevi!
+{76119}{76191}To  je kao da navodiš |svjedoka ili slièno. Vidi.
+{76195}{76283}Ovo su moji kljuèevi, u redu?|Ovo su moji kljuèevi. Vidiš?
+{76320}{76377}Imaš Gucci novèanik?|To je od glumice.
+{76381}{76487}Da, uzeo sam njen novèanik.|Nakon toga. Nakon što je ubijena.
+{76491}{76620}Nakon toga, u redu? Nisam je ubio.|A ni njega.
+{76624}{76739}- Pusti ju, Harry.|- Nazad
+{76743}{76792}- Timothy?|- Izvedite ga van!
+{76796}{76876}- Spusti to.|- Nisam nikome naudio. Nikome.
+{76880}{76961}Ali ne volim jeftine jebene kurve!|Ako napravite još jedan korak...
+{76965}{77021}Jebiga!
+{77217}{77265}Mièi ga!!
+{77357}{77384}Sranje!
+{77575}{77641}Hajde, mala kujo.|Molim te poèni, jebote.
+{77655}{77721}- A u kurac!|- Hej!
+{77743}{77798}Larry, stani!
+{77875}{77908}Šta se dogaða?
+{77922}{77977}- Larry!|- Mièi mi se. Nisam ništa napravio!
+{78058}{78121}Timothy! Timothy!
+{78661}{78718}Njegovo mentalno stanje je|odbijeno od suda...
+{78722}{78830}...unatoè èinjenici da je moj klijent oznaèen|kao disocijativna osoba 4. stupnja.
+{78834}{78946}Sve do danas, on nije svijestan|zloèina za koje je osuðen.
+{78950}{79089}1986., Vrhovni sud je izrièito zabranio|da država ne može napraviti egzekuciju...
+{79092}{79171}...nad osobom koja ne razumije|zašto je osuðena na smrt.
+{79175}{79206}On je potpisao priznanje.
+{79210}{79295}- Nije ga samo potpisao, diktirao ga je.|- Treæina...
+{79299}{79431}...Malcolm-ovih dnevnika nije bilo|zavedeno pod dokazni materijal.
+{79435}{79554}Vaša Visosti, ova bilježnica sadrži rukopise|unesene upravo prije ubojstava.
+{79558}{79662}Jako važno je napomenuti velike |promjene u rukopisu...
+{79666}{79708}...tonu, pogledima.
+{79713}{79829}Ono što gledate su osobna |mišljenja više razlièitih ljudi.
+{79833}{79923}Ako dozvolite,|Dr. Mallick bi pojasnio.
+{79927}{79986}Hvala.
+{79994}{80083}Vaša Visosti, ne postoji |efikasno lijeèenje
+{80087}{80155}...za poremeæaj identiteta iz disocijativnosti.
+{80159}{80262}U teoriji, pokušati nauèiti pacijenta|da bi se sve povezalo skupa.
+{80266}{80376}- Složiti njegovu zbrkanu psihu.|- Visosti?
+{80386}{80421}On je ovdje.
+{80838}{80902}Ne! To što ste vidjeli bila |je nesreæa!
+{80907}{80958}Istrèao mi je pred auto!|Ja nisam ubojica!
+{80963}{81012}Tamo u frižideru imaš|mrtvo tijelo, Larry.
+{81016}{81077}- Nisam ga ubio. Našao sam ga tako.|- Prestanite!
+{81081}{81165}Slušajte! Slušajte! Bio sam prošli mjesec|u Vegasu i sve sam izgubio, u redu?
+{81169}{81199}Sve!
+{81203}{81290}Vozio sam prema zapadu. Nisam znao|gdje da idem,nestajalo je benzina...
+{81294}{81352}...pa sam natoèio ovdje.
+{81356}{81460}I nije bilo nikoga na benzinskoj,|pa sam došao ovdje do kancelarije...
+{81464}{81507}...i ušao unutra.
+{81511}{81580}i ovdje, sjedio ja za stolom,|upravo tu, menadžer...
+{81584}{81648}...s glavom u piti.|Mrtav!
+{81652}{81732}- Srèani udar oli slièno.|- Pita!
+{81736}{81797}Sjedio je tu Bog zna koliko dugo.
+{81801}{81898}Odjednom je došao prodavaè |auto-dijelova i tražio je sobu.
+{81902}{81956}Nisam imao ni jebenih novaca...
+{81960}{82023}...pa sam uzeo njemu 30$ i|dao mu sobu.
+{82027}{82130}Jednostavno sam uzeo kljuè |sa zida i dao mu sobu.
+{82134}{82237}Možda je to bilo krivo, ali bio sam |bez novaca i tako sam napravio.
+{82262}{82311}Onda sam se vratio nazad...
+{82325}{82411}...i maknuo Larry-evo tijelo. |On se isto zvao Larry.
+{82415}{82502}Stavio sam ga u zamrzivaè.
+{82565}{82630}Nisam ga htio sakriti.|Vani je bilo vruæe.
+{82634}{82745}Mislio sam da je to bilo najbolje mjesto |za njega dok ga obitelj ili netko ne pokupi.
+{82749}{82809}Samo što nitko nije došao...
+{82821}{82886}...osim još više gostiju.
+{82891}{82960}Pa sam i njima dao sobu.
+{82982}{83041}I svi su izgledali sretno...
+{83046}{83109}...pa sam ostao.
+{83134}{83210}O, isplaèi mi se!|To je totalna laž.
+{83214}{83273}- Ne, nije!|- Priznaj, ubio si ga.
+{83277}{83343}Kao što si ubio mog zatvorenika.|Kao i njenog muža.
+{83347}{83410}Kao i glumicu. Samo priznaj.
+{83414}{83503}- Reci, "Ubio sam ih."|- Prestani. Dosta mu je!
+{83507}{83593}Sada je sve u redu. Imamo ubojicu.|Dobro je.
+{83597}{83638}- Ne znam šta to imamo.|- Šta?
+{83643}{83702}Prije 2 sata smo mislili |da ga imamo, onda...
+{83706}{83763}Ti to vjeruješ?|To je on! On je ubojica!
+{83767}{83818}Imao je nož na tvome vratu,|sjeæaš se?
+{83846}{83922}Prièa mu je toliko nevjerovatna,|da bi mogla i biti istinita.
+{83941}{83974}U pravu je.
+{84047}{84099}Vi ste ludi.
+{84104}{84158}Možda je ovo grobno zemljište.
+{84203}{84231}Šta?
+{84272}{84372}Proèitajte brošuru tamo.|Sve to je oko nas.
+{84376}{84450}Prije par stotina godina, vlada|je ovdje preselila Indijance.
+{84454}{84531}Svi su umrli jer nije bilo vode.
+{84581}{84639}A sada se vraæaju živi kao |morski majmuni, a?
+{84643}{84690}Ma daj.|Smiri se, mala.
+{84694}{84750}- Smiri se, Rhodes.|- Ne, ti se smiri!
+{84754}{84843}Trudiš se cijelu noè da ti vodiš ovaj šou.|Zapovijedaš, pokazuješ prstom!
+{84847}{84919}Okrivio si mog zatvorenika za sve,|a on skonèa mrtav.
+{84923}{84996}Kažem vam da je on!|Svi smo vidjeli da je išao za George-om.
+{85000}{85083}Novèanik od vaše glumice je tamo.|Ona je mrtva, novèanik je tamo.
+{85087}{85156}- Šta još hoæete?|- Prestani! Molim te zaèepi!
+{85181}{85256}U redu. Hoæeš plan?|Evo plana, u redu?
+{85261}{85362}Nitko nigdje ne ide. Ostaæemo tu,|ovako, u ovoj sobi, sve do zore.
+{85366}{85418}Nitko ne odlazi, nitko se ne mièe.
+{85422}{85494}Ako netko nešto pokuša,|upucaæu ga!
+{85497}{85574}I ako nešto izvana doðe unutra,|upucaæu i to!
+{85578}{85648}I ako netko od nas nešto pokuša,|upucaæu ga!
+{85652}{85687}- Shvatili smo.|- Dobro.
+{86499}{86558}Timmy? Timmy?
+{86562}{86638}- Trebao bi ostati ovdje s nama.|- U redu je.
+{86800}{86879}Sjeæate se onog filma gdje je|10 stranaca otišlo na otok...
+{86883}{86940}...i poginulo jedan po jedan...
+{86944}{87049}...i onda su skužili da nisu stranci,|da su svi bili povezani?
+{87053}{87107}Svi su se zakaèili s krivim èovjekom|i on se osveæivao.
+{87111}{87144}Zaèepi!
+{87186}{87259}Samo kažem da smo |svi možda povezani.
+{87270}{87302}Na primjer?
+{87316}{87388}- Svi smo u Nevadi.|- Zaèepi!
+{87452}{87529}Gdje si ti išao sa zatvorenikom|kada si tu stao?
+{87572}{87654}Carson City. U redu??
+{87690}{87788}Ja sam išao na Floridu.|Gdje si ti išao?
+{87792}{87837}Vozio sam glumicu u L.A.
+{87845}{87882}Ja sam roðen na Floridi.
+{87909}{87974}Otkako si na toj stolici, nitko|nije ubijen, zato zaèepi!
+{87978}{88013}Nitko nije ubijen otkako|smo svi u ovoj sobi zajedno!
+{88017}{88089}- Hej, dragi, sjedi.|- Gdje je Florida, Larry?
+{88141}{88222}- Gdje je Florida?|- Sad ste prijatelji, a? Krasno.
+{88253}{88333}- Polk County.|- Tamo sam ja roðena.
+{88337}{88393}- Which town?|- Mulberry.
+{88397}{88475}- Frostproof.|- Nije èudo da ste otišli.| 
+{88542}{88637}Tamo uzgajaju narandže.|Ime se duplira kao i slogan.
+{88641}{88731}Plesao sam Haleluja kad sam napustio|Polk. Zašto se ti želiš vratiti?
+{88735}{88806}Našla sam ponudu na Internetu.
+{88810}{88891}9 redova, 1200 stabala.|Limun i narandže.
+{88909}{88994}Prema vlasniku, zemlja treba|par dodataka, fosfor...
+{88999}{89152}...treba ju malo prekopati,|ali to je dobra zemlja.
+{89249}{89293}Šta?
+{89308}{89357}Lijepo zvuèi.
+{89851}{89880}Ed?
+{89964}{90017}Mrtva je.
+{90486}{90545}Izvedi ga van.
+{90565}{90637}Hajde.|Hajde, ljubavi.
+{90799}{90857}Vidi ovo.
+{90987}{91069}- Odakle ti to?|- Evo odavde.
+{91171}{91273}Ovo nema smisla.|Ona je umrla od nesreæe. 
+{91278}{91385}George je isto umro od nesreæe|ako æete vjerovati Larry-u.
+{91456}{91514}Gdje je 7 ?
+{91578}{91626}Nazad!
+{92495}{92608}- Eto, rekao sam da nisam ja!|- To nije moguæe.
+{92612}{92710}Tamo sam stajala. Vidjela sam šta se |dogodilo. Svi smo vidjeli šta se dogodilo.
+{92714}{92799}Pobjegao je. Nitko nije mogao|znati da æe on to uèiniti.
+{92803}{92834}Ništa ljudsko.
+{92838}{92897}Opet mi o tome.|Duhovi, a?
+{92901}{92999}Možda je duh èovjeka kojega|je Larry stavio u zamrzivaè.
+{93045}{93092}Neka me netko odveže.|Jebemti!
+{93096}{93136}Znate da nisam ja.|Hajde.
+{93141}{93144}- Slušajte.|- Moramo otiæi...
+{93144}{93187}- Slušajte.|- Moramo otiæi...
+{93191}{93245}Uzmite njen auto i idite van.|Vi, ona i djeèak.
+{93249}{93278}Nemamo gdje iæi.
+{93282}{93331}- Koliko benzina imate?|- Pola rezervoara.
+{93335}{93385}Možete se do zore voziti s tim.|Gledajte me.
+{93389}{93453}Kada doðete do kraja gdje je poplavljeno,|okrenite se u drugom smjeru.
+{93457}{93490}Ne znam je li mogu.
+{93494}{93569}Uzmi djeèaka i idi.|Odmah. Hajde.
+{93574}{93597}Timmy.
+{93602}{93665}Timmy, come on. Let's go.|Diži se.
+{93669}{93697}Šta se dešava?
+{93701}{93742}- Oni ne mogu iæi!|- Ovuda.
+{93746}{93794}Vidimo se kad prestane oluja.
+{93798}{93878}Hej! Hej! Oni ne mogu iæi!|Gdje idu? Vraæajte se!
+{93882}{93920}Ajde, ajde, ajde!|Oni odlaze.
+{93924}{93957}- Oni ne idu|- Idite!
+{93961}{94026}Nemožete pustiti sumnjivce nakon|smrti èetvero ljudi!
+{94030}{94101}- Stvarno misliš da su oni sumnjivi?|- Oni neæe iæi!
+{94263}{94299}Sranje!
+{94311}{94356}Ginny!
+{94403}{94470}Aparat za gašenje.|Larry, imaš aparat za gašenje?
+{94481}{94538}- Aparat za gašenje! Gdje?|- Tamo odozada!
+{95093}{95139}Nikoga nema.
+{95268}{95339}Možda je toliko vruæe |da su se kremirali.
+{95344}{95393}Nešto bi ostalo.
+{95496}{95529}Ti si to napravio.
+{95544}{95620}Ti si to napravio!|Ti si im rekao da idu u auto! 
+{95624}{95659}Jesi sretan?
+{96237}{96289}Gdje je on?
+{97739}{97767}Ništa.
+{97913}{97969}Predajem se!
+{97994}{98057}Predajem se!|Koji kurac ti hoæeš?
+{98062}{98165}Šta hoæeš od mene, bolesna seljaèino?|Koji kurac hoæeš od mene?
+{98204}{98294}Napuniæu 30 iduæi tjedan i|želim samo da idem kuæi...
+{98298}{98340}...i da uzgajam narandže!
+{98505}{98570}Tebi je roðendan iduæi tjedan?
+{98575}{98644}Mebi je roðendan iduæi tjedan.|10-og.
+{98682}{98713}Meni isto..
+{98813}{98848}Meni isto.
+{98915}{98957}Isto.
+{99012}{99073}George York, svibanj 10.
+{99077}{99124}Alice York, svibanj 10.
+{99128}{99172}Caroline Suzanne, svibanj 10.
+{99197}{99258}Ginny i Lou Isiana, svibanj 10.
+{99262}{99320}Ja, Larry Washington,|svibanj jebeni 10.
+{99345}{99413}Koje su moguænosti?|Sigurno 10 000 000 000 na 1.
+{99477}{99505}Šta je?
+{99872}{99934}- Gdje su osiguraèi, Larry?|- S druge strane zgrade.
+{100106}{100154}Ginny i Lou Isiana.
+{100169}{100236}Virginia i Louisiana.
+{100241}{100293}Caroline, Carolina.
+{100338}{100386}Paris Nevada.
+{100390}{100429}George York.
+{100453}{100511}Larry Washington.
+{100564}{100634}Rhodes, Rhode Island.
+{100768}{100829}Ed Dakota.
+{101168}{101275}Dok sam se penjao uz stepenice|Sreo sam èovjeka kojeg tamo nije bilo
+{101280}{101336}Opet ga danas tamo nije bilo
+{101340}{101385}Želim|Želim da ode
+{101428}{101477}Tko je to?
+{101481}{101552}S kim sada prièam?
+{101618}{101672}Gdje si nauèio tu pjesmicu?
+{101676}{101733}S kim prièam?|Gledaj me.
+{101737}{101792}Who am I speaking to right now?
+{101950}{101980}Doktore?
+{102057}{102111}- Edward?|- Šta se dešava?
+{102119}{102183}- Molim, budite tihi.|- On èuje šta mi prièamo?
+{102190}{102248}Naravno da može èuti|šta prièamo.
+{102252}{102374}Edward, zadnji satanak ste propustili.|Gdje ste bili?
+{102426}{102505}- Opet ste blokirali?|- Malo promislite unazad.
+{102509}{102568}Gdje ste bili?
+{102572}{102636}U redu.|Vozio sam glumicu...
+{102648}{102771}...i zapeli smo u motelu.|Bila je oluja.
+{102794}{102858}Nismo mogli izaæi odatle |zbog oluje.
+{102862}{102914}Šta se desilo u motelu?
+{102982}{103048}Ljudi su poèeli umirati
+{103052}{103124}I onda su njihovi leševi..|to nema smisla.
+{103129}{103170}Nestali su.
+{103231}{103295}Edward, nešto bi ti pokazao,|ako smijem.
+{103422}{103481}Prepoznajete li ovoga èovjeka?
+{103527}{103561}Ne.
+{103576}{103644}Taj èovjek, Edwarde,|je Malcolm Rivers.
+{103648}{103735}Imao je jako težak život.|Uhapšen je prije 4 godine...
+{103739}{103819}...i osuðen za nasilna i divljaèka|umorstva 6 ljudi.
+{103831}{103884}- On je to uèinio.|- Dtektiv, molim vas.
+{103888}{103928}Edward, slušaj me.
+{103937}{104079}Suoèen s intenzivnom traumom,|djeèji um može izmisliti...
+{104083}{104168}...više razlièitih identiteta.
+{104188}{104270}Upravo to se dogodilo|Malcolmu Riversu.
+{104274}{104332}On je razvio stanje|koje se obièno naziva...
+{104336}{104405}...Sindrom multipliciranih identiteta.
+{104531}{104578}Zašto mi to govorite?
+{104608}{104662}Zato što ste vi, Edwarde...
+{104666}{104742}...jedna od njegovih osobnosti.
+{104849}{104888}Šta!?
+{105238}{105316}Isuse Kriste! Šta ste |mi napravili s licem?
+{105321}{105361}- Smirite se.|- Gdje mi je lice?
+{105365}{105425}- To je tvoje lice.|- Zašto sam svezan?
+{105429}{105468}- Smirite se.|- Gdje je?
+{105472}{105508}- Molim vas.|- Isuse Kriste!
+{105513}{105564}- Gdje mi je lice?|- SMirite se.
+{105569}{105657}Ne! Neæu  se smiriti!|Zašto sam ovako svezan?
+{105661}{105744}Tko su ovi ljudi?|Što se dogodilo u motelu?
+{105749}{105821}- Gdje su svi?|- Oni ne postoje, Edwarde.
+{105826}{105888}Svi ste izmišljeni dok je|Malcolm bio dijete.
+{105892}{105950}- Vi ste lažov!|- Zavisi šta sve znate.
+{105954}{106011}- Svi imaju imena po državama.|- Ne.
+{106015}{106098}Svima je roðendan na isti datum.|Tvoje pogubljenje.
+{106102}{106137}Ne! Bio sam policajac!
+{106141}{106230}Bio sam policajac u LAPD u|satniji Rampart 6 godina.
+{106235}{106259}Edwarde, molim vas..
+{106264}{106321}Živim u  Hollywoodu,|u studijskom apartmanu.
+{106325}{106382}- Vi ne živite tamo.|- Živim!
+{106388}{106431}Ti ne živiš nigdje.
+{106439}{106536}Znam da je to teško za prihvatiti, |ali lice koje ste vidjeli u ogledalu...
+{106540}{106668}...je lice koje sam uvijek gledao dok sam| prièao s Edwardom ili Paris ili Larry-em...
+{106672}{106718}...ili s bilo kim koga si upoznao noæas.
+{106722}{106817}Malcolm  je usred tretmana.
+{106821}{106954}Tretman tjera sve njegove identitete|da se sukobe meðusobno po prvi puta.
+{106958}{107019}Znam da bi bilo nasilja...
+{107023}{107149}...i s tim bi se broj |identiteta smanjio.
+{107205}{107250}Smanjio?
+{107254}{107322}Jedna od tih osoba što si|upoznao veèeras, Edward...
+{107326}{107395}...poèinila je te zloèine |prije 4 godine.
+{107404}{107495}Uzeo je kontrolu nad Malcolm-ovim|tijelom poput ove sada...
+{107499}{107623}...i oslobodio neizreciv bijes.|And in 19 hours...
+{107628}{107713}...Malcolm Rivers æe biti osuðen|na smrt zbog tih umorstava...
+{107717}{107810}...ukoliko ne uvjerim onoga èovjeka...
+{107814}{107872}...da je ubojica otišao.
+{107950}{108009}Ostani sa mnom.|Edward?
+{108013}{108092}Pomozi mi.|Trebaš mi pomoæi da završimo.
+{108106}{108148}Edward, slušaj me.
+{108178}{108218}Edward, ostani sa mnom.
+{108222}{108291}Slušaj me.|Želim da razumiješ.
+{108295}{108371}Ubojica ne smije preživjeti.
+{108375}{108406}Edward!
+{109058}{109095}Uspio?
+{109121}{109206}Ne vidim ništa.|Imate svjetiljku?
+{109210}{109249}Samo malo.|Samo malo.
+{109261}{109351}- Imaš svjetiljku?|- Da, da, ne radi. Jebiga.
+{110425}{110461}Tišina!
+{110607}{110674}Hej. Šta bih ja trebao obuæi, èovjeèe?
+{110678}{110721}U tome si.
+{111006}{111030}Larry.
+{111073}{111131}Larry, doði ovdje.
+{111285}{111322}Ed!
+{111525}{111571}Ed!
+{112257}{112300}Larry!
+{112375}{112445}-Larry!|-Paris.
+{112519}{112585}Gdje su kljuèevi od auta?
+{112589}{112640}Gdje su kljuèevi od auta?
+{112739}{112815}- To je bilo dobro, Larry.|- Moramo iæi odavde.
+{112819}{112892}- Ed ima kljuèeve od auta.|- Imam rezervne ovdje.
+{112896}{112968}- Gdje je on?|- Ne znam. Ovdje.
+{112992}{113062}- Šta radiš?|- Trebamo pištolj.
+{113088}{113115}U kurac!
+{113199}{113245}Daj mi kljuèeve od auta.
+{114686}{114726}Ed!
+{114730}{114776}Moramo iæi odavde.
+{114780}{114835}- Paris...|- Od dolazi. On...
+{114839}{114895}- Ostani tu.|- Šta je s tobom?
+{114899}{114965}Paris, slušaj me.
+{114969}{115026}Ostani tu.
+{115055}{115108}Biæe sve u redu.
+{115712}{115784}Baci mi kljuèeve od auta, Ede.
+{115835}{115921}Baci kljuèeve u auto.|Ostani tu. Ostani tu.
+{116704}{116794}Ed! Ed! Ed!
+{116921}{116979}Ed, daj da vidim.
+{116983}{117024}Moramo te odvesti u bolnicu.
+{117029}{117079}Odbaciæemo te u bolnicu, u redu?
+{117083}{117153}Ostani sa mnom, jer æu te odnjeti|do auta, u redu?
+{117157}{117244}Stavi ruku meni oko vrata.|Moraš se držati, u redu?
+{117248}{117384}Ostani sa mnom, Ed? Ostani sa mnom.|U redu. 1, 2, 3.
+{117410}{117514}Moraš mi pomoæi da te dignem.|Ed, moraš malo pogurati.
+{117560}{117641}Ed, zašto ne dozvoliš|da ti pomognem?
+{117677}{117716}Gdje si išao prije?
+{117720}{117812}Šta ste vidio?|Recite mi šta si vidio?
+{117883}{117945}Vidio sam tebe.
+{118039}{118120}Vidio sam tebe na plantaži narandži.
+{118837}{118906}Zašto mi ne dopustiš da ti pomognem?
+{118933}{118990}Gdje si išao?
+{118994}{119043}Šta si vidio?
+{119123}{119179}Vidio sam tebe...
+{119220}{119300}...na plantaži narandži.
+{120168}{120295}Pitanje je Vaša Visosti, |osuditi tijelo ili um.
+{120310}{120396}Tijelo je poèinilo zloèine, istina.
+{120400}{120455}Osoba koja je ostala unutra nije.
+{120459}{120496}Suèe Taylor, to nije istina...
+{120500}{120560}Svjedoci smo bili uništenju 10 |identiteta veèeras.
+{120564}{120607}9 je bilo nevino i 1 kriv.
+{120611}{120635}Oni nisu stvarni!
+{120639}{120694}Nasilje koje egzistira |u njemu je izvršeno.
+{120698}{120810}Vaša Visosti, Malcolmu je mjesto|u psihijatrijskoj bolnici.
+{120915}{121030}U sluèaju Rivers protiv Nevade, |preporuka suda je...
+{121034}{121098}...da egzekucija G. Riversa ostaje.
+{121102}{121194}Premještam G. Riversa u |psihijatrijsku kliniku...
+{121204}{121274}...pod brigu Dr. Mallicka.
+{123840}{123882}Timmy.
+{124565}{124608}Ne, molim te.
+{124642}{124732}Ne, Timmy, molim te.
+{124736}{124783}Šta je, Malcolm?
+{124988}{125017}Malcolm?
+{125021}{125074}Kurve ne dobijaju drugu šansu.
+{125497}{125564}Dok sam se penjao uz stepenice
+{125568}{125660}Sreo sam èovjeka kojeg tamo nije bilo
+{125664}{125729}Opet ga danas tamo nije bilo
+{125733}{125823}Želim|Želim da ode
+
+
+
+

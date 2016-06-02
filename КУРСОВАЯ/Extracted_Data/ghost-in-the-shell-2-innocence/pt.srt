@@ -1,0 +1,3956 @@
+1
+00:00:11,833 --> 00:00:13,873
+Num tempo futuro, em que a
+maior parte do pensamento humano
+
+2
+00:00:13,960 --> 00:00:16,000
+foi acelerado por inteligência
+artificial e a memória externa
+
+3
+00:00:16,088 --> 00:00:18,127
+pode ser partilhada
+numa matriz universal,
+
+4
+00:00:18,215 --> 00:00:20,254
+Batou, um agente da elistista
+força de segurança Secção 9
+
+5
+00:00:20,342 --> 00:00:22,381
+e um ser tão artificialmente
+modificado que se tornou
+
+6
+00:00:22,469 --> 00:00:24,509
+essencialmente um ciborgue
+recebe como missão investigar,
+
+7
+00:00:24,596 --> 00:00:26,636
+juntamente com Togusa,
+o seu parceiro sobretudo humano,
+
+8
+00:00:26,723 --> 00:00:28,550
+uma série de terríveis homicídios.
+
+9
+00:00:29,977 --> 00:00:32,099
+Passou algum tempo desde que
+o parceiro inicial de Batou,
+
+10
+00:00:32,229 --> 00:00:34,268
+a Major Motolo Kusamagy,
+ciberneticamente modificado
+
+11
+00:00:34,398 --> 00:00:36,437
+a um ponto tal que apenas
+o "fantasma" dela permaneceu humano
+
+12
+00:00:36,525 --> 00:00:38,517
+e desapareceu na Net.
+Desde então, Batou interroga-se
+
+13
+00:00:38,652 --> 00:00:40,561
+sobre onde poderá estar
+o fantasma dela
+
+14
+00:00:40,654 --> 00:00:42,646
+e também se a Major
+alguma vez regressará.
+
+15
+00:00:58,005 --> 00:01:00,578
+Se os nossos deuses e esperanças
+são apenas fenómenos científicos,
+
+16
+00:01:00,966 --> 00:01:04,216
+então devemos dizer que o nosso amor
+também é científico.
+
+17
+00:01:04,928 --> 00:01:07,051
+"L'Eve Future"
+
+18
+00:01:53,602 --> 00:01:55,808
+<i>Repo 202 para Controlo. Chegámos</i>
+<i>ao espaço aéreo de destino.
+
+19
+00:01:55,937 --> 00:01:59,271
+- <i>A iniciar transmissão de dados.</i>
+- <i>Afirmativo, 202.
+
+20
+00:02:15,832 --> 00:02:17,706
+Cuidado!
+
+21
+00:02:43,402 --> 00:02:45,110
+Ponha-me ao corrente.
+
+22
+00:02:45,654 --> 00:02:47,812
+O assaltante matou o proprietário
+há 52 minutos na cena do crime Nº1
+
+23
+00:02:47,990 --> 00:02:49,650
+e depois fugiu.
+
+24
+00:02:49,825 --> 00:02:52,031
+Emboscou e matou dois polícias
+na cena do crime Nº2,
+
+25
+00:02:52,327 --> 00:02:54,236
+um beco desconhecido
+onde continua escondido.
+
+26
+00:02:54,454 --> 00:02:57,124
+Todas as entradas estão bloqueadas.
+Atacamos dentro de dois minutos.
+
+27
+00:02:57,332 --> 00:02:59,206
+É o polícia ciborgue da Secção 9.
+
+28
+00:03:03,630 --> 00:03:06,299
+Não te aproximes, ouvi dizer
+que o azar dele é pior que a peste.
+
+29
+00:03:06,675 --> 00:03:10,589
+A E-polícia quer meter-se nisto.
+Estão a pedir uma ligação de dados.
+
+30
+00:03:11,138 --> 00:03:15,135
+Primeiro é a Segurança Pública,
+agora é a E-polícia.
+
+31
+00:03:15,892 --> 00:03:19,807
+Recusa o pedido deles,
+respeitosamente.
+
+32
+00:04:54,533 --> 00:04:56,241
+Ajudem-me...
+
+33
+00:04:57,119 --> 00:04:59,242
+Ajudem-me...
+
+34
+00:05:36,700 --> 00:05:40,400
+CIDADE ASSOMBRADA 2
+A INOCÊNCIA
+
+35
+00:06:09,191 --> 00:06:12,441
+Baseado na manga de
+
+36
+00:08:37,172 --> 00:08:41,217
+Produção
+
+37
+00:08:57,109 --> 00:09:00,228
+Argumento e realização
+
+38
+00:09:05,117 --> 00:09:08,402
+Esta semana, já tivemos oito casos
+de Gynóides que mataram os donos.
+
+39
+00:09:09,121 --> 00:09:11,244
+Após cada morte,
+elas auto-destroem-se,
+
+40
+00:09:11,665 --> 00:09:13,788
+reformatando
+os cérebros electrónicos.
+
+41
+00:09:14,126 --> 00:09:17,495
+Em todos os casos, o modelo
+em questão é o Nº 2052,
+
+42
+00:09:17,754 --> 00:09:19,462
+tipo Hadaly.
+
+43
+00:09:19,548 --> 00:09:21,587
+É um protótipo
+desenvolvido para testes,
+
+44
+00:09:21,717 --> 00:09:24,124
+que foi distribuído
+gratuitamente aos fornecedores.
+
+45
+00:09:24,594 --> 00:09:26,753
+Agora, recolheram
+todos os protótipos.
+
+46
+00:09:27,222 --> 00:09:29,131
+Segundo o relatório mais recente,
+
+47
+00:09:29,307 --> 00:09:31,680
+eles não identificaram quaisquer
+defeitos de <i>software
+
+48
+00:09:31,768 --> 00:09:33,595
+nem de <i>hardware.
+
+49
+00:09:46,366 --> 00:09:48,442
+Percebeste tudo?
+
+50
+00:09:48,952 --> 00:09:52,072
+As últimas Gynóides do fabricante
+enlouqueceram e atacaram os donos,
+
+51
+00:09:52,497 --> 00:09:55,415
+a empresa entrou em pânico
+e recolheu-as todas.
+
+52
+00:09:55,834 --> 00:09:58,040
+Podem esperar processos legais
+das famílias afectadas,
+
+53
+00:09:58,211 --> 00:10:01,462
+os inevitáveis julgamentos por danos
+e indemnizações descomunais...
+
+54
+00:10:01,965 --> 00:10:05,215
+Percebo tudo,
+menos o envolvimento da Secção 9.
+
+55
+00:10:05,677 --> 00:10:07,421
+Percebeste mesmo?
+
+56
+00:10:08,388 --> 00:10:12,006
+"Aquilo a que chamas 'perceber'
+pode ser apenas uma vontade.
+
+57
+00:10:12,601 --> 00:10:15,518
+Neste momento, a Secção 9
+está envolvida por duas razões.
+
+58
+00:10:16,355 --> 00:10:19,605
+Primeiro, nem uma única família
+entrou com um processo legal.
+
+59
+00:10:19,983 --> 00:10:24,147
+Todas elas chegaram a acordo
+com a Locus Solus fora do tribunal.
+
+60
+00:10:25,030 --> 00:10:28,315
+Em segundo lugar,
+as vítimas incluem um político
+
+61
+00:10:28,909 --> 00:10:32,159
+e um agente reformado
+da Segurança Pública.
+
+62
+00:10:32,579 --> 00:10:34,987
+Como o terrorismo
+é um motivo plausível,
+
+63
+00:10:35,374 --> 00:10:37,699
+o nosso trabalho é considerar
+se isto é ou não
+
+64
+00:10:37,876 --> 00:10:39,703
+assunto para a Secção 9.
+
+65
+00:10:39,961 --> 00:10:42,879
+O Ishikawa e o Azuma estão
+a recolher informações das vítimas.
+
+66
+00:10:43,131 --> 00:10:46,049
+Vocês os dois
+vão investigar as Gynóides.
+
+67
+00:10:46,968 --> 00:10:49,424
+Sem mais perguntas. Vão!
+
+68
+00:11:02,442 --> 00:11:04,933
+Só para que fique registado,
+não me ofereci para isto.
+
+69
+00:11:07,406 --> 00:11:10,407
+Sei que não consigo
+igualar a Major.
+
+70
+00:11:11,118 --> 00:11:13,157
+Isso não interessa nada.
+
+71
+00:11:13,870 --> 00:11:16,658
+Ouvi dizer que ela continua
+dada como desaparecida.
+
+72
+00:11:22,587 --> 00:11:25,956
+Os únicos bens da Major eram
+o cérebro e o espírito.
+
+73
+00:11:27,342 --> 00:11:30,094
+Apesar de nem mesmo ela
+ter a certeza de serem reais...
+
+74
+00:11:31,471 --> 00:11:35,006
+O cérebro e <i>hardware</i> dela
+eram propriedade do governo
+
+75
+00:11:35,350 --> 00:11:37,639
+e também toda a memória,
+incluindo a informação secreta,
+
+76
+00:11:37,936 --> 00:11:40,059
+faziam parte do acordo...
+
+77
+00:11:40,355 --> 00:11:42,811
+As chefias só querem saber
+da recuperação da memória.
+
+78
+00:11:43,567 --> 00:11:45,974
+A vida dela não lhes interessa.
+
+79
+00:11:49,281 --> 00:11:51,404
+Então, por onde começamos?
+
+80
+00:11:51,908 --> 00:11:55,112
+A Locus Solus está localizada
+na fronteira Norte.
+
+81
+00:11:55,996 --> 00:11:58,997
+O primeiro passo é falar
+com o departamento forense local.
+
+82
+00:11:59,750 --> 00:12:02,537
+POLÍCIA
+
+83
+00:12:32,491 --> 00:12:34,068
+São vocês...
+
+84
+00:12:34,493 --> 00:12:36,569
+Aquela Gynóide
+que este tipo matou ontem...
+
+85
+00:12:36,828 --> 00:12:39,117
+Ela custou-nos
+dois jovens agentes.
+
+86
+00:12:39,414 --> 00:12:41,988
+Não me digas que és
+responsável pelo caso...
+
+87
+00:12:42,209 --> 00:12:44,782
+Foi isso que viemos determinar.
+
+88
+00:12:49,716 --> 00:12:52,587
+A Forense é no 19,
+à direita ao fundo do corredor.
+
+89
+00:12:53,053 --> 00:12:55,758
+- Precisam de um guia?
+- Não, obrigado.
+
+90
+00:12:55,889 --> 00:12:57,763
+Dispensamos a visita.
+
+91
+00:12:58,767 --> 00:13:02,266
+Os pássaros não comem
+diospiros verdes,
+
+92
+00:13:03,605 --> 00:13:05,514
+esperam que a fruta amadureça.
+
+93
+00:13:24,167 --> 00:13:25,911
+Quando eras detective,
+
+94
+00:13:26,253 --> 00:13:28,625
+terias tido uma ou outra
+palavra azeda a dizer
+
+95
+00:13:29,423 --> 00:13:31,961
+se tipos como nós
+se metessem num caso teu.
+
+96
+00:13:32,384 --> 00:13:35,883
+Isso é que irrita mais. Parece
+que estou a ver-me no passado.
+
+97
+00:13:37,889 --> 00:13:40,760
+Não adianta culpar o espelho
+por teres a cara de lado.
+
+98
+00:13:42,394 --> 00:13:45,845
+O espelho não mostra a verdade,
+apenas a distorce.
+
+99
+00:13:47,899 --> 00:13:50,817
+Bem... nenhum de nós tem uma cara
+que mereça ser vista ao espelho.
+
+100
+00:14:33,487 --> 00:14:36,938
+Pode vir cá as vezes que quiser,
+não vou partilhar esta investigação.
+
+101
+00:14:38,116 --> 00:14:40,405
+E, se insistir muito,
+mando-o deter.
+
+102
+00:14:42,204 --> 00:14:46,036
+Sou Togusa,
+Secção 9 da Segurança Pública.
+
+103
+00:14:46,333 --> 00:14:48,824
+Este tipo assustador...
+
+104
+00:14:51,296 --> 00:14:53,965
+Foi quem rebentou esta miúda
+com uma "Double 0" para veados.
+
+105
+00:14:54,049 --> 00:14:56,421
+Uma.50 de ponta oca deixá-la-ia em
+melhor estado para ser reconstruída.
+
+106
+00:15:00,097 --> 00:15:03,513
+Ela matou três pessoas,
+duas eram polícias.
+
+107
+00:15:04,017 --> 00:15:06,555
+Ela estava a tentar cometer
+suicídio quando a alvejou...
+
+108
+00:15:07,688 --> 00:15:09,312
+Certo?
+
+109
+00:15:26,581 --> 00:15:28,788
+Cometer suicídio significa?
+
+110
+00:15:28,917 --> 00:15:30,459
+Halloway.
+
+111
+00:15:30,627 --> 00:15:34,210
+Sra. Halloway, como pode
+ao certo um robô cometer suicídio?
+
+112
+00:15:35,507 --> 00:15:38,080
+Através de uma avaria intencional,
+estas Gynóides são capazes
+
+113
+00:15:38,427 --> 00:15:40,715
+de auto-autorizar ataques
+contra humanos.
+
+114
+00:15:41,805 --> 00:15:45,637
+Em termos lógicos,
+isto liberta-os do Código Moral Nº3.
+
+115
+00:15:47,060 --> 00:15:50,844
+Que determina "Manter a existência
+sem infligir ferimentos em humanos".
+
+116
+00:15:52,024 --> 00:15:54,265
+Auto-destruição
+não é um termo mais preciso?
+
+117
+00:15:58,655 --> 00:16:02,356
+Só se assumir que as diferenças
+entre humanos e máquinas são óbvias.
+
+118
+00:16:03,327 --> 00:16:06,031
+Estes "suicídios"estão limitados
+a um modelo específico?
+
+119
+00:16:06,580 --> 00:16:08,537
+Não necessariamente.
+
+120
+00:16:08,790 --> 00:16:11,079
+Nos últimos anos,
+temos assistido a um aumento
+
+121
+00:16:11,418 --> 00:16:15,036
+de problemas relacionados com robôs,
+sobretudo nos de companhia.
+
+122
+00:16:18,050 --> 00:16:20,291
+- A causa é?
+- Não sei.
+
+123
+00:16:20,677 --> 00:16:23,215
+Contaminação dos E-cérebros
+com micróbios e vírus,
+
+124
+00:16:23,430 --> 00:16:25,672
+falhas humanas na produção,
+
+125
+00:16:25,974 --> 00:16:28,512
+defeitos funcionais de utilização...
+
+126
+00:16:28,727 --> 00:16:30,933
+- Escolha a que quiser, mas...
+- Mas?
+
+127
+00:16:31,646 --> 00:16:34,351
+Eu diria que é por os humanos
+porem de lado os robôs,
+
+128
+00:16:34,983 --> 00:16:36,561
+quando eles ficam ultrapassados.
+
+129
+00:16:37,319 --> 00:16:39,940
+Quando os proprietários
+os trocam por modelos novos,
+
+130
+00:16:40,489 --> 00:16:42,647
+alguns dos que foram abandonados
+tornam-se vagabundos
+
+131
+00:16:43,075 --> 00:16:45,482
+e degeneram,
+devido à falta de manutenção.
+
+132
+00:16:48,705 --> 00:16:50,497
+Talvez seja um tipo de protesto
+robótico
+
+133
+00:16:50,582 --> 00:16:52,373
+contra a sua própria obsolescência.
+
+134
+00:16:52,709 --> 00:16:54,251
+Absurdo...
+
+135
+00:16:56,588 --> 00:16:58,877
+Os humanos são diferentes dos robôs.
+
+136
+00:16:59,216 --> 00:17:02,382
+Isso é um conceito de fé,
+como o preto não ser branco.
+
+137
+00:17:02,761 --> 00:17:05,715
+Ajuda tanto como o facto elementar
+de que os humanos não são máquinas.
+
+138
+00:17:11,603 --> 00:17:13,512
+Ao contrário dos robôs industriais,
+
+139
+00:17:13,897 --> 00:17:16,518
+os andróides e as Gynóides
+a que chamamos de companhia,
+
+140
+00:17:16,942 --> 00:17:19,812
+não foram concebidos segundo
+modelos utilitários ou práticos.
+
+141
+00:17:21,321 --> 00:17:23,361
+Em vez disso,
+modelámo-los à imagem do Homem.
+
+142
+00:17:23,657 --> 00:17:27,240
+Ou seja,
+uma imagem idealizada.
+
+143
+00:17:29,746 --> 00:17:33,246
+De onde virá a obsessão humana
+pela auto-duplicação?
+
+144
+00:17:49,391 --> 00:17:51,015
+Tem filhos?
+
+145
+00:17:51,101 --> 00:17:52,761
+Uma filha.
+
+146
+00:17:53,228 --> 00:17:56,514
+As crianças sempre foram excluídas
+do comportamento humano padrão,
+
+147
+00:17:56,982 --> 00:18:00,018
+quando se definem os humanos como
+seres que possuem uma identidade
+
+148
+00:18:00,402 --> 00:18:02,608
+e que agem de livre arbítrio.
+
+149
+00:18:03,488 --> 00:18:05,315
+Então, o que são as crianças
+
+150
+00:18:05,574 --> 00:18:08,029
+que vivem no caos
+que antecede a maturidade?
+
+151
+00:18:08,201 --> 00:18:10,075
+Diferem profundamente
+dos "humanos",
+
+152
+00:18:10,245 --> 00:18:12,321
+mas têm obviamente forma
+humana.
+
+153
+00:18:13,540 --> 00:18:15,580
+As bonecas que as miúdas perfilham
+
+154
+00:18:15,959 --> 00:18:18,497
+não são substitutas
+de bebés verdadeiros.
+
+155
+00:18:20,005 --> 00:18:23,125
+As miúdas não estão apenas
+a imitar a criação de um bebé,
+
+156
+00:18:24,301 --> 00:18:28,001
+estão a viver algo profundamente
+parecido com a criação de um bebé...
+
+157
+00:18:29,348 --> 00:18:31,424
+Mas o que está a dizer?
+
+158
+00:18:31,892 --> 00:18:34,465
+Criar filhos é a forma mais fácil
+
+159
+00:18:34,811 --> 00:18:38,476
+de concretizar
+o antigo sonho da vida artificial.
+
+160
+00:18:39,775 --> 00:18:41,933
+Pelo menos,
+é essa a minha teoria.
+
+161
+00:18:42,277 --> 00:18:45,195
+As crianças... não são bonecas!
+
+162
+00:18:45,572 --> 00:18:50,115
+Descartes não diferenciava o homem
+da máquina, o animado do inanimado.
+
+163
+00:18:50,869 --> 00:18:53,325
+Ele perdeu
+a sua adorada filha de 5 anos
+
+164
+00:18:53,789 --> 00:18:56,540
+e encontrou uma boneca que adoptou
+e baptizou como Francine.
+
+165
+00:18:57,209 --> 00:18:59,332
+Pelo menos, é o que se conta.
+
+166
+00:19:02,255 --> 00:19:04,414
+Podemos voltar à realidade?
+
+167
+00:19:05,592 --> 00:19:09,460
+Gostava de saber a sua opinião
+sobre o robô Hadaly,
+
+168
+00:19:09,805 --> 00:19:12,296
+modelo 2052,
+fabricado pela Locus Solus.
+
+169
+00:19:14,726 --> 00:19:16,518
+Certo...
+
+170
+00:19:16,770 --> 00:19:18,597
+Foi muito bem concebido.
+
+171
+00:19:18,730 --> 00:19:22,395
+Segundo sei, é um protótipo,
+mas destina-se a funções privadas.
+
+172
+00:19:22,859 --> 00:19:24,567
+Funções privadas?
+
+173
+00:19:24,695 --> 00:19:26,901
+Está equipado com órgãos que são
+desnecessários em robôs de trabalho.
+
+174
+00:19:27,531 --> 00:19:29,239
+O que significa isso?
+
+175
+00:19:32,703 --> 00:19:34,742
+É um Sexaróide.
+
+176
+00:19:34,913 --> 00:19:36,989
+Não é motivo
+para se gabar aos vizinhos,
+
+177
+00:19:37,124 --> 00:19:38,959
+mas dificilmente será ilegal.
+
+178
+00:19:38,960 --> 00:19:40,583
+O escândalo...
+
+179
+00:19:40,711 --> 00:19:43,332
+Não admira as famílias chegarem
+a acordo fora dos tribunais.
+
+180
+00:19:43,422 --> 00:19:45,960
+Quando os sistemas deles se desligam,
+o cérebro reformata-se.
+
+181
+00:19:46,633 --> 00:19:48,542
+É uma protecção padronizada
+
+182
+00:19:48,885 --> 00:19:51,459
+para o <i>software</i> proprietário
+do fabricante.
+
+183
+00:19:52,180 --> 00:19:54,802
+- No entanto...
+- No entanto, o quê?
+
+184
+00:19:55,142 --> 00:19:57,348
+Encontrámos um ficheiro
+na memória áudio. Quer ouvi-lo?
+
+185
+00:20:00,647 --> 00:20:02,272
+Ajudem-me...
+
+186
+00:20:02,566 --> 00:20:05,057
+Ajudem-me... Ajudem-me...
+
+187
+00:20:29,926 --> 00:20:31,753
+Obrigado pela ajuda.
+
+188
+00:20:36,641 --> 00:20:39,845
+Uma última questão.
+Não tenho nada com isso, mas...
+
+189
+00:20:41,396 --> 00:20:43,603
+Não, nunca criei um filho.
+
+190
+00:20:44,858 --> 00:20:47,645
+E também não estou registada
+no banco de óvulos.
+
+191
+00:20:48,403 --> 00:20:50,230
+Obrigado, senhora...
+
+192
+00:20:50,614 --> 00:20:53,615
+Halloway. Dispenso o senhora.
+
+193
+00:21:06,797 --> 00:21:09,085
+Ela não parece ser dada
+a trabalhos técnicos.
+
+194
+00:21:09,591 --> 00:21:11,963
+Os relatórios dela são certamente
+repletos de opiniões não solicitadas,
+
+195
+00:21:12,094 --> 00:21:13,754
+tal como eram os meus.
+
+196
+00:21:13,845 --> 00:21:15,672
+O que possivelmente te impediu
+de seres promovido.
+
+197
+00:21:15,889 --> 00:21:17,929
+Vamos assegurar o cérebro
+da Gynóide
+
+198
+00:21:18,016 --> 00:21:19,843
+para o laboratório da Secção 9.
+
+199
+00:21:19,935 --> 00:21:21,844
+A nossa relação com ela
+acaba por aqui.
+
+200
+00:21:21,937 --> 00:21:23,514
+Faz o teu tipo?
+
+201
+00:21:23,647 --> 00:21:25,524
+Por acaso,
+gosto de mulheres mais velhas.
+
+202
+00:21:25,525 --> 00:21:27,315
+- O que se segue?
+- Seguimos o procedimento normal.
+
+203
+00:21:27,401 --> 00:21:29,227
+Investigamos o supervisor
+de encomendas da Hadaly?
+
+204
+00:21:29,528 --> 00:21:32,897
+<i>09 chama 907. Temos um 602</i>
+<i>na casa dos barcos da zona 201.
+
+205
+00:21:33,281 --> 00:21:35,404
+<i>A vítima é o supervisor</i>
+<i>de encomendas da Locus Solus.
+
+206
+00:21:35,742 --> 00:21:37,616
+<i>O local foi entregue há</i>
+<i>dois minutos à Polícia local.
+
+207
+00:21:37,953 --> 00:21:41,571
+- Entendido, 907.
+- Que sentido de oportunidade, não?
+
+208
+00:21:41,915 --> 00:21:44,951
+Um belo dia de Verão. Uma carruagem
+voa entre este mundo e o próximo.
+
+209
+00:22:01,059 --> 00:22:02,886
+Estás sozinho?
+
+210
+00:22:03,228 --> 00:22:07,557
+O Koga sentiu-se mal
+e regressou com o cadáver.
+
+211
+00:22:08,233 --> 00:22:10,142
+Que cobardola!
+
+212
+00:22:13,613 --> 00:22:15,902
+O local, há 22 minutos.
+
+213
+00:22:25,000 --> 00:22:27,039
+Puseste um maçarico a tratar disto?
+
+214
+00:22:27,336 --> 00:22:29,162
+Viver para aprender.
+
+215
+00:22:30,172 --> 00:22:32,081
+Isto é o que sabemos...
+
+216
+00:22:32,466 --> 00:22:34,624
+Identificámos
+o campo cerebral da vítima.
+
+217
+00:22:35,010 --> 00:22:38,509
+Jack Volkerson, 54 anos. Supervisor
+de encomendas da Locus Solus.
+
+218
+00:22:39,389 --> 00:22:42,509
+Pediu férias há cinco dias
+e desapareceu.
+
+219
+00:22:43,393 --> 00:22:46,478
+Há três dias, alugou este barco.
+
+220
+00:22:47,773 --> 00:22:50,264
+A arma do crime
+foram os utensílios de cozinha.
+
+221
+00:22:50,734 --> 00:22:53,901
+A inspecção da área
+forneceu-nos uma matrícula.
+
+222
+00:22:55,739 --> 00:22:58,277
+Estamos a investigar
+se tem ligações ao crime organizado.
+
+223
+00:23:01,244 --> 00:23:04,744
+Encontrámos sete cartões de crédito
+no casaco, presumivelmente da vítima.
+
+224
+00:23:05,290 --> 00:23:07,449
+Estamos a investigar
+o registo bancário.
+
+225
+00:23:27,104 --> 00:23:28,598
+Olha, olha...
+
+226
+00:23:28,939 --> 00:23:30,931
+Calibre.38 SW, modelo 2602.
+
+227
+00:23:31,274 --> 00:23:33,101
+Parece que não teve tempo de usá-la.
+
+228
+00:23:34,444 --> 00:23:37,066
+Duvido que lhe tivesse
+servido de muito.
+
+229
+00:23:37,489 --> 00:23:40,276
+Parece ser um ciborgue
+ilegalmente poderoso,
+
+230
+00:23:40,701 --> 00:23:44,532
+ou talvez um profissional
+a passar-se por psicopata.
+
+231
+00:23:45,414 --> 00:23:48,747
+<i>969 chama 906. Estamos</i>
+<i>a 20 segundos do local.
+
+232
+00:23:49,584 --> 00:23:51,624
+- <i>Não toquem...</i>
+- Não me estou a meter.
+
+233
+00:23:53,755 --> 00:23:55,795
+Deixemos isto à Forense.
+
+234
+00:23:56,758 --> 00:23:59,961
+907 chama 09.
+Vamos entregar o local à 969.
+
+235
+00:24:02,222 --> 00:24:03,965
+<i>09, entendido.
+
+236
+00:24:05,600 --> 00:24:07,427
+É o aniversário da minha filha.
+
+237
+00:24:07,936 --> 00:24:09,644
+Homem de família?
+
+238
+00:24:09,896 --> 00:24:12,352
+- Eu dou-te boleia.
+- Não vou para esses lados.
+
+239
+00:24:12,441 --> 00:24:14,480
+- Ishikawa?
+- Também não vou para aí.
+
+240
+00:24:14,776 --> 00:24:16,769
+O aniversário
+da filha tem prioridade...
+
+241
+00:24:18,030 --> 00:24:19,773
+Vocês estão animados.
+
+242
+00:24:19,948 --> 00:24:21,822
+O chefe veio ao local do crime?
+
+243
+00:24:22,325 --> 00:24:24,484
+O cadáver não está inteiro,
+é a razão.
+
+244
+00:24:24,828 --> 00:24:27,153
+Isto é tudo teu, Chefe.
+Fica à vontade.
+
+245
+00:24:27,539 --> 00:24:29,164
+O que há de tão importante
+num caso local?
+
+246
+00:24:29,374 --> 00:24:31,248
+O velho está interessado,
+aí está.
+
+247
+00:24:32,252 --> 00:24:35,123
+Encontrei! Está dividido
+em frascos no frigorífico.
+
+248
+00:24:35,839 --> 00:24:39,006
+O coração, o fígado,
+os rins, até o pâncreas.
+
+249
+00:24:39,343 --> 00:24:41,335
+Que sacana cuidadoso...
+
+250
+00:24:56,360 --> 00:25:00,357
+Comida fresca para cão? Fica-te
+pela ração, que ele dura mais.
+
+251
+00:25:00,781 --> 00:25:02,441
+Não posso dar-lhe isso.
+
+252
+00:25:09,623 --> 00:25:11,331
+Estás a trabalhar com o Togusa?
+
+253
+00:25:11,875 --> 00:25:14,959
+Sempre é melhor que um maçarico
+acabado de sair da Academia.
+
+254
+00:25:15,462 --> 00:25:19,294
+Para ex-detective, tem a sua
+utilidade. Não tenho reclamações.
+
+255
+00:25:19,966 --> 00:25:24,545
+A não ser dizer que a única
+ao teu nível era a Major.
+
+256
+00:25:29,101 --> 00:25:32,267
+Ishikawa, deixa-te de conversas.
+
+257
+00:26:00,757 --> 00:26:02,501
+- Adeus.
+- Batou...
+
+258
+00:26:02,843 --> 00:26:05,927
+- Que foi agora?
+- Fica-te pela ração.
+
+259
+00:26:06,680 --> 00:26:08,672
+Não é conversa.
+Em termos de equilíbrio nutritivo,
+
+260
+00:26:08,807 --> 00:26:10,634
+é melhor para o cão.
+
+261
+00:30:00,539 --> 00:30:02,827
+Ele morreu com um golpe
+que lhe fracturou a coluna cervical.
+
+262
+00:30:03,375 --> 00:30:07,836
+Os utensílios de cozinha foram usados
+na estripação, não no homicídio.
+
+263
+00:30:08,672 --> 00:30:10,795
+Alguém esteve nas calmas
+a desmembrar o cadáver?
+
+264
+00:30:11,007 --> 00:30:13,000
+Assim parece.
+
+265
+00:30:13,593 --> 00:30:16,844
+Confirmámos que os órgãos que
+estavam no frigorífico eram da vítima.
+
+266
+00:30:17,431 --> 00:30:22,009
+Eles revelam gastrite e cirrose.
+Aparentemente, era um alcoólico.
+
+267
+00:30:22,602 --> 00:30:24,761
+Porque terá o criminoso
+perdido tempo com os órgãos?
+
+268
+00:30:25,105 --> 00:30:27,976
+Talvez para dar a sensação
+de que é psicopata ou louco.
+
+269
+00:30:28,316 --> 00:30:30,393
+Ou para sublinhar
+o elemento da vingança.
+
+270
+00:30:31,028 --> 00:30:34,278
+Então, não procuramos um assassino
+que se faz passar por aventureiro.
+
+271
+00:30:35,157 --> 00:30:36,900
+E o puxador torcido?
+
+272
+00:30:37,534 --> 00:30:41,781
+A análise indica que é um membro
+prostético chinês, modelo NR26,
+
+273
+00:30:42,956 --> 00:30:45,198
+conhecido como Pinça de Caranguejo.
+- Exclusivamente militar.
+
+274
+00:30:45,500 --> 00:30:47,789
+Está disponível no mercado negro,
+pelo menos as unidades defeituosas.
+
+275
+00:30:48,128 --> 00:30:50,584
+A Pinça coincide com a mutilação
+do pescoço do cadáver.
+
+276
+00:30:52,007 --> 00:30:54,296
+Investigaste a matrícula
+do carro da Yakuza?
+
+277
+00:30:55,135 --> 00:30:57,970
+Sim, eles disfarçaram os rastos
+com várias alterações ilegais.
+
+278
+00:30:58,055 --> 00:30:59,679
+Fica-te pelos factos.
+
+279
+00:31:00,974 --> 00:31:04,010
+Conseguimos os registos de um parque
+de estacionamento das proximidades.
+
+280
+00:31:04,770 --> 00:31:07,771
+O veículo pertence a um grupo
+de crime organizado chamado Kojinkai.
+
+281
+00:31:08,273 --> 00:31:11,108
+O carro é à prova de bala, com chassis
+e amortecedores reforçados.
+
+282
+00:31:11,651 --> 00:31:14,189
+Foi ligado a vários assaltos.
+
+283
+00:31:14,863 --> 00:31:16,903
+Um carro popular
+entre os ciborgues...
+
+284
+00:31:17,282 --> 00:31:19,358
+Isto é, entre os que estão
+ilegalmente modificados.
+
+285
+00:31:19,701 --> 00:31:22,239
+- Isto foi uma vingança da Yakuza?
+- Mas qual foi o motivo?
+
+286
+00:31:22,371 --> 00:31:24,197
+Os Kojinkai...
+
+287
+00:31:24,373 --> 00:31:26,375
+São um sindicato criminal japonês
+fortemente estabelecido.
+
+288
+00:31:26,376 --> 00:31:28,414
+Drogas, prostitutas, jogo, burlas,
+é uma operação vale-tudo da Yakuza.
+
+289
+00:31:28,835 --> 00:31:30,875
+Uma Gynóide Hadaly cortou a cabeça
+do Inoue, o grande chefe, há 3 dias.
+
+290
+00:31:31,463 --> 00:31:36,041
+Um jovem turco, Wakabayashi,
+ficou com o comando.
+
+291
+00:31:36,385 --> 00:31:38,626
+Então é simples...
+
+292
+00:31:38,887 --> 00:31:41,508
+Vinga a morte do chefe
+e o trono é teu.
+
+293
+00:31:42,307 --> 00:31:44,099
+Só há um problema...
+
+294
+00:31:44,351 --> 00:31:46,640
+Se o Volkerson sabia
+que andavam atrás dele,
+
+295
+00:31:46,937 --> 00:31:50,057
+porque iria esconder-se
+no território deles?
+
+296
+00:31:50,440 --> 00:31:52,397
+Não sabemos.
+
+297
+00:31:52,818 --> 00:31:54,976
+O E-cérebro dele foi apagado
+e o carro é a nossa única pista.
+
+298
+00:31:55,362 --> 00:31:57,604
+Deixemos este à polícia local.
+
+299
+00:31:58,156 --> 00:32:00,730
+E o cenário de terroristas
+disfarçados de robôs enlouquecidos?
+
+300
+00:32:01,243 --> 00:32:04,446
+Não há ligação política
+entre as vítimas.
+
+301
+00:32:05,080 --> 00:32:06,907
+O terrorismo está fora de questão.
+
+302
+00:32:07,749 --> 00:32:10,786
+Mas vou pôr Batou e Togusa em todos
+os casos de Hadaly enlouquecidos,
+
+303
+00:32:11,086 --> 00:32:13,328
+a tempo inteiro, incluindo este.
+
+304
+00:32:13,714 --> 00:32:16,501
+Os restantes voltam
+ao trabalho normal. É tudo.
+
+305
+00:32:19,428 --> 00:32:21,005
+Togusa...
+
+306
+00:32:23,974 --> 00:32:26,013
+Vem ter comigo, antes de saíres.
+
+307
+00:32:34,484 --> 00:32:36,228
+O que achas?
+
+308
+00:32:36,653 --> 00:32:40,271
+Vamos investigar qualquer ligação
+entre a máfia Kojinkai e a Locus Solus.
+
+309
+00:32:40,782 --> 00:32:42,490
+Referia-me ao Batou.
+
+310
+00:32:43,577 --> 00:32:47,325
+O teu trabalho inclui monitorizar
+o estado emocional do teu parceiro.
+
+311
+00:32:48,165 --> 00:32:51,284
+Eu sei, mas não sou ciborgue
+nem neurólogo electrónico.
+
+312
+00:32:52,085 --> 00:32:54,755
+Não é preciso ser César
+para compreender César.
+
+313
+00:32:56,173 --> 00:33:00,087
+Tens família? És feliz?
+
+314
+00:33:01,011 --> 00:33:02,588
+Claro, mas...
+
+315
+00:33:02,971 --> 00:33:06,138
+A maioria de nós não é tão feliz
+nem tão infeliz como pensa.
+
+316
+00:33:06,641 --> 00:33:10,591
+O segredo é mantermo-nos dedicados
+à nossa vida e ás nossas esperanças.
+
+317
+00:33:11,480 --> 00:33:13,188
+Não entendo.
+
+318
+00:33:13,732 --> 00:33:15,274
+Ultimamente,
+
+319
+00:33:15,650 --> 00:33:18,817
+o Batou tem-me feito lembrar a Major
+antes de ela desaparecer.
+
+320
+00:33:20,405 --> 00:33:23,490
+Deixem-me caminhar sozinho,
+sem cometer pecados,
+
+321
+00:33:23,825 --> 00:33:25,984
+com poucos desejos,
+
+322
+00:33:26,787 --> 00:33:29,325
+como um elefante na floresta.
+
+323
+00:33:40,050 --> 00:33:42,967
+Chefe, porque me escolheu
+para este trabalho?
+
+324
+00:33:43,637 --> 00:33:46,757
+Porque foi a Major que te tirou
+da tua patrulha habitual.
+
+325
+00:33:53,772 --> 00:33:55,396
+O que queria ele?
+
+326
+00:33:55,482 --> 00:33:58,602
+Pelos vistos, não é preciso ser César
+para o compreender.
+
+327
+00:33:59,444 --> 00:34:01,236
+Isso nem é preciso dizer.
+
+328
+00:34:01,530 --> 00:34:04,400
+O mundo não consegue viver
+ao nível dos seus grandes homens.
+
+329
+00:34:13,458 --> 00:34:15,332
+Estás a planear começar uma guerra?
+
+330
+00:34:15,585 --> 00:34:17,543
+Não é preciso ser Yakuza
+para os visitar,
+
+331
+00:34:17,879 --> 00:34:19,837
+mas vamos precisar de armas, não?
+
+332
+00:34:20,799 --> 00:34:23,207
+Ouve,
+quero esclarecer uma coisa primeiro.
+
+333
+00:34:23,427 --> 00:34:25,752
+- O quê?
+- Vamos fazer umas perguntas, certo?
+
+334
+00:34:26,179 --> 00:34:29,798
+- Não gostas da Yakuza?
+- Claro que não. Detesto-os.
+
+335
+00:34:30,100 --> 00:34:32,472
+- Igualmente...
+- Mas vamos só conversar, certo?
+
+336
+00:34:32,602 --> 00:34:34,891
+Como já disse,
+não é preciso ser Yakuza...
+
+337
+00:34:35,230 --> 00:34:38,433
+Já sei, para os visitar. Mas também
+disseste que precisamos de armas.
+
+338
+00:34:39,192 --> 00:34:41,862
+- Sou um homem de família...
+- Posso sempre ir sozinho.
+
+339
+00:34:42,154 --> 00:34:44,479
+Não, eu vou contigo,
+sou o teu parceiro.
+
+340
+00:34:44,614 --> 00:34:46,322
+Mas quero a tua palavra.
+
+341
+00:34:46,533 --> 00:34:49,368
+Está bem, vamos só conversar.
+Vou evitar disparar ao máximo.
+
+342
+00:34:49,578 --> 00:34:51,451
+- Estás satisfeito?
+- Tudo bem.
+
+343
+00:34:51,538 --> 00:34:53,116
+Vamos lá, amigo.
+
+344
+00:35:09,306 --> 00:35:11,014
+Mas quem são vocês?
+
+345
+00:35:11,516 --> 00:35:14,683
+Viemos conversar com o Wakabayashi.
+Vai buscá-lo.
+
+346
+00:35:28,033 --> 00:35:30,156
+Não disseste que ias evitar disparar?
+
+347
+00:35:30,327 --> 00:35:32,118
+Eu disse "ao máximo".
+
+348
+00:35:32,412 --> 00:35:34,950
+Avança, vais à frente.
+Vêm aí os reforços deles.
+
+349
+00:35:35,082 --> 00:35:36,742
+Uma imagem?!
+
+350
+00:36:00,732 --> 00:36:03,567
+Aquele filho da mãe estava
+a controlar a nossa visão!
+
+351
+00:36:12,869 --> 00:36:15,407
+Podem culpar
+esses vossos E-cérebros reles.
+
+352
+00:36:32,806 --> 00:36:34,384
+O que se passa?
+
+353
+00:36:34,474 --> 00:36:37,012
+É estreito, as escadas são escuras.
+Qual é o plano?
+
+354
+00:36:37,394 --> 00:36:39,470
+Vamos à vez, eu vou à frente.
+
+355
+00:36:39,980 --> 00:36:43,515
+Não, vou eu. És tão grande
+que não consigo cobrir-te.
+
+356
+00:37:19,895 --> 00:37:22,386
+As tuas prendinhas explodiram
+por cima da minha cabeça.
+
+357
+00:37:24,399 --> 00:37:26,937
+Mesmo assumindo que explodiam
+dentro do maior raio de acção,
+
+358
+00:37:27,903 --> 00:37:31,188
+achas que duas granadas
+iriam destruir um ciborgue blindado?
+
+359
+00:37:32,449 --> 00:37:34,276
+Estás a insultar-me.
+
+360
+00:37:40,707 --> 00:37:42,747
+Começa por falar
+do supervisor de encomendas morto,
+
+361
+00:37:43,251 --> 00:37:45,458
+depois conta-me
+as tuas ligações à Locus Solus.
+
+362
+00:37:57,974 --> 00:38:00,133
+Ora, vejam quem cá está.
+
+363
+00:38:08,485 --> 00:38:11,854
+Vamos lá, caranguejo da treta. Dou
+cabo dessa tua pinça num instante.
+
+364
+00:38:41,977 --> 00:38:44,646
+Estavas a contar
+com um golpe tão óbvio? Idiota.
+
+365
+00:38:59,411 --> 00:39:01,534
+Eles disseram onde encontraríamos
+o supervisor de encomendas...
+
+366
+00:39:02,539 --> 00:39:04,366
+Acabei agora três anos de cadeia!
+
+367
+00:39:07,711 --> 00:39:09,834
+Não sei ponta de corno
+
+368
+00:39:10,172 --> 00:39:12,923
+do que o patrão andava
+a fazer com essa empresa.
+
+369
+00:39:15,093 --> 00:39:17,169
+Continuas comigo, parceiro?
+
+370
+00:39:17,345 --> 00:39:20,512
+Só conseguia ver... as caras
+da minha mulher e da minha filha.
+
+371
+00:39:21,892 --> 00:39:24,050
+Não eram elas...
+
+372
+00:39:25,062 --> 00:39:27,303
+...era a morte.
+
+373
+00:39:29,816 --> 00:39:32,023
+Disse-vos para investigarem.
+
+374
+00:39:32,444 --> 00:39:35,694
+Não disse para esquecerem a papelada
+e agirem como vigilantes.
+
+375
+00:39:36,365 --> 00:39:39,401
+Não me lembro de mandar arrombar
+um escritório da Yakuza.
+
+376
+00:39:40,369 --> 00:39:44,153
+Isto não é a selva e vocês não são
+atiradores das forças especiais.
+
+377
+00:39:50,045 --> 00:39:52,417
+- Continuas lixado?
+- Não estou lixado.
+
+378
+00:39:52,839 --> 00:39:55,924
+E detesto parecer ingrato
+ao homem que me salvou a vida,
+
+379
+00:39:59,888 --> 00:40:03,933
+mas ser teu parceiro
+vai sair-me bem caro.
+
+380
+00:40:05,268 --> 00:40:07,724
+Escuta,
+estamos só nós os dois neste caso.
+
+381
+00:40:08,230 --> 00:40:10,721
+Uma abordagem mal-amanhada
+não vai resultar.
+
+382
+00:40:11,108 --> 00:40:15,022
+Se a Locus Solus tiver algo a esconder,
+virá atrás de nós.
+
+383
+00:40:15,779 --> 00:40:17,522
+Daí aquele tiroteio...
+
+384
+00:40:17,864 --> 00:40:22,277
+Sim, e se o chefe estivesse mesmo
+lixado já nos teria suspendido.
+
+385
+00:40:23,120 --> 00:40:24,946
+Encosta aqui.
+
+386
+00:40:43,390 --> 00:40:44,884
+Até logo.
+
+387
+00:41:23,972 --> 00:41:25,846
+<i>Entrou numa zona de morte.
+
+388
+00:43:37,773 --> 00:43:40,560
+Não mexas nas configurações
+do teu novo braço.
+
+389
+00:43:41,234 --> 00:43:43,227
+O sistema operativo foi actualizado
+
+390
+00:43:43,570 --> 00:43:45,728
+e pode entrar em conflito
+com o controlo de armas,
+
+391
+00:43:46,073 --> 00:43:48,314
+tornando-o completamente inútil.
+
+392
+00:43:48,575 --> 00:43:50,532
+Reformatá-Io resolve isso.
+
+393
+00:43:50,911 --> 00:43:53,366
+Onde estão os restos
+do meu braço antigo?
+
+394
+00:43:54,164 --> 00:43:56,833
+Nem penses nisso.
+Sobrou pouca coisa.
+
+395
+00:43:57,209 --> 00:43:59,996
+Os componentes orgânicos do novo
+braço são compatíveis com o teu ADN.
+
+396
+00:44:00,837 --> 00:44:02,913
+Suponho que, com a utilização,
+vai parecer o original.
+
+397
+00:44:07,928 --> 00:44:09,920
+Espera...
+
+398
+00:44:16,728 --> 00:44:19,266
+O facto de o teres trazido
+para aqui significa que...
+
+399
+00:44:19,523 --> 00:44:21,729
+Sim, assaltei o teu ninho do amor.
+
+400
+00:44:22,275 --> 00:44:24,813
+Não suportei a ideia
+de vê-lo a gemer de fome,
+
+401
+00:44:25,112 --> 00:44:27,781
+coberto de merda,
+à tua espera.
+
+402
+00:44:28,365 --> 00:44:30,737
+Acredita ou não,
+mas também gosto de cães.
+
+403
+00:44:30,992 --> 00:44:33,032
+Mas foi comigo
+que ele ficou à noite.
+
+404
+00:44:33,120 --> 00:44:34,946
+A minha filha ficou no céu
+
+405
+00:44:35,038 --> 00:44:37,161
+e a minha mulher está louca
+com os tapetes sujos.
+
+406
+00:44:37,249 --> 00:44:39,372
+Quando começaste a seguir-me?
+
+407
+00:44:39,668 --> 00:44:41,459
+Isso não interessa...
+
+408
+00:44:41,712 --> 00:44:44,416
+Interessa, sim.
+Usou-me como desculpa.
+
+409
+00:44:44,756 --> 00:44:46,963
+Se tivesses mais experiência,
+terias notado.
+
+410
+00:44:47,300 --> 00:44:49,092
+Podes culpar o chefe.
+
+411
+00:44:49,886 --> 00:44:51,630
+É um clone?
+
+412
+00:44:52,139 --> 00:44:54,131
+Os reais não são
+estupidamente caros?
+
+413
+00:44:54,516 --> 00:44:58,051
+A linhagem dele foi a primeira a ser
+criada através de inseminação artificial.
+
+414
+00:44:59,479 --> 00:45:02,350
+Não é o teu estilo,
+deixá-los entrarem-te no cérebro.
+
+415
+00:45:02,858 --> 00:45:05,942
+E qualquer rotina diária
+deixa-te vulnerável a emboscadas.
+
+416
+00:45:06,319 --> 00:45:08,359
+Disse-te para optares pela ração.
+
+417
+00:45:08,780 --> 00:45:11,532
+Mas ele gosta de comida fresca
+e aquela é a única loja da zona
+
+418
+00:45:11,742 --> 00:45:13,485
+que tem.
+
+419
+00:45:13,785 --> 00:45:15,659
+Conseguiram
+controlar-te completamente,
+
+420
+00:45:16,079 --> 00:45:18,404
+fazer-te dar cinco tiros
+no teu próprio braço
+
+421
+00:45:18,790 --> 00:45:21,246
+e quase rebentar o dono da loja.
+
+422
+00:45:22,044 --> 00:45:26,456
+Ele pode ser louco, mas é raro o tipo
+que consiga entrar-lhe no cérebro.
+
+423
+00:45:27,424 --> 00:45:29,417
+Excepto a Major...
+
+424
+00:45:30,469 --> 00:45:33,553
+E porque não me fizeram
+rebentar os miolos?
+
+425
+00:45:34,347 --> 00:45:38,179
+Penso que querem fazer-te cair
+em desgraça, não querem eliminar-te.
+
+426
+00:45:38,894 --> 00:45:40,933
+Primeiro, entraste
+num escritório da Yakuza,
+
+427
+00:45:41,313 --> 00:45:43,886
+enviaste uma dúzia de homens
+para o céu ou para o hospital e,
+
+428
+00:45:44,191 --> 00:45:46,516
+no mesmo dia, descarregaste a arma
+numa mercearia.
+
+429
+00:45:46,943 --> 00:45:49,185
+As pessoas vão pensar
+que enlouqueceste
+
+430
+00:45:49,488 --> 00:45:52,524
+ou que o teu E-cérebro está pifado.
+
+431
+00:45:52,991 --> 00:45:56,775
+Mas foi um ataque planeado e prova
+que o nosso caso não foi aleatório.
+
+432
+00:45:57,412 --> 00:45:58,954
+Não podemos sair...
+
+433
+00:45:59,206 --> 00:46:02,871
+Iríamos pôr em risco o objectivo
+da Secção 9. E o que diria a Major.
+
+434
+00:46:04,127 --> 00:46:06,797
+Tenho uma mensagem do chefe.
+Fiquem no caso,
+
+435
+00:46:07,214 --> 00:46:11,543
+mas só terão apoio oficial da Secção
+quando conseguirem provas físicas.
+
+436
+00:46:12,719 --> 00:46:15,471
+Então, vamos à origem:
+À Locus Solus.
+
+437
+00:46:15,931 --> 00:46:18,219
+Nada preserva o segredo
+como a rapidez.
+
+438
+00:46:18,350 --> 00:46:20,177
+Vão para a fronteira Norte
+de imediato.
+
+439
+00:46:20,268 --> 00:46:22,308
+- Norte?
+- Vocês os dois não conseguem?
+
+440
+00:46:22,604 --> 00:46:24,976
+Claro, mas... e o cão?
+
+441
+00:46:25,273 --> 00:46:28,892
+A ideia de um homem solteiro
+neste ramo ter um cão é ridícula!
+
+442
+00:46:30,112 --> 00:46:31,938
+E de todos os cães,
+
+443
+00:46:32,072 --> 00:46:34,029
+tinhas logo de escolher
+um que dá tanto trabalho.
+
+444
+00:46:34,366 --> 00:46:36,524
+O problema não é meu.
+Resolvam-no!
+
+445
+00:47:35,635 --> 00:47:39,680
+Esta zona foi criada para ser
+o maior centro do Extremo Oriente,
+
+446
+00:47:40,098 --> 00:47:42,933
+uma Zona Económica Especial
+durante o seu auge.
+
+447
+00:47:43,852 --> 00:47:46,888
+Estas torres sobrevivem como uma
+sombra da glória passada da cidade.
+
+448
+00:47:47,689 --> 00:47:49,931
+A sua soberania duvidosa
+fez dela um refúgio ideal
+
+449
+00:47:50,317 --> 00:47:54,017
+para as multinacionais e criminosos
+que se alimentam dos seus despojos.
+
+450
+00:47:55,280 --> 00:47:59,112
+É uma zona sem lei, além do alcance
+da UN ou da E-polícia.
+
+451
+00:48:00,077 --> 00:48:02,614
+Lembra-me aquela frase:
+"Aquilo que o corpo cria,
+
+452
+00:48:03,080 --> 00:48:06,780
+é tanto uma expressão do ADN
+quanto o corpo em si."
+
+453
+00:48:07,459 --> 00:48:10,626
+Mas o mesmo se aplica ás barragens
+dos castores e ás teias de aranha.
+
+454
+00:48:11,046 --> 00:48:14,130
+Vou usar os recifes de coral
+como metáfora.
+
+455
+00:48:14,966 --> 00:48:17,504
+Apesar de dificilmente
+serem tão belos.
+
+456
+00:48:18,678 --> 00:48:21,632
+Se a essência da vida é
+a informação transportada no ADN,
+
+457
+00:48:22,432 --> 00:48:25,967
+então a sociedade e a civilização são
+apenas colossais sistemas de memória
+
+458
+00:48:26,395 --> 00:48:29,431
+e uma metrópole como esta é apenas
+uma memória externa em expansão.
+
+459
+00:48:29,940 --> 00:48:32,395
+Como é incalculável
+o número dos Teus pensamentos,
+
+460
+00:48:32,734 --> 00:48:36,020
+se os quisesse contar,
+"seriam mais do que a areia."
+
+461
+00:48:37,197 --> 00:48:40,400
+Salmo 139 do Antigo Testamento.
+
+462
+00:48:41,284 --> 00:48:43,692
+Pela forma como cospes essas
+referências exóticas espontâneas,
+
+463
+00:48:44,037 --> 00:48:47,287
+diria que a tua memória externa
+é bem retorcida.
+
+464
+00:48:48,208 --> 00:48:50,331
+Olha quem fala!
+
+465
+00:48:50,669 --> 00:48:54,038
+<i>Lamento interromper, mas estamos</i>
+<i>prestes a sobrevoar Locus Solus.
+
+466
+00:48:54,464 --> 00:48:57,216
+<i>Esta passagem é para vocês,</i>
+<i>por isso olhem bem.
+
+467
+00:49:43,513 --> 00:49:46,598
+<i>Chega de visita grátis.</i>
+<i>Preparem-se para aterrar.
+
+468
+00:49:49,227 --> 00:49:51,849
+As legiões dele, em forma de anjo,
+permanecem enfeitiçadas.
+
+469
+00:49:52,105 --> 00:49:54,430
+Espessas como as folhas do Outono
+que cobrem os riachos.
+
+470
+00:49:54,733 --> 00:49:58,565
+Agora, estás a citar Milton,
+mas nós não somos Satanás.
+
+471
+00:53:50,719 --> 00:53:52,758
+Batou!
+
+472
+00:53:59,644 --> 00:54:02,895
+Pensas que já és alguém? Desde
+quando já não me tratas por senhor?
+
+473
+00:54:03,607 --> 00:54:05,979
+Não me esqueci do que te devo.
+
+474
+00:54:06,485 --> 00:54:09,154
+Quanto menos se esquece,
+menos se lembra?
+
+475
+00:54:09,488 --> 00:54:11,646
+Vá lá, Batou... Senhor.
+
+476
+00:54:11,990 --> 00:54:14,315
+Agora, estás a dar-me graxa
+com o "Senhor"!
+
+477
+00:54:14,576 --> 00:54:17,245
+Perdoe-me, por favor.
+Suplico, imploro...
+
+478
+00:54:17,704 --> 00:54:20,622
+- Conheces um tipo chamado Kim?
+- Nunca ouvi falar dele.
+
+479
+00:54:21,374 --> 00:54:24,541
+Aliás, há carradas de filhos da mãe
+com esse nome por aqui.
+
+480
+00:54:25,045 --> 00:54:27,251
+Procuro um em particular.
+
+481
+00:54:27,672 --> 00:54:29,914
+Até neste ramo há lealdade.
+
+482
+00:54:30,258 --> 00:54:33,425
+Há lealdade que protege segredos
+e lealdade que protege a verdade.
+
+483
+00:54:34,304 --> 00:54:37,471
+Não podes servir dois mestres.
+Qual é a tua lealdade?
+
+484
+00:54:37,849 --> 00:54:40,138
+Dizem também que não há
+verdade sem segredos.
+
+485
+00:54:40,519 --> 00:54:43,270
+Pergunto novamente.
+Conheces um homem chamado Kim?
+
+486
+00:54:43,605 --> 00:54:46,476
+Nunca ouvi falar dele.
+Aliás, há carradas de...
+
+487
+00:54:48,360 --> 00:54:51,811
+A vida e a morte vêm e vão como
+marionetas a dançarem numa mesa.
+
+488
+00:54:52,489 --> 00:54:55,905
+Quando lhes cortam os fios,
+facilmente caem.
+
+489
+00:55:59,431 --> 00:56:00,842
+Então?
+
+490
+00:56:00,932 --> 00:56:03,055
+Ele era um batedor militar
+avançado.
+
+491
+00:56:03,393 --> 00:56:06,228
+Inapto para comandar,
+inapto para ser comandado,
+
+492
+00:56:07,147 --> 00:56:09,389
+apto apenas para ficar
+pelo caminho.
+
+493
+00:56:09,983 --> 00:56:12,735
+Ele andou entre as forcas
+especiais e a electrónica,
+
+494
+00:56:13,070 --> 00:56:16,984
+e meteu-se no contrabando de armas.
+A reputação dele caiu na merda.
+
+495
+00:56:17,824 --> 00:56:20,494
+Acabou como apenas mais um <i>hacker.
+
+496
+00:56:22,245 --> 00:56:24,238
+Parece uma história e tanto.
+
+497
+00:56:24,790 --> 00:56:28,490
+Não é por ir longe
+que um burro regressa como cavalo.
+
+498
+00:56:29,044 --> 00:56:32,247
+A ruína dele deu-se quando tentou
+dar passos maiores que as pernas.
+
+499
+00:56:33,673 --> 00:56:35,216
+Vamos.
+
+500
+00:57:51,835 --> 00:57:55,085
+VERDADE DE DEUS
+
+501
+00:59:26,054 --> 00:59:28,130
+Batou, está no gabinete do 1º piso.
+
+502
+00:59:47,117 --> 00:59:48,944
+Penso que chegámos um pouco tarde.
+
+503
+00:59:49,202 --> 00:59:51,325
+Ele deve ter sido apanhado
+por uma <i>firewall</i> pró-activa
+
+504
+00:59:51,496 --> 00:59:53,156
+a entrar em algum lado.
+
+505
+00:59:53,331 --> 00:59:55,953
+Seja como for, não me parece
+que ele tivesse servido de muito.
+
+506
+01:00:03,633 --> 01:00:06,837
+O falecido recusa veementemente
+oferendas de flores,
+
+507
+01:00:07,262 --> 01:00:10,465
+frescas ou artificiais, ou pássaros
+libertados em sua homenagem.
+
+508
+01:00:17,355 --> 01:00:19,597
+Não durmas, ó tu que morreste.
+
+509
+01:00:19,900 --> 01:00:22,770
+Até Confúcio diz que nunca devemos
+fingir dormir como um cadáver.
+
+510
+01:00:23,236 --> 01:00:26,605
+Não tenho tempo
+para as tuas piadas parvas, Kim.
+
+511
+01:00:48,303 --> 01:00:51,637
+Não te via desde
+o desembarque em Nemuro.
+
+512
+01:00:51,973 --> 01:00:53,765
+Vim em trabalho.
+
+513
+01:00:53,975 --> 01:00:55,767
+Referes-te à Locus Solus?
+
+514
+01:00:56,061 --> 01:00:58,267
+Eles entraram tarde
+no negócio dos robôs,
+
+515
+01:00:58,563 --> 01:01:03,225
+mas expandiram-se rapidamente
+com as Gynóides topo-de-gama.
+
+516
+01:01:04,027 --> 01:01:06,020
+Há boatos de ligações a políticos,
+
+517
+01:01:06,363 --> 01:01:08,901
+burocratas, inclusive
+sindicatos do crime.
+
+518
+01:01:12,828 --> 01:01:15,401
+Receosos dos reguladores locais
+deste tipo de bonecas especializadas,
+
+519
+01:01:15,747 --> 01:01:17,656
+eles transferiram toda a produção
+
+520
+01:01:18,208 --> 01:01:21,079
+para um barco-fábrica multinacional,
+fundeado em águas internacionais.
+
+521
+01:01:22,629 --> 01:01:24,787
+Produzem bonecas
+de alta qualidade.
+
+522
+01:01:26,466 --> 01:01:28,423
+Qualidade suficiente
+para se suicidarem,
+
+523
+01:01:28,510 --> 01:01:30,467
+após assassinarem humanos?
+
+524
+01:01:30,637 --> 01:01:33,128
+Se isso é verdade,
+é bastante indecente.
+
+525
+01:01:46,570 --> 01:01:49,524
+Isso implicaria
+a duplicação de humanos
+
+526
+01:01:49,781 --> 01:01:54,408
+pela atribuição de uma alma
+ás bonecas. Quem faria isso?
+
+527
+01:01:54,828 --> 01:01:57,366
+A definição de uma boneca
+verdadeiramente bonita
+
+528
+01:01:58,290 --> 01:02:01,244
+é um corpo vivo, de carne e osso,
+privado de alma.
+
+529
+01:02:01,668 --> 01:02:04,337
+Um cadáver inflexível,
+movendo-se à beira do colapso.
+
+530
+01:02:04,880 --> 01:02:07,964
+Ou reduzido a um corpo devastado
+com um E-cérebro...
+
+531
+01:02:09,092 --> 01:02:11,963
+Foi por isso que te transformaste?
+
+532
+01:02:12,554 --> 01:02:15,590
+Os humanos são inferiores
+aos bonecos,
+
+533
+01:02:16,725 --> 01:02:19,346
+na forma, na elegância de movimentos,
+ou no próprio ser em si.
+
+534
+01:02:19,728 --> 01:02:21,851
+As incapacidades
+da consciência humana
+
+535
+01:02:22,606 --> 01:02:25,975
+tornam-se as incapacidades
+da realidade da vida...
+
+536
+01:02:26,068 --> 01:02:28,025
+A perfeição é possível apenas
+àqueles privados de consciência,
+
+537
+01:02:28,320 --> 01:02:30,359
+ou talvez possuidores
+de consciência infinita.
+
+538
+01:02:30,822 --> 01:02:33,693
+Noutras palavras,
+ás bonecas e aos deuses.
+
+539
+01:02:34,117 --> 01:02:36,157
+Não devíamos voltar ao trabalho?
+
+540
+01:02:37,120 --> 01:02:38,780
+Na verdade,
+
+541
+01:02:39,247 --> 01:02:42,533
+há outro modo de existência
+semelhante ás bonecas e deuses.
+
+542
+01:02:43,752 --> 01:02:45,543
+Os animais?
+
+543
+01:02:45,921 --> 01:02:47,997
+As cotovias de Shelley
+são repletas
+
+544
+01:02:48,423 --> 01:02:52,800
+de uma profunda e instintiva alegria.
+
+545
+01:02:53,512 --> 01:02:56,299
+Alegria essa que nós, humanos, com a
+autoconsciência, nunca conheceremos.
+
+546
+01:02:57,099 --> 01:02:59,886
+Para aqueles de nós
+que perseguem o conhecimento,
+
+547
+01:03:00,602 --> 01:03:03,354
+é uma condição mais inalcançável
+do que a divindade.
+
+548
+01:03:05,023 --> 01:03:08,190
+E este dilema levou-te a ocupar
+um boneco e fingir-te morto?
+
+549
+01:03:09,027 --> 01:03:12,111
+- É essa a tua razão?
+- Confúcio diz:
+
+550
+01:03:12,489 --> 01:03:15,656
+"Sem conhecermos a vida, como
+poderemos conhecer a morte?"
+
+551
+01:03:16,952 --> 01:03:19,407
+É raro um humano
+que conheça a morte.
+
+552
+01:03:32,467 --> 01:03:36,465
+A maioria morre sem estar preparada,
+armada apenas de ignorância familiar.
+
+553
+01:03:37,180 --> 01:03:41,130
+Por outras palavras, as pessoas
+morrem apenas por ser inevitável.
+
+554
+01:03:41,893 --> 01:03:45,393
+Mas a morte é uma condição prévia
+à vida de um boneco.
+
+555
+01:03:47,149 --> 01:03:50,399
+O Kim escolheu tornar-se um ciborgue
+completo, foi essa a razão dele.
+
+556
+01:03:52,404 --> 01:03:55,987
+Andou entre as forças especiais
+e a electrónica,
+
+557
+01:03:56,867 --> 01:04:00,200
+e meteu-se no contrabando de armas.
+A reputação dele caiu na merda.
+
+558
+01:04:00,787 --> 01:04:03,325
+Acabou como apenas mais um <i>hacker.
+
+559
+01:04:03,832 --> 01:04:05,706
+Parece uma história e tanto.
+
+560
+01:04:06,001 --> 01:04:09,251
+Não é por ir longe que
+um burro regressa como cavalo.
+
+561
+01:04:12,632 --> 01:04:14,708
+Qual é o problema? Vamos.
+
+562
+01:05:18,587 --> 01:05:21,504
+MORTE
+
+563
+01:05:23,467 --> 01:05:25,044
+Batou!
+
+564
+01:05:47,032 --> 01:05:49,357
+"O falecido aqui declara que,
+
+565
+01:05:49,701 --> 01:05:53,153
+que neste dia do corrente mês,
+alcançou a tão esperada morte."
+
+566
+01:06:16,853 --> 01:06:18,893
+Verdadeiramente perturbador, não?
+
+567
+01:06:19,565 --> 01:06:21,356
+Compreendo inteiramente.
+
+568
+01:06:30,158 --> 01:06:32,566
+A dúvida é saber se uma criatura
+que certamente parece viva,
+
+569
+01:06:33,078 --> 01:06:35,284
+o está verdadeiramente.
+
+570
+01:06:36,123 --> 01:06:37,582
+Por outro lado,
+
+571
+01:06:38,000 --> 01:06:40,917
+resta a dúvida de que um objecto
+inanimado possa realmente viver.
+
+572
+01:06:42,713 --> 01:06:45,204
+É por isso que
+os bonecos nos assustam.
+
+573
+01:06:46,091 --> 01:06:48,926
+Eles são modelos dos humanos.
+
+574
+01:06:49,428 --> 01:06:52,263
+Eles são, de facto,
+apenas humanos.
+
+575
+01:06:53,849 --> 01:06:56,554
+Fazem-nos enfrentar o medo
+
+576
+01:06:56,977 --> 01:06:59,646
+de sermos apenas mecanismos
+e substâncias.
+
+577
+01:07:00,230 --> 01:07:03,017
+Por outras palavras,
+o medo de que, fundamentalmente,
+
+578
+01:07:03,442 --> 01:07:07,060
+todos os humanos pertençam ao nada.
+
+579
+01:07:08,322 --> 01:07:10,445
+Basta, vamos ao trabalho.
+
+580
+01:07:11,700 --> 01:07:14,571
+Para mais, a ciência, numa tentativa
+de desvendar o segredo da vida,
+
+581
+01:07:15,120 --> 01:07:17,658
+criou este horror.
+
+582
+01:07:18,916 --> 01:07:21,323
+A noção de que a natureza
+é calculável
+
+583
+01:07:21,752 --> 01:07:24,669
+leva inevitavelmente à conclusão
+de que também os humanos podem ser
+
+584
+01:07:24,963 --> 01:07:27,419
+reduzidos a simples peças mecânicas.
+
+585
+01:07:27,799 --> 01:07:30,587
+O corpo humano é uma máquina
+que dá corda a si mesma.
+
+586
+01:07:30,928 --> 01:07:33,335
+É a imagem viva
+do movimento perpétuo.
+
+587
+01:07:34,264 --> 01:07:36,755
+Nesta era, as tecnologias gémeas
+da electrónica neurológica
+
+588
+01:07:37,059 --> 01:07:39,810
+ressuscitaram a teoria do séc. XVIII
+do homem enquanto máquina.
+
+589
+01:07:41,396 --> 01:07:44,184
+E agora que os computadores
+possibilitaram a memória externa,
+
+590
+01:07:45,067 --> 01:07:47,522
+os humanos perseguiram
+a auto-mecanização agressivamente,
+
+591
+01:07:47,986 --> 01:07:51,687
+para expandir os limites
+das suas próprias funções.
+
+592
+01:07:53,116 --> 01:07:55,690
+Determinada a deixar para trás
+a selecção natural de Darwin,
+
+593
+01:07:56,203 --> 01:07:59,951
+a determinação humana de vencer
+as possibilidades evolucionárias
+
+594
+01:08:00,249 --> 01:08:05,041
+revela também o desejo de ultrapassar
+a perfeição que esteve na sua origem.
+
+595
+01:08:07,631 --> 01:08:10,917
+Foi a visão da vida equipada
+com <i>hardware</i> perfeito
+
+596
+01:08:11,677 --> 01:08:14,880
+que engendrou este pesadelo.
+
+597
+01:08:15,138 --> 01:08:17,712
+A eterna geometria de Deus.
+
+598
+01:08:25,857 --> 01:08:27,400
+Vamos!
+
+599
+01:08:44,710 --> 01:08:46,252
+Batou!
+
+600
+01:09:50,442 --> 01:09:51,984
+Como te sentes?
+
+601
+01:09:52,694 --> 01:09:54,651
+O que aconteceu?
+
+602
+01:09:54,780 --> 01:09:57,615
+Um emaranhado de experiências
+virtuais entrou no teu E-cérebro.
+
+603
+01:09:59,201 --> 01:10:03,448
+Tal como a sorte,
+o azar também vem três vezes.
+
+604
+01:10:04,331 --> 01:10:06,288
+Um olhar evitado por desconforto,
+
+605
+01:10:06,667 --> 01:10:09,336
+um entendimento não pronunciado,
+um conselho não solicitado...
+
+606
+01:10:10,128 --> 01:10:13,912
+Sem darmos por isso,
+chamamos a catástrofe.
+
+607
+01:10:16,009 --> 01:10:18,335
+Mas o nosso mundo não pode ignorar
+o primeiro sinal...
+
+608
+01:10:20,639 --> 01:10:22,632
+...quanto mais os três.
+
+609
+01:10:22,975 --> 01:10:25,976
+Já te disse, Kim. Não tenho tempo
+para as tuas piadas parvas!
+
+610
+01:10:26,728 --> 01:10:29,219
+Quando percebeste?
+
+611
+01:10:29,856 --> 01:10:32,229
+Não há ninguém mais fácil
+de aldrabar do que um aldrabão.
+
+612
+01:10:32,651 --> 01:10:35,438
+Podes ser perito
+em armamento electrónico,
+
+613
+01:10:35,904 --> 01:10:38,478
+mas esqueces
+que o meu trabalho é a espionagem.
+
+614
+01:10:38,949 --> 01:10:40,906
+E, além disso, venho
+com um anjo da guarda integrado.
+
+615
+01:10:49,126 --> 01:10:50,917
+Tenta encontrar a imagem do átrio
+na tua base de dados externa.
+
+616
+01:10:51,295 --> 01:10:53,038
+Jacob Grimm disse que,
+
+617
+01:10:53,130 --> 01:10:55,087
+ao escrever "Aemaeth"
+na fronte dos antigos Golem,
+
+618
+01:10:55,173 --> 01:10:56,917
+os homens de barro ganhavam vida,
+
+619
+01:10:57,009 --> 01:10:58,835
+ao retirar energia da palavra
+"verdade".
+
+620
+01:10:58,927 --> 01:11:01,134
+Mas, através da simples remoção
+de "ae" para formar "maeth"
+
+621
+01:11:01,305 --> 01:11:03,843
+ou 'morte', os Golem voltavam
+a ser barro sem vida.
+
+622
+01:11:04,725 --> 01:11:07,394
+Era o anjo a dizer-me que verdade
+alguma seria encontrada aqui dentro.
+
+623
+01:11:07,728 --> 01:11:10,301
+Alguém conseguiu passar
+as <i>firewalls</i> que criei?
+
+624
+01:11:10,772 --> 01:11:12,979
+Absurdo, quem seria capaz?!
+
+625
+01:11:13,275 --> 01:11:15,766
+Como já disse, o meu anjo da guarda.
+
+626
+01:11:17,696 --> 01:11:20,697
+Acabou o jogo, Kim.
+Está na hora de começares a falar...
+
+627
+01:11:28,081 --> 01:11:30,121
+É apenas um boneco.
+
+628
+01:11:32,294 --> 01:11:35,793
+Não sabes ver quando desistir, Kim.
+Não vou cair noutra diversão.
+
+629
+01:11:36,173 --> 01:11:40,123
+Batou, como podes desmentir
+que esta realidade é genuína
+
+630
+01:11:40,594 --> 01:11:43,548
+ou uma extensão de falsas ilusões
+gerada por sinais virtuais?
+
+631
+01:11:45,307 --> 01:11:47,679
+O meu espírito... está a sussurrar.
+
+632
+01:11:48,060 --> 01:11:51,393
+Os humanos são apenas o fio
+com que o sonho da vida é tecido.
+
+633
+01:11:52,105 --> 01:11:54,063
+Se os sonhos, a consciência
+e até os espíritos
+
+634
+01:11:54,483 --> 01:11:58,812
+são apenas fendas ou distorções
+na malha uniforme da matriz...
+
+635
+01:12:01,114 --> 01:12:03,321
+Somos ambos apenas
+humanos inúteis,
+
+636
+01:12:03,992 --> 01:12:06,199
+apesar de percorrermos caminhos
+muito diferentes.
+
+637
+01:12:06,620 --> 01:12:10,618
+É claro que, se não
+acreditares em espíritos,
+
+638
+01:12:11,083 --> 01:12:14,665
+também nunca sofrerás
+de loucura ou esquizofrenia.
+
+639
+01:12:15,003 --> 01:12:18,372
+O pouco que resta do teu corpo
+não irá apodrecer, Kim,
+
+640
+01:12:18,882 --> 01:12:22,049
+mas continuará a funcionar
+até encontrares uma morte adequada.
+
+641
+01:12:41,613 --> 01:12:44,698
+Estamos de volta
+à realidade física?
+
+642
+01:12:45,075 --> 01:12:47,317
+Não é possível distinguir
+reminiscências
+
+643
+01:12:47,744 --> 01:12:50,414
+de verdadeiras recordações.
+
+644
+01:12:50,914 --> 01:12:52,907
+Sejam o que forem,
+
+645
+01:12:53,208 --> 01:12:55,782
+só podem ser analisadas
+após o facto.
+
+646
+01:12:56,503 --> 01:12:59,421
+A passagem do tempo em si não pode
+ser armazenada, por isso é difícil.
+
+647
+01:12:59,798 --> 01:13:02,087
+Enquanto quiseres partilhar
+memórias externas,
+
+648
+01:13:02,551 --> 01:13:04,627
+é o preço a pagar.
+
+649
+01:13:05,304 --> 01:13:08,554
+A mulher e filha que tens à espera
+em casa existem realmente?
+
+650
+01:13:08,974 --> 01:13:11,845
+Ou será que, na realidade,
+ainda continuas solteiro,
+
+651
+01:13:12,269 --> 01:13:15,389
+a viver num reles quarto alugado,
+apenas a sonhar com essa família...
+
+652
+01:13:15,772 --> 01:13:18,726
+Não queres averiguar
+o que realmente aconteceu ali?
+
+653
+01:13:19,693 --> 01:13:21,733
+Se já sabias desde o início,
+porquê?
+
+654
+01:13:22,154 --> 01:13:24,230
+Tive de determinar os motivos dele.
+
+655
+01:13:25,073 --> 01:13:27,399
+O Kim montou a armadilha
+sabendo que eu viria
+
+656
+01:13:27,951 --> 01:13:30,869
+e introduziu a realidade virtual
+para nos enganar...
+
+657
+01:13:31,163 --> 01:13:32,823
+Foi basicamente isso.
+
+658
+01:13:32,915 --> 01:13:35,584
+Talvez tenha sido ele o <i>hacker</i>
+que me implantou algo no E-cérebro
+
+659
+01:13:35,918 --> 01:13:38,243
+para conseguir controlar-me
+e rebentar o meu braço.
+
+660
+01:13:38,837 --> 01:13:42,835
+Tal como o Ishikawa afirmou,
+poucos teriam conseguido fazê-lo.
+
+661
+01:13:44,176 --> 01:13:46,334
+A Locus Solus já sabe disso.
+
+662
+01:13:47,054 --> 01:13:48,881
+Então, antecipaste tudo isto...
+
+663
+01:13:49,598 --> 01:13:51,970
+Fingi cair na armadilha
+e venci-o no jogo dele...
+
+664
+01:13:52,267 --> 01:13:55,517
+Foi esse o meu plano.
+Mas o Kim é muito sofisticado.
+
+665
+01:13:56,271 --> 01:13:58,643
+Só consegui sair
+por causa da pista do átrio.
+
+666
+01:13:58,941 --> 01:14:01,514
+E o anjo da guarda de que falaste?
+
+667
+01:14:02,653 --> 01:14:04,361
+Desapareceu.
+
+668
+01:14:05,614 --> 01:14:08,105
+Algures para lá da fenda
+na malha uniforme da matriz,
+
+669
+01:14:09,535 --> 01:14:11,574
+fundindo-se algures na vasta rede
+
+670
+01:14:12,204 --> 01:14:14,777
+a crescer com o seu próprio domínio.
+
+671
+01:14:16,416 --> 01:14:21,328
+Há tantos caminhos para provar
+a nossa existência como há espíritos.
+
+672
+01:14:22,130 --> 01:14:24,372
+Por exemplo, tu tens a tua filha.
+
+673
+01:14:24,841 --> 01:14:28,293
+O Kim conhecia outros caminhos,
+quando estive com ele na selva.
+
+674
+01:14:29,638 --> 01:14:32,639
+- Pelo menos descobri uma coisa.
+- O quê?
+
+675
+01:14:33,058 --> 01:14:35,810
+Que nunca servirei
+para teu parceiro.
+
+676
+01:14:36,228 --> 01:14:38,185
+Perdeste a coragem?
+
+677
+01:14:38,480 --> 01:14:42,098
+Não, mas como tu dizes,
+tenho uma filha em casa.
+
+678
+01:14:43,443 --> 01:14:46,148
+Até pode ser, mas mesmo assim
+terás de pagar para saíres daqui.
+
+679
+01:14:46,321 --> 01:14:47,899
+Ainda não te chega?
+
+680
+01:14:48,156 --> 01:14:51,608
+Podemos caçar a Locus Solus
+com os dados do E-cérebro do Kim.
+
+681
+01:14:51,994 --> 01:14:54,033
+Não, só podemos provar que
+ele interferiu na investigação.
+
+682
+01:14:54,413 --> 01:14:56,405
+Isso e a violação de ética.
+
+683
+01:14:56,748 --> 01:14:59,074
+Além disso, oficialmente,
+a nossa investigação não existe.
+
+684
+01:14:59,626 --> 01:15:01,785
+Para as acusações dos homicídios
+das Gynóides valerem,
+
+685
+01:15:02,212 --> 01:15:05,581
+precisamos de provas materiais.
+
+686
+01:15:05,924 --> 01:15:09,424
+- E o Kim é um beco sem saída.
+- Não, quebrámos a ligação dele.
+
+687
+01:15:09,803 --> 01:15:11,760
+O espírito dele pode
+não estar ao nosso alcance,
+
+688
+01:15:12,097 --> 01:15:14,137
+mas o E-cérebro dele
+continua ligado à Locus Solus.
+
+689
+01:15:14,516 --> 01:15:17,434
+Temos de resolver este caso
+antes de eles limparem a operação.
+
+690
+01:15:19,479 --> 01:15:22,564
+Há um velho ditado que diz:
+"Quando não estás certo nem errado,
+
+691
+01:15:22,733 --> 01:15:24,891
+é altura de soar os tambores
+e atacar."
+
+692
+01:15:25,360 --> 01:15:27,898
+Ou seja, recorre-se à violência.
+
+693
+01:15:28,196 --> 01:15:31,862
+Não vamos entrar
+num escritório da Yakuza!
+
+694
+01:15:33,243 --> 01:15:36,030
+Então, não vou contar com o teu
+revólver Mateba como protecção.
+
+695
+01:15:36,830 --> 01:15:39,155
+Os pássaros buscam refúgio nos céus,
+
+696
+01:15:39,625 --> 01:15:42,246
+os peixes mergulham fundo
+nos mares...
+
+697
+01:16:21,166 --> 01:16:23,075
+Entrei em contacto com a escolta.
+
+698
+01:16:23,418 --> 01:16:26,503
+É arriscado mergulhar com um corpo
+de ciborgue pesado como o teu.
+
+699
+01:16:26,880 --> 01:16:28,505
+Isto é tão fundo que,
+se fores abaixo,
+
+700
+01:16:28,799 --> 01:16:30,626
+não conseguiremos recuperar-te.
+
+701
+01:16:30,926 --> 01:16:33,417
+Conheci uma ciborgue que fazia
+mergulho nos tempos livres.
+
+702
+01:16:34,179 --> 01:16:36,421
+- E então?
+- Nunca a entendi...
+
+703
+01:16:37,266 --> 01:16:39,507
+Ajudo-te porque és amigo da Lin,
+
+704
+01:16:39,893 --> 01:16:42,218
+mas dizem que nunca voltou
+ninguém vivo desse barco.
+
+705
+01:16:42,938 --> 01:16:46,058
+- Não sei qual é a tua ideia.
+- Exactamente. Vamos.
+
+706
+01:16:46,483 --> 01:16:48,392
+Segura-te bem!
+
+707
+01:17:06,503 --> 01:17:09,041
+Dentro de 12 segundos,
+vamos activar os sensores deles.
+
+708
+01:17:09,464 --> 01:17:11,623
+Vou transmitir dois segundos
+de sinal de camuflagem.
+
+709
+01:17:11,800 --> 01:17:13,211
+Entendido.
+
+710
+01:17:13,343 --> 01:17:16,759
+Encaminhei esta coisa para
+o E-cérebro do chefe de segurança.
+
+711
+01:17:20,559 --> 01:17:22,183
+Iniciar sincronização.
+
+712
+01:18:28,252 --> 01:18:30,789
+Já entrei.
+Manda-me as plantas do barco.
+
+713
+01:18:34,174 --> 01:18:36,582
+<i>Download</i> completo.
+Consegues ver o mesmo que eu?
+
+714
+01:18:36,843 --> 01:18:40,462
+Estou a gravar. Não quero perder
+o assalto do meu mentor.
+
+715
+01:18:40,847 --> 01:18:42,887
+Vê e aprende, miúdo.
+
+716
+01:19:22,306 --> 01:19:24,097
+<i>Intruso detectado.
+
+717
+01:19:24,182 --> 01:19:26,389
+<i>Recarregar sistema</i>
+<i>de segurança nível 2.
+
+718
+01:19:26,685 --> 01:19:28,761
+<i>Rever estado</i>
+<i>de E-cérebros presentes.
+
+719
+01:19:29,146 --> 01:19:31,388
+<i>Pesquisar por utilização</i>
+<i>de memória e tamanho de vírus.
+
+720
+01:19:31,815 --> 01:19:34,769
+<i>Pode ser um vírus latente.</i>
+<i>Fazer pesquisa cruzada.
+
+721
+01:19:35,110 --> 01:19:37,566
+<i>Contacto lógico com o E-cérebro</i>
+<i>do chefe foi negado.
+
+722
+01:19:37,988 --> 01:19:40,360
+<i>Avançar com a reformatação!
+
+723
+01:19:40,699 --> 01:19:43,320
+<i>Reinicialização do sistema</i>
+<i>de segurança nível 2 terminada.
+
+724
+01:19:43,660 --> 01:19:45,487
+<i>Criar um desvio para o intruso.
+
+725
+01:19:45,954 --> 01:19:48,991
+<i>Reconstruir a "firewall" lógica.</i>
+<i>Carregar anti-vírus.
+
+726
+01:19:50,876 --> 01:19:52,619
+<i>A procurar vírus...
+
+727
+01:19:53,879 --> 01:19:56,796
+<i>Equipa de reacção,</i>
+<i>preparar armadilha para emboscada.
+
+728
+01:19:58,133 --> 01:20:00,589
+<i>Lançar todos os vírus latentes</i>
+<i>ao longo das "firewalls".
+
+729
+01:20:00,719 --> 01:20:02,379
+<i>"Firewall" 014 infiltrada.
+
+730
+01:20:02,679 --> 01:20:05,005
+<i>Erro tipo 280</i>
+<i>na parede de segurança 032.
+
+731
+01:20:05,390 --> 01:20:07,716
+<i>Reconstruir "firewall"</i>
+<i>de segurança nível 1.
+
+732
+01:20:08,185 --> 01:20:10,854
+<i>"Detectada flutuação no padrão da</i>
+<i>"firewall" pró-activa do inimigo.
+
+733
+01:20:11,563 --> 01:20:13,520
+<i>Transmitir vírus.
+
+734
+01:20:15,776 --> 01:20:17,733
+Sai daí, Togusa. Estás em perigo.
+Detectaram-te.
+
+735
+01:20:18,028 --> 01:20:20,270
+Vão fritar-te o cérebro!
+
+736
+01:20:20,530 --> 01:20:23,531
+- Ainda não, um pouco mais.
+- Idiota, não sejas louco!
+
+737
+01:21:44,615 --> 01:21:46,691
+<i>Acesso ilegal à área de produção</i>
+<i>final da Gynóide Hadaly.
+
+738
+01:21:47,034 --> 01:21:49,525
+<i>Suspeita de ataque não confirmado</i>
+<i>por vírus latente.
+
+739
+01:21:50,245 --> 01:21:52,534
+<i>Lançar todos os anti-vírus</i>
+<i>como protecção.
+
+740
+01:21:52,623 --> 01:21:54,580
+<i>Tarde demais,</i>
+<i>todos os sistemas activos.
+
+741
+01:21:54,708 --> 01:21:56,582
+<i>Não consigo estabelecer</i>
+<i>contacto lógico.
+
+742
+01:21:57,127 --> 01:22:00,211
+<i>A carregar "software" de controlo</i>
+<i>dos robôs de combate.
+
+743
+01:22:01,089 --> 01:22:04,423
+<i>Aviso. Anomalia na linha TH07.
+
+744
+01:22:07,763 --> 01:22:10,929
+<i>Equipa de segurança, equipar</i>
+<i>e seguir para a linha. Repito...
+
+745
+01:23:52,409 --> 01:23:54,734
+"Veni Sancto Spiritus."
+
+746
+01:23:55,412 --> 01:23:57,488
+Há quanto tempo, Major...
+
+747
+01:23:57,873 --> 01:23:59,912
+Como devo tratá-la agora?
+
+748
+01:24:00,292 --> 01:24:01,834
+Para ser precisa,
+
+749
+01:24:02,210 --> 01:24:04,287
+é só um fragmento meu
+descarregado via satélite.
+
+750
+01:24:04,713 --> 01:24:07,085
+O E-cérebro desta Gynóide
+não tem capacidade.
+
+751
+01:24:07,799 --> 01:24:10,255
+Consegue apenas comandar
+o sistema de combate.
+
+752
+01:24:11,428 --> 01:24:14,049
+Isto é o melhor que consigo
+na expressão facial e vocal.
+
+753
+01:24:15,891 --> 01:24:19,723
+Deve haver um terminal de acesso de
+emergência a 50 m nesta passagem.
+
+754
+01:24:20,938 --> 01:24:23,642
+Se conseguir infiltrar-me por aí,
+controlarei todo o sistema.
+
+755
+01:24:31,740 --> 01:24:33,567
+Não mudaste nada...
+
+756
+01:24:33,784 --> 01:24:36,571
+Avança. Eu cubro a retaguarda.
+
+757
+01:24:37,371 --> 01:24:39,197
+Tal como nos velhos tempos.
+
+758
+01:24:58,308 --> 01:25:01,095
+Quem pode olhar-se ao espelho
+e não ver maldade?
+
+759
+01:25:02,145 --> 01:25:04,719
+O espelho não reflecte o mal,
+cria-o.
+
+760
+01:25:05,315 --> 01:25:09,313
+Poesia, agora?
+Estamos a ficar sem munições.
+
+761
+01:25:09,444 --> 01:25:13,905
+O espelho mostra apenas uma fracção
+e não a totalidade.
+
+762
+01:25:58,619 --> 01:26:00,113
+Isso não é arriscado?
+
+763
+01:26:00,454 --> 01:26:02,909
+Só enquanto eu não desligar
+o sistema operativo.
+
+764
+01:26:03,415 --> 01:26:05,491
+Liga-te ás entradas
+auxiliares do chão.
+
+765
+01:26:08,545 --> 01:26:10,205
+Tenho de conseguir controlar
+o sistema
+
+766
+01:26:10,297 --> 01:26:12,124
+ou esta Gynóide deixa de funcionar.
+
+767
+01:26:12,341 --> 01:26:14,380
+Estou a contar
+com o teu braço calibre 30.
+
+768
+01:26:14,885 --> 01:26:18,930
+O meu cérebro pode controlar o tiro,
+mas só me resta um carregador.
+
+769
+01:26:19,765 --> 01:26:22,220
+E tenho dúvidas quanto
+a combatê-las corpo-a-corpo.
+
+770
+01:26:24,937 --> 01:26:26,431
+Cá vai!
+
+771
+01:26:27,522 --> 01:26:29,432
+<i>Entrada ilegal interna</i>
+<i>no sistema principal.
+
+772
+01:26:29,816 --> 01:26:31,690
+<i>Interna? Isolar ponto de acesso.
+
+773
+01:26:32,027 --> 01:26:34,435
+<i>Lançar "firewall" pró-activa.
+
+774
+01:26:34,821 --> 01:26:36,779
+<i>Identificados múltiplos sinais</i>
+<i>de camuflagem.
+
+775
+01:26:37,115 --> 01:26:39,357
+<i>Não há flutuação</i>
+<i>em qualquer terminal.
+
+776
+01:26:39,785 --> 01:26:41,908
+<i>Pode ser um acesso exterior.
+
+777
+01:26:42,287 --> 01:26:44,494
+<i>Encerrar todas</i>
+<i>as entradas exteriores.
+
+778
+01:26:44,873 --> 01:26:47,542
+<i>Desligar fisicamente</i>
+<i>portas de rede.
+
+779
+01:26:48,126 --> 01:26:50,700
+<i>Sistemas de controlo de emergência</i>
+<i>não respondem.
+
+780
+01:26:50,796 --> 01:26:52,456
+<i>Vírus dispersos a convergir.
+
+781
+01:26:52,798 --> 01:26:54,707
+<i>Falha nas "firewalls"</i>
+<i>da área de sistema.
+
+782
+01:26:55,008 --> 01:26:56,800
+<i>Preparar para restauro do sistema.</i>
+<i>Isolar dados nível 1.
+
+783
+01:26:57,135 --> 01:26:59,175
+<i>Múltiplos acessos ilegais</i>
+<i>no núcleo.
+
+784
+01:26:59,805 --> 01:27:01,797
+<i>As contra-medidas não aguentam.
+
+785
+01:28:14,546 --> 01:28:17,749
+O controlo é nosso.
+As ligações externas foram cortadas.
+
+786
+01:28:18,550 --> 01:28:20,875
+Este barco está
+completamente isolado.
+
+787
+01:28:25,307 --> 01:28:28,806
+- Estamos a andar?
+- Dirigimo-nos para Sul.
+
+788
+01:28:29,019 --> 01:28:30,846
+Estamos a sair de águas
+internacionais
+
+789
+01:28:30,938 --> 01:28:32,930
+e vamos para território nacional.
+
+790
+01:28:33,190 --> 01:28:35,099
+Todo este navio
+será a prova material
+
+791
+01:28:35,400 --> 01:28:37,358
+para o crime da Locus Solus.
+
+792
+01:28:37,569 --> 01:28:39,229
+Eles virão atrás de nós.
+
+793
+01:28:39,571 --> 01:28:41,730
+Antes disso,
+teremos um barco de escolta.
+
+794
+01:28:41,990 --> 01:28:43,734
+Já deve estar a chegar.
+
+795
+01:28:44,076 --> 01:28:46,448
+Teremos tempo
+para examinar a técnica
+
+796
+01:28:46,787 --> 01:28:49,075
+com que a Locus Solus
+atribui alma aos bonecos.
+
+797
+01:28:50,332 --> 01:28:52,159
+Já descobriste?
+
+798
+01:28:52,584 --> 01:28:56,084
+Também tens um palpite... certo?
+
+799
+01:29:14,398 --> 01:29:17,731
+Está em silêncio absoluto.
+Devem ter selado tudo.
+
+800
+01:29:32,332 --> 01:29:34,241
+Duplicação de espíritos.
+
+801
+01:29:34,418 --> 01:29:36,245
+Em experiências
+com animais no passado,
+
+802
+01:29:36,378 --> 01:29:38,786
+os cientistas produziram
+cópias inferiores em massa,
+
+803
+01:29:38,922 --> 01:29:40,796
+mas tiveram de abandonar
+essa prática,
+
+804
+01:29:40,882 --> 01:29:42,709
+pois destruía o ser original.
+
+805
+01:29:43,176 --> 01:29:45,465
+Mas a Locus Solus
+lavou o cérebro de miúdas
+
+806
+01:29:45,679 --> 01:29:47,636
+fornecidas pela máfia Kojinkai,
+
+807
+01:29:47,889 --> 01:29:50,178
+copiando os espíritos delas
+para as Gynóides.
+
+808
+01:29:51,560 --> 01:29:54,763
+Foi o espírito que tornou as Gynóides
+da Locus Solus tão desejáveis.
+
+809
+01:30:01,153 --> 01:30:03,145
+Ajudem-me...
+
+810
+01:30:14,875 --> 01:30:16,914
+Ajudem-me...
+
+811
+01:30:59,253 --> 01:31:02,953
+Veio ajudar-me?
+O Sr. Volkerson prometeu...
+
+812
+01:31:03,382 --> 01:31:06,667
+...que a Polícia viria salvar-me.
+
+813
+01:31:07,761 --> 01:31:09,588
+Eu estava na fase 4,
+
+814
+01:31:09,888 --> 01:31:12,011
+mas a minha amiga Soanna
+já está na fase 5.
+
+815
+01:31:13,016 --> 01:31:15,934
+Ela não ouve nada
+e já não consegue responder.
+
+816
+01:31:16,645 --> 01:31:18,684
+O Volkerson, o supervisor
+de encomendas que foi morto
+
+817
+01:31:19,189 --> 01:31:21,348
+alterou o código de ética.
+
+818
+01:31:22,234 --> 01:31:26,695
+Ele foi exposto e a Yakuza eliminou-o
+para vingar o barão do crime.
+
+819
+01:31:29,658 --> 01:31:31,401
+Mas o Volkerson tinha razão.
+
+820
+01:31:31,785 --> 01:31:34,241
+Se os robôs causassem problemas,
+alguém iria reparar.
+
+821
+01:31:34,496 --> 01:31:36,655
+Alguém viria para nos salvar...
+
+822
+01:31:38,667 --> 01:31:40,825
+Ele não pensava nas vítimas?
+
+823
+01:31:44,673 --> 01:31:46,879
+Nas humanas, não.
+
+824
+01:31:47,342 --> 01:31:50,379
+E as bonecas com alma?!
+
+825
+01:31:54,891 --> 01:31:56,931
+Mas...
+
+826
+01:31:57,853 --> 01:32:00,178
+Mas...
+
+827
+01:32:00,522 --> 01:32:02,894
+Eu não queria tornar-me boneca!
+
+828
+01:32:11,533 --> 01:32:14,368
+Lamentamos o choro de um pássaro,
+mas não o sangue de um peixe.
+
+829
+01:32:15,162 --> 01:32:17,368
+Abençoados são os que têm voz.
+
+830
+01:32:17,998 --> 01:32:19,622
+Se as bonecas falassem,
+
+831
+01:32:20,083 --> 01:32:22,918
+sem dúvida gritariam.
+Não queria tornar-me humana.
+
+832
+01:32:23,962 --> 01:32:28,042
+Deixa-me fazer-te uma pergunta.
+Consideras-te feliz?
+
+833
+01:32:29,176 --> 01:32:31,334
+É um valor nostálgico, suponho.
+
+834
+01:32:31,637 --> 01:32:34,092
+Pelo menos, não tenho problemas.
+
+835
+01:32:38,226 --> 01:32:41,263
+Deixem-me caminhar sozinha,
+sem cometer pecados,
+
+836
+01:32:41,772 --> 01:32:44,097
+com poucos desejos...
+
+837
+01:32:44,608 --> 01:32:47,146
+Como um elefante na floresta.
+
+838
+01:32:48,862 --> 01:32:51,270
+Batou, lembra-te sempre...
+
+839
+01:32:51,615 --> 01:32:53,857
+Sempre que entrares na rede,
+
+840
+01:32:54,159 --> 01:32:56,650
+estarei ao teu lado.
+
+841
+01:33:01,792 --> 01:33:03,619
+Vou-me embora...
+
+842
+01:33:45,377 --> 01:33:48,995
+Ela apareceu no barco, não foi?
+O teu anjo da guarda?
+
+843
+01:33:51,466 --> 01:33:54,467
+Outra vez a fechares-te em copas?
+Achas que vou denunciar-te?
+
+844
+01:33:54,928 --> 01:33:57,135
+Vou buscar-te ás 8h00.
+
+845
+01:33:57,431 --> 01:34:00,348
+Fico a dever-te uma
+por teres tomado conta dele.
+
+846
+01:34:02,311 --> 01:34:04,434
+Porque não entras?
+
+847
+01:34:05,731 --> 01:34:08,648
+Estar com a família de outra pessoa
+não faz o meu estilo.
+
+848
+01:34:10,652 --> 01:34:12,194
+Papá!
+
+849
+01:34:13,113 --> 01:34:15,022
+A minha prenda?
+
+850
+01:34:15,449 --> 01:34:17,240
+Lembrei-me, vês?

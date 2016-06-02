@@ -1,0 +1,4097 @@
+1
+00:00:15,569 --> 00:00:19,323  X1:164 X2:553 Y1:506 Y2:536
+<i>Als ich die Treppe hochging</i>
+
+2
+00:00:19,489 --> 00:00:21,400  X1:218 X2:500 Y1:457 Y2:536
+<i>Traf ich einem Mann</i>
+<i>Der gar nicht da war</i>
+
+3
+00:00:24,969 --> 00:00:28,006  X1:161 X2:555 Y1:506 Y2:530
+<i>Heute war er wieder nicht da</i>
+
+4
+00:00:28,169 --> 00:00:30,285  X1:164 X2:553 Y1:457 Y2:530
+SlTZUNG: 6. JUNl
+PATlENT: MALCOLM RlVERS
+
+5
+00:00:30,449 --> 00:00:34,078  X1:126 X2:591 Y1:457 Y2:536
+<i>Ich wünschte</i>
+<i>Ich wünschte, er würde weggehen</i>
+
+6
+00:00:34,969 --> 00:00:37,085  X1:177 X2:542 Y1:506 Y2:536
+<i>Wo haben Sie das gelernt?</i>
+
+7
+00:00:38,249 --> 00:00:40,479  X1:142 X2:577 Y1:506 Y2:530
+<i>Woher k ennen Sie das Gedicht?</i>
+
+8
+00:00:40,649 --> 00:00:42,879  X1:181 X2:533 Y1:506 Y2:536
+<i>Ich hab's mir ausgedacht.</i>
+
+9
+00:00:43,049 --> 00:00:46,359  X1:181 X2:533 Y1:457 Y2:536
+<i>Als ich ein Kind war,</i>
+<i>hab ich's mir ausgedacht.</i>
+
+10
+00:00:49,769 --> 00:00:52,966  X1:125 X2:591 Y1:457 Y2:530
+<i>Woran k önnen Sie sich sonst</i>
+<i>noch aus Ihrer Kindheit erinnern?</i>
+
+11
+00:00:57,769 --> 00:01:01,125  X1:138 X2:576 Y1:037 Y2:115
+<i>Reden Sie nicht</i>
+<i>um den heißen Brei herum, Doc.</i>
+
+12
+00:01:01,289 --> 00:01:06,124  X1:138 X2:580 Y1:037 Y2:115
+<i>Reden Sie nicht</i>
+<i>um den heißen Brei herum, Doc!</i>
+
+13
+00:01:07,249 --> 00:01:11,481  X1:097 X2:617 Y1:037 Y2:110
+<i>Erzählen Sie mir,</i>
+<i>was Sie noch über Ihre Mutter wissen.</i>
+
+14
+00:01:11,649 --> 00:01:12,638  X1:205 X2:512 Y1:506 Y2:530
+BAGATELLDlEBSTAHL
+
+15
+00:01:12,809 --> 00:01:14,242  X1:119 X2:595 Y1:506 Y2:530
+<i>Ich erinnere mich an meine Mutter.</i>
+
+16
+00:01:14,409 --> 00:01:15,478  X1:184 X2:532 Y1:457 Y2:530
+PROSTlTUTlON
+BEWÄHRUNGSVERSTOSS
+
+17
+00:01:15,649 --> 00:01:17,446  X1:119 X2:595 Y1:506 Y2:530
+<i>Ich erinnere mich an meine Mutter.</i>
+
+18
+00:01:19,529 --> 00:01:21,440  X1:233 X2:481 Y1:506 Y2:530
+<i>Sie war eine Hure.</i>
+
+19
+00:01:31,049 --> 00:01:33,882  X1:183 X2:536 Y1:506 Y2:536
+<i>Wie lange ließ sie Sie da?</i>
+
+20
+00:01:34,409 --> 00:01:35,683  X1:180 X2:535 Y1:505 Y2:536
+Jung<i>e</i> in Hot<i>e</i>l ausg<i>e</i>s<i>e</i>tzt
+
+21
+00:01:35,849 --> 00:01:38,886  X1:188 X2:525 Y1:506 Y2:536
+<i>Solange sie zu tun hatte.</i>
+
+22
+00:01:39,049 --> 00:01:41,404  X1:184 X2:531 Y1:456 Y2:535
+Kind in Hot<i>e</i>l g<i>e</i>fund<i>e</i>n,
+v<i>e</i>rwahrlost, misshand<i>e</i>lt
+
+23
+00:01:43,889 --> 00:01:45,925  X1:175 X2:540 Y1:457 Y2:530
+AMTSVORMUNDSCHAFT
+JUGENDAMT-ERMlTTLUNG
+
+24
+00:01:46,089 --> 00:01:47,078  X1:270 X2:446 Y1:506 Y2:530
+PFLEGEHElM
+
+25
+00:01:52,249 --> 00:01:55,366  X1:125 X2:593 Y1:457 Y2:536
+<i>Wissen Sie,</i>
+<i>warum Sie jetzt mit mir sprechen?</i>
+
+26
+00:01:55,529 --> 00:01:57,042  X1:134 X2:579 Y1:506 Y2:530
+<i>Sie sollen ein Talent haben für...</i>
+
+27
+00:01:57,209 --> 00:01:58,198  X1:266 X2:449 Y1:505 Y2:536
+B<i>e</i>rgalbtraum
+
+28
+00:01:58,369 --> 00:01:59,358  X1:234 X2:479 Y1:506 Y2:536
+<i>...Kopfschmerzen.</i>
+
+29
+00:01:59,529 --> 00:02:00,962  X1:187 X2:529 Y1:457 Y2:530
+MASSENMORD
+Malcolm Riv<i>e</i>rs v<i>e</i>rhaft<i>e</i>t
+
+30
+00:02:01,129 --> 00:02:03,882  X1:132 X2:581 Y1:037 Y2:110
+<i>Aspirin reicht aber bei mir nicht.</i>
+<i>Verstehen Sie?</i>
+
+31
+00:02:04,049 --> 00:02:07,928  X1:138 X2:578 Y1:506 Y2:530
+<i>Erinnern Sie sich an die Morde?</i>
+
+32
+00:02:09,689 --> 00:02:11,680  X1:224 X2:489 Y1:506 Y2:530
+<i>Ich erinnere mich...</i>
+
+33
+00:02:12,369 --> 00:02:15,839  X1:153 X2:565 Y1:457 Y2:530
+<i>dass Columbia die Hauptstadt</i>
+<i>v on South Carolina ist.</i>
+
+34
+00:02:18,249 --> 00:02:19,841  X1:183 X2:531 Y1:037 Y2:066
+<i>Ich erinnere mich, dass...</i>
+
+35
+00:02:24,809 --> 00:02:28,438  X1:229 X2:486 Y1:456 Y2:532
+g<i>e</i>spalt<i>e</i>n<i>e</i> Psych<i>e</i>
+Qu<i>e</i>ll<i>e</i> d<i>e</i>s B<i>ö</i>s<i>e</i>n
+
+36
+00:02:28,609 --> 00:02:29,598  X1:290 X2:424 Y1:506 Y2:530
+das B<i>ö</i>s<i>e.</i>
+
+37
+00:02:30,209 --> 00:02:32,882  X1:209 X2:505 Y1:457 Y2:530
+<i>Sind Sie derjenige,</i>
+<i>der am 1 0. Mai 1 998...</i>
+
+38
+00:02:33,049 --> 00:02:36,405  X1:121 X2:596 Y1:457 Y2:536
+<i>sechs Anwohner v on</i>
+<i>Lak eworth Apartments ermordete?</i>
+
+39
+00:02:36,569 --> 00:02:39,037  X1:158 X2:556 Y1:456 Y2:536
+B<i>e</i>rühmt<i>e</i>r Psychiat<i>e</i>r
+sagt für di<i>e</i> V<i>e</i>rt<i>e</i>idigung aus
+
+40
+00:02:40,969 --> 00:02:43,119  X1:188 X2:526 Y1:037 Y2:067
+<i>Das ist mein Geburtstag.</i>
+
+41
+00:02:43,289 --> 00:02:45,245  X1:193 X2:524 Y1:456 Y2:536
+Unzur<i>e</i>chnungsfähigk<i>e</i>it
+zurückg<i>e</i>wi<i>e</i>s<i>e</i>n
+
+42
+00:02:48,369 --> 00:02:50,325  X1:234 X2:483 Y1:037 Y2:061
+<i>Mit wem rede ich?</i>
+
+43
+00:02:50,489 --> 00:02:52,559  X1:198 X2:517 Y1:456 Y2:536
+Riv<i>e</i>rs zum Tod
+durch Spritz<i>e</i> v<i>e</i>rurt<i>e</i>ilt
+
+44
+00:02:52,729 --> 00:02:55,323  X1:191 X2:528 Y1:506 Y2:530
+<i>Wie soll ich Sie nennen?</i>
+
+45
+00:02:56,529 --> 00:02:59,646  X1:132 X2:582 Y1:506 Y2:535
+<i>Nennen Sie mich, wie Sie wollen.</i>
+
+46
+00:03:09,769 --> 00:03:11,487  X1:318 X2:399 Y1:037 Y2:067
+<i>Gary?</i>
+
+47
+00:03:11,649 --> 00:03:13,287  X1:318 X2:399 Y1:037 Y2:067
+<i>Gary?</i>
+
+48
+00:03:13,849 --> 00:03:15,805  X1:222 X2:495 Y1:037 Y2:067
+<i>Gary, bist du wach?</i>
+
+49
+00:03:15,969 --> 00:03:19,325  X1:130 X2:585 Y1:036 Y2:067
+Ja, Gr<i>e</i>g, ich bin in d<i>e</i>r Tat wach.
+
+50
+00:03:19,489 --> 00:03:21,207  X1:197 X2:516 Y1:506 Y2:536
+<i>Ich störe dich ungern...</i>
+
+51
+00:03:21,369 --> 00:03:24,486  X1:169 X2:545 Y1:036 Y2:116
+ab<i>e</i>r <i>e</i>s gibt im Fall Riv<i>e</i>rs
+<i>e</i>in<i>e</i> Mitt<i>e</i>rnachtsanh<i>ö</i>rung.
+
+52
+00:03:24,649 --> 00:03:28,403  X1:109 X2:605 Y1:036 Y2:116
+Di<i>e</i> V<i>e</i>rt<i>e</i>idigung fand <i>e</i>in Tag<i>e</i>buch,
+das in d<i>e</i>r falsch<i>e</i>n Akt<i>e</i> lag.
+
+53
+00:03:28,569 --> 00:03:31,367  X1:149 X2:566 Y1:036 Y2:110
+Si<i>e</i> sag<i>e</i>n, dass <i>e</i>s absichtlich
+v<i>e</i>rst<i>e</i>ckt wurd<i>e.</i>
+
+54
+00:03:32,209 --> 00:03:33,881  X1:233 X2:481 Y1:505 Y2:530
+Wovon r<i>e</i>d<i>e</i>st du?
+
+55
+00:03:34,049 --> 00:03:37,200  X1:138 X2:577 Y1:036 Y2:110
+Di<i>e</i> M<i>e</i>di<i>e</i>n wiss<i>e</i>n nichts.
+Passi<i>e</i>rt<i>e</i> unt<i>e</i>rhalb d<i>e</i>s Radars.
+
+56
+00:03:37,369 --> 00:03:39,678  X1:172 X2:546 Y1:036 Y2:116
+D<i>e</i>r G<i>e</i>fang<i>e</i>n<i>e</i>ntransport<i>e</i>r
+fuhr von Ely ab.
+
+57
+00:03:39,849 --> 00:03:42,886  X1:177 X2:539 Y1:037 Y2:116
+<i>Ely? Was soll das heißen?</i>
+<i>Was für ein Transporter?</i>
+
+58
+00:03:43,049 --> 00:03:45,768  X1:119 X2:595 Y1:036 Y2:116
+Mit d<i>e</i>m Tag<i>e</i>buch k<i>ö</i>nn<i>e</i>n si<i>e</i>
+auf unzur<i>e</i>chnungsfähig plädi<i>e</i>r<i>e</i>n.
+
+59
+00:03:45,929 --> 00:03:49,239  X1:115 X2:600 Y1:456 Y2:536
+Riv<i>e</i>rs muss dab<i>e</i>i s<i>e</i>in,
+also transporti<i>e</i>r<i>e</i>n si<i>e</i> ihn b<i>e</i>täubt.
+
+60
+00:03:49,409 --> 00:03:51,479  X1:102 X2:613 Y1:505 Y2:536
+ln d<i>e</i>r Nacht vor s<i>e</i>in<i>e</i>r Hinrichtung...
+
+61
+00:03:51,649 --> 00:03:53,401  X1:101 X2:613 Y1:505 Y2:536
+schl<i>e</i>pp<i>e</i>n si<i>e</i> ihn zu <i>e</i>in<i>e</i>r Anh<i>ö</i>rung.
+
+62
+00:03:53,569 --> 00:03:55,685  X1:144 X2:570 Y1:505 Y2:530
+Wi<i>e</i> konnt<i>e</i>st du das zulass<i>e</i>n?
+
+63
+00:04:00,169 --> 00:04:02,399  X1:134 X2:584 Y1:037 Y2:061
+<i>Wie wär's mit noch einer Runde?</i>
+
+64
+00:04:03,729 --> 00:04:06,323  X1:151 X2:563 Y1:037 Y2:115
+<i>Schauen wir uns</i>
+<i>das nächste Puzzle an, Vanna.</i>
+
+65
+00:04:06,489 --> 00:04:08,798  X1:147 X2:567 Y1:037 Y2:110
+<i>- Kategorie.: ''Rund ums Haus''.</i>
+- Kauf <i>e</i>in<i>e</i>n Vokal.
+
+66
+00:04:08,969 --> 00:04:10,721  X1:177 X2:537 Y1:036 Y2:110
+- Kauf <i>e</i>in<i>e</i>n Vokal.
+<i>- Holen Sie sich die Reise.</i>
+
+67
+00:04:11,409 --> 00:04:14,879  X1:159 X2:556 Y1:456 Y2:530
+- Kauf<i>e e</i>in<i>e</i>n Vokal, du ldiot.
+<i>- Ich möchte ein E kaufen.</i>
+
+68
+00:04:15,369 --> 00:04:17,325  X1:318 X2:395 Y1:506 Y2:530
+<i>Ein E.</i>
+
+69
+00:04:17,489 --> 00:04:20,765  X1:177 X2:536 Y1:457 Y2:530
+<i>- Gut, Sie haben noch 350.</i>
+- N.
+
+70
+00:04:21,649 --> 00:04:23,241  X1:225 X2:489 Y1:456 Y2:530
+- Kauf <i>e</i>in<i>e</i>n Vokal.
+- <i>Noch einen Vokal.</i>
+
+71
+00:04:23,409 --> 00:04:25,240  X1:313 X2:400 Y1:457 Y2:530
+- Ja!
+<i>- Ein I.</i>
+
+72
+00:04:30,969 --> 00:04:32,402  X1:206 X2:507 Y1:457 Y2:530
+<i>- Ich möchte es lösen.</i>
+<i>- Gut.</i>
+
+73
+00:04:32,569 --> 00:04:33,968  X1:238 X2:483 Y1:506 Y2:530
+<i>''Kibbles 'n' Bits. ''</i>
+
+74
+00:04:38,129 --> 00:04:40,723  X1:167 X2:547 Y1:505 Y2:530
+Si<i>e</i> h<i>ö</i>rt nicht auf zu blut<i>e</i>n.
+
+75
+00:04:40,889 --> 00:04:45,041  X1:111 X2:604 Y1:456 Y2:530
+- M<i>e</i>in Gott. Was ist passi<i>e</i>rt?
+- Ein Unfall. Wir hatt<i>e</i>n <i>e</i>in<i>e</i>n Unfall.
+
+76
+00:04:45,209 --> 00:04:47,279  X1:209 X2:505 Y1:457 Y2:536
+<i>Regen und Gewitter</i>
+<i>ziehen Richtung Elk o.</i>
+
+77
+00:04:47,449 --> 00:04:50,566  X1:193 X2:525 Y1:457 Y2:536
+<i>Der Doppler-Radar zeigt</i>
+<i>ein heftiges Gewitter...</i>
+
+78
+00:04:50,729 --> 00:04:53,197  X1:161 X2:553 Y1:457 Y2:536
+<i>das aus den Kreisen</i>
+<i>Pershing und Lander k ommt.</i>
+
+79
+00:04:53,369 --> 00:04:56,008  X1:116 X2:598 Y1:457 Y2:530
+<i>- Es k önnte zu schweren Stürmen...</i>
+<i>- Vier Mal zehn ist...</i>
+
+80
+00:04:56,169 --> 00:04:57,397  X1:254 X2:462 Y1:506 Y2:530
+<i>Vier mal zehn...</i>
+
+81
+00:04:57,569 --> 00:05:01,562  X1:104 X2:610 Y1:456 Y2:530
+Timothy, h<i>ö</i>rst du bitt<i>e</i> auf?
+Wir woll<i>e</i>n das mit d<i>e</i>m Sturm h<i>ö</i>r<i>e</i>n.
+
+82
+00:05:03,049 --> 00:05:05,199  X1:142 X2:574 Y1:456 Y2:530
+- Soll ich wirklich nicht fahr<i>e</i>n?
+- N<i>e</i>in.
+
+83
+00:05:05,369 --> 00:05:09,920  X1:121 X2:594 Y1:456 Y2:530
+lch fahr<i>e</i> bis And<i>e</i>rson, nach
+d<i>e</i>m Ess<i>e</i>n kannst du dann fahr<i>e</i>n.
+
+84
+00:05:13,329 --> 00:05:15,524  X1:271 X2:444 Y1:505 Y2:530
+ln di<i>e</i> Kurv<i>e.</i>
+
+85
+00:05:17,449 --> 00:05:19,838  X1:122 X2:594 Y1:505 Y2:536
+Mit kurz<i>e</i>n, f<i>e</i>st<i>e</i>n Züg<i>e</i>n br<i>e</i>ms<i>e</i>n.
+
+86
+00:05:20,009 --> 00:05:23,445  X1:119 X2:595 Y1:456 Y2:536
+Spi<i>e</i>g<i>e</i>l und Armatur<i>e</i>nbr<i>e</i>tt prüf<i>e</i>n
+und langsam...
+
+87
+00:05:23,609 --> 00:05:27,158  X1:180 X2:536 Y1:505 Y2:536
+und r<i>e</i>ibungslos anhalt<i>e</i>n.
+
+88
+00:05:27,329 --> 00:05:29,320  X1:141 X2:574 Y1:456 Y2:536
+All<i>e</i>s in Ordnung, m<i>e</i>in Schatz?
+Timothy?
+
+89
+00:05:32,729 --> 00:05:35,801  X1:117 X2:597 Y1:456 Y2:536
+Sich<i>e</i>rh<i>e</i>itsgurt<i>e</i>, Sich<i>e</i>rh<i>e</i>itsgurt<i>e</i>,
+Sich<i>e</i>rh<i>e</i>itsgurt<i>e.</i>
+
+90
+00:05:41,689 --> 00:05:43,281  X1:224 X2:491 Y1:456 Y2:530
+- Das ist <i>e</i>in Schuh.
+- Was?
+
+91
+00:05:43,449 --> 00:05:45,644  X1:234 X2:481 Y1:505 Y2:530
+Das ist <i>e</i>in Schuh!
+
+92
+00:06:02,409 --> 00:06:05,845  X1:180 X2:538 Y1:506 Y2:530
+<i>Denn er ist ein feiner Kerl</i>
+
+93
+00:06:06,009 --> 00:06:10,446  X1:180 X2:538 Y1:506 Y2:530
+<i>Denn er ist ein feiner Kerl</i>
+
+94
+00:06:10,609 --> 00:06:16,798  X1:180 X2:538 Y1:506 Y2:530
+<i>Denn er ist ein feiner Kerl</i>
+
+95
+00:06:18,809 --> 00:06:24,998  X1:158 X2:561 Y1:506 Y2:530
+<i>Was niemand bestreiten kann</i>
+
+96
+00:06:36,369 --> 00:06:38,087  X1:299 X2:415 Y1:505 Y2:530
+Sch<i>e</i>iß<i>e</i>!
+
+97
+00:06:43,209 --> 00:06:47,441  X1:089 X2:626 Y1:456 Y2:535
+- Wi<i>e</i>so hat <i>e</i>r k<i>e</i>in<i>e</i>n b<i>e</i>ss<i>e</i>r<i>e</i>n Ersatz?
+- W<i>e</i>ißt du, was di<i>e</i> kost<i>e</i>n, Alic<i>e</i>?
+
+98
+00:06:47,609 --> 00:06:49,122  X1:171 X2:543 Y1:505 Y2:536
+W<i>e</i>rd<i>e</i> nicht gl<i>e</i>ich grantig.
+
+99
+00:06:49,289 --> 00:06:52,725  X1:116 X2:599 Y1:456 Y2:536
+W<i>e</i>nn <i>e</i>s darum g<i>e</i>ht, dass Timothy
+in di<i>e</i> richtig<i>e</i> Schul<i>e</i> kommt...
+
+100
+00:06:52,889 --> 00:06:55,119  X1:138 X2:577 Y1:456 Y2:536
+- ist <i>e</i>s doch alb<i>e</i>rn, sich üb<i>e</i>r...
+- G<i>e</i>org<i>e</i>?
+
+101
+00:06:55,289 --> 00:06:57,723  X1:170 X2:544 Y1:456 Y2:530
+- ...Ersatzr<i>e</i>if<i>e</i>n zu str<i>e</i>it<i>e</i>n.
+- Kann ich h<i>e</i>lf<i>e</i>n?
+
+102
+00:06:57,889 --> 00:07:01,484  X1:157 X2:557 Y1:456 Y2:530
+N<i>e</i>in. Es ist all<i>e</i>s in Ordnung,
+trotzd<i>e</i>m...
+
+103
+00:07:01,929 --> 00:07:03,920  X1:272 X2:441 Y1:505 Y2:530
+vi<i>e</i>l<i>e</i>n Dank.
+
+104
+00:07:31,049 --> 00:07:34,359  X1:116 X2:600 Y1:505 Y2:530
+Oh m<i>e</i>in Gott! Oh m<i>e</i>in Gott! Alic<i>e</i>?
+
+105
+00:07:35,369 --> 00:07:39,760  X1:206 X2:509 Y1:456 Y2:536
+Oh m<i>e</i>in Gott! Alic<i>e</i>?
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>tan?
+
+106
+00:07:40,689 --> 00:07:44,284  X1:206 X2:509 Y1:456 Y2:536
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>tan?
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>tan?
+
+107
+00:07:46,849 --> 00:07:49,966  X1:136 X2:580 Y1:505 Y2:536
+Hi, Harry. Wo soll ich anfang<i>e</i>n?
+
+108
+00:07:50,129 --> 00:07:53,041  X1:140 X2:577 Y1:505 Y2:535
+lch hab<i>e</i> das S<i>e</i>t v<i>e</i>rlass<i>e</i>n, ok?
+
+109
+00:07:53,209 --> 00:07:55,279  X1:193 X2:522 Y1:456 Y2:536
+Si<i>e</i> sag<i>e</i>n sich<i>e</i>r,
+das s<i>e</i>i V<i>e</i>rtragsbruch...
+
+110
+00:07:55,449 --> 00:07:58,247  X1:096 X2:618 Y1:505 Y2:536
+ab<i>e</i>r si<i>e</i> k<i>e</i>nn<i>e</i>n m<i>e</i>in<i>e</i>n V<i>e</i>rtrag nicht.
+
+111
+00:07:58,409 --> 00:08:00,639  X1:092 X2:622 Y1:505 Y2:536
+Si<i>e</i> hab<i>e</i>n mich ins Ramada g<i>e</i>st<i>e</i>ckt...
+
+112
+00:08:04,329 --> 00:08:06,240  X1:301 X2:413 Y1:505 Y2:530
+Oh Gott.
+
+113
+00:08:06,729 --> 00:08:09,197  X1:169 X2:546 Y1:457 Y2:530
+lch glaub<i>e</i>,
+ich hab<i>e e</i>in<i>e</i> Extrabatt<i>e</i>ri<i>e.</i>
+
+114
+00:08:09,369 --> 00:08:10,563  X1:272 X2:442 Y1:505 Y2:536
+V<i>e</i>rz<i>e</i>ihung?
+
+115
+00:08:10,729 --> 00:08:14,608  X1:144 X2:572 Y1:456 Y2:535
+lch hab<i>e e</i>in<i>e</i> Extrabatt<i>e</i>ri<i>e</i>
+in m<i>e</i>in<i>e</i>r Tasch<i>e</i>, n<i>e</i>b<i>e</i>n lhn<i>e</i>n.
+
+116
+00:08:14,769 --> 00:08:20,002  X1:091 X2:624 Y1:456 Y2:536
+- ln w<i>e</i>lch<i>e</i>r, Miss Suzann<i>e</i>?
+- D<i>e</i>r Louis-Vuitton-Tasch<i>e</i>, ganz ob<i>e</i>n.
+
+117
+00:08:24,609 --> 00:08:25,928  X1:241 X2:475 Y1:505 Y2:530
+lch s<i>e</i>h<i>e</i> nichts...
+
+118
+00:08:26,089 --> 00:08:30,082  X1:126 X2:589 Y1:456 Y2:530
+Mach<i>e</i>n Si<i>e</i> lhr<i>e</i> Sch<i>e</i>ißaug<i>e</i>n auf!
+ln d<i>e</i>r S<i>e</i>it<i>e</i>ntasch<i>e</i>!
+
+119
+00:08:30,249 --> 00:08:31,443  X1:288 X2:426 Y1:505 Y2:530
+M<i>e</i>in Gott!
+
+120
+00:08:39,809 --> 00:08:42,926  X1:206 X2:509 Y1:456 Y2:536
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>tan?
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>tan?
+
+121
+00:08:43,089 --> 00:08:46,320  X1:138 X2:577 Y1:456 Y2:530
+N<i>e</i>in! W<i>e</i>nn Si<i>e</i> ihm h<i>e</i>lf<i>e</i>n,
+mach<i>e</i>n Si<i>e</i> sich v<i>e</i>rantwortlich.
+
+122
+00:08:46,609 --> 00:08:48,918  X1:161 X2:555 Y1:505 Y2:530
+Das bin ich auch. Loslass<i>e</i>n.
+
+123
+00:08:49,769 --> 00:08:51,600  X1:266 X2:449 Y1:505 Y2:530
+Alic<i>e</i>? Alic<i>e</i>?
+
+124
+00:08:51,769 --> 00:08:53,885  X1:206 X2:509 Y1:456 Y2:536
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>tan?
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>tan?
+
+125
+00:08:54,249 --> 00:08:56,683  X1:151 X2:564 Y1:505 Y2:530
+Lass<i>e</i>n Si<i>e</i> mich mal schau<i>e</i>n.
+
+126
+00:08:56,849 --> 00:09:00,967  X1:121 X2:594 Y1:457 Y2:536
+J<i>e</i>d<i>e</i>r Fahr<i>e</i>r,
+d<i>e</i>r an <i>e</i>in<i>e</i>m Unfall b<i>e</i>t<i>e</i>iligt war...
+
+127
+00:09:01,129 --> 00:09:04,804  X1:182 X2:532 Y1:456 Y2:536
+ist v<i>e</i>rpflicht<i>e</i>t,
+sich binn<i>e</i>n z<i>e</i>hn Tag<i>e</i>n...
+
+128
+00:09:04,969 --> 00:09:07,199  X1:147 X2:568 Y1:456 Y2:530
+Hab<i>e</i>n Si<i>e e</i>in Handtuch
+od<i>e</i>r <i>e</i>twas in d<i>e</i>r Art im Auto?
+
+129
+00:09:07,369 --> 00:09:09,929  X1:224 X2:491 Y1:505 Y2:530
+Gut. H<i>e</i>lf<i>e</i>n Si<i>e</i> mir.
+
+130
+00:09:10,929 --> 00:09:12,965  X1:217 X2:499 Y1:456 Y2:530
+...binn<i>e</i>n z<i>e</i>hn Tag<i>e</i>n
+nach d<i>e</i>m Unfall...
+
+131
+00:09:13,129 --> 00:09:17,281  X1:117 X2:598 Y1:456 Y2:535
+W<i>e</i>nn Si<i>e e</i>in Fahrz<i>e</i>ug fahr<i>e</i>n,
+und <i>e</i>s dazu komm<i>e</i>n sollt<i>e</i>, dass...
+
+132
+00:09:17,449 --> 00:09:21,522  X1:083 X2:631 Y1:456 Y2:536
+- Bl<i>e</i>ib<i>e</i>n Si<i>e.</i> Si<i>e</i> muss trock<i>e</i>n bl<i>e</i>ib<i>e</i>n.
+- Schon gut, Schatz.
+
+133
+00:09:22,529 --> 00:09:24,804  X1:091 X2:624 Y1:456 Y2:530
+- Aufmach<i>e</i>n! Wir müss<i>e</i>n t<i>e</i>l<i>e</i>foni<i>e</i>r<i>e</i>n.
+- N<i>e</i>in!
+
+134
+00:09:25,729 --> 00:09:27,481  X1:151 X2:565 Y1:505 Y2:536
+Es ist all<i>e</i>s in Ordnung, Spatz.
+
+135
+00:09:27,649 --> 00:09:29,287  X1:218 X2:497 Y1:505 Y2:536
+Schatz, all<i>e</i>s ist gut.
+
+136
+00:09:31,849 --> 00:09:35,239  X1:162 X2:551 Y1:456 Y2:535
+- H<i>e</i>r mit d<i>e</i>m Sch<i>e</i>ißt<i>e</i>l<i>e</i>fon!
+- Das funktioni<i>e</i>rt nicht, ok?
+
+137
+00:09:35,409 --> 00:09:39,687  X1:181 X2:534 Y1:456 Y2:536
+Dir wird nichts passi<i>e</i>r<i>e</i>n.
+All<i>e</i>s wird gut.
+
+138
+00:09:46,329 --> 00:09:47,887  X1:323 X2:391 Y1:505 Y2:530
+N<i>e</i>in!
+
+139
+00:10:08,529 --> 00:10:10,884  X1:158 X2:557 Y1:456 Y2:536
+- Si<i>e</i> h<i>ö</i>rt nicht auf zu blut<i>e</i>n.
+- Was ist passi<i>e</i>rt?
+
+140
+00:10:11,049 --> 00:10:13,722  X1:200 X2:516 Y1:456 Y2:530
+Ein Unfall. Kann ich
+b<i>e</i>i lhn<i>e</i>n t<i>e</i>l<i>e</i>foni<i>e</i>r<i>e</i>n?
+
+141
+00:10:13,889 --> 00:10:16,801  X1:209 X2:507 Y1:456 Y2:535
+- Bitt<i>e</i>? T<i>e</i>l<i>e</i>foni<i>e</i>r<i>e</i>n?
+- Ja, sich<i>e</i>r.
+
+142
+00:10:19,529 --> 00:10:23,124  X1:133 X2:581 Y1:456 Y2:536
+Sch<i>e</i>iß<i>e.</i> lch komm<i>e</i> nicht durch.
+Das passi<i>e</i>rt, w<i>e</i>nn <i>e</i>s r<i>e</i>gn<i>e</i>t.
+
+143
+00:10:23,289 --> 00:10:24,438  X1:204 X2:512 Y1:505 Y2:536
+Das T<i>e</i>l<i>e</i>fon ist kaputt.
+
+144
+00:10:24,609 --> 00:10:27,487  X1:144 X2:570 Y1:036 Y2:110
+St. Jud<i>e</i> hat <i>e</i>in<i>e</i> Notaufnahm<i>e</i>,
+50 km <i>ö</i>stlich.
+
+145
+00:10:28,449 --> 00:10:29,564  X1:330 X2:385 Y1:505 Y2:530
+Gut.
+
+146
+00:10:31,529 --> 00:10:33,599  X1:178 X2:538 Y1:505 Y2:535
+Du bl<i>e</i>ibst hi<i>e</i>r sitz<i>e</i>n, ok?
+
+147
+00:10:34,809 --> 00:10:37,767  X1:117 X2:599 Y1:456 Y2:536
+Auf di<i>e</i> Wund<i>e</i> drück<i>e</i>n.
+lch komm<i>e</i> mit d<i>e</i>m Krank<i>e</i>nwag<i>e</i>n.
+
+148
+00:10:47,689 --> 00:10:49,202  X1:261 X2:453 Y1:506 Y2:530
+Was soll das?
+
+149
+00:10:49,369 --> 00:10:52,486  X1:096 X2:618 Y1:456 Y2:530
+Tut mir L<i>e</i>id. Es ist nicht das Ramada,
+ab<i>e</i>r <i>e</i>s muss r<i>e</i>ich<i>e</i>n.
+
+150
+00:10:52,649 --> 00:10:54,560  X1:215 X2:500 Y1:456 Y2:530
+Hi<i>e</i>r bl<i>e</i>ib<i>e</i> ich nicht.
+Sind Si<i>e</i> v<i>e</i>rrückt?
+
+151
+00:10:54,729 --> 00:10:57,084  X1:210 X2:505 Y1:456 Y2:530
+Das ist m<i>e</i>in Auto.
+Si<i>e</i> arb<i>e</i>it<i>e</i>n für mich.
+
+152
+00:10:57,249 --> 00:10:59,365  X1:102 X2:611 Y1:505 Y2:530
+Tun Si<i>e</i> di<i>e</i> Tasch<i>e</i>n wi<i>e</i>d<i>e</i>r ins Auto!
+
+153
+00:11:00,849 --> 00:11:05,684  X1:103 X2:611 Y1:456 Y2:536
+lch w<i>e</i>iß, d<i>e</i>m blut<i>e</i>nd<i>e</i>n M<i>e</i>nsch<i>e</i>n
+g<i>e</i>ht<i>'</i>s nicht gut, ab<i>e</i>r mir auch nicht.
+
+154
+00:11:05,849 --> 00:11:11,128  X1:099 X2:617 Y1:456 Y2:530
+M<i>e</i>in<i>e</i> Lung<i>e</i>nwänd<i>e</i> sind ang<i>e</i>griff<i>e</i>n.
+lch kann <i>e</i>rstick<i>e</i>n!
+
+155
+00:11:15,209 --> 00:11:18,724  X1:164 X2:552 Y1:505 Y2:535
+N<i>e</i>in, bitt<i>e</i>, bitt<i>e</i>, bitt<i>e</i>, bitt<i>e.</i>
+
+156
+00:11:19,449 --> 00:11:21,201  X1:322 X2:393 Y1:505 Y2:530
+Bitt<i>e</i>!
+
+157
+00:11:28,289 --> 00:11:29,563  X1:328 X2:386 Y1:506 Y2:536
+H<i>e</i>y!
+
+158
+00:11:34,889 --> 00:11:36,527  X1:210 X2:503 Y1:505 Y2:535
+Anhalt<i>e</i>n. Bitt<i>e</i>, bitt<i>e.</i>
+
+159
+00:11:39,849 --> 00:11:43,319  X1:122 X2:593 Y1:456 Y2:530
+Hi. M<i>e</i>in Auto ist li<i>e</i>g<i>e</i>n g<i>e</i>bli<i>e</i>b<i>e</i>n.
+K<i>ö</i>nn<i>e</i>n Si<i>e</i> mich mitn<i>e</i>hm<i>e</i>n?
+
+160
+00:11:43,489 --> 00:11:45,207  X1:335 X2:379 Y1:506 Y2:530
+Ok.
+
+161
+00:12:02,529 --> 00:12:04,485  X1:173 X2:541 Y1:505 Y2:536
+Si<i>e</i> fahr<i>e</i>n Richtung Ost<i>e</i>n.
+
+162
+00:12:05,289 --> 00:12:07,519  X1:157 X2:558 Y1:505 Y2:536
+Das Krank<i>e</i>nhaus ist da lang.
+
+163
+00:12:08,649 --> 00:12:12,722  X1:130 X2:586 Y1:456 Y2:536
+Es ist üb<i>e</i>rflut<i>e</i>t.
+lch m<i>e</i>in<i>e</i>, <i>e</i>s ist <i>e</i>in<i>e</i> Sackgass<i>e.</i>
+
+164
+00:12:13,049 --> 00:12:16,325  X1:163 X2:552 Y1:456 Y2:536
+Na ja, ich würd<i>e e</i>s trotzd<i>e</i>m
+g<i>e</i>rn<i>e</i> v<i>e</i>rsuch<i>e</i>n.
+
+165
+00:12:21,769 --> 00:12:25,079  X1:137 X2:577 Y1:505 Y2:535
+Gut, das macht $30 in bar, bitt<i>e.</i>
+
+166
+00:12:30,729 --> 00:12:32,799  X1:105 X2:610 Y1:505 Y2:536
+War<i>e</i>n Si<i>e</i> nicht mal Schauspi<i>e</i>l<i>e</i>rin?
+
+167
+00:12:35,449 --> 00:12:37,280  X1:338 X2:377 Y1:506 Y2:530
+Ja.
+
+168
+00:12:38,729 --> 00:12:42,005  X1:152 X2:563 Y1:457 Y2:535
+- Toll.
+- Also, ist das Zimm<i>e</i>r sch<i>ö</i>n?
+
+169
+00:12:43,609 --> 00:12:48,285  X1:127 X2:589 Y1:456 Y2:535
+D<i>e</i>nn ich m<i>ö</i>cht<i>e</i>, obwohl ich bald
+abr<i>e</i>is<i>e</i>, <i>e</i>in sch<i>ö</i>n<i>e</i>s Zimm<i>e</i>r.
+
+170
+00:12:50,409 --> 00:12:52,320  X1:251 X2:465 Y1:505 Y2:530
+lhr Sch<i>ö</i>nst<i>e</i>s...
+
+171
+00:12:53,489 --> 00:12:55,320  X1:258 X2:455 Y1:505 Y2:536
+w<i>e</i>nn m<i>ö</i>glich.
+
+172
+00:13:00,929 --> 00:13:02,965  X1:157 X2:559 Y1:505 Y2:536
+Numm<i>e</i>r 8 ist s<i>e</i>hr g<i>e</i>mütlich.
+
+173
+00:13:11,649 --> 00:13:14,038  X1:187 X2:528 Y1:456 Y2:530
+lch hab<i>e</i> v<i>e</i>rsucht,
+<i>e</i>s lhn<i>e</i>n klar zu mach<i>e</i>n.
+
+174
+00:13:16,249 --> 00:13:19,844  X1:183 X2:532 Y1:456 Y2:530
+H<i>e</i>y! Halt!
+Da kann man nicht durch.
+
+175
+00:13:20,009 --> 00:13:22,569  X1:183 X2:532 Y1:456 Y2:530
+Da kann man nicht durch!
+Da kann man nicht durch!
+
+176
+00:13:22,729 --> 00:13:24,128  X1:237 X2:478 Y1:457 Y2:530
+- Lou, aufwach<i>e</i>n.
+- Was?
+
+177
+00:13:24,769 --> 00:13:26,248  X1:270 X2:446 Y1:505 Y2:530
+Mobilt<i>e</i>l<i>e</i>fon.
+
+178
+00:13:26,409 --> 00:13:28,320  X1:156 X2:559 Y1:457 Y2:530
+- Was?
+- Hab<i>e</i>n Si<i>e e</i>in Mobilt<i>e</i>l<i>e</i>fon?
+
+179
+00:13:28,489 --> 00:13:29,842  X1:213 X2:502 Y1:505 Y2:530
+W<i>e</i>r will das wiss<i>e</i>n?
+
+180
+00:13:30,489 --> 00:13:33,083  X1:211 X2:504 Y1:456 Y2:530
+Es gab <i>e</i>in<i>e</i>n Unfall.
+Ein<i>e</i> Frau ist v<i>e</i>rl<i>e</i>tzt.
+
+181
+00:13:33,249 --> 00:13:36,002  X1:138 X2:577 Y1:456 Y2:530
+- Wir brauch<i>e</i>n <i>e</i>in Mobilt<i>e</i>l<i>e</i>fon.
+- lmm<i>e</i>r mit d<i>e</i>r Ruh<i>e.</i>
+
+182
+00:13:36,169 --> 00:13:39,525  X1:125 X2:588 Y1:456 Y2:530
+Erst<i>e</i>ns k<i>e</i>nn<i>e</i>n wir Si<i>e</i> nicht.
+Zw<i>e</i>it<i>e</i>ns s<i>e</i>h<i>e</i> ich k<i>e</i>in<i>e</i>n Unfall...
+
+183
+00:13:39,689 --> 00:13:43,204  X1:116 X2:599 Y1:456 Y2:536
+H<i>ö</i>r<i>e</i>n Si<i>e</i> zu, h<i>e</i>ut<i>e</i> ist <i>e</i>in <i>e</i>cht
+b<i>e</i>schiss<i>e</i>n<i>e</i>r, nass<i>e</i>r Tag für mich.
+
+184
+00:13:43,369 --> 00:13:45,758  X1:137 X2:576 Y1:456 Y2:530
+W<i>e</i>nn Si<i>e</i> also <i>e</i>in Handy hab<i>e</i>n,
+dann h<i>e</i>r damit!
+
+185
+00:13:45,929 --> 00:13:51,128  X1:096 X2:618 Y1:456 Y2:530
+Mann, wir hab<i>e</i>n k<i>e</i>in Mobilt<i>e</i>l<i>e</i>fon,
+k<i>ö</i>nn<i>e</i>n Si<i>e</i> mich nun bitt<i>e</i> loslass<i>e</i>n?!
+
+186
+00:13:52,649 --> 00:13:55,288  X1:119 X2:596 Y1:456 Y2:536
+Si<i>e</i> müss<i>e</i>n mich
+in di<i>e</i> and<i>e</i>r<i>e</i> Richtung mitn<i>e</i>hm<i>e</i>n.
+
+187
+00:13:55,449 --> 00:13:58,885  X1:168 X2:547 Y1:456 Y2:530
+Da ist auch all<i>e</i>s üb<i>e</i>rflut<i>e</i>t.
+Schlimm<i>e</i>r als hi<i>e</i>r.
+
+188
+00:14:00,769 --> 00:14:02,566  X1:131 X2:583 Y1:505 Y2:536
+Ginny, mach d<i>e</i>n Koff<i>e</i>rraum auf.
+
+189
+00:14:04,169 --> 00:14:05,682  X1:266 X2:450 Y1:505 Y2:530
+Lass si<i>e</i> r<i>e</i>in.
+
+190
+00:14:22,209 --> 00:14:24,006  X1:244 X2:472 Y1:505 Y2:536
+H<i>e</i>y. Wi<i>e</i> g<i>e</i>ht<i>'</i>s?
+
+191
+00:14:30,489 --> 00:14:33,128  X1:178 X2:537 Y1:456 Y2:530
+- G<i>e</i>ht das T<i>e</i>l<i>e</i>fon?
+- N<i>e</i>in. Wo ist lhr Lincoln?
+
+192
+00:14:33,289 --> 00:14:36,725  X1:099 X2:617 Y1:456 Y2:530
+lm Morast st<i>e</i>ck<i>e</i>n g<i>e</i>bli<i>e</i>b<i>e</i>n.
+Di<i>e</i> and<i>e</i>r<i>e</i> Str<i>e</i>ck<i>e</i> ist auch im Arsch.
+
+193
+00:14:36,889 --> 00:14:38,800  X1:157 X2:559 Y1:456 Y2:530
+Di<i>e</i> hab<i>e</i>n uns mitg<i>e</i>nomm<i>e</i>n.
+Das Mädch<i>e</i>n saß f<i>e</i>st.
+
+194
+00:14:39,289 --> 00:14:41,644  X1:156 X2:560 Y1:456 Y2:530
+- Gibt <i>e</i>s <i>e</i>in<i>e</i>n and<i>e</i>r<i>e</i>n W<i>e</i>g?
+- lst das <i>e</i>in<i>e</i> Nutt<i>e</i>?
+
+195
+00:14:41,809 --> 00:14:43,367  X1:163 X2:553 Y1:505 Y2:536
+H<i>e</i>y! Gibt <i>e</i>s <i>e</i>in<i>e</i>n F<i>e</i>ldw<i>e</i>g?
+
+196
+00:14:43,529 --> 00:14:45,963  X1:141 X2:573 Y1:456 Y2:530
+Wo fli<i>e</i>ßt wohl das Wass<i>e</i>r hin?
+Si<i>e</i> käm<i>e</i>n k<i>e</i>in<i>e</i> 200 M<i>e</i>t<i>e</i>r.
+
+197
+00:14:46,129 --> 00:14:49,599  X1:151 X2:563 Y1:456 Y2:530
+- Wi<i>e</i> g<i>e</i>ht<i>'</i>s d<i>e</i>r Frau?
+- W<i>e</i>iß nicht. Di<i>e</i> sind in Nr. 4.
+
+198
+00:15:04,329 --> 00:15:07,127  X1:179 X2:536 Y1:456 Y2:530
+Tut mir L<i>e</i>id,
+das ist k<i>e</i>in Stund<i>e</i>nhot<i>e</i>l.
+
+199
+00:15:08,969 --> 00:15:12,086  X1:115 X2:600 Y1:505 Y2:536
+Witzig. Gibt <i>e</i>s noch was zu <i>e</i>ss<i>e</i>n?
+
+200
+00:15:12,249 --> 00:15:16,162  X1:109 X2:605 Y1:505 Y2:535
+Ja, im Automat um di<i>e</i> Eck<i>e.</i> Nur zu.
+
+201
+00:15:16,329 --> 00:15:20,561  X1:110 X2:606 Y1:456 Y2:530
+Zimm<i>e</i>r kost<i>e</i>n $30 im Voraus,
+mit Ausw<i>e</i>is. Ein od<i>e</i>r zw<i>e</i>i Zimm<i>e</i>r?
+
+202
+00:15:20,729 --> 00:15:24,165  X1:127 X2:589 Y1:456 Y2:535
+Hallo, ich r<i>e</i>d<i>e</i> mit lhn<i>e</i>n. Es wär<i>e</i>
+n<i>e</i>tt, w<i>e</i>nn Si<i>e</i> mich anschau<i>e</i>n.
+
+203
+00:15:24,929 --> 00:15:27,318  X1:188 X2:528 Y1:456 Y2:536
+Tja, ich schau<i>e</i>
+nicht g<i>e</i>rn Abschaum an.
+
+204
+00:15:34,329 --> 00:15:38,720  X1:106 X2:607 Y1:456 Y2:536
+Wir sitz<i>e</i>n f<i>e</i>st, G<i>e</i>org<i>e.</i> Wir komm<i>e</i>n
+h<i>e</i>ut<i>e</i> Nacht nicht m<i>e</i>hr w<i>e</i>g.
+
+205
+00:15:38,889 --> 00:15:43,405  X1:177 X2:537 Y1:456 Y2:530
+- Si<i>e</i> zitt<i>e</i>rt di<i>e</i> ganz<i>e</i> Z<i>e</i>it.
+- Si<i>e</i> st<i>e</i>ht unt<i>e</i>r Schock.
+
+206
+00:15:43,569 --> 00:15:45,878  X1:149 X2:566 Y1:456 Y2:530
+- Lass<i>e</i>n Si<i>e</i> mich mal guck<i>e</i>n.
+- Was?
+
+207
+00:15:46,049 --> 00:15:48,483  X1:159 X2:556 Y1:505 Y2:536
+Lass<i>e</i>n Si<i>e</i> mich mal guck<i>e</i>n.
+
+208
+00:16:04,809 --> 00:16:06,800  X1:136 X2:580 Y1:505 Y2:530
+Hat lhr<i>e</i> Frau <i>e</i>in Näh<i>e</i>tui dab<i>e</i>i?
+
+209
+00:16:07,329 --> 00:16:08,444  X1:324 X2:392 Y1:505 Y2:530
+N<i>e</i>in.
+
+210
+00:16:13,489 --> 00:16:14,888  X1:267 X2:447 Y1:505 Y2:536
+Ginny, wart<i>e.</i>
+
+211
+00:16:18,249 --> 00:16:20,319  X1:312 X2:402 Y1:506 Y2:530
+S<i>e</i>chs.
+
+212
+00:16:20,809 --> 00:16:23,448  X1:144 X2:569 Y1:505 Y2:536
+W<i>e</i>nigst<i>e</i>ns <i>e</i>in<i>e</i> gut<i>e</i> Numm<i>e</i>r.
+
+213
+00:16:33,249 --> 00:16:34,682  X1:319 X2:396 Y1:506 Y2:530
+Hallo.
+
+214
+00:16:34,849 --> 00:16:38,398  X1:165 X2:551 Y1:456 Y2:530
+lch bin hi<i>e</i>r zur V<i>e</i>rn<i>e</i>hmung
+im Fall Riv<i>e</i>rs.
+
+215
+00:16:38,609 --> 00:16:40,520  X1:103 X2:613 Y1:505 Y2:536
+lch glaub<i>e</i>, das ist im Richt<i>e</i>rzimm<i>e</i>r.
+
+216
+00:16:40,689 --> 00:16:44,045  X1:125 X2:590 Y1:456 Y2:536
+- Hi<i>e</i>r <i>e</i>ntlang. lm Konf<i>e</i>r<i>e</i>nzraum.
+- lst d<i>e</i>r G<i>e</i>fang<i>e</i>n<i>e</i>ntransport da?
+
+217
+00:16:44,209 --> 00:16:47,121  X1:119 X2:596 Y1:456 Y2:536
+M<i>e</i>in Mandant durft<i>e</i> nicht auf
+Unzur<i>e</i>chnungsfähigk<i>e</i>it plädi<i>e</i>r<i>e</i>n.
+
+218
+00:16:47,289 --> 00:16:49,484  X1:124 X2:591 Y1:456 Y2:536
+N<i>e</i>nn<i>e</i>n wir das Kind b<i>e</i>im Nam<i>e</i>n:
+<i>e</i>in b<i>e</i>schiss<i>e</i>n<i>e</i>s Stoßg<i>e</i>b<i>e</i>t.
+
+219
+00:16:49,649 --> 00:16:52,607  X1:150 X2:563 Y1:456 Y2:536
+Lass<i>e</i>n Si<i>e</i> mich <i>e</i>rklär<i>e</i>n,
+was Zur<i>e</i>chnungsfähigk<i>e</i>it ist.
+
+220
+00:16:52,809 --> 00:16:55,687  X1:138 X2:577 Y1:456 Y2:536
+Dass <i>e</i>in Sp<i>e</i>zialist
+in s<i>e</i>in<i>e</i>m Kopf h<i>e</i>rumstoch<i>e</i>rt...
+
+221
+00:16:55,849 --> 00:16:57,760  X1:183 X2:532 Y1:456 Y2:536
+und ihm Pill<i>e</i>n gibt,
+ist Zur<i>e</i>chnungsfähigk<i>e</i>it.
+
+222
+00:16:58,009 --> 00:17:00,239  X1:169 X2:545 Y1:456 Y2:530
+Ab<i>e</i>r dass di<i>e</i>s<i>e</i>r V<i>e</i>rrückt<i>e</i>
+h<i>e</i>rumläuft...
+
+223
+00:17:00,409 --> 00:17:02,798  X1:189 X2:525 Y1:456 Y2:530
+nicht anspr<i>e</i>chbar,
+das ist furcht<i>e</i>infl<i>ö</i>ß<i>e</i>nd.
+
+224
+00:17:02,969 --> 00:17:05,005  X1:176 X2:539 Y1:456 Y2:536
+lch kann lhn<i>e</i>n v<i>e</i>rsich<i>e</i>rn,
+<i>e</i>s gibt k<i>e</i>in<i>e</i>n...
+
+225
+00:17:05,169 --> 00:17:06,761  X1:135 X2:579 Y1:505 Y2:535
+N<i>e</i>in, ich kann lhn<i>e</i>n v<i>e</i>rsich<i>e</i>rn:
+
+226
+00:17:06,929 --> 00:17:09,727  X1:137 X2:578 Y1:456 Y2:536
+Morg<i>e</i>n um Mitt<i>e</i>rnacht wird
+<i>e</i>in<i>e</i> Spritz<i>e</i> mit Kaliumchlorid...
+
+227
+00:17:09,889 --> 00:17:13,359  X1:119 X2:597 Y1:456 Y2:536
+das H<i>e</i>rz lhr<i>e</i>s Kli<i>e</i>nt<i>e</i>n anhalt<i>e</i>n,
+und ich w<i>e</i>rd<i>e</i> wi<i>e</i>d<i>e</i>r gut schlaf<i>e</i>n.
+
+228
+00:17:13,529 --> 00:17:17,283  X1:091 X2:623 Y1:456 Y2:530
+Di<i>e</i> Famili<i>e</i>n s<i>e</i>in<i>e</i>r Opf<i>e</i>r woll<i>e</i>n nicht,
+dass <i>e</i>r b<i>e</i>hand<i>e</i>lt wird.
+
+229
+00:17:17,449 --> 00:17:19,167  X1:126 X2:589 Y1:505 Y2:530
+Si<i>e</i> woll<i>e</i>n das Monst<i>e</i>r tot s<i>e</i>h<i>e</i>n.
+
+230
+00:17:19,329 --> 00:17:20,762  X1:257 X2:458 Y1:505 Y2:536
+Das ist richtig.
+
+231
+00:17:20,929 --> 00:17:24,365  X1:101 X2:614 Y1:456 Y2:536
+B<i>e</i>vor wir vorschn<i>e</i>ll ihr<i>e</i>n Wünsch<i>e</i>n
+<i>e</i>ntspr<i>e</i>ch<i>e</i>n, sollt<i>e</i>n wir b<i>e</i>d<i>e</i>nk<i>e</i>n...
+
+232
+00:17:24,529 --> 00:17:27,726  X1:136 X2:576 Y1:456 Y2:530
+Wir müss<i>e</i>n di<i>e</i> Ratt<i>e</i> ausrott<i>e</i>n,
+nicht das Haus.
+
+233
+00:17:28,849 --> 00:17:30,123  X1:150 X2:566 Y1:505 Y2:536
+Entschuldigung, w<i>e</i>r sind Si<i>e</i>?
+
+234
+00:17:30,649 --> 00:17:32,844  X1:228 X2:487 Y1:505 Y2:530
+Das ist Dr. Mallick.
+
+235
+00:17:33,129 --> 00:17:34,608  X1:212 X2:503 Y1:505 Y2:536
+Malcolms Psychiat<i>e</i>r.
+
+236
+00:18:12,889 --> 00:18:16,359  X1:202 X2:514 Y1:456 Y2:530
+- Hast du das g<i>e</i>spürt?
+- Was?
+
+237
+00:18:16,849 --> 00:18:18,601  X1:319 X2:396 Y1:505 Y2:530
+Kält<i>e.</i>
+
+238
+00:18:31,729 --> 00:18:33,481  X1:203 X2:512 Y1:505 Y2:536
+Sind Si<i>e</i> d<i>e</i>r Manag<i>e</i>r?
+
+239
+00:18:33,649 --> 00:18:35,560  X1:338 X2:377 Y1:506 Y2:530
+Ja.
+
+240
+00:18:36,049 --> 00:18:40,600  X1:111 X2:604 Y1:456 Y2:536
+Offic<i>e</i>r Rhod<i>e</i>s, Strafanstalt.
+lch transporti<i>e</i>r<i>e e</i>in<i>e</i>n G<i>e</i>fang<i>e</i>n<i>e</i>n.
+
+241
+00:18:40,769 --> 00:18:43,567  X1:100 X2:615 Y1:505 Y2:530
+G<i>e</i>s<i>e</i>tzlich dürf<i>e</i>n Si<i>e</i> uns abw<i>e</i>is<i>e</i>n...
+
+242
+00:18:43,729 --> 00:18:46,038  X1:135 X2:580 Y1:456 Y2:530
+ab<i>e</i>r di<i>e</i> Straß<i>e</i>n sind üb<i>e</i>rflut<i>e</i>t.
+lch brauch<i>e e</i>in Zimm<i>e</i>r.
+
+243
+00:18:46,209 --> 00:18:49,485  X1:174 X2:542 Y1:456 Y2:530
+- Es ist <i>e</i>in Notfall.
+- Hab<i>e</i>n Si<i>e e</i>in Autoradio?
+
+244
+00:18:49,649 --> 00:18:51,719  X1:101 X2:613 Y1:456 Y2:535
+- W<i>e</i>r ist das?
+- Limousin<i>e</i>nfahr<i>e</i>r, hatt<i>e '</i>n<i>e</i>n Unfall.
+
+245
+00:18:51,889 --> 00:18:54,926  X1:127 X2:589 Y1:456 Y2:536
+Ein<i>e</i> Frau ist v<i>e</i>rl<i>e</i>tzt.
+lch brauch<i>e e</i>in<i>e</i>n Krank<i>e</i>nwag<i>e</i>n.
+
+246
+00:18:55,089 --> 00:18:57,808  X1:150 X2:565 Y1:505 Y2:536
+4-4-2, bitt<i>e</i> um Krank<i>e</i>nwag<i>e</i>n.
+
+247
+00:18:57,969 --> 00:19:00,563  X1:150 X2:565 Y1:505 Y2:536
+4-4-2, bitt<i>e</i> um Krank<i>e</i>nwag<i>e</i>n.
+
+248
+00:19:00,729 --> 00:19:03,368  X1:111 X2:604 Y1:505 Y2:530
+Nichts. Das ist s<i>e</i>it <i>e</i>in<i>e</i>r Stund<i>e</i> so.
+
+249
+00:19:03,529 --> 00:19:05,838  X1:146 X2:571 Y1:456 Y2:530
+Si<i>e</i> v<i>e</i>rli<i>e</i>rt vi<i>e</i>l Blut.
+Hab<i>e</i>n Si<i>e e</i>in<i>e</i>n Arzn<i>e</i>ikast<i>e</i>n?
+
+250
+00:19:06,009 --> 00:19:07,328  X1:208 X2:507 Y1:505 Y2:535
+Pflast<i>e</i>r, das ist all<i>e</i>s.
+
+251
+00:19:07,489 --> 00:19:09,957  X1:179 X2:535 Y1:457 Y2:530
+- Nad<i>e</i>l und Fad<i>e</i>n?
+- Vi<i>e</i>ll<i>e</i>icht im R<i>e</i>staurant.
+
+252
+00:19:10,129 --> 00:19:14,486  X1:187 X2:528 Y1:456 Y2:530
+lch hol<i>e e</i>s. Da ist zu.
+Bl<i>e</i>ib<i>e</i>n Si<i>e</i> im Trockn<i>e</i>n.
+
+253
+00:19:14,729 --> 00:19:17,163  X1:100 X2:615 Y1:456 Y2:530
+lch komm<i>e</i> mit d<i>e</i>m Schlüss<i>e</i>l wi<i>e</i>d<i>e</i>r.
+Nr. 1 0.
+
+254
+00:19:17,329 --> 00:19:20,480  X1:171 X2:545 Y1:456 Y2:530
+- Gut, dank<i>e.</i>
+- W<i>e</i>n hab<i>e</i>n Si<i>e</i> da hint<i>e</i>n?
+
+255
+00:19:20,649 --> 00:19:22,685  X1:209 X2:506 Y1:505 Y2:536
+G<i>e</i>fang<i>e</i>n<i>e</i>ntransport.
+
+256
+00:19:22,849 --> 00:19:26,046  X1:124 X2:592 Y1:456 Y2:536
+W<i>e</i>nn Si<i>e</i> mit d<i>e</i>m f<i>e</i>rtig sind,
+k<i>ö</i>nnt<i>e</i>n Si<i>e</i> di<i>e</i> Frau b<i>e</i>gutacht<i>e</i>n.
+
+257
+00:19:26,209 --> 00:19:29,326  X1:120 X2:595 Y1:456 Y2:530
+- lch brauch<i>e e</i>in<i>e</i> zw<i>e</i>it<i>e</i> M<i>e</i>inung.
+- Sich<i>e</i>r.
+
+258
+00:19:36,929 --> 00:19:39,568  X1:229 X2:486 Y1:036 Y2:061
+Si<i>e</i> sind am Arsch.
+
+259
+00:19:40,409 --> 00:19:41,637  X1:288 X2:426 Y1:506 Y2:530
+Schnauz<i>e</i>!
+
+260
+00:19:55,009 --> 00:19:57,603  X1:201 X2:513 Y1:456 Y2:536
+- Hätt<i>e</i> ich doch B<i>e</i>ig<i>e.</i>
+- Das ist gut so.
+
+261
+00:19:57,769 --> 00:20:00,044  X1:177 X2:539 Y1:506 Y2:536
+Das wär<i>e</i> b<i>e</i>ss<i>e</i>r g<i>e</i>w<i>e</i>s<i>e</i>n.
+
+262
+00:20:00,209 --> 00:20:02,882  X1:181 X2:533 Y1:456 Y2:530
+lch muss zum Polizist<i>e</i>n.
+W<i>e</i>nn Si<i>e</i> was brauch<i>e</i>n...
+
+263
+00:20:03,049 --> 00:20:04,960  X1:190 X2:525 Y1:505 Y2:536
+ich bin gl<i>e</i>ich wi<i>e</i>d<i>e</i>r da.
+
+264
+00:20:10,929 --> 00:20:13,602  X1:174 X2:541 Y1:505 Y2:536
+Wo hab<i>e</i>n Si<i>e</i> das g<i>e</i>l<i>e</i>rnt?
+
+265
+00:20:14,009 --> 00:20:16,682  X1:232 X2:483 Y1:505 Y2:535
+Da, wo Si<i>e</i> st<i>e</i>h<i>e</i>n.
+
+266
+00:20:29,449 --> 00:20:31,724  X1:247 X2:469 Y1:505 Y2:536
+H<i>e</i>y, ist all<i>e</i>s...?
+
+267
+00:20:32,449 --> 00:20:35,247  X1:101 X2:615 Y1:505 Y2:536
+lst all<i>e</i>s in Ordnung mit d<i>e</i>m Jung<i>e</i>n?
+
+268
+00:20:35,409 --> 00:20:37,764  X1:210 X2:505 Y1:456 Y2:536
+Er hat s<i>e</i>it d<i>e</i>m Unfall
+k<i>e</i>in Wort g<i>e</i>sagt.
+
+269
+00:20:37,929 --> 00:20:42,286  X1:149 X2:567 Y1:456 Y2:535
+N<i>e</i>in, n<i>e</i>in.
+Er r<i>e</i>d<i>e</i>t nicht m<i>e</i>hr vi<i>e</i>l, s<i>e</i>it...
+
+270
+00:20:44,649 --> 00:20:46,958  X1:203 X2:512 Y1:505 Y2:530
+lch bin s<i>e</i>in Sti<i>e</i>fvat<i>e</i>r.
+
+271
+00:20:47,129 --> 00:20:49,165  X1:274 X2:440 Y1:505 Y2:530
+S<i>e</i>in Vat<i>e</i>r...
+
+272
+00:20:50,449 --> 00:20:52,838  X1:117 X2:599 Y1:505 Y2:536
+D<i>e</i>r ist vor zw<i>e</i>i Jahr<i>e</i>n abg<i>e</i>hau<i>e</i>n.
+
+273
+00:20:54,409 --> 00:20:56,684  X1:159 X2:557 Y1:505 Y2:530
+Kl<i>e</i>in<i>e</i>s Probl<i>e</i>m mit d<i>e</i>r Wut.
+
+274
+00:21:12,009 --> 00:21:13,965  X1:295 X2:418 Y1:505 Y2:530
+Vorsicht.
+
+275
+00:21:20,769 --> 00:21:22,122  X1:198 X2:517 Y1:505 Y2:530
+Di<i>e</i> M<i>ö</i>b<i>e</i>l sind nutzlos.
+
+276
+00:21:22,289 --> 00:21:26,441  X1:117 X2:597 Y1:456 Y2:536
+W<i>e</i>nn Si<i>e</i> ihn irg<i>e</i>ndwo f<i>e</i>stmach<i>e</i>n
+woll<i>e</i>n, schlag<i>e</i> ich das Klo vor.
+
+277
+00:21:26,609 --> 00:21:28,406  X1:179 X2:534 Y1:505 Y2:530
+Vi<i>e</i>l<i>e</i>n Dank für lhr<i>e</i> Hilf<i>e.</i>
+
+278
+00:21:28,569 --> 00:21:31,242  X1:227 X2:487 Y1:456 Y2:530
+- Gut<i>e</i> ld<i>ee.</i> Komm.
+<i>- Ich habe Bänder</i>
+
+279
+00:21:31,409 --> 00:21:35,607  X1:188 X2:528 Y1:457 Y2:530
+<i>Bänder an den Schultern</i>
+<i>Und diese Ketten</i>
+
+280
+00:21:35,769 --> 00:21:37,964  X1:222 X2:492 Y1:457 Y2:536
+<i>Diese Ketten</i>
+<i>Die werden gleich...</i>
+
+281
+00:21:41,929 --> 00:21:43,601  X1:158 X2:556 Y1:505 Y2:530
+Schau<i>e</i>n wir uns di<i>e</i> Frau an.
+
+282
+00:21:47,729 --> 00:21:50,084  X1:166 X2:549 Y1:456 Y2:530
+- Sind Si<i>e</i> durchg<i>e</i>komm<i>e</i>n?
+- Was?
+
+283
+00:21:50,489 --> 00:21:53,640  X1:135 X2:580 Y1:456 Y2:535
+- B<i>e</i>kam<i>e</i>n Si<i>e e</i>in<i>e</i> V<i>e</i>rbindung?
+- N<i>e</i>in, noch nicht.
+
+284
+00:21:59,609 --> 00:22:01,247  X1:190 X2:524 Y1:505 Y2:530
+Gut<i>e</i> Arb<i>e</i>it b<i>e</i>im Näh<i>e</i>n.
+
+285
+00:22:04,129 --> 00:22:06,768  X1:115 X2:600 Y1:456 Y2:536
+D<i>e</i>r Puls ist flach, ab<i>e</i>r r<i>e</i>g<i>e</i>lmäßig.
+Mach<i>e</i>n Si<i>e e</i>s ihr b<i>e</i>qu<i>e</i>m.
+
+286
+00:22:06,929 --> 00:22:09,318  X1:176 X2:538 Y1:456 Y2:530
+Wir sollt<i>e</i>n uns
+mit d<i>e</i>m Funk abw<i>e</i>chs<i>e</i>ln.
+
+287
+00:22:09,929 --> 00:22:12,523  X1:165 X2:550 Y1:505 Y2:536
+Nicht n<i>ö</i>tig. lch schaff<i>e</i> das.
+
+288
+00:22:27,969 --> 00:22:30,927  X1:094 X2:621 Y1:505 Y2:535
+W<i>e</i>rd<i>e</i>n Si<i>e</i> mich f<i>e</i>stn<i>e</i>hm<i>e</i>n, Offic<i>e</i>r?
+
+289
+00:22:34,329 --> 00:22:36,206  X1:320 X2:394 Y1:506 Y2:530
+Was?
+
+290
+00:22:37,169 --> 00:22:40,479  X1:210 X2:505 Y1:456 Y2:530
+Woh<i>e</i>r wusst<i>e</i>n Si<i>e</i>,
+dass ich Polizist bin?
+
+291
+00:22:43,849 --> 00:22:46,124  X1:287 X2:429 Y1:505 Y2:530
+Echt wahr.
+
+292
+00:22:48,649 --> 00:22:51,117  X1:155 X2:561 Y1:505 Y2:536
+Chips zum Ab<i>e</i>nd<i>e</i>ss<i>e</i>n, was?
+
+293
+00:22:51,289 --> 00:22:54,725  X1:119 X2:596 Y1:456 Y2:530
+- Das ist doch nichts Ord<i>e</i>ntlich<i>e</i>s.
+- Wiss<i>e</i>n Si<i>e</i> was B<i>e</i>ss<i>e</i>r<i>e</i>s?
+
+294
+00:22:54,889 --> 00:22:58,928  X1:127 X2:590 Y1:456 Y2:535
+B<i>e</i>im Militär kocht<i>e</i> ich. Vi<i>e</i>ll<i>e</i>icht
+hat das Lokal auf, ich k<i>ö</i>nnt<i>e...</i>
+
+295
+00:22:59,089 --> 00:23:01,967  X1:116 X2:600 Y1:505 Y2:530
+K<i>ö</i>nn<i>e</i>n Si<i>e e</i>in<i>e</i>n Dollar w<i>e</i>chs<i>e</i>ln?
+
+296
+00:23:02,489 --> 00:23:05,367  X1:180 X2:535 Y1:505 Y2:530
+lch w<i>e</i>iß nicht. Mal s<i>e</i>h<i>e</i>n.
+
+297
+00:23:14,249 --> 00:23:16,638  X1:296 X2:418 Y1:505 Y2:535
+So, bitt<i>e.</i>
+
+298
+00:23:18,169 --> 00:23:19,887  X1:189 X2:528 Y1:505 Y2:530
+Hab<i>e</i>n Si<i>e e</i>in<i>e</i>n Nam<i>e</i>n?
+
+299
+00:23:21,169 --> 00:23:23,842  X1:305 X2:411 Y1:456 Y2:530
+- Paris.
+- Paris?
+
+300
+00:23:24,009 --> 00:23:25,237  X1:287 X2:428 Y1:506 Y2:530
+lch hol <i>e</i>s.
+
+301
+00:23:25,409 --> 00:23:27,525  X1:219 X2:497 Y1:505 Y2:530
+Da war ich noch ni<i>e.</i>
+
+302
+00:23:27,689 --> 00:23:30,726  X1:166 X2:551 Y1:456 Y2:530
+Und h<i>e</i>ut<i>e</i> Nacht w<i>e</i>rd<i>e</i>n Si<i>e</i>
+da auch nicht hinkomm<i>e</i>n.
+
+303
+00:23:40,769 --> 00:23:42,600  X1:322 X2:393 Y1:505 Y2:530
+Bitt<i>e.</i>
+
+304
+00:23:42,769 --> 00:23:45,363  X1:235 X2:480 Y1:505 Y2:535
+Bitt<i>e</i>, halt<i>e</i> durch.
+
+305
+00:23:45,969 --> 00:23:49,644  X1:154 X2:560 Y1:505 Y2:536
+Schau mal, Timothy und ich...
+
+306
+00:23:49,809 --> 00:23:52,039  X1:229 X2:484 Y1:505 Y2:530
+wir brauch<i>e</i>n dich.
+
+307
+00:23:52,649 --> 00:23:55,209  X1:171 X2:542 Y1:505 Y2:530
+Wir brauch<i>e</i>n dich so s<i>e</i>hr.
+
+308
+00:24:51,689 --> 00:24:53,361  X1:325 X2:391 Y1:506 Y2:530
+Lou?
+
+309
+00:24:55,809 --> 00:24:57,765  X1:325 X2:391 Y1:506 Y2:530
+Lou?
+
+310
+00:25:27,849 --> 00:25:30,488  X1:187 X2:528 Y1:456 Y2:530
+Du musst ihn<i>e</i>n sag<i>e</i>n,
+dass ich nicht arb<i>e</i>it<i>e</i>n...
+
+311
+00:25:30,649 --> 00:25:33,402  X1:204 X2:511 Y1:456 Y2:536
+nicht glänz<i>e</i>n kann,
+in so <i>e</i>in<i>e</i>r Umg<i>e</i>bung.
+
+312
+00:25:33,569 --> 00:25:37,801  X1:110 X2:606 Y1:456 Y2:536
+Es g<i>e</i>ht nicht ums G<i>e</i>ld.
+Es g<i>e</i>ht um di<i>e</i> Arb<i>e</i>itsb<i>e</i>dingung<i>e</i>n.
+
+313
+00:26:08,209 --> 00:26:10,006  X1:296 X2:419 Y1:505 Y2:530
+Ein<i>e</i> Bar.
+
+314
+00:26:10,609 --> 00:26:12,440  X1:296 X2:419 Y1:505 Y2:530
+Ein<i>e</i> Bar.
+
+315
+00:26:12,649 --> 00:26:13,764  X1:287 X2:428 Y1:505 Y2:530
+K<i>e</i>in<i>e</i> Bar.
+
+316
+00:26:14,689 --> 00:26:16,202  X1:296 X2:419 Y1:505 Y2:530
+Ein<i>e</i> Bar.
+
+317
+00:26:16,369 --> 00:26:17,484  X1:285 X2:429 Y1:505 Y2:530
+Zw<i>e</i>i Bars.
+
+318
+00:26:19,289 --> 00:26:21,564  X1:261 X2:455 Y1:506 Y2:530
+Komm. Komm.
+
+319
+00:26:22,169 --> 00:26:23,887  X1:283 X2:432 Y1:505 Y2:536
+Los g<i>e</i>ht<i>'</i>s.
+
+320
+00:26:26,129 --> 00:26:28,848  X1:216 X2:499 Y1:505 Y2:536
+So ist <i>e</i>s gut. Komm.
+
+321
+00:26:32,569 --> 00:26:35,037  X1:175 X2:538 Y1:505 Y2:530
+V<i>e</i>rdammt<i>e</i> Wüst<i>e</i>n<i>e</i>in<i>ö</i>d<i>e</i>!
+
+322
+00:26:42,609 --> 00:26:46,443  X1:164 X2:550 Y1:505 Y2:530
+Sch<i>e</i>iß<i>e</i>! G<i>e</i>rad<i>e</i> hatt<i>e</i> ich<i>'</i>s.
+
+323
+00:30:19,129 --> 00:30:21,802  X1:217 X2:496 Y1:505 Y2:530
+V<i>e</i>rdammt<i>e</i> Sch<i>e</i>iß<i>e.</i>
+
+324
+00:30:50,249 --> 00:30:53,798  X1:253 X2:462 Y1:456 Y2:530
+- M<i>e</i>in<i>e</i> Fr<i>e</i>ss<i>e.</i>
+- W<i>e</i>r ist das?
+
+325
+00:30:53,969 --> 00:30:57,120  X1:166 X2:550 Y1:505 Y2:535
+Di<i>e</i> Frau, di<i>e</i> ich h<i>e</i>rumfuhr.
+
+326
+00:30:59,889 --> 00:31:02,961  X1:228 X2:486 Y1:457 Y2:530
+- Was soll das?
+- Da ist <i>e</i>twas drin.
+
+327
+00:31:03,129 --> 00:31:05,165  X1:234 X2:480 Y1:456 Y2:530
+- N<i>e</i>hm<i>e</i>n Si<i>e</i> das.
+- Dank<i>e.</i>
+
+328
+00:31:05,329 --> 00:31:08,366  X1:228 X2:487 Y1:456 Y2:530
+- Sind Si<i>e</i> Polizist?
+- Nicht m<i>e</i>hr.
+
+329
+00:31:15,809 --> 00:31:18,960  X1:227 X2:489 Y1:456 Y2:530
+- Si<i>e</i> war in Nr. 1 0?
+- lch bin.
+
+330
+00:31:20,609 --> 00:31:24,488  X1:230 X2:484 Y1:456 Y2:536
+- Wo ist d<i>e</i>r Typ?
+- Ans Klo g<i>e</i>k<i>e</i>tt<i>e</i>t.
+
+331
+00:31:34,129 --> 00:31:36,199  X1:263 X2:452 Y1:505 Y2:530
+M<i>e</i>in<i>e</i> Fr<i>e</i>ss<i>e.</i>
+
+332
+00:31:37,449 --> 00:31:39,724  X1:179 X2:537 Y1:505 Y2:530
+Das war <i>e</i>in<i>e</i> T<i>e</i>uf<i>e</i>lsfahrt.
+
+333
+00:31:43,769 --> 00:31:46,602  X1:268 X2:446 Y1:456 Y2:530
+- G<i>e</i>ntl<i>e</i>m<i>e</i>n.
+- Eu<i>e</i>r Ehr<i>e</i>n.
+
+334
+00:31:52,729 --> 00:31:56,278  X1:186 X2:529 Y1:505 Y2:536
+F<i>e</i>rtig, Sharon? Also gut.
+
+335
+00:31:56,449 --> 00:31:59,725  X1:149 X2:566 Y1:505 Y2:536
+lm Fall Riv<i>e</i>rs g<i>e</i>g<i>e</i>n N<i>e</i>vada...
+
+336
+00:31:59,889 --> 00:32:05,282  X1:099 X2:616 Y1:456 Y2:530
+B<i>e</i>i all<i>e</i>m R<i>e</i>sp<i>e</i>kt, wir sollt<i>e</i>n wart<i>e</i>n,
+bis m<i>e</i>in Mandant hi<i>e</i>r ist.
+
+337
+00:32:05,729 --> 00:32:09,517  X1:144 X2:570 Y1:456 Y2:536
+- Er hat <i>e</i>in R<i>e</i>cht, hi<i>e</i>r zu s<i>e</i>in.
+- Er hat h<i>e</i>rzlich w<i>e</i>nig R<i>e</i>cht<i>e.</i>
+
+338
+00:32:09,689 --> 00:32:11,520  X1:120 X2:596 Y1:505 Y2:536
+Er wird in 24 Stund<i>e</i>n hing<i>e</i>richt<i>e</i>t.
+
+339
+00:32:12,569 --> 00:32:15,447  X1:140 X2:574 Y1:456 Y2:530
+Ab<i>e</i>r um s<i>e</i>in<i>e</i>n G<i>e</i>ist<i>e</i>szustand
+zu v<i>e</i>ranschaulich<i>e</i>n...
+
+340
+00:32:15,809 --> 00:32:17,606  X1:193 X2:522 Y1:505 Y2:530
+S<i>e</i>in<i>e</i>n G<i>e</i>ist<i>e</i>szustand?
+
+341
+00:32:18,129 --> 00:32:19,847  X1:193 X2:522 Y1:505 Y2:530
+S<i>e</i>in<i>e</i>n G<i>e</i>ist<i>e</i>szustand?
+
+342
+00:32:20,369 --> 00:32:24,203  X1:110 X2:604 Y1:456 Y2:530
+Wiss<i>e</i>n Si<i>e</i>, wi<i>e</i> spät <i>e</i>s ist?
+lch hab<i>e</i> k<i>e</i>in<i>e</i> Z<i>e</i>it für Aff<i>e</i>nth<i>e</i>at<i>e</i>r!
+
+343
+00:32:24,369 --> 00:32:27,805  X1:164 X2:553 Y1:456 Y2:530
+Dass ich mitt<i>e</i>n in d<i>e</i>r Nacht
+hi<i>e</i>rh<i>e</i>r b<i>e</i>st<i>e</i>llt wurd<i>e...</i>
+
+344
+00:32:27,969 --> 00:32:32,201  X1:092 X2:623 Y1:456 Y2:535
+um <i>e</i>in<i>e</i>n Fall zu prüf<i>e</i>n, d<i>e</i>n ich schon
+<i>e</i>ntschi<i>e</i>d<i>e</i>n hab<i>e</i>, fr<i>e</i>ut Si<i>e</i> vi<i>e</i>ll<i>e</i>icht.
+
+345
+00:32:32,369 --> 00:32:34,360  X1:191 X2:521 Y1:505 Y2:530
+Ab<i>e</i>r ich bin stinksau<i>e</i>r!
+
+346
+00:32:34,609 --> 00:32:38,318  X1:112 X2:603 Y1:456 Y2:535
+W<i>e</i>nn lhr Jung<i>e</i> hi<i>e</i>r ist, k<i>ö</i>nn<i>e</i>n Si<i>e</i>
+mach<i>e</i>n, was Si<i>e</i> woll<i>e</i>n...
+
+347
+00:32:38,489 --> 00:32:40,957  X1:090 X2:624 Y1:505 Y2:530
+ab<i>e</i>r komm<i>e</i>n Si<i>e</i> doch bitt<i>e</i> zur Sach<i>e</i>!
+
+348
+00:32:42,729 --> 00:32:44,765  X1:309 X2:405 Y1:505 Y2:535
+Ja, Sir.
+
+349
+00:32:44,929 --> 00:32:46,885  X1:094 X2:621 Y1:505 Y2:536
+Hol mir j<i>e</i>mand <i>e</i>in<i>e</i>n Kaff<i>ee.</i> Schwarz.
+
+350
+00:32:52,329 --> 00:32:56,288  X1:170 X2:542 Y1:505 Y2:536
+Also gut, L<i>e</i>ut<i>e.</i> H<i>e</i>rg<i>e</i>h<i>ö</i>rt!
+
+351
+00:32:57,209 --> 00:32:58,767  X1:175 X2:540 Y1:505 Y2:536
+Es gab <i>e</i>in<i>e</i>n Zwisch<i>e</i>nfall.
+
+352
+00:32:58,929 --> 00:33:00,965  X1:113 X2:600 Y1:456 Y2:536
+Poliz<i>e</i>ikod<i>e</i> für:
+<i>''</i> Ein<i>e</i>m wurd<i>e</i> d<i>e</i>r Kopf abg<i>e</i>hackt<i>.''</i>
+
+353
+00:33:01,129 --> 00:33:02,448  X1:318 X2:397 Y1:506 Y2:536
+Larry!
+
+354
+00:33:03,769 --> 00:33:06,681  X1:112 X2:603 Y1:456 Y2:530
+- Carolin<i>e</i> Suzann<i>e</i> wurd<i>e e</i>rmord<i>e</i>t.
+- Was?
+
+355
+00:33:06,849 --> 00:33:10,444  X1:127 X2:588 Y1:456 Y2:536
+- W<i>e</i>r ist Carolin<i>e</i> Suzann<i>e</i>?
+- Di<i>e</i> Schauspi<i>e</i>l<i>e</i>rin, di<i>e</i> ich fuhr.
+
+356
+00:33:10,609 --> 00:33:13,681  X1:143 X2:574 Y1:505 Y2:536
+Und wo g<i>e</i>nau ist das passi<i>e</i>rt?
+
+357
+00:33:13,849 --> 00:33:16,966  X1:113 X2:600 Y1:456 Y2:530
+Das wiss<i>e</i>n wir nicht.
+Wir k<i>ö</i>nn<i>e</i>n di<i>e</i> L<i>e</i>ich<i>e</i> nicht find<i>e</i>n.
+
+358
+00:33:17,169 --> 00:33:18,522  X1:249 X2:467 Y1:505 Y2:536
+Nicht di<i>e</i> ganz<i>e.</i>
+
+359
+00:33:18,689 --> 00:33:23,558  X1:148 X2:567 Y1:456 Y2:536
+- Was soll das h<i>e</i>iß<i>e</i>n?
+- Ruhig Blut. Es wird all<i>e</i>s gut.
+
+360
+00:33:23,729 --> 00:33:27,483  X1:112 X2:603 Y1:456 Y2:536
+Offic<i>e</i>r Rhod<i>e</i>s ist drauß<i>e</i>n.
+Er transporti<i>e</i>rt<i>e e</i>in<i>e</i>n G<i>e</i>fang<i>e</i>n<i>e</i>n.
+
+361
+00:33:27,649 --> 00:33:30,117  X1:239 X2:476 Y1:456 Y2:530
+- D<i>e</i>r <i>e</i>ntkam.
+- Was soll das...?
+
+362
+00:33:31,209 --> 00:33:33,006  X1:242 X2:471 Y1:456 Y2:530
+- Halt.
+- Auf fr<i>e</i>i<i>e</i>m Fuß!
+
+363
+00:33:33,169 --> 00:33:35,478  X1:151 X2:563 Y1:457 Y2:530
+Schnauz<i>e</i>,
+lass<i>e</i>n Si<i>e</i> ihn doch ausr<i>e</i>d<i>e</i>n!
+
+364
+00:33:35,649 --> 00:33:38,482  X1:161 X2:553 Y1:456 Y2:536
+Das ist m<i>e</i>in Hot<i>e</i>l, du Nutt<i>e</i>!
+lch sag<i>e</i>, was ich will!
+
+365
+00:33:38,649 --> 00:33:40,207  X1:209 X2:506 Y1:456 Y2:530
+- Hi<i>e</i>r sind wir sich<i>e</i>r.
+- N<i>e</i>in!
+
+366
+00:33:40,369 --> 00:33:42,200  X1:213 X2:502 Y1:456 Y2:536
+- Hi<i>e</i>r ist <i>e</i>in Polizist.
+- Sogar zw<i>e</i>i.
+
+367
+00:33:42,369 --> 00:33:43,961  X1:239 X2:477 Y1:505 Y2:530
+Si<i>e</i> sind Polizist?
+
+368
+00:33:44,209 --> 00:33:49,488  X1:169 X2:544 Y1:457 Y2:530
+- lch war. Schnauz<i>e</i>, Larry!
+- Hi<i>e</i>r sind wir nicht sich<i>e</i>r!
+
+369
+00:33:49,929 --> 00:33:52,443  X1:285 X2:430 Y1:505 Y2:536
+Schon gut.
+
+370
+00:33:53,969 --> 00:33:56,005  X1:311 X2:405 Y1:505 Y2:530
+Nichts.
+
+371
+00:33:56,169 --> 00:33:59,241  X1:175 X2:541 Y1:456 Y2:536
+- All<i>e</i>s in Ordnung mit ihr?
+- Ginny.
+
+372
+00:33:59,529 --> 00:34:03,522  X1:158 X2:557 Y1:505 Y2:536
+Ginny...? H<i>ö</i>r auf. Nicht j<i>e</i>tzt.
+
+373
+00:34:04,369 --> 00:34:07,088  X1:093 X2:622 Y1:457 Y2:536
+- Was soll das?
+- L<i>e</i>g<i>e</i>n Si<i>e</i> d<i>e</i>n Arm um lhr<i>e</i> Fr<i>e</i>undin.
+
+374
+00:34:07,249 --> 00:34:11,162  X1:215 X2:499 Y1:456 Y2:530
+- Das ist m<i>e</i>in<i>e</i> Frau.
+- All<i>e</i> hi<i>e</i>r bl<i>e</i>ib<i>e</i>n.
+
+375
+00:34:11,329 --> 00:34:14,287  X1:151 X2:564 Y1:456 Y2:530
+- Hi<i>e</i>r im Zimm<i>e</i>r.
+- lch bl<i>e</i>ib<i>e</i> nicht mit ihm hi<i>e</i>r.
+
+376
+00:34:14,529 --> 00:34:16,008  X1:309 X2:405 Y1:457 Y2:530
+- Doch.
+- N<i>e</i>in.
+
+377
+00:34:16,169 --> 00:34:19,559  X1:205 X2:510 Y1:456 Y2:536
+- Das mach<i>e</i> ich nicht.
+- Na gut. Larry?
+
+378
+00:34:19,729 --> 00:34:21,082  X1:233 X2:481 Y1:456 Y2:530
+- Komm<i>e</i>n Si<i>e</i> mit.
+- Wi<i>e</i>so?
+
+379
+00:34:21,329 --> 00:34:24,127  X1:206 X2:508 Y1:456 Y2:530
+- Si<i>e</i> k<i>e</i>nn<i>e</i>n sich aus.
+- lch bin k<i>e</i>in Polizist.
+
+380
+00:34:24,289 --> 00:34:26,757  X1:146 X2:566 Y1:456 Y2:530
+lch lass<i>e</i> mich nicht
+von Nutt<i>e</i>n rumkommandi<i>e</i>r<i>e</i>n!
+
+381
+00:34:27,089 --> 00:34:29,967  X1:180 X2:535 Y1:457 Y2:530
+- Arschloch!
+- Bl<i>e</i>ib<i>e</i>n Si<i>e e</i>infach hi<i>e</i>r.
+
+382
+00:34:30,129 --> 00:34:31,721  X1:225 X2:491 Y1:505 Y2:536
+B<i>e</i>ruhig<i>e</i>n Si<i>e</i> sich.
+
+383
+00:34:39,929 --> 00:34:42,921  X1:111 X2:604 Y1:505 Y2:530
+D<i>e</i>r kommt nicht w<i>e</i>it. Nicht hi<i>e</i>rmit!
+
+384
+00:34:44,649 --> 00:34:46,560  X1:303 X2:412 Y1:506 Y2:530
+Rhod<i>e</i>s!
+
+385
+00:34:46,849 --> 00:34:48,362  X1:240 X2:474 Y1:505 Y2:530
+W<i>e</i>n such<i>e</i>n wir?
+
+386
+00:34:51,089 --> 00:34:53,808  X1:211 X2:505 Y1:505 Y2:530
+Ein<i>e</i>n Mass<i>e</i>nm<i>ö</i>rd<i>e</i>r.
+
+387
+00:34:54,169 --> 00:34:57,479  X1:203 X2:511 Y1:456 Y2:530
+lch g<i>e</i>h<i>e</i> hi<i>e</i>r h<i>e</i>rum.
+Wir tr<i>e</i>ff<i>e</i>n uns hint<i>e</i>n.
+
+388
+00:35:10,169 --> 00:35:13,081  X1:169 X2:547 Y1:456 Y2:536
+lst das lhr f<i>e</i>st<i>e</i>r Wohnsitz?
+Las V<i>e</i>gas?
+
+389
+00:35:14,129 --> 00:35:17,326  X1:202 X2:513 Y1:457 Y2:530
+- Früh<i>e</i>r schon.
+- Was soll das h<i>e</i>iß<i>e</i>n?
+
+390
+00:35:19,049 --> 00:35:22,086  X1:114 X2:602 Y1:505 Y2:536
+Dass ich da j<i>e</i>tzt nicht m<i>e</i>hr wohn<i>e.</i>
+
+391
+00:35:42,929 --> 00:35:44,362  X1:203 X2:514 Y1:502 Y2:530
+DlE STAMMESGRÄBER
+
+392
+00:35:57,249 --> 00:35:58,443  X1:314 X2:401 Y1:505 Y2:530
+Main<i>e</i>!
+
+393
+00:35:59,929 --> 00:36:03,478  X1:169 X2:546 Y1:456 Y2:530
+Mal s<i>e</i>h<i>e</i>n, ob wir das
+b<i>e</i>nutz<i>e</i>n k<i>ö</i>nn<i>e</i>n. Hi<i>e</i>r r<i>e</i>in.
+
+394
+00:36:03,649 --> 00:36:07,039  X1:173 X2:542 Y1:457 Y2:536
+Da d<i>e</i>r V<i>e</i>rsuch f<i>e</i>hlschlug,
+g<i>e</i>h<i>e</i>n wir hi<i>e</i>r r<i>e</i>in.
+
+395
+00:36:07,289 --> 00:36:11,680  X1:162 X2:553 Y1:456 Y2:530
+lch bin gl<i>e</i>ich da. Schon gut.
+lch halt<i>e</i> Wach<i>e.</i>
+
+396
+00:36:11,889 --> 00:36:16,519  X1:172 X2:544 Y1:456 Y2:536
+K<i>e</i>in<i>e</i> Sorg<i>e.</i> Bin gl<i>e</i>ich da.
+lch g<i>e</i>h<i>e</i> nirg<i>e</i>ndwo hin.
+
+397
+00:36:23,129 --> 00:36:27,202  X1:150 X2:565 Y1:505 Y2:530
+Sonst macht s<i>e</i>in<i>e</i> Mutt<i>e</i>r das.
+
+398
+00:36:47,289 --> 00:36:51,965  X1:100 X2:614 Y1:456 Y2:536
+H<i>e</i>y, Ginny.
+Wi<i>e</i> lang<i>e</i> sind Si<i>e</i> b<i>e</i>id<i>e</i> v<i>e</i>rh<i>e</i>irat<i>e</i>t?
+
+399
+00:36:52,129 --> 00:36:55,883  X1:118 X2:596 Y1:456 Y2:536
+S<i>e</i>it <i>e</i>twa n<i>e</i>un Stund<i>e</i>n.
+War <i>e</i>in<i>e</i> zi<i>e</i>mlich spontan<i>e</i> Sach<i>e.</i>
+
+400
+00:36:56,489 --> 00:36:58,127  X1:176 X2:538 Y1:505 Y2:536
+Viva Las V<i>e</i>gas, was, Gin?
+
+401
+00:36:59,089 --> 00:37:01,808  X1:181 X2:533 Y1:456 Y2:530
+- Wir müss<i>e</i>n los!
+- Wir unt<i>e</i>rhalt<i>e</i>n uns nur.
+
+402
+00:37:01,969 --> 00:37:04,278  X1:194 X2:521 Y1:456 Y2:536
+lrg<i>e</i>ndwas stimmt nicht!
+lch muss w<i>e</i>g hi<i>e</i>r!
+
+403
+00:37:04,449 --> 00:37:09,477  X1:121 X2:593 Y1:456 Y2:536
+- Ginny! Ginny!
+- lch bin nicht d<i>e</i>in Eig<i>e</i>ntum, Lou!
+
+404
+00:37:09,649 --> 00:37:11,844  X1:153 X2:562 Y1:456 Y2:530
+Mir g<i>e</i>h<i>ö</i>rt, was in dir drin ist!
+Zur Hälft<i>e.</i>
+
+405
+00:37:12,009 --> 00:37:14,807  X1:088 X2:627 Y1:505 Y2:536
+Du b<i>e</i>sitzt w<i>e</i>d<i>e</i>r mich noch m<i>e</i>in Baby!
+
+406
+00:37:14,969 --> 00:37:16,687  X1:144 X2:570 Y1:505 Y2:536
+Wi<i>e</i>so hab ich dich g<i>e</i>h<i>e</i>irat<i>e</i>t?
+
+407
+00:37:17,289 --> 00:37:21,646  X1:185 X2:528 Y1:456 Y2:536
+- Schlag di<i>e</i> Tür nicht zu!
+- H<i>e</i>y! H<i>e</i>y!
+
+408
+00:37:21,809 --> 00:37:24,198  X1:172 X2:542 Y1:505 Y2:535
+lmm<i>e</i>r mit d<i>e</i>r Ruh<i>e</i>, L<i>e</i>ut<i>e</i>!
+
+409
+00:37:30,249 --> 00:37:34,447  X1:187 X2:527 Y1:456 Y2:530
+Wir bl<i>e</i>ib<i>e</i>n hi<i>e</i>r.
+Wo soll<i>e</i>n wir sonst hin?
+
+410
+00:37:34,609 --> 00:37:38,443  X1:166 X2:549 Y1:456 Y2:530
+Drauß<i>e</i>n ist all<i>e</i>s üb<i>e</i>rflut<i>e</i>t.
+Aufh<i>ö</i>r<i>e</i>n!
+
+411
+00:37:38,609 --> 00:37:41,362  X1:190 X2:525 Y1:505 Y2:536
+lch bin nicht schwang<i>e</i>r!
+
+412
+00:37:45,329 --> 00:37:47,604  X1:214 X2:500 Y1:505 Y2:536
+Was hast du g<i>e</i>sagt?
+
+413
+00:37:50,289 --> 00:37:52,519  X1:237 X2:478 Y1:506 Y2:536
+lch hab<i>e</i> g<i>e</i>log<i>e</i>n.
+
+414
+00:37:53,209 --> 00:37:55,803  X1:190 X2:525 Y1:505 Y2:536
+lch bin nicht schwang<i>e</i>r.
+
+415
+00:37:58,809 --> 00:38:01,846  X1:171 X2:545 Y1:456 Y2:536
+Wovon r<i>e</i>d<i>e</i>st du?
+lch hab<i>e</i> d<i>e</i>n T<i>e</i>st g<i>e</i>s<i>e</i>h<i>e</i>n.
+
+416
+00:38:06,289 --> 00:38:08,280  X1:178 X2:537 Y1:505 Y2:530
+Wi<i>e</i>so tust du mir das an?
+
+417
+00:38:09,089 --> 00:38:13,287  X1:111 X2:602 Y1:456 Y2:536
+W<i>e</i>il Alison dich im Hawk
+mit di<i>e</i>s<i>e</i>r Sch<i>e</i>ißtussi g<i>e</i>s<i>e</i>h<i>e</i>n hat!
+
+418
+00:38:17,769 --> 00:38:21,284  X1:180 X2:536 Y1:456 Y2:530
+- Ginny, sind wir <i>e</i>twa 1 5?
+- Hau ab!
+
+419
+00:38:22,609 --> 00:38:24,839  X1:284 X2:429 Y1:505 Y2:530
+V<i>e</i>rdammt!
+
+420
+00:38:43,169 --> 00:38:46,286  X1:100 X2:614 Y1:456 Y2:530
+- Mach di<i>e</i> v<i>e</i>rdammt<i>e</i> Tür auf, Ginny!
+- N<i>e</i>in!
+
+421
+00:38:46,449 --> 00:38:49,168  X1:163 X2:554 Y1:456 Y2:530
+lch war s<i>e</i>it üb<i>e</i>r <i>e</i>in<i>e</i>m Jahr
+nicht m<i>e</i>hr im Hawk.
+
+422
+00:38:49,329 --> 00:38:54,881  X1:102 X2:611 Y1:456 Y2:530
+Alison ist <i>e</i>in<i>e</i> v<i>e</i>rdammt<i>e</i> Schlamp<i>e.</i>
+Di<i>e</i> will dich doch nur schikani<i>e</i>r<i>e</i>n.
+
+423
+00:38:55,049 --> 00:38:57,244  X1:111 X2:605 Y1:505 Y2:536
+Mach di<i>e</i> v<i>e</i>rdammt<i>e</i> Tür auf, Ginny.
+
+424
+00:38:57,489 --> 00:39:01,118  X1:159 X2:554 Y1:456 Y2:536
+- Mach di<i>e</i> Sch<i>e</i>ißtür auf!
+- Erst, w<i>e</i>nn du dich abr<i>e</i>gst!
+
+425
+00:39:01,489 --> 00:39:05,164  X1:180 X2:534 Y1:505 Y2:536
+lch bin abg<i>e</i>r<i>e</i>gt, und wi<i>e</i>!
+
+426
+00:39:14,449 --> 00:39:16,838  X1:224 X2:491 Y1:505 Y2:530
+Was machst du da?
+
+427
+00:39:19,769 --> 00:39:22,442  X1:325 X2:391 Y1:506 Y2:530
+Lou?
+
+428
+00:39:36,129 --> 00:39:40,202  X1:109 X2:605 Y1:456 Y2:530
+Ginny, mach di<i>e</i> v<i>e</i>rdammt<i>e</i> Tür auf!
+Mach auf!
+
+429
+00:39:40,689 --> 00:39:43,362  X1:282 X2:432 Y1:457 Y2:530
+- Mach auf!
+- H<i>ö</i>r auf!
+
+430
+00:39:44,449 --> 00:39:48,761  X1:112 X2:601 Y1:456 Y2:536
+Ginny, v<i>e</i>rdammt, mach di<i>e</i> Tür auf!
+Ginny, Ginny, Ginny!
+
+431
+00:39:48,929 --> 00:39:51,238  X1:235 X2:479 Y1:505 Y2:535
+Lou, bitt<i>e</i> h<i>ö</i>r auf!
+
+432
+00:40:27,609 --> 00:40:29,918  X1:325 X2:391 Y1:506 Y2:530
+Lou?
+
+433
+00:41:09,409 --> 00:41:13,641  X1:164 X2:550 Y1:505 Y2:530
+Oh m<i>e</i>in Gott! Oh m<i>e</i>in Gott!
+
+434
+00:41:13,809 --> 00:41:16,482  X1:259 X2:455 Y1:505 Y2:530
+Hilf<i>e</i>! Zu Hilf<i>e</i>!
+
+435
+00:41:24,209 --> 00:41:26,439  X1:322 X2:392 Y1:505 Y2:530
+Hilf<i>e</i>!
+
+436
+00:41:26,809 --> 00:41:30,119  X1:259 X2:455 Y1:505 Y2:530
+Hilf<i>e</i>! Zu Hilf<i>e</i>!
+
+437
+00:41:30,529 --> 00:41:34,044  X1:160 X2:557 Y1:505 Y2:530
+lst <i>e</i>r da drin? lst <i>e</i>r da drin?
+
+438
+00:41:35,569 --> 00:41:39,005  X1:187 X2:529 Y1:456 Y2:536
+Ginny, all<i>e</i>s in Ordnung?
+Was ist passi<i>e</i>rt?
+
+439
+00:41:45,449 --> 00:41:48,361  X1:267 X2:447 Y1:456 Y2:530
+- Sch<i>e</i>iß<i>e.</i>
+- M<i>e</i>in<i>e</i> Güt<i>e.</i>
+
+440
+00:41:56,369 --> 00:41:59,327  X1:287 X2:430 Y1:506 Y2:530
+Lou? Lou?
+
+441
+00:42:00,409 --> 00:42:02,445  X1:273 X2:442 Y1:505 Y2:530
+Was ist los?
+
+442
+00:43:21,769 --> 00:43:23,088  X1:228 X2:487 Y1:506 Y2:530
+Was zum T<i>e</i>uf<i>e</i>l...?
+
+443
+00:43:26,129 --> 00:43:27,881  X1:275 X2:438 Y1:505 Y2:530
+Oh Sch<i>e</i>iß<i>e</i>!
+
+444
+00:43:30,049 --> 00:43:32,119  X1:303 X2:411 Y1:505 Y2:530
+Hi<i>e</i>rh<i>e</i>r!
+
+445
+00:43:46,169 --> 00:43:49,878  X1:158 X2:557 Y1:505 Y2:530
+Si<i>e</i> hab<i>e</i>n ihn. Si<i>e</i> hab<i>e</i>n ihn.
+
+446
+00:43:57,689 --> 00:43:59,998  X1:203 X2:511 Y1:505 Y2:530
+Wi<i>e</i>so ist <i>e</i>r hi<i>e</i>r drin?
+
+447
+00:44:00,769 --> 00:44:03,806  X1:092 X2:624 Y1:456 Y2:530
+- Wo wär<i>e e</i>s lhn<i>e</i>n d<i>e</i>nn li<i>e</i>b<i>e</i>r, Larry?
+- lch w<i>e</i>iß nicht.
+
+448
+00:44:04,049 --> 00:44:06,609  X1:132 X2:581 Y1:505 Y2:530
+Si<i>e</i> sollt<i>e</i>n doch in Nr. 3 bl<i>e</i>ib<i>e</i>n!
+
+449
+00:44:06,769 --> 00:44:11,320  X1:129 X2:586 Y1:456 Y2:536
+Si<i>e</i> fing<i>e</i>n an zu str<i>e</i>it<i>e</i>n.
+lch wollt<i>e</i> si<i>e</i> wi<i>e</i>d<i>e</i>r r<i>e</i>inbring<i>e</i>n!
+
+450
+00:44:11,489 --> 00:44:14,128  X1:212 X2:504 Y1:456 Y2:530
+Soll<i>e</i>n wir d<i>e</i>n Funk
+noch mal v<i>e</i>rsuch<i>e</i>n?
+
+451
+00:44:14,449 --> 00:44:18,078  X1:172 X2:544 Y1:456 Y2:536
+Larry, bl<i>e</i>ib<i>e</i>n Si<i>e</i> hi<i>e</i>r
+und pass<i>e</i>n Si<i>e</i> auf ihn auf.
+
+452
+00:44:18,249 --> 00:44:21,639  X1:150 X2:564 Y1:456 Y2:530
+- Kümm<i>e</i>rn Si<i>e</i> sich um Ginny.
+- Wo woll<i>e</i>n Si<i>e</i> hin?
+
+453
+00:44:21,969 --> 00:44:24,529  X1:194 X2:521 Y1:505 Y2:530
+Bitt<i>e</i> tun Si<i>e e</i>s <i>e</i>infach.
+
+454
+00:44:25,369 --> 00:44:26,563  X1:333 X2:383 Y1:506 Y2:530
+Ed?
+
+455
+00:44:30,169 --> 00:44:32,683  X1:183 X2:532 Y1:456 Y2:530
+lch w<i>e</i>iß nicht,
+ob ich Wach<i>e</i> st<i>e</i>h<i>e</i>n will.
+
+456
+00:44:33,329 --> 00:44:36,366  X1:190 X2:525 Y1:456 Y2:536
+Er ist b<i>e</i>wusstlos, Larry.
+Er ist g<i>e</i>f<i>e</i>ss<i>e</i>lt.
+
+457
+00:44:58,449 --> 00:45:00,804  X1:299 X2:416 Y1:505 Y2:536
+Timothy.
+
+458
+00:45:03,569 --> 00:45:05,560  X1:299 X2:416 Y1:505 Y2:536
+Timothy.
+
+459
+00:45:11,729 --> 00:45:16,849  X1:167 X2:548 Y1:505 Y2:530
+Alic<i>e</i>? Oh m<i>e</i>in Gott. Alic<i>e</i>?
+
+460
+00:45:18,129 --> 00:45:20,359  X1:128 X2:587 Y1:505 Y2:530
+lch kann mich an nichts <i>e</i>rinn<i>e</i>rn.
+
+461
+00:45:21,089 --> 00:45:23,557  X1:195 X2:518 Y1:505 Y2:530
+Wir hatt<i>e</i>n <i>e</i>in<i>e</i>n Unfall.
+
+462
+00:45:24,449 --> 00:45:26,883  X1:184 X2:532 Y1:456 Y2:536
+G<i>e</i>org<i>e</i>? K<i>ö</i>nn<i>e</i>n Si<i>e</i> kurz
+auf Ginny aufpass<i>e</i>n?
+
+463
+00:45:27,169 --> 00:45:33,119  X1:188 X2:529 Y1:456 Y2:536
+Si<i>e</i> ist wach. lch hol<i>e</i> ihr
+schn<i>e</i>ll <i>e</i>in paar Aspirin.
+
+464
+00:45:34,409 --> 00:45:37,446  X1:174 X2:541 Y1:456 Y2:530
+Li<i>e</i>bling, ich muss <i>e</i>twas
+aus m<i>e</i>in<i>e</i>m Zimm<i>e</i>r hol<i>e</i>n.
+
+465
+00:45:53,489 --> 00:45:56,208  X1:264 X2:451 Y1:456 Y2:530
+- Sch<i>e</i>iß<i>e</i>!
+- Was ist los?
+
+466
+00:45:56,849 --> 00:45:58,567  X1:157 X2:557 Y1:505 Y2:530
+Was ist das im Kühlschrank?
+
+467
+00:45:59,409 --> 00:46:02,003  X1:237 X2:479 Y1:456 Y2:530
+- Klapp<i>e</i> halt<i>e</i>n.
+- Was ist da drin?
+
+468
+00:46:04,369 --> 00:46:06,883  X1:245 X2:469 Y1:505 Y2:530
+Was ist da drin?
+
+469
+00:46:07,049 --> 00:46:08,926  X1:187 X2:529 Y1:456 Y2:536
+- Was hab<i>e</i>n Si<i>e</i> da drin?
+- Klapp<i>e.</i>
+
+470
+00:46:09,329 --> 00:46:11,081  X1:245 X2:469 Y1:505 Y2:530
+Was ist da drin?
+
+471
+00:46:11,249 --> 00:46:12,921  X1:184 X2:530 Y1:457 Y2:536
+- Klapp<i>e.</i>
+- Mir k<i>ö</i>nn<i>e</i>n Si<i>e'</i>s sag<i>e</i>n.
+
+472
+00:46:13,209 --> 00:46:17,168  X1:140 X2:576 Y1:456 Y2:536
+lch kann G<i>e</i>h<i>e</i>imniss<i>e</i> b<i>e</i>halt<i>e</i>n.
+Hab<i>e</i> s<i>e</i>lbst <i>e</i>in groß<i>e</i>s.
+
+473
+00:46:35,729 --> 00:46:37,287  X1:261 X2:453 Y1:506 Y2:530
+Was soll das?
+
+474
+00:46:37,689 --> 00:46:38,838  X1:282 X2:430 Y1:506 Y2:530
+Arschloch!
+
+475
+00:46:39,009 --> 00:46:42,684  X1:197 X2:519 Y1:456 Y2:536
+- Was mach<i>e</i>n Si<i>e</i> hi<i>e</i>r?
+- lch hol<i>e</i> m<i>e</i>in Z<i>e</i>ug.
+
+476
+00:46:42,849 --> 00:46:46,319  X1:102 X2:612 Y1:456 Y2:536
+Und was mach<i>e</i>n Si<i>e</i> hi<i>e</i>r?
+Was, ich darf nicht auch was frag<i>e</i>n?
+
+477
+00:46:46,489 --> 00:46:49,765  X1:105 X2:611 Y1:456 Y2:530
+lch mach<i>e</i> Fotos. Es gab zw<i>e</i>i Mord<i>e.</i>
+B<i>e</i>vor all<i>e</i> B<i>e</i>w<i>e</i>is<i>e...</i>
+
+478
+00:46:49,929 --> 00:46:53,888  X1:126 X2:590 Y1:456 Y2:530
+Das ist k<i>e</i>in<i>e</i> Antwort.
+Si<i>e</i> sind Chauff<i>e</i>ur. Was soll das?
+
+479
+00:46:54,049 --> 00:46:57,803  X1:100 X2:614 Y1:456 Y2:530
+Woll<i>e</i>n Si<i>e</i> sich <i>e</i>in<i>e</i>n V<i>e</i>rdi<i>e</i>nstord<i>e</i>n
+für Chauff<i>e</i>ur<i>e</i> v<i>e</i>rdi<i>e</i>n<i>e</i>n?
+
+480
+00:46:57,969 --> 00:47:01,166  X1:156 X2:558 Y1:456 Y2:536
+Si<i>e</i> hab<i>e</i>n F<i>e</i>i<i>e</i>rab<i>e</i>nd.
+Spi<i>e</i>l<i>e</i>n Si<i>e</i> nicht d<i>e</i>n H<i>e</i>ld<i>e</i>n.
+
+481
+00:47:01,329 --> 00:47:03,559  X1:137 X2:578 Y1:505 Y2:530
+Drauß<i>e</i>n ist <i>e</i>in <i>e</i>cht<i>e</i>r Polizist...
+
+482
+00:47:03,729 --> 00:47:06,448  X1:097 X2:620 Y1:505 Y2:536
+D<i>e</i>r, d<i>e</i>m d<i>e</i>r M<i>ö</i>rd<i>e</i>r w<i>e</i>gg<i>e</i>lauf<i>e</i>n ist?
+
+483
+00:47:08,889 --> 00:47:10,607  X1:148 X2:566 Y1:505 Y2:536
+Si<i>e</i> sind <i>e</i>in komplizi<i>e</i>rt<i>e</i>r Typ.
+
+484
+00:47:11,689 --> 00:47:13,964  X1:260 X2:456 Y1:505 Y2:530
+Nicht wirklich.
+
+485
+00:47:14,369 --> 00:47:16,519  X1:205 X2:511 Y1:505 Y2:535
+Doch, find<i>e</i> ich schon.
+
+486
+00:47:18,689 --> 00:47:20,998  X1:107 X2:609 Y1:505 Y2:536
+ln w<i>e</i>lch<i>e</i>m Monat sind Si<i>e</i> g<i>e</i>bor<i>e</i>n?
+
+487
+00:47:21,529 --> 00:47:24,327  X1:312 X2:403 Y1:456 Y2:530
+- Mai.
+- Sti<i>e</i>r.
+
+488
+00:47:25,329 --> 00:47:27,081  X1:257 X2:457 Y1:505 Y2:530
+G<i>e</i>nau wi<i>e</i> ich.
+
+489
+00:47:30,249 --> 00:47:33,764  X1:192 X2:523 Y1:456 Y2:536
+- Wo war<i>e</i>n Si<i>e</i> Polizist?
+- Los Ang<i>e</i>l<i>e</i>s.
+
+490
+00:47:34,289 --> 00:47:37,326  X1:174 X2:541 Y1:456 Y2:536
+Wurd<i>e</i>n Si<i>e</i> g<i>e</i>f<i>e</i>u<i>e</i>rt
+od<i>e</i>r hab<i>e</i>n Si<i>e</i> g<i>e</i>kündigt?
+
+491
+00:47:37,689 --> 00:47:39,884  X1:122 X2:593 Y1:505 Y2:530
+Hab<i>e</i> mich krankschr<i>e</i>ib<i>e</i>n lass<i>e</i>n.
+
+492
+00:47:40,369 --> 00:47:43,042  X1:169 X2:547 Y1:505 Y2:536
+Es hat mich krank g<i>e</i>macht.
+
+493
+00:47:44,209 --> 00:47:47,281  X1:200 X2:515 Y1:456 Y2:530
+lch hatt<i>e</i> di<i>e</i> Nas<i>e</i> voll.
+Es war nichts für mich.
+
+494
+00:47:51,249 --> 00:47:53,365  X1:112 X2:603 Y1:505 Y2:536
+Ein<i>e</i>s Tag<i>e</i>s b<i>e</i>kam ich <i>e</i>in<i>e</i>n Anruf.
+
+495
+00:47:55,649 --> 00:47:57,879  X1:248 X2:467 Y1:505 Y2:536
+Ein<i>e</i> Spring<i>e</i>rin.
+
+496
+00:47:58,049 --> 00:47:59,926  X1:224 X2:490 Y1:505 Y2:536
+Jung<i>e</i> M<i>e</i>xikan<i>e</i>rin.
+
+497
+00:48:02,369 --> 00:48:05,679  X1:194 X2:519 Y1:456 Y2:536
+Schwang<i>e</i>r, HlV-positiv,
+total abg<i>e</i>wrackt.
+
+498
+00:48:06,289 --> 00:48:09,679  X1:130 X2:585 Y1:505 Y2:530
+Si<i>e</i> war wirklich <i>e</i>in<i>e</i> V<i>e</i>rdammt<i>e.</i>
+
+499
+00:48:12,609 --> 00:48:16,363  X1:096 X2:620 Y1:456 Y2:530
+lch sagt<i>e</i> ihr, si<i>e</i> soll runt<i>e</i>r vom Sims
+und in m<i>e</i>in<i>e</i> Arm<i>e.</i>
+
+500
+00:48:16,889 --> 00:48:19,801  X1:161 X2:552 Y1:456 Y2:530
+Si<i>e</i> fragt<i>e</i> mich,
+wi<i>e</i>so si<i>e</i> w<i>e</i>it<i>e</i>rl<i>e</i>b<i>e</i>n sollt<i>e.</i>
+
+501
+00:48:25,969 --> 00:48:28,164  X1:174 X2:540 Y1:505 Y2:536
+Was hab<i>e</i>n Si<i>e</i> ihr g<i>e</i>sagt?
+
+502
+00:48:30,169 --> 00:48:32,842  X1:156 X2:561 Y1:456 Y2:536
+lch hab<i>e</i> vi<i>e</i>l<i>e</i> Sach<i>e</i>n g<i>e</i>l<i>e</i>rnt
+in d<i>e</i>r Ausbildung.
+
+503
+00:48:33,009 --> 00:48:36,160  X1:144 X2:569 Y1:457 Y2:530
+lhr<i>e</i> Träum<i>e</i>,
+w<i>e</i>r si<i>e</i> all<i>e</i>s v<i>e</i>rmiss<i>e</i>n würd<i>e.</i>
+
+504
+00:48:37,009 --> 00:48:39,762  X1:116 X2:598 Y1:505 Y2:536
+Ab<i>e</i>r ich z<i>ö</i>g<i>e</i>rt<i>e e</i>in<i>e</i>n Aug<i>e</i>nblick.
+
+505
+00:48:40,849 --> 00:48:42,840  X1:245 X2:471 Y1:505 Y2:530
+Und das sah si<i>e.</i>
+
+506
+00:48:45,929 --> 00:48:51,208  X1:109 X2:605 Y1:456 Y2:536
+ln d<i>e</i>m Aug<i>e</i>nblick fi<i>e</i>l mir nichts
+Gut<i>e</i>s <i>e</i>in, das ich ihr sag<i>e</i>n k<i>ö</i>nnt<i>e.</i>
+
+507
+00:48:54,809 --> 00:48:57,881  X1:149 X2:565 Y1:456 Y2:536
+Also br<i>e</i>it<i>e</i>t<i>e</i> si<i>e</i> di<i>e</i> Arm<i>e</i> aus
+und sprang.
+
+508
+00:49:02,889 --> 00:49:05,084  X1:142 X2:574 Y1:456 Y2:536
+lch fing an,
+Kopfschm<i>e</i>rz<i>e</i>n zu b<i>e</i>komm<i>e</i>n...
+
+509
+00:49:07,289 --> 00:49:10,326  X1:181 X2:537 Y1:456 Y2:536
+und schli<i>e</i>ßlich wurd<i>e</i> mir
+schwarz vor Aug<i>e</i>n.
+
+510
+00:49:11,529 --> 00:49:15,727  X1:118 X2:596 Y1:505 Y2:530
+Also li<i>e</i>ß ich mich krankschr<i>e</i>ib<i>e</i>n.
+
+511
+00:49:30,929 --> 00:49:32,965  X1:320 X2:394 Y1:506 Y2:530
+Was?
+
+512
+00:49:35,169 --> 00:49:36,841  X1:298 X2:416 Y1:505 Y2:530
+Was ist?
+
+513
+00:49:41,009 --> 00:49:42,761  X1:303 X2:412 Y1:506 Y2:530
+Rhod<i>e</i>s!
+
+514
+00:49:42,929 --> 00:49:44,726  X1:207 X2:509 Y1:505 Y2:535
+Nichts, nur Rausch<i>e</i>n.
+
+515
+00:49:44,929 --> 00:49:47,807  X1:190 X2:525 Y1:456 Y2:536
+Wo ist d<i>e</i>r Schlüss<i>e</i>l
+von d<i>e</i>r Schauspi<i>e</i>l<i>e</i>rin?
+
+516
+00:49:49,209 --> 00:49:51,404  X1:185 X2:530 Y1:505 Y2:536
+D<i>e</i>r Jung<i>e</i> hatt<i>e</i> das hi<i>e</i>r.
+
+517
+00:49:53,009 --> 00:49:55,682  X1:103 X2:612 Y1:456 Y2:536
+- Was soll das s<i>e</i>in, <i>e</i>in Count-down?
+- Larry!
+
+518
+00:49:58,129 --> 00:50:01,565  X1:156 X2:559 Y1:456 Y2:536
+Was zum T<i>e</i>uf<i>e</i>l macht <i>e</i>r da?
+Larry, komm<i>e</i>n Si<i>e</i> h<i>e</i>r!
+
+519
+00:50:02,169 --> 00:50:05,798  X1:167 X2:546 Y1:456 Y2:530
+Komm<i>e</i>n Si<i>e</i> h<i>e</i>r, Mann.
+Was soll das? Komm<i>e</i>n Si<i>e.</i>
+
+520
+00:50:07,169 --> 00:50:10,127  X1:177 X2:538 Y1:456 Y2:530
+- Was mach<i>e</i>n Si<i>e</i> da?
+- lch wollt<i>e</i> nur was hol<i>e</i>n.
+
+521
+00:50:11,049 --> 00:50:14,598  X1:104 X2:610 Y1:456 Y2:530
+Si<i>e</i> sollt<i>e</i>n auf d<i>e</i>n Typ<i>e</i>n aufpass<i>e</i>n.
+Was woll<i>e</i>n Si<i>e</i> in lhr<i>e</i>m Büro?
+
+522
+00:50:15,369 --> 00:50:16,768  X1:215 X2:501 Y1:505 Y2:530
+lch wollt<i>e</i> was hol<i>e</i>n.
+
+523
+00:50:16,929 --> 00:50:20,524  X1:135 X2:580 Y1:456 Y2:530
+Wi<i>e</i> vi<i>e</i>l<i>e</i> Schlüss<i>e</i>l gibt <i>e</i>s?
+Schau<i>e</i>n Si<i>e</i> mich an. Wi<i>e</i> vi<i>e</i>l<i>e</i>?
+
+524
+00:50:20,689 --> 00:50:23,647  X1:112 X2:602 Y1:456 Y2:530
+- Zw<i>e</i>i, und <i>e</i>in<i>e</i>n G<i>e</i>n<i>e</i>ralschlüss<i>e</i>l.
+- V<i>e</i>rdammt<i>e</i> Sch<i>e</i>iß<i>e</i>!
+
+525
+00:50:23,809 --> 00:50:29,964  X1:162 X2:552 Y1:456 Y2:530
+Larry, Si<i>e</i> Schw<i>e</i>in!
+Komm<i>e</i>n Si<i>e</i> sofort h<i>e</i>r! Los!
+
+526
+00:50:31,889 --> 00:50:34,403  X1:129 X2:587 Y1:456 Y2:536
+Warum hab<i>e</i>n Si<i>e</i>
+m<i>e</i>in<i>e</i>n G<i>e</i>fang<i>e</i>n<i>e</i>n umg<i>e</i>bracht?
+
+527
+00:50:34,569 --> 00:50:39,245  X1:161 X2:553 Y1:456 Y2:535
+Sch<i>e</i>iß<i>e</i>! W<i>e</i>r war das?
+M<i>e</i>in Gott, das war ich nicht!
+
+528
+00:50:39,409 --> 00:50:40,967  X1:205 X2:508 Y1:505 Y2:536
+Von w<i>e</i>g<i>e</i>n! Si<i>e</i> lüg<i>e</i>n!
+
+529
+00:50:41,129 --> 00:50:44,838  X1:174 X2:539 Y1:456 Y2:535
+- Das ist lhr Schläg<i>e</i>r!
+- Ja, ab<i>e</i>r ich war <i>e</i>s nicht!
+
+530
+00:50:45,009 --> 00:50:46,681  X1:219 X2:495 Y1:502 Y2:536
+Üb<i>e</i>rprüft di<i>e</i> Tür<i>e</i>n!
+
+531
+00:50:46,849 --> 00:50:48,407  X1:243 X2:471 Y1:456 Y2:530
+- lch war<i>'</i>s nicht!
+- Schau<i>e</i>n Si<i>e</i>!
+
+532
+00:50:48,569 --> 00:50:51,686  X1:110 X2:606 Y1:456 Y2:530
+- Warum hab<i>e</i>n Si<i>e</i> ihn umg<i>e</i>bracht?
+- Was wollt<i>e</i>n Si<i>e</i> drauß<i>e</i>n?
+
+533
+00:50:51,849 --> 00:50:53,805  X1:190 X2:525 Y1:456 Y2:536
+- Wi<i>e</i>so ging<i>e</i>n Si<i>e</i> w<i>e</i>g?
+- Aus Angst.
+
+534
+00:50:53,969 --> 00:50:56,085  X1:181 X2:534 Y1:457 Y2:530
+- Wovor?
+- Das v<i>e</i>rst<i>e</i>h<i>e</i>n Si<i>e</i> nicht.
+
+535
+00:50:56,249 --> 00:50:57,648  X1:278 X2:438 Y1:505 Y2:530
+Raus damit.
+
+536
+00:50:57,809 --> 00:50:59,527  X1:157 X2:559 Y1:456 Y2:530
+- Wi<i>e</i>so bracht<i>e</i>n Si<i>e</i> ihn um?
+- Hab<i>e</i> ich nicht!
+
+537
+00:50:59,689 --> 00:51:03,398  X1:121 X2:594 Y1:456 Y2:535
+lch w<i>e</i>iß nicht, wi<i>e...</i> lch bin
+nur schn<i>e</i>ll ins Büro, das ist all<i>e</i>s!
+
+538
+00:51:03,569 --> 00:51:06,129  X1:141 X2:575 Y1:456 Y2:530
+- Wi<i>e</i>so sind Si<i>e</i> w<i>e</i>gg<i>e</i>gang<i>e</i>n?
+- lst das lhr<i>e</i>r?
+
+539
+00:51:06,289 --> 00:51:08,849  X1:209 X2:506 Y1:456 Y2:530
+Z<i>e</i>hn, n<i>e</i>un, acht, hä?
+Das ist lhr Schlüss<i>e</i>l!
+
+540
+00:51:09,009 --> 00:51:10,886  X1:169 X2:545 Y1:505 Y2:530
+N<i>e</i>in! Das sind nicht m<i>e</i>in<i>e</i>!
+
+541
+00:51:11,049 --> 00:51:13,882  X1:097 X2:618 Y1:456 Y2:530
+Das ist Z<i>e</i>ug<i>e</i>nmanipuli<i>e</i>rung od<i>e</i>r so.
+Schau<i>e</i>n Si<i>e.</i>
+
+542
+00:51:14,049 --> 00:51:17,598  X1:148 X2:568 Y1:456 Y2:530
+Das sind m<i>e</i>in<i>e</i> Schlüss<i>e</i>l, ok?
+Das sind m<i>e</i>in<i>e.</i> S<i>e</i>h<i>e</i>n Si<i>e</i>?
+
+543
+00:51:19,089 --> 00:51:21,319  X1:204 X2:512 Y1:456 Y2:536
+Und das Port<i>e</i>monnai<i>e</i>
+d<i>e</i>r Schauspi<i>e</i>l<i>e</i>rin?
+
+544
+00:51:21,489 --> 00:51:25,721  X1:154 X2:560 Y1:456 Y2:530
+Ja, ich hab<i>e e</i>s g<i>e</i>nomm<i>e</i>n.
+Danach. Nachd<i>e</i>m si<i>e</i> tot war!
+
+545
+00:51:25,889 --> 00:51:31,088  X1:135 X2:580 Y1:456 Y2:536
+Danach, ok? lch hab<i>e</i> si<i>e</i> nicht
+umg<i>e</i>bracht. Und ihn auch nicht.
+
+546
+00:51:31,249 --> 00:51:35,800  X1:112 X2:602 Y1:456 Y2:536
+- Lass<i>e</i>n Si<i>e</i> si<i>e</i> los, Larry.
+- W<i>e</i>g! Das häng<i>e</i>n Si<i>e</i> mir nicht an!
+
+547
+00:51:35,969 --> 00:51:37,925  X1:197 X2:517 Y1:456 Y2:530
+- Timothy?
+- Schaff<i>e</i>n Si<i>e</i> ihn raus!
+
+548
+00:51:38,089 --> 00:51:41,320  X1:145 X2:568 Y1:456 Y2:536
+- W<i>e</i>g damit.
+- lch hab<i>e</i> k<i>e</i>in<i>e</i>m <i>e</i>twas g<i>e</i>tan!
+
+549
+00:51:41,489 --> 00:51:44,686  X1:145 X2:568 Y1:456 Y2:530
+Ab<i>e</i>r ich kann k<i>e</i>in<i>e</i> Nutt<i>e</i>n ab!
+Noch <i>e</i>in Schritt...
+
+550
+00:51:44,849 --> 00:51:47,079  X1:299 X2:415 Y1:505 Y2:530
+Sch<i>e</i>iß<i>e</i>!
+
+551
+00:51:54,929 --> 00:51:56,840  X1:221 X2:493 Y1:505 Y2:536
+N<i>e</i>hm<i>e</i>n Si<i>e e</i>s w<i>e</i>g!
+
+552
+00:52:00,529 --> 00:52:01,598  X1:299 X2:415 Y1:505 Y2:530
+Sch<i>e</i>iß<i>e</i>!
+
+553
+00:52:09,249 --> 00:52:11,888  X1:148 X2:568 Y1:505 Y2:536
+Los, du Sch<i>e</i>ißding. Spring an.
+
+554
+00:52:12,449 --> 00:52:15,088  X1:275 X2:438 Y1:456 Y2:536
+- V<i>e</i>rdammt!
+- H<i>e</i>y!
+
+555
+00:52:15,969 --> 00:52:18,119  X1:274 X2:440 Y1:505 Y2:536
+Larry, nicht!
+
+556
+00:52:21,249 --> 00:52:22,568  X1:241 X2:473 Y1:505 Y2:530
+Was ist hi<i>e</i>r los?
+
+557
+00:52:23,089 --> 00:52:25,319  X1:137 X2:577 Y1:457 Y2:536
+- Larry!
+- W<i>e</i>g da, ich hab<i>e</i> nichts g<i>e</i>tan!
+
+558
+00:52:28,529 --> 00:52:31,089  X1:234 X2:480 Y1:505 Y2:536
+Timothy! Timothy!
+
+559
+00:52:52,689 --> 00:52:54,919  X1:099 X2:617 Y1:456 Y2:536
+B<i>e</i>rufung auf Unzur<i>e</i>chnungsfähigk<i>e</i>it
+wurd<i>e</i> abg<i>e</i>l<i>e</i>hnt...
+
+560
+00:52:55,089 --> 00:52:59,401  X1:103 X2:613 Y1:456 Y2:536
+obwohl f<i>e</i>stst<i>e</i>ht, dass m<i>e</i>in Mandant
+dissoziativ<i>e</i> ld<i>e</i>ntitätsst<i>ö</i>rung<i>e</i>n hat.
+
+561
+00:52:59,569 --> 00:53:04,040  X1:110 X2:608 Y1:456 Y2:536
+Er ist sich d<i>e</i>r V<i>e</i>rbr<i>e</i>ch<i>e</i>n, d<i>e</i>n<i>e</i>n <i>e</i>r
+b<i>e</i>schuldigt wird, nicht b<i>e</i>wusst.
+
+562
+00:53:04,209 --> 00:53:09,761  X1:120 X2:595 Y1:456 Y2:535
+D<i>e</i>r Ob<i>e</i>rst<i>e</i> G<i>e</i>richtshof <i>e</i>ntschi<i>e</i>d
+1 986, dass k<i>e</i>in Staat...
+
+563
+00:53:09,929 --> 00:53:13,046  X1:175 X2:539 Y1:456 Y2:535
+j<i>e</i>mand<i>e</i>n hinricht<i>e</i>n kann,
+d<i>e</i>r nicht v<i>e</i>rst<i>e</i>ht, warum.
+
+564
+00:53:13,209 --> 00:53:14,437  X1:140 X2:575 Y1:505 Y2:530
+Er unt<i>e</i>rschri<i>e</i>b <i>e</i>in G<i>e</i>ständnis.
+
+565
+00:53:14,609 --> 00:53:17,999  X1:114 X2:601 Y1:456 Y2:530
+- Nicht nur unt<i>e</i>rschri<i>e</i>b<i>e</i>n, dikti<i>e</i>rt.
+- Dritt<i>e</i>ns...
+
+566
+00:53:18,169 --> 00:53:23,448  X1:126 X2:586 Y1:456 Y2:536
+fand<i>e</i>n wir Malcolms Tag<i>e</i>büch<i>e</i>r,
+di<i>e</i> in d<i>e</i>n falsch<i>e</i>n Akt<i>e</i>n lag<i>e</i>n.
+
+567
+00:53:23,609 --> 00:53:28,364  X1:086 X2:627 Y1:456 Y2:536
+Eu<i>e</i>r Ehr<i>e</i>n, di<i>e</i>s<i>e</i>s <i>e</i>nthält kurz
+vor d<i>e</i>n Mord<i>e</i>n g<i>e</i>schri<i>e</i>b<i>e</i>n<i>e</i> Einträg<i>e.</i>
+
+568
+00:53:28,529 --> 00:53:32,681  X1:150 X2:564 Y1:456 Y2:530
+B<i>e</i>sond<i>e</i>rs b<i>e</i>m<i>e</i>rk<i>e</i>nsw<i>e</i>rt ist,
+wi<i>e</i> sich Handschrift...
+
+569
+00:53:32,849 --> 00:53:34,567  X1:126 X2:589 Y1:505 Y2:536
+Ton und P<i>e</i>rsp<i>e</i>ktiv<i>e</i> v<i>e</i>ränd<i>e</i>rt<i>e</i>n.
+
+570
+00:53:34,729 --> 00:53:39,359  X1:100 X2:614 Y1:456 Y2:530
+Si<i>e</i> hab<i>e</i>n hi<i>e</i>r di<i>e</i> privat<i>e</i>n G<i>e</i>dank<i>e</i>n
+v<i>e</i>rschi<i>e</i>d<i>e</i>n<i>e</i>r P<i>e</i>rson<i>e</i>n vor sich.
+
+571
+00:53:39,529 --> 00:53:43,124  X1:157 X2:557 Y1:456 Y2:530
+Mit lhr<i>e</i>r Erlaubnis
+<i>e</i>rklärt Dr. Mallick das näh<i>e</i>r.
+
+572
+00:53:43,289 --> 00:53:45,644  X1:312 X2:403 Y1:506 Y2:530
+Dank<i>e.</i>
+
+573
+00:53:45,969 --> 00:53:49,518  X1:126 X2:589 Y1:456 Y2:536
+Eu<i>e</i>r Ehr<i>e</i>n, <i>e</i>s gibt k<i>e</i>in<i>e</i>
+univ<i>e</i>rsal wirksam<i>e</i> B<i>e</i>handlung...
+
+574
+00:53:49,689 --> 00:53:52,408  X1:124 X2:590 Y1:505 Y2:536
+für dissoziativ<i>e</i> ld<i>e</i>ntitätsst<i>ö</i>rung.
+
+575
+00:53:52,569 --> 00:53:56,687  X1:113 X2:602 Y1:456 Y2:536
+Th<i>e</i>or<i>e</i>tisch v<i>e</i>rsucht man,
+di<i>e</i> P<i>e</i>rs<i>ö</i>nlichk<i>e</i>it<i>e</i>n zu int<i>e</i>gri<i>e</i>r<i>e</i>n.
+
+576
+00:53:56,849 --> 00:54:01,240  X1:111 X2:603 Y1:456 Y2:530
+- Di<i>e</i> g<i>e</i>spalt<i>e</i>n<i>e</i> Psych<i>e</i> v<i>e</i>r<i>e</i>inig<i>e</i>n.
+- Eu<i>e</i>r Ehr<i>e</i>n?
+
+577
+00:54:01,649 --> 00:54:03,048  X1:297 X2:419 Y1:505 Y2:530
+Er ist da.
+
+578
+00:54:19,729 --> 00:54:22,289  X1:110 X2:605 Y1:505 Y2:535
+N<i>e</i>in! Was Si<i>e</i> sah<i>e</i>n, war <i>e</i>in Unfall!
+
+579
+00:54:22,449 --> 00:54:24,519  X1:197 X2:517 Y1:456 Y2:530
+Er li<i>e</i>f mir in di<i>e</i> Qu<i>e</i>r<i>e</i>!
+lch bin k<i>e</i>in M<i>ö</i>rd<i>e</i>r!
+
+580
+00:54:24,689 --> 00:54:26,680  X1:105 X2:612 Y1:505 Y2:530
+Und di<i>e</i> L<i>e</i>ich<i>e</i> in lhr<i>e</i>r G<i>e</i>fri<i>e</i>rtruh<i>e</i>?
+
+581
+00:54:26,849 --> 00:54:29,283  X1:112 X2:602 Y1:456 Y2:530
+- Das war ich nicht. So fand ich ihn.
+- Ach!
+
+582
+00:54:29,449 --> 00:54:32,805  X1:133 X2:584 Y1:456 Y2:536
+H<i>ö</i>r<i>e</i>n Si<i>e</i>! lch hab<i>e</i> l<i>e</i>tz<i>e</i>n Monat
+in V<i>e</i>gas all<i>e</i>s v<i>e</i>rlor<i>e</i>n, ok?
+
+583
+00:54:32,969 --> 00:54:34,118  X1:317 X2:395 Y1:506 Y2:530
+All<i>e</i>s!
+
+584
+00:54:34,289 --> 00:54:37,804  X1:154 X2:560 Y1:456 Y2:530
+lch fuhr los und wusst<i>e</i> nicht,
+wohin. D<i>e</i>r Tank war l<i>ee</i>r...
+
+585
+00:54:37,969 --> 00:54:40,278  X1:212 X2:503 Y1:505 Y2:530
+also hi<i>e</i>lt ich hi<i>e</i>r an.
+
+586
+00:54:40,449 --> 00:54:44,601  X1:129 X2:585 Y1:456 Y2:536
+K<i>e</i>in<i>e</i>r war da,
+also ging ich hinüb<i>e</i>r zum Büro...
+
+587
+00:54:44,769 --> 00:54:46,487  X1:263 X2:452 Y1:505 Y2:536
+und ging r<i>e</i>in.
+
+588
+00:54:46,649 --> 00:54:49,402  X1:111 X2:603 Y1:456 Y2:536
+Und da, g<i>e</i>nau an d<i>e</i>m Schr<i>e</i>ibtisch,
+saß d<i>e</i>r Manag<i>e</i>r...
+
+589
+00:54:49,569 --> 00:54:52,129  X1:114 X2:600 Y1:456 Y2:530
+mit d<i>e</i>m G<i>e</i>sicht im G<i>e</i>müs<i>e</i>auflauf.
+Tot!
+
+590
+00:54:52,289 --> 00:54:55,440  X1:212 X2:503 Y1:456 Y2:530
+- H<i>e</i>rzinfarkt od<i>e</i>r so.
+- G<i>e</i>müs<i>e</i>auflauf!
+
+591
+00:54:55,609 --> 00:54:58,077  X1:156 X2:558 Y1:456 Y2:536
+W<i>e</i>r w<i>e</i>iß, wi<i>e</i> lang<i>e</i>
+<i>e</i>r da schon so g<i>e</i>s<i>e</i>ss<i>e</i>n hat.
+
+592
+00:54:58,249 --> 00:55:02,128  X1:091 X2:627 Y1:456 Y2:530
+Pl<i>ö</i>tzlich kommt d<i>e</i>r Autot<i>e</i>il<i>e</i>v<i>e</i>rkäuf<i>e</i>r
+und will <i>e</i>in Zimm<i>e</i>r.
+
+593
+00:55:02,289 --> 00:55:04,439  X1:189 X2:526 Y1:505 Y2:536
+lch hatt<i>e</i> k<i>e</i>in<i>e</i>n P<i>e</i>nny...
+
+594
+00:55:04,609 --> 00:55:07,077  X1:200 X2:515 Y1:456 Y2:536
+also nahm ich s<i>e</i>in<i>e</i> 30
+und gab ihm <i>e</i>in<i>e</i>s.
+
+595
+00:55:07,249 --> 00:55:11,401  X1:141 X2:575 Y1:456 Y2:536
+lch nahm <i>e</i>infach d<i>e</i>n Schlüss<i>e</i>l
+und gab ihm <i>e</i>in Zimm<i>e</i>r.
+
+596
+00:55:11,569 --> 00:55:15,687  X1:170 X2:545 Y1:456 Y2:536
+Das war vi<i>e</i>ll<i>e</i>icht v<i>e</i>rk<i>e</i>hrt,
+ab<i>e</i>r ich war pl<i>e</i>it<i>e.</i>
+
+597
+00:55:16,689 --> 00:55:18,600  X1:140 X2:576 Y1:505 Y2:530
+Dann kam ich wi<i>e</i>d<i>e</i>r hi<i>e</i>r r<i>e</i>in...
+
+598
+00:55:19,169 --> 00:55:22,605  X1:133 X2:582 Y1:456 Y2:536
+und v<i>e</i>rfracht<i>e</i>t<i>e</i> Larrys L<i>e</i>ich<i>e...</i>
+Er h<i>e</i>ißt auch Larry.
+
+599
+00:55:22,769 --> 00:55:26,284  X1:124 X2:592 Y1:505 Y2:536
+lch stopft<i>e</i> ihn in di<i>e</i> G<i>e</i>fri<i>e</i>rtruh<i>e.</i>
+
+600
+00:55:28,769 --> 00:55:31,408  X1:143 X2:572 Y1:456 Y2:530
+lch wollt<i>e</i> ihn nicht v<i>e</i>rst<i>e</i>ck<i>e</i>n.
+Es war h<i>e</i>iß.
+
+601
+00:55:31,569 --> 00:55:35,960  X1:102 X2:612 Y1:456 Y2:530
+lch dacht<i>e</i>, da li<i>e</i>gt <i>e</i>r am b<i>e</i>st<i>e</i>n, bis
+di<i>e</i> Famili<i>e</i> od<i>e</i>r sonst w<i>e</i>r auftaucht.
+
+602
+00:55:36,129 --> 00:55:38,563  X1:182 X2:531 Y1:505 Y2:530
+Ab<i>e</i>r k<i>e</i>in<i>e</i>r taucht<i>e</i> auf...
+
+603
+00:55:39,009 --> 00:55:41,648  X1:223 X2:491 Y1:505 Y2:530
+auß<i>e</i>r m<i>e</i>hr Gäst<i>e</i>n.
+
+604
+00:55:41,809 --> 00:55:44,562  X1:126 X2:590 Y1:505 Y2:536
+D<i>e</i>n<i>e</i>n gab ich dann auch Zimm<i>e</i>r.
+
+605
+00:55:45,449 --> 00:55:47,838  X1:105 X2:610 Y1:505 Y2:530
+Und si<i>e</i> schi<i>e</i>n<i>e</i>n zufri<i>e</i>d<i>e</i>n zu s<i>e</i>in...
+
+606
+00:55:48,009 --> 00:55:50,569  X1:185 X2:530 Y1:505 Y2:530
+also bli<i>e</i>b ich <i>e</i>infach da.
+
+607
+00:55:51,569 --> 00:55:54,606  X1:150 X2:564 Y1:456 Y2:536
+W<i>e</i>r<i>'</i>s glaubt, wird s<i>e</i>lig.
+Das ist doch v<i>ö</i>llig<i>e</i>r Quatsch!
+
+608
+00:55:54,769 --> 00:55:57,078  X1:165 X2:549 Y1:456 Y2:536
+- N<i>e</i>in!
+- Si<i>e</i> hab<i>e</i>n ihn umg<i>e</i>bracht!
+
+609
+00:55:57,249 --> 00:55:59,888  X1:143 X2:572 Y1:456 Y2:530
+G<i>e</i>nau wi<i>e</i> m<i>e</i>in<i>e</i>n G<i>e</i>fang<i>e</i>n<i>e</i>n.
+G<i>e</i>nau wi<i>e</i> ihr<i>e</i>n Mann!
+
+610
+00:56:00,049 --> 00:56:02,609  X1:122 X2:594 Y1:456 Y2:530
+Und g<i>e</i>nau wi<i>e</i> di<i>e</i> Schauspi<i>e</i>l<i>e</i>rin.
+G<i>e</i>b<i>e</i>n Si<i>e e</i>s zu.
+
+611
+00:56:02,769 --> 00:56:06,284  X1:092 X2:622 Y1:456 Y2:530
+- Sag<i>e</i>n Si<i>e</i>: <i>''</i> lch hab si<i>e</i> umg<i>e</i>bracht<i>.''</i>
+- Aufh<i>ö</i>r<i>e</i>n! Das r<i>e</i>icht.
+
+612
+00:56:06,449 --> 00:56:09,885  X1:215 X2:499 Y1:456 Y2:530
+All<i>e</i>s ist in Ordnung.
+Wir hab<i>e</i>n d<i>e</i>n K<i>e</i>rl.
+
+613
+00:56:10,049 --> 00:56:11,721  X1:248 X2:466 Y1:456 Y2:530
+- lch w<i>e</i>iß nicht.
+- Was?
+
+614
+00:56:11,889 --> 00:56:14,244  X1:172 X2:542 Y1:456 Y2:530
+Wir dacht<i>e</i>n, wir hätt<i>e</i>n ihn
+vor zw<i>e</i>i Stund<i>e</i>n...
+
+615
+00:56:14,409 --> 00:56:16,684  X1:141 X2:575 Y1:456 Y2:530
+Glaub<i>e</i>n Si<i>e</i> d<i>e</i>n Quatsch <i>e</i>twa?
+Das ist <i>e</i>r!
+
+616
+00:56:16,849 --> 00:56:18,885  X1:097 X2:618 Y1:505 Y2:530
+Er hi<i>e</i>lt lhn<i>e</i>n <i>e</i>in M<i>e</i>ss<i>e</i>r an d<i>e</i>n Hals!
+
+617
+00:56:20,009 --> 00:56:23,046  X1:085 X2:628 Y1:456 Y2:530
+S<i>e</i>in<i>e</i> G<i>e</i>schicht<i>e</i> ist so unglaubwürdig,
+si<i>e</i> k<i>ö</i>nnt<i>e</i> stimm<i>e</i>n.
+
+618
+00:56:23,809 --> 00:56:25,162  X1:248 X2:467 Y1:505 Y2:530
+Da ist was dran.
+
+619
+00:56:28,049 --> 00:56:30,119  X1:271 X2:444 Y1:505 Y2:536
+lhr spinnt ja.
+
+620
+00:56:30,329 --> 00:56:32,479  X1:157 X2:557 Y1:505 Y2:530
+Vi<i>e</i>ll<i>e</i>icht ist <i>e</i>s d<i>e</i>r Fri<i>e</i>dhof.
+
+621
+00:56:34,289 --> 00:56:35,404  X1:320 X2:394 Y1:506 Y2:530
+Was?
+
+622
+00:56:37,009 --> 00:56:41,002  X1:104 X2:611 Y1:505 Y2:530
+L<i>e</i>s<i>e</i>n Si<i>e</i> di<i>e</i> Broschür<i>e</i>n da drüb<i>e</i>n.
+
+623
+00:56:41,169 --> 00:56:44,161  X1:143 X2:572 Y1:456 Y2:536
+Vor 1 00 Jahr<i>e</i>n v<i>e</i>rfracht<i>e</i>t<i>e</i>
+di<i>e</i> R<i>e</i>gi<i>e</i>rung lndian<i>e</i>r hi<i>e</i>rh<i>e</i>r.
+
+624
+00:56:44,329 --> 00:56:47,401  X1:187 X2:527 Y1:456 Y2:536
+Si<i>e</i> starb<i>e</i>n all<i>e</i>,
+w<i>e</i>il <i>e</i>s k<i>e</i>in Wass<i>e</i>r gab.
+
+625
+00:56:49,409 --> 00:56:51,718  X1:128 X2:585 Y1:456 Y2:536
+J<i>e</i>tzt w<i>e</i>rd<i>e</i>n si<i>e</i> wi<i>e</i>d<i>e</i>r l<i>e</i>b<i>e</i>ndig,
+wi<i>e</i> S<i>e</i>a-Monk<i>e</i>ys?
+
+626
+00:56:51,889 --> 00:56:53,766  X1:175 X2:538 Y1:505 Y2:535
+Also wirklich, Schätzch<i>e</i>n.
+
+627
+00:56:53,929 --> 00:56:56,159  X1:220 X2:494 Y1:456 Y2:536
+- R<i>e</i>g<i>e</i>n Si<i>e</i> sich ab.
+- R<i>e</i>g<i>e</i>n Si<i>e</i> sich ab!
+
+628
+00:56:56,329 --> 00:56:59,878  X1:203 X2:512 Y1:456 Y2:536
+Si<i>e</i> spi<i>e</i>l<i>e</i>n sich schon
+di<i>e</i> ganz<i>e</i> Nacht auf!
+
+629
+00:57:00,049 --> 00:57:02,927  X1:147 X2:567 Y1:456 Y2:530
+Si<i>e</i> gab<i>e</i>n m<i>e</i>in<i>e</i>m G<i>e</i>fang<i>e</i>n<i>e</i>n
+di<i>e</i> Schuld. Nun ist <i>e</i>r tot.
+
+630
+00:57:03,089 --> 00:57:05,967  X1:146 X2:568 Y1:456 Y2:536
+Er war <i>e</i>s! Wir hab<i>e</i>n g<i>e</i>s<i>e</i>h<i>e</i>n,
+wi<i>e e</i>r G<i>e</i>org<i>e</i> umg<i>e</i>fahr<i>e</i>n hat.
+
+631
+00:57:06,129 --> 00:57:09,485  X1:117 X2:597 Y1:456 Y2:535
+Das Port<i>e</i>monnai<i>e</i> da.
+Si<i>e</i> ist tot, da ist ihr Port<i>e</i>monnai<i>e.</i>
+
+632
+00:57:09,649 --> 00:57:12,368  X1:156 X2:559 Y1:456 Y2:536
+- Was woll<i>e</i>n Si<i>e</i> sonst noch?
+- Halt<i>e</i>n Si<i>e</i> di<i>e</i> Klapp<i>e</i>!
+
+633
+00:57:13,409 --> 00:57:16,401  X1:135 X2:579 Y1:456 Y2:530
+Also gut. Si<i>e</i> woll<i>e</i>n <i>e</i>in<i>e</i>n Plan?
+Hi<i>e</i>r hab<i>e</i>n Si<i>e</i> ihn:
+
+634
+00:57:16,569 --> 00:57:20,642  X1:119 X2:597 Y1:456 Y2:536
+K<i>e</i>in<i>e</i>r rührt sich. Wir bl<i>e</i>ib<i>e</i>n
+in di<i>e</i>s<i>e</i>m Zimm<i>e</i>r bis morg<i>e</i>n früh.
+
+635
+00:57:20,809 --> 00:57:22,879  X1:151 X2:564 Y1:505 Y2:536
+K<i>e</i>in<i>e</i>r g<i>e</i>ht, k<i>e</i>in<i>e</i>r rührt sich.
+
+636
+00:57:23,049 --> 00:57:25,882  X1:174 X2:541 Y1:456 Y2:530
+Und w<i>e</i>nn <i>e</i>r was v<i>e</i>rsucht,
+<i>e</i>rschi<i>e</i>ß<i>e</i> ich ihn!
+
+637
+00:57:26,049 --> 00:57:29,121  X1:153 X2:562 Y1:456 Y2:535
+Und w<i>e</i>nn <i>e</i>twas von drauß<i>e</i>n
+hi<i>e</i>r r<i>e</i>in will, <i>e</i>rschi<i>e</i>ß ich <i>e</i>s!
+
+638
+00:57:29,289 --> 00:57:32,042  X1:143 X2:570 Y1:456 Y2:536
+Und w<i>e</i>nn sonst j<i>e</i>mand
+was probi<i>e</i>rt, <i>e</i>rschi<i>e</i>ß ich d<i>e</i>n!
+
+639
+00:57:32,209 --> 00:57:33,642  X1:221 X2:494 Y1:456 Y2:530
+- Schon v<i>e</i>rstand<i>e</i>n.
+- Gut!
+
+640
+00:58:06,089 --> 00:58:08,444  X1:247 X2:469 Y1:505 Y2:536
+Timmy? Timmy?
+
+641
+00:58:08,609 --> 00:58:11,681  X1:193 X2:521 Y1:456 Y2:536
+- Du musst hi<i>e</i>r bl<i>e</i>ib<i>e</i>n.
+- Schon gut.
+
+642
+00:58:18,129 --> 00:58:21,280  X1:105 X2:610 Y1:456 Y2:536
+W<i>e</i>r k<i>e</i>nnt d<i>e</i>n Film, wo z<i>e</i>hn Fr<i>e</i>md<i>e</i>
+auf <i>e</i>in<i>e</i>r lns<i>e</i>l g<i>e</i>strand<i>e</i>t sind...
+
+643
+00:58:21,449 --> 00:58:23,724  X1:109 X2:607 Y1:505 Y2:530
+und <i>e</i>in<i>e</i>r nach d<i>e</i>m and<i>e</i>r<i>e</i>n stirbt...
+
+644
+00:58:23,889 --> 00:58:28,087  X1:098 X2:617 Y1:456 Y2:536
+und dann st<i>e</i>llt sich h<i>e</i>raus,
+dass si<i>e</i> doch was g<i>e</i>m<i>e</i>insam hatt<i>e</i>n.
+
+645
+00:58:28,249 --> 00:58:30,399  X1:130 X2:584 Y1:456 Y2:536
+Si<i>e</i> hatt<i>e</i>n sich mit d<i>e</i>m Falsch<i>e</i>n
+ang<i>e</i>l<i>e</i>gt, das war Rach<i>e.</i>
+
+646
+00:58:30,569 --> 00:58:31,888  X1:307 X2:408 Y1:506 Y2:536
+Klapp<i>e</i>!
+
+647
+00:58:33,569 --> 00:58:36,527  X1:146 X2:567 Y1:456 Y2:530
+lch m<i>e</i>in<i>e</i> nur,
+vi<i>e</i>ll<i>e</i>icht v<i>e</i>rbind<i>e</i>t uns <i>e</i>twas.
+
+648
+00:58:36,929 --> 00:58:38,203  X1:259 X2:455 Y1:505 Y2:536
+Zum B<i>e</i>ispi<i>e</i>l?
+
+649
+00:58:38,769 --> 00:58:41,647  X1:185 X2:529 Y1:456 Y2:536
+- Wir sind all<i>e</i> in N<i>e</i>vada.
+- Klapp<i>e</i>!
+
+650
+00:58:44,209 --> 00:58:47,281  X1:199 X2:517 Y1:456 Y2:536
+Wo wollt<i>e</i>n Si<i>e</i> hin
+mit lhr<i>e</i>m G<i>e</i>fang<i>e</i>n<i>e</i>n?
+
+651
+00:58:49,009 --> 00:58:52,285  X1:242 X2:474 Y1:505 Y2:536
+Carson City. Ok?
+
+652
+00:58:53,729 --> 00:58:57,642  X1:109 X2:607 Y1:456 Y2:530
+lch wollt<i>e</i> nach Haus<i>e</i>, nach Florida.
+Und Si<i>e</i>?
+
+653
+00:58:57,809 --> 00:58:59,561  X1:149 X2:566 Y1:456 Y2:530
+lch bracht<i>e</i> di<i>e</i> Schauspi<i>e</i>l<i>e</i>rin
+nach L.A.
+
+654
+00:58:59,929 --> 00:59:01,408  X1:177 X2:539 Y1:505 Y2:536
+lch bin in Florida g<i>e</i>bor<i>e</i>n.
+
+655
+00:59:02,449 --> 00:59:05,088  X1:126 X2:589 Y1:456 Y2:536
+S<i>e</i>it Si<i>e</i> da sitz<i>e</i>n,
+ist k<i>e</i>in<i>e</i>r g<i>e</i>storb<i>e</i>n, also Klapp<i>e</i>!
+
+656
+00:59:05,249 --> 00:59:06,602  X1:179 X2:535 Y1:456 Y2:530
+K<i>e</i>in<i>e</i>r ist g<i>e</i>storb<i>e</i>n,
+s<i>e</i>itd<i>e</i>m wir all<i>e</i> hi<i>e</i>r sind!
+
+657
+00:59:06,769 --> 00:59:09,647  X1:145 X2:570 Y1:456 Y2:530
+- Schätzch<i>e</i>n, sch<i>ö</i>n hins<i>e</i>tz<i>e</i>n.
+- Wo in Florida?
+
+658
+00:59:11,729 --> 00:59:15,005  X1:117 X2:598 Y1:456 Y2:535
+- Wo in Florida?
+- J<i>e</i>tzt sind wir Fr<i>e</i>und<i>e</i>, was? Toll.
+
+659
+00:59:16,209 --> 00:59:19,406  X1:214 X2:500 Y1:456 Y2:536
+- Polk County.
+- Da bin ich g<i>e</i>bor<i>e</i>n.
+
+660
+00:59:19,569 --> 00:59:21,799  X1:283 X2:431 Y1:457 Y2:536
+- Wo da?
+- Mulb<i>e</i>rry.
+
+661
+00:59:21,969 --> 00:59:25,120  X1:103 X2:612 Y1:456 Y2:536
+- Frostproof.
+- K<i>e</i>in Wund<i>e</i>r, dass Si<i>e</i> da w<i>e</i>g sind.
+
+662
+00:59:25,449 --> 00:59:27,440  X1:100 X2:616 Y1:505 Y2:536
+Es gibt <i>e</i>in<i>e</i>n Ort nam<i>e</i>ns Frostproof?
+
+663
+00:59:27,809 --> 00:59:31,563  X1:165 X2:549 Y1:456 Y2:536
+Si<i>e</i> pflanz<i>e</i>n da Orang<i>e</i>n an.
+Das ist auch ihr Slogan.
+
+664
+00:59:31,729 --> 00:59:35,358  X1:143 X2:573 Y1:457 Y2:530
+lch war froh, da w<i>e</i>gzukomm<i>e</i>n.
+Was woll<i>e</i>n Si<i>e</i> da?
+
+665
+00:59:35,529 --> 00:59:38,362  X1:170 X2:546 Y1:456 Y2:530
+lm lnt<i>e</i>rn<i>e</i>t v<i>e</i>rkauft j<i>e</i>mand
+<i>e</i>in<i>e</i>n Zitrushain dort.
+
+666
+00:59:38,529 --> 00:59:41,726  X1:185 X2:531 Y1:456 Y2:536
+Dr<i>e</i>i H<i>e</i>ktar, 1 200 Bäum<i>e.</i>
+Limon<i>e</i>n und Orang<i>e</i>n.
+
+667
+00:59:42,449 --> 00:59:45,885  X1:123 X2:591 Y1:456 Y2:530
+D<i>e</i>r Makl<i>e</i>r m<i>e</i>int,
+d<i>e</i>r Bod<i>e</i>n muss b<i>e</i>st<i>e</i>llt w<i>e</i>rd<i>e</i>n...
+
+668
+00:59:46,049 --> 00:59:52,204  X1:123 X2:591 Y1:456 Y2:536
+<i>e</i>in bissch<i>e</i>n Phosphat,
+ab<i>e</i>r das ist <i>e</i>in gut<i>e</i>s Stück Land.
+
+669
+00:59:56,049 --> 00:59:57,801  X1:320 X2:394 Y1:506 Y2:530
+Was?
+
+670
+00:59:58,449 --> 01:00:00,360  X1:283 X2:433 Y1:505 Y2:536
+Klingt n<i>e</i>tt.
+
+671
+01:00:20,129 --> 01:00:21,278  X1:333 X2:383 Y1:506 Y2:530
+Ed?
+
+672
+01:00:24,649 --> 01:00:26,765  X1:287 X2:427 Y1:505 Y2:530
+Si<i>e</i> ist tot.
+
+673
+01:00:45,529 --> 01:00:47,884  X1:213 X2:502 Y1:505 Y2:530
+Schafft ihn raus hi<i>e</i>r.
+
+674
+01:00:48,689 --> 01:00:51,567  X1:136 X2:580 Y1:505 Y2:535
+Komm schon. Na komm, Kl<i>e</i>in<i>e</i>r.
+
+675
+01:00:58,049 --> 01:01:00,358  X1:257 X2:458 Y1:505 Y2:530
+S<i>e</i>h<i>e</i>n Si<i>e</i> mal.
+
+676
+01:01:05,569 --> 01:01:08,845  X1:261 X2:454 Y1:457 Y2:530
+- Wo war das?
+- Hi<i>e</i>r.
+
+677
+01:01:12,929 --> 01:01:17,002  X1:176 X2:538 Y1:456 Y2:530
+Das <i>e</i>rgibt k<i>e</i>in<i>e</i>n Sinn.
+Si<i>e</i> starb b<i>e</i>i <i>e</i>in<i>e</i>m Unfall.
+
+678
+01:01:17,169 --> 01:01:21,481  X1:196 X2:518 Y1:456 Y2:536
+G<i>e</i>org<i>e</i> war <i>e</i>in Unfall,
+w<i>e</i>nn man Larry glaubt.
+
+679
+01:01:24,329 --> 01:01:26,604  X1:268 X2:446 Y1:505 Y2:530
+Wo ist Nr. 7?
+
+680
+01:01:29,209 --> 01:01:31,120  X1:282 X2:432 Y1:505 Y2:530
+Rückwärts!
+
+681
+01:02:05,849 --> 01:02:10,365  X1:145 X2:568 Y1:456 Y2:536
+- lch sagt<i>e</i> ja, ich war <i>e</i>s nicht!
+- Das ist unm<i>ö</i>glich.
+
+682
+01:02:10,529 --> 01:02:14,442  X1:113 X2:602 Y1:456 Y2:536
+lch stand g<i>e</i>nau hi<i>e</i>r. lch hab<i>e</i>
+g<i>e</i>s<i>e</i>h<i>e</i>n, was passi<i>e</i>rt ist. lhr auch.
+
+683
+01:02:14,609 --> 01:02:17,999  X1:092 X2:623 Y1:456 Y2:530
+Er li<i>e</i>f raus.
+K<i>e</i>in M<i>e</i>nsch hätt<i>e</i> das wiss<i>e</i>n k<i>ö</i>nn<i>e</i>n.
+
+684
+01:02:18,169 --> 01:02:19,397  X1:243 X2:472 Y1:505 Y2:535
+Ja, k<i>e</i>in M<i>e</i>nsch.
+
+685
+01:02:19,569 --> 01:02:21,958  X1:205 X2:509 Y1:456 Y2:530
+Das schon wi<i>e</i>d<i>e</i>r?
+War<i>e</i>n <i>e</i>s di<i>e</i> G<i>e</i>ist<i>e</i>r?
+
+686
+01:02:22,129 --> 01:02:26,008  X1:104 X2:611 Y1:456 Y2:536
+Vi<i>e</i>ll<i>e</i>icht d<i>e</i>r G<i>e</i>ist von d<i>e</i>m Typ<i>e</i>n,
+d<i>e</i>n Larry in di<i>e</i> G<i>e</i>fri<i>e</i>rtruh<i>e</i> stopft<i>e.</i>
+
+687
+01:02:27,889 --> 01:02:29,720  X1:107 X2:608 Y1:505 Y2:535
+Macht mich los, v<i>e</i>rdammt noch mal!
+
+688
+01:02:29,889 --> 01:02:31,527  X1:211 X2:504 Y1:505 Y2:530
+lch war <i>e</i>s nicht. Los.
+
+689
+01:02:31,689 --> 01:02:33,520  X1:223 X2:491 Y1:456 Y2:536
+- H<i>ö</i>r<i>e</i>n Si<i>e</i> zu.
+- Wir müss<i>e</i>n w<i>e</i>g...
+
+690
+01:02:33,689 --> 01:02:35,839  X1:144 X2:572 Y1:456 Y2:536
+Fahr<i>e</i>n Si<i>e</i> mit ihr<i>e</i>m Auto w<i>e</i>g.
+Si<i>e</i>, si<i>e</i> und d<i>e</i>r Jung<i>e.</i>
+
+691
+01:02:36,009 --> 01:02:37,158  X1:268 X2:446 Y1:505 Y2:530
+Wohin d<i>e</i>nn?
+
+692
+01:02:37,329 --> 01:02:39,285  X1:235 X2:481 Y1:456 Y2:530
+- Wi<i>e</i> vi<i>e</i>l B<i>e</i>nzin?
+- Halb voll.
+
+693
+01:02:39,449 --> 01:02:41,485  X1:173 X2:542 Y1:456 Y2:536
+Damit kann man
+bis zur Dämm<i>e</i>rung fahr<i>e</i>n.
+
+694
+01:02:41,649 --> 01:02:44,209  X1:122 X2:591 Y1:453 Y2:536
+B<i>e</i>i d<i>e</i>r Üb<i>e</i>rschw<i>e</i>mmung
+fahr<i>e</i>n Si<i>e</i> in di<i>e</i> and<i>e</i>r<i>e</i> Richtung.
+
+695
+01:02:44,369 --> 01:02:45,643  X1:170 X2:546 Y1:505 Y2:535
+lch w<i>e</i>iß nicht, ob ich kann.
+
+696
+01:02:45,809 --> 01:02:48,801  X1:178 X2:537 Y1:456 Y2:530
+Hol<i>e</i>n Si<i>e</i> d<i>e</i>n Jung<i>e</i>n
+und fahr<i>e</i>n Si<i>e</i> los. Sofort.
+
+697
+01:02:48,969 --> 01:02:49,958  X1:309 X2:406 Y1:505 Y2:536
+Timmy.
+
+698
+01:02:50,129 --> 01:02:52,643  X1:194 X2:521 Y1:505 Y2:536
+Timmy, komm. St<i>e</i>h auf.
+
+699
+01:02:52,809 --> 01:02:53,924  X1:273 X2:442 Y1:505 Y2:530
+Was ist los?
+
+700
+01:02:54,089 --> 01:02:55,727  X1:196 X2:517 Y1:456 Y2:536
+- Di<i>e</i> k<i>ö</i>nn<i>e</i>n nicht w<i>e</i>g!
+- Hi<i>e</i>r lang.
+
+701
+01:02:55,889 --> 01:02:57,800  X1:174 X2:539 Y1:456 Y2:530
+Wir s<i>e</i>h<i>e</i>n uns,
+w<i>e</i>nn d<i>e</i>r Sturm nachlässt.
+
+702
+01:02:57,969 --> 01:03:01,166  X1:120 X2:593 Y1:456 Y2:530
+H<i>e</i>y! Di<i>e</i> k<i>ö</i>nn<i>e</i>n nicht w<i>e</i>g!
+Wo woll<i>e</i>n di<i>e</i> hin? Kommt zurück!
+
+703
+01:03:01,329 --> 01:03:02,842  X1:194 X2:522 Y1:505 Y2:535
+Los, los! Di<i>e</i> fahr<i>e</i>n los.
+
+704
+01:03:03,009 --> 01:03:04,328  X1:313 X2:401 Y1:456 Y2:530
+- N<i>e</i>in.
+- Los!
+
+705
+01:03:04,489 --> 01:03:07,083  X1:151 X2:561 Y1:456 Y2:536
+V<i>e</i>rdächtig<i>e</i> dürf<i>e</i>n nicht w<i>e</i>g,
+nachd<i>e</i>m vi<i>e</i>r g<i>e</i>t<i>ö</i>t<i>e</i>t wurd<i>e</i>n!
+
+706
+01:03:07,249 --> 01:03:10,082  X1:135 X2:580 Y1:456 Y2:530
+- Sind das wirklich V<i>e</i>rdächtig<i>e</i>?
+- Di<i>e</i> bl<i>e</i>ib<i>e</i>n hi<i>e</i>r!
+
+707
+01:03:16,529 --> 01:03:18,008  X1:299 X2:415 Y1:505 Y2:530
+Sch<i>e</i>iß<i>e.</i>
+
+708
+01:03:18,489 --> 01:03:20,286  X1:313 X2:400 Y1:505 Y2:536
+Ginny!
+
+709
+01:03:22,169 --> 01:03:24,842  X1:101 X2:616 Y1:457 Y2:536
+F<i>e</i>u<i>e</i>rl<i>ö</i>sch<i>e</i>r.
+Larry, hab<i>e</i>n Si<i>e e</i>in<i>e</i>n F<i>e</i>u<i>e</i>rl<i>ö</i>sch<i>e</i>r?
+
+710
+01:03:25,289 --> 01:03:27,564  X1:219 X2:496 Y1:457 Y2:530
+- F<i>e</i>u<i>e</i>rl<i>ö</i>sch<i>e</i>r! Wo?
+- Da hint<i>e</i>n!
+
+711
+01:03:49,769 --> 01:03:51,566  X1:235 X2:480 Y1:505 Y2:530
+Da ist k<i>e</i>in<i>e</i>r drin.
+
+712
+01:03:56,729 --> 01:03:59,607  X1:167 X2:546 Y1:456 Y2:530
+Vi<i>e</i>ll<i>e</i>icht wurd<i>e e</i>s so h<i>e</i>iß,
+dass si<i>e</i> v<i>e</i>rbrannt<i>e</i>n.
+
+713
+01:03:59,769 --> 01:04:01,760  X1:173 X2:542 Y1:505 Y2:536
+Dann wär<i>e</i> noch was übrig.
+
+714
+01:04:05,849 --> 01:04:07,168  X1:258 X2:457 Y1:505 Y2:530
+Si<i>e</i> war<i>e</i>n das.
+
+715
+01:04:07,769 --> 01:04:10,806  X1:193 X2:520 Y1:456 Y2:530
+Si<i>e</i> hab<i>e</i>n ihn<i>e</i>n g<i>e</i>sagt,
+si<i>e</i> soll<i>e</i>n ins Auto!
+
+716
+01:04:10,969 --> 01:04:12,368  X1:283 X2:431 Y1:505 Y2:530
+Zufri<i>e</i>d<i>e</i>n?
+
+717
+01:04:35,529 --> 01:04:37,599  X1:287 X2:427 Y1:505 Y2:530
+Wo ist <i>e</i>r?
+
+718
+01:05:35,569 --> 01:05:36,684  X1:311 X2:405 Y1:505 Y2:530
+Nichts.
+
+719
+01:05:42,609 --> 01:05:44,839  X1:270 X2:445 Y1:506 Y2:536
+lch g<i>e</i>b<i>e</i> auf!
+
+720
+01:05:45,849 --> 01:05:48,363  X1:153 X2:563 Y1:505 Y2:536
+lch g<i>e</i>b<i>e</i> auf! Was woll<i>e</i>n Si<i>e</i>?
+
+721
+01:05:48,529 --> 01:05:52,681  X1:094 X2:620 Y1:456 Y2:530
+Was woll<i>e</i>n Si<i>e</i>, Si<i>e</i> krank<i>e</i>s Schw<i>e</i>in?
+Was woll<i>e</i>n Si<i>e</i> von uns?
+
+722
+01:05:54,249 --> 01:05:57,844  X1:159 X2:555 Y1:456 Y2:530
+lch w<i>e</i>rd<i>e</i> nächst<i>e</i> Woch<i>e</i> 30,
+und ich will nach Haus<i>e...</i>
+
+723
+01:05:58,009 --> 01:05:59,681  X1:204 X2:511 Y1:506 Y2:536
+und Orang<i>e</i>n anbau<i>e</i>n!
+
+724
+01:06:06,289 --> 01:06:08,883  X1:093 X2:622 Y1:505 Y2:536
+Si<i>e</i> hab<i>e</i>n nächst<i>e</i> Woch<i>e</i> G<i>e</i>burtstag?
+
+725
+01:06:09,049 --> 01:06:11,847  X1:206 X2:510 Y1:505 Y2:530
+lch auch. Am Z<i>e</i>hnt<i>e</i>n.
+
+726
+01:06:13,329 --> 01:06:14,603  X1:296 X2:419 Y1:506 Y2:530
+lch auch.
+
+727
+01:06:18,609 --> 01:06:19,962  X1:296 X2:419 Y1:506 Y2:530
+lch auch.
+
+728
+01:06:22,649 --> 01:06:24,367  X1:338 X2:377 Y1:506 Y2:530
+Ja.
+
+729
+01:06:26,569 --> 01:06:29,003  X1:210 X2:504 Y1:505 Y2:536
+G<i>e</i>org<i>e</i> York, 1 0. Mai.
+
+730
+01:06:29,169 --> 01:06:31,000  X1:224 X2:490 Y1:505 Y2:535
+Alic<i>e</i> York, 1 0. Mai.
+
+731
+01:06:31,169 --> 01:06:32,921  X1:177 X2:539 Y1:505 Y2:535
+Carolin<i>e</i> Suzann<i>e</i>, 1 0. Mai.
+
+732
+01:06:33,929 --> 01:06:36,363  X1:150 X2:565 Y1:505 Y2:536
+Ginny und Lou lsiana, 1 0. Mai.
+
+733
+01:06:36,529 --> 01:06:38,838  X1:192 X2:523 Y1:456 Y2:530
+lch, Larry Washington,
+am v<i>e</i>rdammt<i>e</i>n 1 0. Mai.
+
+734
+01:06:39,889 --> 01:06:42,562  X1:164 X2:550 Y1:456 Y2:530
+Wi<i>e</i> wahrsch<i>e</i>inlich ist das?
+Z<i>e</i>hn Billion<i>e</i>n zu <i>e</i>ins?
+
+735
+01:06:45,129 --> 01:06:46,278  X1:298 X2:416 Y1:505 Y2:530
+Was ist?
+
+736
+01:07:00,929 --> 01:07:03,397  X1:143 X2:573 Y1:456 Y2:530
+- Wo ist d<i>e</i>r Sich<i>e</i>rungskast<i>e</i>n?
+- Auf d<i>e</i>r and<i>e</i>r<i>e</i>n S<i>e</i>it<i>e.</i>
+
+737
+01:07:10,289 --> 01:07:12,200  X1:208 X2:507 Y1:505 Y2:536
+Ginny und Lou lsiana.
+
+738
+01:07:12,809 --> 01:07:15,482  X1:198 X2:516 Y1:505 Y2:536
+Virginia und Louisiana.
+
+739
+01:07:15,649 --> 01:07:17,765  X1:230 X2:486 Y1:505 Y2:535
+Carolin<i>e</i>, Carolina.
+
+740
+01:07:19,569 --> 01:07:21,480  X1:264 X2:451 Y1:505 Y2:530
+Paris N<i>e</i>vada.
+
+741
+01:07:21,649 --> 01:07:23,207  X1:268 X2:446 Y1:506 Y2:536
+G<i>e</i>org<i>e</i> York.
+
+742
+01:07:24,129 --> 01:07:26,438  X1:233 X2:482 Y1:505 Y2:536
+Larry Washington.
+
+743
+01:07:28,569 --> 01:07:31,402  X1:204 X2:511 Y1:506 Y2:535
+Rhod<i>e</i>s, Rhod<i>e</i> lsland.
+
+744
+01:07:36,729 --> 01:07:39,197  X1:285 X2:430 Y1:505 Y2:530
+Ed Dakota.
+
+745
+01:07:52,729 --> 01:07:57,007  X1:104 X2:616 Y1:457 Y2:535
+<i>Als ich die Treppe hochging</i>
+<i>Traf ich einen Mann, der nicht da war</i>
+
+746
+01:07:57,169 --> 01:07:59,444  X1:161 X2:555 Y1:506 Y2:530
+<i>Heute war er wieder nicht da</i>
+
+747
+01:07:59,609 --> 01:08:01,406  X1:126 X2:591 Y1:457 Y2:536
+<i>Ich wünschte</i>
+<i>Ich wünschte, er würde weggehen</i>
+
+748
+01:08:03,089 --> 01:08:05,080  X1:274 X2:444 Y1:506 Y2:530
+<i>Wer ist das?</i>
+
+749
+01:08:05,249 --> 01:08:08,082  X1:158 X2:559 Y1:506 Y2:536
+<i>Mit wem spreche ich gerade?</i>
+
+750
+01:08:10,729 --> 01:08:12,845  X1:142 X2:577 Y1:506 Y2:530
+<i>Woher k ennen Sie das Gedicht?</i>
+
+751
+01:08:13,009 --> 01:08:15,318  X1:209 X2:507 Y1:457 Y2:530
+<i>Mit wem spreche ich?</i>
+<i>Sehen Sie mich an.</i>
+
+752
+01:08:15,489 --> 01:08:17,639  X1:158 X2:559 Y1:506 Y2:536
+<i>Mit wem spreche ich gerade?</i>
+
+753
+01:08:24,009 --> 01:08:25,158  X1:324 X2:392 Y1:506 Y2:530
+Doc?
+
+754
+01:08:28,249 --> 01:08:30,444  X1:264 X2:451 Y1:457 Y2:530
+- Edward?
+- Was ist los?
+
+755
+01:08:30,769 --> 01:08:33,329  X1:186 X2:530 Y1:456 Y2:536
+- S<i>e</i>i<i>e</i>n Si<i>e</i> bitt<i>e</i> still.
+- H<i>ö</i>rt <i>e</i>r, was wir sag<i>e</i>n?
+
+756
+01:08:33,609 --> 01:08:35,884  X1:165 X2:550 Y1:505 Y2:536
+Ja, j<i>e</i>d<i>e</i>s b<i>e</i>schiss<i>e</i>n<i>e</i> Wort.
+
+757
+01:08:36,049 --> 01:08:40,918  X1:137 X2:579 Y1:456 Y2:536
+Edward, Si<i>e</i> hab<i>e</i>n lhr<i>e</i>n l<i>e</i>tzt<i>e</i>n
+T<i>e</i>rmin v<i>e</i>rpasst. Wo war<i>e</i>n Si<i>e</i>?
+
+758
+01:08:43,009 --> 01:08:46,160  X1:117 X2:599 Y1:456 Y2:530
+- Hatt<i>e</i> ich wi<i>e</i>d<i>e</i>r <i>e</i>in<i>e</i>n Black-out?
+- Erinn<i>e</i>rn Si<i>e</i> sich.
+
+759
+01:08:46,329 --> 01:08:48,684  X1:256 X2:458 Y1:505 Y2:530
+Wo war<i>e</i>n Si<i>e</i>?
+
+760
+01:08:48,849 --> 01:08:51,409  X1:166 X2:549 Y1:456 Y2:536
+Gut. lch kutschi<i>e</i>rt<i>e</i>
+so <i>e</i>in<i>e</i> Schauspi<i>e</i>l<i>e</i>rin rum.
+
+761
+01:08:51,889 --> 01:08:56,838  X1:150 X2:563 Y1:456 Y2:530
+Wir saß<i>e</i>n in <i>e</i>in<i>e</i>m Hot<i>e</i>l f<i>e</i>st.
+Ein Sturm kam auf.
+
+762
+01:08:57,729 --> 01:09:00,289  X1:144 X2:572 Y1:505 Y2:536
+D<i>e</i>shalb konnt<i>e</i>n wir nicht w<i>e</i>g.
+
+763
+01:09:00,449 --> 01:09:02,519  X1:175 X2:540 Y1:505 Y2:536
+Was ist im Mot<i>e</i>l passi<i>e</i>rt?
+
+764
+01:09:05,249 --> 01:09:07,888  X1:260 X2:455 Y1:505 Y2:530
+L<i>e</i>ut<i>e</i> starb<i>e</i>n.
+
+765
+01:09:08,049 --> 01:09:10,927  X1:208 X2:508 Y1:456 Y2:536
+Und ihr<i>e</i> L<i>e</i>ich<i>e</i>n...
+Es <i>e</i>rgibt k<i>e</i>in<i>e</i>n Sinn.
+
+766
+01:09:11,089 --> 01:09:12,761  X1:229 X2:485 Y1:505 Y2:530
+Si<i>e</i> v<i>e</i>rschwand<i>e</i>n.
+
+767
+01:09:15,209 --> 01:09:17,769  X1:110 X2:605 Y1:505 Y2:536
+Edward, ich will lhn<i>e</i>n <i>e</i>twas z<i>e</i>ig<i>e</i>n.
+
+768
+01:09:22,849 --> 01:09:25,158  X1:169 X2:547 Y1:505 Y2:530
+Erk<i>e</i>nn<i>e</i>n Si<i>e</i> di<i>e</i>s<i>e</i>n Mann?
+
+769
+01:09:27,009 --> 01:09:28,362  X1:324 X2:392 Y1:505 Y2:530
+N<i>e</i>in.
+
+770
+01:09:29,009 --> 01:09:31,728  X1:210 X2:505 Y1:456 Y2:530
+Di<i>e</i>s<i>e</i>r Mann, Edward,
+ist Malcolm Riv<i>e</i>rs.
+
+771
+01:09:31,889 --> 01:09:35,325  X1:107 X2:606 Y1:456 Y2:530
+Es st<i>e</i>ht schl<i>e</i>cht um ihn.
+Vor vi<i>e</i>r Jahr<i>e</i>n wurd<i>e e</i>r v<i>e</i>rhaft<i>e</i>t...
+
+772
+01:09:35,489 --> 01:09:38,720  X1:150 X2:564 Y1:457 Y2:530
+und d<i>e</i>s Mord<i>e</i>s
+an s<i>e</i>chs M<i>e</i>nsch<i>e</i>n üb<i>e</i>rführt.
+
+773
+01:09:39,169 --> 01:09:41,319  X1:240 X2:475 Y1:457 Y2:535
+- Das war <i>e</i>r.
+- D<i>e</i>t<i>e</i>ctiv<i>e</i>, bitt<i>e.</i>
+
+774
+01:09:41,489 --> 01:09:43,047  X1:210 X2:506 Y1:505 Y2:535
+Edward, h<i>ö</i>r<i>e</i>n Si<i>e</i> zu.
+
+775
+01:09:43,409 --> 01:09:49,086  X1:096 X2:617 Y1:456 Y2:530
+Wird <i>e</i>in Kind mit <i>e</i>in<i>e</i>r traumatisch<i>e</i>n
+Situation konfronti<i>e</i>rt...
+
+776
+01:09:49,249 --> 01:09:52,685  X1:141 X2:575 Y1:456 Y2:530
+kann <i>e</i>s dissoziativ<i>e</i> ld<i>e</i>ntität<i>e</i>n
+<i>e</i>ntwick<i>e</i>ln.
+
+777
+01:09:53,449 --> 01:09:56,725  X1:102 X2:612 Y1:505 Y2:536
+G<i>e</i>nau das passi<i>e</i>rt<i>e</i> Malcolm Riv<i>e</i>rs.
+
+778
+01:09:56,889 --> 01:09:59,198  X1:172 X2:543 Y1:505 Y2:530
+Er <i>e</i>ntwick<i>e</i>lt<i>e e</i>in L<i>e</i>id<i>e</i>n...
+
+779
+01:09:59,369 --> 01:10:02,122  X1:109 X2:605 Y1:456 Y2:536
+das multipl<i>e</i> P<i>e</i>rs<i>ö</i>nlichk<i>e</i>itsst<i>ö</i>rung
+g<i>e</i>nannt wird.
+
+780
+01:10:07,169 --> 01:10:09,000  X1:162 X2:552 Y1:505 Y2:530
+Wi<i>e</i>so <i>e</i>rzähl<i>e</i>n Si<i>e</i> mir das?
+
+781
+01:10:10,249 --> 01:10:12,399  X1:229 X2:485 Y1:505 Y2:535
+W<i>e</i>il Si<i>e</i>, Edward...
+
+782
+01:10:12,569 --> 01:10:15,561  X1:123 X2:591 Y1:505 Y2:530
+<i>e</i>in<i>e</i> s<i>e</i>in<i>e</i>r P<i>e</i>rs<i>ö</i>nlichk<i>e</i>it<i>e</i>n sind.
+
+783
+01:10:19,889 --> 01:10:21,447  X1:320 X2:394 Y1:506 Y2:530
+Was?
+
+784
+01:10:35,409 --> 01:10:38,560  X1:151 X2:564 Y1:456 Y2:536
+M<i>e</i>in Gott! Was hab<i>e</i>n Si<i>e</i>
+mit m<i>e</i>in<i>e</i>m G<i>e</i>sicht g<i>e</i>macht?
+
+785
+01:10:38,729 --> 01:10:40,367  X1:203 X2:513 Y1:456 Y2:530
+- Ruhig.
+- Wo ist m<i>e</i>in G<i>e</i>sicht?
+
+786
+01:10:40,529 --> 01:10:42,918  X1:180 X2:536 Y1:456 Y2:536
+- Das ist lhr G<i>e</i>sicht.
+- Wi<i>e</i>so bin ich g<i>e</i>f<i>e</i>ss<i>e</i>lt?
+
+787
+01:10:43,089 --> 01:10:44,602  X1:214 X2:500 Y1:456 Y2:530
+- B<i>e</i>ruhig<i>e</i>n Si<i>e</i> sich.
+- Wo ist...?
+
+788
+01:10:44,769 --> 01:10:46,248  X1:278 X2:436 Y1:456 Y2:530
+- Bitt<i>e.</i>
+- M<i>e</i>in Gott!
+
+789
+01:10:46,409 --> 01:10:48,479  X1:203 X2:513 Y1:456 Y2:536
+- Wo ist m<i>e</i>in G<i>e</i>sicht?
+- Ganz ruhig.
+
+790
+01:10:48,649 --> 01:10:52,198  X1:187 X2:527 Y1:456 Y2:536
+N<i>e</i>in! lch bin nicht ruhig!
+Wi<i>e</i>so bin ich g<i>e</i>f<i>e</i>ss<i>e</i>lt?
+
+791
+01:10:52,369 --> 01:10:55,679  X1:175 X2:540 Y1:456 Y2:536
+W<i>e</i>r sind di<i>e</i>s<i>e</i> L<i>e</i>ut<i>e</i>?
+Was ist passi<i>e</i>rt im Mot<i>e</i>l?
+
+792
+01:10:55,849 --> 01:10:58,761  X1:173 X2:542 Y1:456 Y2:536
+- Wo sind all<i>e</i>?
+- Es gibt si<i>e</i> nicht, Edward.
+
+793
+01:10:58,929 --> 01:11:01,397  X1:128 X2:586 Y1:456 Y2:530
+lhr wurd<i>e</i>t von Malcolm <i>e</i>rfund<i>e</i>n,
+als <i>e</i>r kl<i>e</i>in war.
+
+794
+01:11:01,569 --> 01:11:03,878  X1:163 X2:552 Y1:456 Y2:530
+- Si<i>e</i> lüg<i>e</i>n!
+- D<i>e</i>nk<i>e</i>n Si<i>e</i> doch mal nach.
+
+795
+01:11:04,049 --> 01:11:06,279  X1:089 X2:624 Y1:505 Y2:530
+All<i>e</i> wurd<i>e</i>n nach <i>e</i>in<i>e</i>m Staat b<i>e</i>nannt.
+
+796
+01:11:06,449 --> 01:11:09,805  X1:124 X2:589 Y1:456 Y2:530
+All<i>e</i> hab<i>e</i>n d<i>e</i>ns<i>e</i>lb<i>e</i>n G<i>e</i>burtstag.
+lhr<i>e</i> Black-outs.
+
+797
+01:11:09,969 --> 01:11:11,368  X1:208 X2:506 Y1:505 Y2:530
+N<i>e</i>in! lch war Polizist!
+
+798
+01:11:11,529 --> 01:11:15,078  X1:132 X2:585 Y1:456 Y2:530
+lch war s<i>e</i>chs Jahr<i>e</i> lang Polizist
+b<i>e</i>i d<i>e</i>r L.A.P.D.
+
+799
+01:11:15,249 --> 01:11:16,238  X1:264 X2:451 Y1:505 Y2:535
+Edward, bitt<i>e.</i>
+
+800
+01:11:16,409 --> 01:11:18,718  X1:165 X2:551 Y1:456 Y2:536
+lch wohn<i>e</i> in Hollywood
+in <i>e</i>in<i>e</i>r Einzimm<i>e</i>rwohnung.
+
+801
+01:11:18,889 --> 01:11:21,164  X1:309 X2:405 Y1:456 Y2:530
+- N<i>e</i>in.
+- Doch!
+
+802
+01:11:21,409 --> 01:11:23,081  X1:199 X2:515 Y1:505 Y2:536
+Si<i>e</i> wohn<i>e</i>n nirg<i>e</i>ndwo.
+
+803
+01:11:23,409 --> 01:11:27,322  X1:124 X2:590 Y1:456 Y2:535
+Das ist schw<i>e</i>r zu akz<i>e</i>pti<i>e</i>r<i>e</i>n,
+ab<i>e</i>r das G<i>e</i>sicht, das si<i>e</i> sah<i>e</i>n...
+
+804
+01:11:27,489 --> 01:11:32,563  X1:108 X2:606 Y1:456 Y2:530
+ist das G<i>e</i>sicht, das ich imm<i>e</i>r s<i>e</i>h<i>e</i>,
+w<i>e</i>nn ich mit Edward od<i>e</i>r Paris...
+
+805
+01:11:32,729 --> 01:11:34,606  X1:198 X2:516 Y1:506 Y2:530
+od<i>e</i>r d<i>e</i>n and<i>e</i>r<i>e</i>n r<i>e</i>d<i>e.</i>
+
+806
+01:11:34,769 --> 01:11:38,523  X1:121 X2:594 Y1:456 Y2:536
+Malcolm st<i>e</i>ht unt<i>e</i>r
+<i>e</i>in<i>e</i>r m<i>e</i>dizinisch<i>e</i>n B<i>e</i>handlung...
+
+807
+01:11:38,689 --> 01:11:44,047  X1:132 X2:582 Y1:456 Y2:530
+in d<i>e</i>r all<i>e</i> P<i>e</i>rs<i>ö</i>nlichk<i>e</i>it<i>e</i>n
+mit<i>e</i>inand<i>e</i>r konfronti<i>e</i>rt w<i>e</i>rd<i>e</i>n.
+
+808
+01:11:44,209 --> 01:11:46,598  X1:178 X2:537 Y1:456 Y2:536
+lch wusst<i>e</i>,
+dass <i>e</i>s g<i>e</i>walttätig wird...
+
+809
+01:11:46,769 --> 01:11:51,797  X1:111 X2:603 Y1:456 Y2:530
+und dass dadurch di<i>e</i> Anzahl
+d<i>e</i>r P<i>e</i>rs<i>ö</i>nlichk<i>e</i>it<i>e</i>n r<i>e</i>duzi<i>e</i>rt wird.
+
+810
+01:11:54,049 --> 01:11:55,880  X1:285 X2:431 Y1:505 Y2:530
+R<i>e</i>duzi<i>e</i>rt?
+
+811
+01:11:56,049 --> 01:11:58,722  X1:148 X2:567 Y1:505 Y2:530
+Ein<i>e</i> di<i>e</i>s<i>e</i>r P<i>e</i>rs<i>ö</i>nlichk<i>e</i>it<i>e</i>n...
+
+812
+01:11:58,889 --> 01:12:01,642  X1:110 X2:605 Y1:505 Y2:536
+b<i>e</i>ging vor vi<i>e</i>r Jahr<i>e</i>n di<i>e</i>s<i>e</i> Mord<i>e.</i>
+
+813
+01:12:02,009 --> 01:12:05,638  X1:116 X2:599 Y1:456 Y2:536
+Er üb<i>e</i>rnahm di<i>e</i> Kontroll<i>e</i> üb<i>e</i>r
+Malcolms K<i>ö</i>rp<i>e</i>r, so wi<i>e</i> Si<i>e</i> j<i>e</i>tzt...
+
+814
+01:12:05,809 --> 01:12:10,758  X1:114 X2:601 Y1:456 Y2:530
+und li<i>e</i>ß <i>e</i>in<i>e</i> unglaublich<i>e</i> Wut fr<i>e</i>i.
+Und in 1 9 Stund<i>e</i>n...
+
+815
+01:12:10,929 --> 01:12:14,365  X1:115 X2:600 Y1:456 Y2:536
+wird Malcolm Riv<i>e</i>rs
+aufgrund di<i>e</i>s<i>e</i>r Tat<i>e</i>n hing<i>e</i>richt<i>e</i>t.
+
+816
+01:12:14,529 --> 01:12:18,238  X1:128 X2:586 Y1:456 Y2:536
+Es s<i>e</i>i d<i>e</i>nn, ich kann
+di<i>e</i>s<i>e</i>n Mann davon üb<i>e</i>rz<i>e</i>ug<i>e</i>n...
+
+817
+01:12:18,409 --> 01:12:20,684  X1:120 X2:594 Y1:505 Y2:530
+dass d<i>e</i>r M<i>ö</i>rd<i>e</i>r nicht m<i>e</i>hr da ist.
+
+818
+01:12:23,849 --> 01:12:26,158  X1:125 X2:591 Y1:505 Y2:530
+Si<i>e</i> müss<i>e</i>n mir zuh<i>ö</i>r<i>e</i>n. Edward?
+
+819
+01:12:26,329 --> 01:12:29,480  X1:138 X2:577 Y1:456 Y2:536
+lch brauch<i>e</i> lhr<i>e</i> Hilf<i>e</i>,
+um das hi<i>e</i>r zu End<i>e</i> zu bring<i>e</i>n.
+
+820
+01:12:30,049 --> 01:12:31,721  X1:183 X2:533 Y1:505 Y2:535
+Edward, h<i>ö</i>r<i>e</i>n Si<i>e</i> mir zu.
+
+821
+01:12:32,929 --> 01:12:34,567  X1:182 X2:532 Y1:506 Y2:535
+<i>Edward, hören Sie mir zu.</i>
+
+822
+01:12:34,729 --> 01:12:37,482  X1:173 X2:541 Y1:456 Y2:530
+H<i>ö</i>r<i>e</i>n Si<i>e</i> zu.
+Si<i>e</i> müss<i>e</i>n das v<i>e</i>rst<i>e</i>h<i>e</i>n.
+
+823
+01:12:37,649 --> 01:12:40,686  X1:134 X2:582 Y1:505 Y2:530
+D<i>e</i>r M<i>ö</i>rd<i>e</i>r darf nicht üb<i>e</i>rl<i>e</i>b<i>e</i>n.
+
+824
+01:12:40,849 --> 01:12:42,043  X1:304 X2:411 Y1:506 Y2:530
+Edward!
+
+825
+01:13:08,129 --> 01:13:09,608  X1:261 X2:455 Y1:505 Y2:530
+Hab<i>e</i>n Si<i>e e</i>s?
+
+826
+01:13:10,609 --> 01:13:14,045  X1:133 X2:583 Y1:456 Y2:536
+lch s<i>e</i>h<i>e</i> nichts.
+Gibt <i>e</i>s hi<i>e</i>r <i>e</i>in<i>e</i> Tasch<i>e</i>nlamp<i>e</i>?
+
+827
+01:13:14,209 --> 01:13:15,767  X1:228 X2:487 Y1:506 Y2:530
+S<i>e</i>kund<i>e.</i> S<i>e</i>kund<i>e.</i>
+
+828
+01:13:16,249 --> 01:13:19,844  X1:135 X2:581 Y1:456 Y2:530
+- Hab<i>e</i>n Si<i>e e</i>in<i>e</i> Tasch<i>e</i>nlamp<i>e</i>?
+- Di<i>e</i> Batt<i>e</i>ri<i>e</i> ist l<i>ee</i>r. Sch<i>e</i>iß<i>e.</i>
+
+829
+01:14:02,769 --> 01:14:04,202  X1:288 X2:426 Y1:506 Y2:530
+Schnauz<i>e</i>!
+
+830
+01:14:10,049 --> 01:14:12,722  X1:121 X2:596 Y1:505 Y2:536
+H<i>e</i>y. Was soll ich anzi<i>e</i>h<i>e</i>n, Mann?
+
+831
+01:14:12,889 --> 01:14:14,720  X1:245 X2:470 Y1:505 Y2:530
+Si<i>e</i> hab<i>e</i>n <i>e</i>s an.
+
+832
+01:14:25,969 --> 01:14:26,958  X1:318 X2:397 Y1:506 Y2:536
+Larry.
+
+833
+01:14:28,689 --> 01:14:30,964  X1:226 X2:489 Y1:505 Y2:536
+Larry, komm<i>e</i>n Si<i>e.</i>
+
+834
+01:14:37,169 --> 01:14:38,648  X1:337 X2:378 Y1:506 Y2:530
+Ed!
+
+835
+01:14:46,729 --> 01:14:48,560  X1:337 X2:378 Y1:506 Y2:530
+Ed!
+
+836
+01:15:02,249 --> 01:15:04,126  X1:318 X2:397 Y1:506 Y2:536
+Larry!
+
+837
+01:15:08,929 --> 01:15:11,727  X1:307 X2:406 Y1:457 Y2:530
+- Larry!
+- Paris.
+
+838
+01:15:12,689 --> 01:15:13,758  X1:319 X2:396 Y1:505 Y2:530
+Paris.
+
+839
+01:15:16,529 --> 01:15:18,247  X1:314 X2:402 Y1:506 Y2:536
+Larry?
+
+840
+01:15:21,249 --> 01:15:24,047  X1:265 X2:452 Y1:506 Y2:536
+Larry? Larry?
+
+841
+01:15:27,009 --> 01:15:29,648  X1:166 X2:549 Y1:505 Y2:530
+Wo sind di<i>e</i> Autoschlüss<i>e</i>l?
+
+842
+01:15:29,809 --> 01:15:31,845  X1:166 X2:549 Y1:505 Y2:530
+Wo sind di<i>e</i> Autoschlüss<i>e</i>l?
+
+843
+01:15:35,809 --> 01:15:38,846  X1:201 X2:514 Y1:456 Y2:536
+- Das war gut, Larry.
+- Wir müss<i>e</i>n w<i>e</i>g hi<i>e</i>r.
+
+844
+01:15:39,009 --> 01:15:41,921  X1:138 X2:576 Y1:456 Y2:530
+- Ed hat di<i>e</i> Schlüss<i>e</i>l.
+- lch hab <i>e</i>in<i>e</i>n Ersatzschlüss<i>e</i>l.
+
+845
+01:15:42,089 --> 01:15:44,922  X1:211 X2:504 Y1:456 Y2:530
+- Wo ist <i>e</i>r?
+- lch w<i>e</i>iß nicht. Hi<i>e</i>r.
+
+846
+01:15:45,889 --> 01:15:48,687  X1:167 X2:547 Y1:457 Y2:530
+- Was soll das?
+- Wir brauch<i>e</i>n <i>e</i>in<i>e</i> Pistol<i>e.</i>
+
+847
+01:15:49,769 --> 01:15:50,804  X1:217 X2:496 Y1:505 Y2:530
+V<i>e</i>rdammt<i>e</i> Sch<i>e</i>iß<i>e</i>!
+
+848
+01:15:54,169 --> 01:15:56,046  X1:129 X2:585 Y1:505 Y2:530
+G<i>e</i>b<i>e</i>n Si<i>e</i> mir di<i>e</i> Autoschlüss<i>e</i>l.
+
+849
+01:16:53,609 --> 01:16:55,247  X1:337 X2:378 Y1:506 Y2:530
+Ed!
+
+850
+01:16:55,409 --> 01:16:57,206  X1:209 X2:504 Y1:505 Y2:536
+Wir müss<i>e</i>n hi<i>e</i>r w<i>e</i>g!
+
+851
+01:16:57,369 --> 01:16:59,564  X1:246 X2:468 Y1:456 Y2:530
+- Paris...
+- Er kommt. Er...
+
+852
+01:16:59,729 --> 01:17:01,959  X1:205 X2:510 Y1:456 Y2:530
+- Bl<i>e</i>ib<i>e</i>n Si<i>e</i> hi<i>e</i>r.
+- Was hab<i>e</i>n Si<i>e</i> bloß?
+
+853
+01:17:02,129 --> 01:17:04,768  X1:245 X2:471 Y1:505 Y2:535
+Paris, h<i>ö</i>r<i>e</i>n Si<i>e.</i>
+
+854
+01:17:04,929 --> 01:17:07,238  X1:245 X2:470 Y1:505 Y2:530
+Bl<i>e</i>ib<i>e</i>n Si<i>e</i> hi<i>e</i>r.
+
+855
+01:17:08,369 --> 01:17:10,485  X1:257 X2:456 Y1:505 Y2:536
+All<i>e</i>s wird gut.
+
+856
+01:17:34,649 --> 01:17:37,527  X1:108 X2:605 Y1:505 Y2:535
+W<i>e</i>rf<i>e</i>n Si<i>e</i> mir di<i>e</i> Schlüss<i>e</i>l zu, Ed.
+
+857
+01:17:39,569 --> 01:17:43,005  X1:108 X2:605 Y1:456 Y2:530
+W<i>e</i>rf<i>e</i>n Si<i>e</i> mir di<i>e</i> Schlüss<i>e</i>l zu, Ed.
+Bl<i>e</i>ib<i>e</i>n Si<i>e</i> hi<i>e</i>r!
+
+858
+01:18:14,289 --> 01:18:17,884  X1:283 X2:432 Y1:506 Y2:530
+Ed! Ed! Ed!
+
+859
+01:18:22,929 --> 01:18:25,284  X1:145 X2:570 Y1:505 Y2:535
+Ed, lass<i>e</i>n Si<i>e</i> mich mal s<i>e</i>h<i>e</i>n.
+
+860
+01:18:25,449 --> 01:18:27,087  X1:155 X2:560 Y1:505 Y2:530
+Si<i>e</i> müss<i>e</i>n ins Krank<i>e</i>nhaus.
+
+861
+01:18:27,249 --> 01:18:29,285  X1:097 X2:617 Y1:505 Y2:536
+Wir bring<i>e</i>n Si<i>e</i> ins Krank<i>e</i>nhaus, ok?
+
+862
+01:18:29,449 --> 01:18:32,202  X1:191 X2:525 Y1:456 Y2:536
+Sch<i>ö</i>n b<i>e</i>i mir bl<i>e</i>ib<i>e</i>n,
+ich bring<i>e</i> Si<i>e</i> zum Auto.
+
+863
+01:18:32,369 --> 01:18:35,884  X1:101 X2:615 Y1:456 Y2:530
+L<i>e</i>g<i>e</i>n Si<i>e</i> lhr<i>e</i>n Arm um m<i>e</i>in<i>e</i>n Hals.
+Halt<i>e</i>n Si<i>e</i> sich f<i>e</i>st.
+
+864
+01:18:36,049 --> 01:18:41,487  X1:213 X2:502 Y1:456 Y2:535
+Sind Si<i>e</i> so w<i>e</i>it, Ed?
+Ok. Eins, zw<i>e</i>i, dr<i>e</i>i.
+
+865
+01:18:42,489 --> 01:18:46,641  X1:134 X2:581 Y1:456 Y2:530
+Si<i>e</i> müss<i>e</i>n mir h<i>e</i>lf<i>e</i>n.
+Stoß<i>e</i>n Si<i>e</i> sich <i>e</i>in bissch<i>e</i>n ab.
+
+866
+01:18:48,529 --> 01:18:51,726  X1:184 X2:531 Y1:456 Y2:530
+Ed, wi<i>e</i>so lass<i>e</i>n Si<i>e</i> sich
+nicht von mir h<i>e</i>lf<i>e</i>n?
+
+867
+01:18:53,169 --> 01:18:54,761  X1:207 X2:508 Y1:505 Y2:530
+Wo war<i>e</i>n Si<i>e</i> vorh<i>e</i>r?
+
+868
+01:18:54,929 --> 01:18:58,558  X1:092 X2:622 Y1:505 Y2:536
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>s<i>e</i>h<i>e</i>n? Erzähl<i>e</i>n Si<i>e.</i>
+
+869
+01:19:01,409 --> 01:19:03,877  X1:207 X2:507 Y1:505 Y2:536
+Si<i>e</i> hab<i>e</i> ich g<i>e</i>s<i>e</i>h<i>e</i>n.
+
+870
+01:19:07,649 --> 01:19:10,925  X1:124 X2:592 Y1:505 Y2:536
+lch sah Si<i>e</i> in <i>e</i>in<i>e</i>m Orang<i>e</i>nhain.
+
+871
+01:19:39,569 --> 01:19:42,288  X1:210 X2:509 Y1:457 Y2:530
+<i>Wieso lassen Sie sich</i>
+<i>nicht v on mir helfen?</i>
+
+872
+01:19:43,409 --> 01:19:45,639  X1:259 X2:459 Y1:506 Y2:530
+<i>Wo waren Sie?</i>
+
+873
+01:19:45,809 --> 01:19:47,800  X1:186 X2:528 Y1:505 Y2:536
+Was hab<i>e</i>n Si<i>e</i> g<i>e</i>s<i>e</i>h<i>e</i>n?
+
+874
+01:19:51,009 --> 01:19:53,204  X1:270 X2:446 Y1:505 Y2:530
+lch sah Si<i>e...</i>
+
+875
+01:19:54,889 --> 01:19:58,086  X1:204 X2:511 Y1:505 Y2:536
+in <i>e</i>in<i>e</i>m Orang<i>e</i>nhain.
+
+876
+01:20:32,769 --> 01:20:37,843  X1:103 X2:611 Y1:456 Y2:530
+Di<i>e</i> Frag<i>e</i> ist, ob d<i>e</i>r K<i>ö</i>rp<i>e</i>r
+od<i>e</i>r d<i>e</i>r G<i>e</i>ist v<i>e</i>rurt<i>e</i>ilt w<i>e</i>rd<i>e</i>n soll.
+
+877
+01:20:38,449 --> 01:20:41,885  X1:133 X2:581 Y1:456 Y2:530
+S<i>e</i>in K<i>ö</i>rp<i>e</i>r b<i>e</i>ging di<i>e</i>s<i>e</i> Mord<i>e</i>,
+das stimmt.
+
+878
+01:20:42,049 --> 01:20:44,199  X1:203 X2:509 Y1:456 Y2:530
+Ab<i>e</i>r nicht di<i>e</i> P<i>e</i>rson,
+di<i>e</i> in ihm st<i>e</i>ckt.
+
+879
+01:20:44,369 --> 01:20:45,882  X1:162 X2:554 Y1:505 Y2:530
+Das stimmt vi<i>e</i>ll<i>e</i>icht nicht...
+
+880
+01:20:46,049 --> 01:20:48,438  X1:191 X2:522 Y1:456 Y2:530
+Z<i>e</i>hn ld<i>e</i>ntität<i>e</i>n wurd<i>e</i>n
+h<i>e</i>ut<i>e</i> Nacht z<i>e</i>rst<i>ö</i>rt.
+
+881
+01:20:48,609 --> 01:20:50,247  X1:122 X2:594 Y1:505 Y2:536
+N<i>e</i>un unschuldig<i>e</i>, <i>e</i>in<i>e</i> schuldig<i>e.</i>
+
+882
+01:20:50,409 --> 01:20:51,398  X1:225 X2:489 Y1:505 Y2:530
+Si<i>e</i> sind nicht <i>e</i>cht!
+
+883
+01:20:51,569 --> 01:20:53,799  X1:150 X2:565 Y1:456 Y2:536
+Di<i>e</i> G<i>e</i>walt, di<i>e</i> in ihm st<i>e</i>ckt<i>e</i>,
+wurd<i>e</i> ausg<i>e</i>m<i>e</i>rzt.
+
+884
+01:20:53,969 --> 01:20:58,440  X1:158 X2:556 Y1:457 Y2:536
+Eu<i>e</i>r Ehr<i>e</i>n, Malcolm
+g<i>e</i>h<i>ö</i>rt in <i>e</i>in<i>e</i> N<i>erve</i>nanstalt.
+
+885
+01:21:02,609 --> 01:21:07,239  X1:162 X2:555 Y1:457 Y2:536
+<i>Im Fall Rivers gegen Nevada</i>
+<i>empfiehlt dieses Gericht...</i>
+
+886
+01:21:07,409 --> 01:21:09,969  X1:161 X2:552 Y1:506 Y2:536
+<i>Aussetzung der Hinrichtung.</i>
+
+887
+01:21:10,129 --> 01:21:13,804  X1:136 X2:578 Y1:457 Y2:530
+<i>Ich überweise Mr. Rivers</i>
+<i>in eine staatliche Nervenklinik...</i>
+
+888
+01:21:14,169 --> 01:21:17,002  X1:149 X2:565 Y1:506 Y2:530
+<i>unter Aufsicht v on Dr. Mallick.</i>
+
+889
+01:21:32,335 --> 01:21:34,610  X1:208 X2:510 Y1:457 Y2:536
+<i>Gesprungene Glock en</i>
+<i>Kaputte Trompeten</i>
+
+890
+01:21:34,775 --> 01:21:36,731  X1:126 X2:592 Y1:506 Y2:530
+<i>Blasen mir ihren Zorn ins Gesicht</i>
+
+891
+01:21:36,895 --> 01:21:38,169  X1:199 X2:519 Y1:506 Y2:530
+<i>Doch so läuft das nicht</i>
+
+892
+01:21:38,335 --> 01:21:41,008  X1:192 X2:525 Y1:457 Y2:530
+<i>Ich wurde nicht geboren</i>
+<i>Um dich zu verlieren</i>
+
+893
+01:21:41,175 --> 01:21:43,370  X1:275 X2:442 Y1:506 Y2:530
+<i>Ich will dich</i>
+
+894
+01:21:43,535 --> 01:21:45,651  X1:275 X2:442 Y1:506 Y2:530
+<i>Ich will dich</i>
+
+895
+01:21:45,815 --> 01:21:49,888  X1:219 X2:500 Y1:506 Y2:530
+<i>Ich will dich so sehr</i>
+
+896
+01:23:01,855 --> 01:23:02,970  X1:308 X2:405 Y1:505 Y2:536
+Timmy!
+
+897
+01:23:33,295 --> 01:23:35,172  X1:283 X2:432 Y1:456 Y2:530
+N<i>e</i>in.
+Bitt<i>e</i> nicht.
+
+898
+01:23:36,575 --> 01:23:38,088  X1:324 X2:392 Y1:505 Y2:530
+N<i>e</i>in.
+
+899
+01:23:38,255 --> 01:23:40,166  X1:269 X2:446 Y1:505 Y2:536
+Timmy, bitt<i>e.</i>
+
+900
+01:23:40,335 --> 01:23:42,485  X1:232 X2:482 Y1:505 Y2:535
+Was ist, Malcolm?
+
+901
+01:23:50,695 --> 01:23:51,764  X1:294 X2:423 Y1:506 Y2:530
+Malcolm?
+
+902
+01:23:52,055 --> 01:23:54,615  X1:113 X2:602 Y1:505 Y2:536
+Hur<i>e</i>n kri<i>e</i>g<i>e</i>n k<i>e</i>in<i>e</i> zw<i>e</i>it<i>e</i> Chanc<i>e.</i>
+
+903
+01:24:12,095 --> 01:24:18,409  X1:104 X2:616 Y1:457 Y2:535
+<i>Als ich die Treppe hochging</i>
+<i>Traf ich einen Mann, der nicht da war</i>
+
+904
+01:24:18,975 --> 01:24:22,126  X1:161 X2:555 Y1:506 Y2:530
+<i>Heute war er wieder nicht da</i>
+
+905
+01:24:22,295 --> 01:24:25,367  X1:126 X2:591 Y1:457 Y2:536
+<i>Ich wünschte</i>
+<i>Ich wünschte, er würde weggehen</i>
+
+906
+01:27:30,975 --> 01:27:31,964  X1:243 X2:472 Y1:457 Y2:536
+<i>Untertitel</i>:
+SDl M<i>e</i>dia Group
+

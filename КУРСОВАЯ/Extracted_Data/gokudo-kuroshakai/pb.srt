@@ -1,0 +1,382 @@
+{1}{1}23.976
+{1975}{2026}De acordo com a meteorologia,
+{2029}{2157}uma zona de baixa pressão...
+{2160}{2276}causará pancadas de chuva em Taiwan.
+{2280}{2376}Em Taipei, chuvas torrenciais são previstas.
+{2380}{2462}Amanhã o dia estará nublado, com...
+{2468}{2575}pancadas de chuva e temperatura entre 18 e 20 graus.
+{3396}{3473}Anda logo Yugi!
+{3476}{3526}Faça alguma coisa!
+{8724}{8792}E aí, como vai? Sou eu.
+{8832}{8870}Acertaram o chefe.
+{8900}{8930}Ele está morto.
+{9004}{9062}Não podemos deixar os Kansai fazerem o funeral.
+{9086}{9107}Estamos tomando o controle.
+{9214}{9297}Então, você está fodido.
+{9365}{9446}Não se preocupe com a sua garota. Vou cuidar dela.
+{9484}{9498}Que azar.
+{10095}{10128}É mesmo...
+{10205}{10227}Como se eu me importasse.
+{10605}{10642}Lembro que chovia.
+{10698}{10746}Um Yakuza falido...
+{10780}{10823}O pior entre os piores.
+{10887}{10915}Está acabado.
+{10964}{11008}Ele não vai me ligar de novo.
+{11197}{11232}Ei Yuji!
+{11247}{11272}Tenho um trabalho para você.
+{11275}{11316}Venha me ver amanhã.
+{11428}{11460}Caralho, que confusão...
+{12648}{12693}Não atire!
+{12725}{12757}Só me faltava essa!
+{13107}{13135}Já faz tempo.
+{13170}{13211}Trouxe algo para você.
+{13216}{13254}Venha aqui, Cheng.
+{13334}{13363}É seu filho.
+{13411}{13442}O nome dele é Cheng.
+{13485}{13515}Só pode ser brincadeira.
+{13528}{13570}Cheng, este é o seu pai.
+{13573}{13626}Faça ele cuidar bem de você.
+{13667}{13738}Eu já cuidei dele.
+{13741}{13790}Agora é a sua vez.
+{13799}{13839}É isso, adeus.
+{14006}{14030}Espere!
+{14200}{14291}Tem mais, ele é mudo. Triste, né?
+{14335}{14362}Espere!
+{14418}{14480}Devo parar?
+{14484}{14517}Continue dirigindo!
+{14528}{14562}Não é da sua conta!
+{14566}{14606}Cale a boca e dirija!
+{15567}{15602}Caralho, que confusão...
+{17615}{17638}É, eu te amo...
+{17669}{17687}Taipei.
+{17851}{17897}TAIPEI!
+{19872}{19925}Ah você veio.
+{19931}{19963}Venha aqui.
+{19981}{20017}Como tem passado?
+{20068}{20098}Sente-se.
+{20192}{20215}Como vai?
+{20296}{20346}Algo errado?
+{20373}{20398}Está tudo bem.
+{20477}{20535}Se houve algo te incomodando...
+{20564}{20606}Venha falar comigo.
+{20720}{20829}Você é como um filho para mim.
+{20845}{20953}Falo sério. Meu filho.
+{20967}{21002}Entende?
+{21052}{21123}Meu filho...M-E-U F-I-L-H-O.
+{21435}{21485}Este cara é o Shu.
+{21597}{21648}Tem agido pelas minhas costas.
+{21695}{21765}Quem diabos ele pensa que é?
+{21773}{21819}Esta cidade é minha!
+{21827}{21861}É minha!
+{21927}{21978}Você é um bom garoto.
+{22020}{22102}Você é meu filho.
+{22363}{22398}Pelo seu tempo...
+{22423}{22479}Vai receber o resto quando estiver feito.
+{22544}{22643}Ou invisto no seu passaporte falso?
+{24334}{24362}Quem é você?
+{24415}{24443}Você é meu filho?
+{24521}{24542}Aquela mulher...
+{24593}{24633}A que te trouxe aqui.
+{24687}{24723}Eu me lembro, eu comi ela.
+{24798}{24835}Foi há muito tempo atrás.
+{24906}{24943}Não consigo nem lembrar o seu nome.
+{28258}{28295}Filho da puta!
+{28570}{28594}Merda!
+{29363}{29385}Não se mova.
+{29964}{29997}É seu?
+{30051}{30078}Não sei.
+{30132}{30184}Que irresponsável.
+{30281}{30383}Você gosta de Taipei?
+{30418}{30455}O que acha depois desse tempo?
+{30489}{30503}Gosta?
+{30559}{30574}Por que me pergunta isso?
+{30628}{30668}Não há mais ninguém para perguntar.
+{30763}{30820}Então você tem algum apreço por mim?
+{30863}{30899}Estou fazendo uma pergunta.
+{30975}{31048}Eu acho que não é tão ruim.
+{31081}{31139}Comida boa, garotas boas.
+{31215}{31273}Então pare de me caçar.
+{31291}{31314}Fique de uma vez aqui.
+{31427}{31455}Está negociando sua vida?
+{31494}{31525}Não faz o seu tipo.
+{31587}{31621}Eu vou te pegar, uma hora ou outra.
+{31655}{31682}É o meu trabalho.
+{31743}{31781}Foda-se seu trabalho.
+{31843}{31875}Está assim há quanto tempo?
+{31944}{31968}Três anos.
+{32021}{32061}Eu só quero voltar para o Japão.
+{32111}{32132}Só isso.
+{34866}{34901}Muito bem.
+{34994}{35021}Fique com isso.
+{35039}{35144}É o seu bônus.
+{35168}{35251}Nunca é demais, né?
+{35459}{35527}Esta é a minha cidade.
+{35563}{35643}Eu quero ajudar estas pessoas.
+{35678}{35716}Entende?
+{35843}{35879}Tenho que pedir um favor.
+{35883}{35958}Quero que mate um homem, Ku-Chiping.
+{36009}{36103}Ele está comendo a filha do meu melhor amigo.
+{36119}{36175}Cara, você tinha que ver a mãe dela chorando.
+{36202}{36262}Eu quero ajudá-la.
+{36296}{36341}Você entendeu.
+{36363}{36392}Acho que sim.
+{36490}{36516}Yuji..
+{36519}{36615}Você é meu filho... Você é da família.
+{36619}{36672}Estou contando com você.
+{36917}{36939}Vamos beber!
+{37151}{37201}Me lembro de uma história...
+{37253}{37285}Li certa vez num mangá.
+{37365}{37442}Um prisioneiro estava sozinho há muito tempo...
+{37495}{37595}Começou a gostar de uma mosca.
+{37682}{37706}Um dia...
+{37765}{37830}ele descobriu que a mosca o havia deixado.
+{37897}{37955}E começou a enlouquecer.
+{39081}{39125}Lá está minha mosca.
+{40842}{40870}Não me olhe desse jeito!
+{40957}{40992}Você não é um cachorro.
+{41711}{41740}E agora?
+{41751}{41804}O que ainda está fazendo aí?
+{41819}{41879}Esqueceu seu trabalho?
+{41915}{41944}Amanhã,
+{41975}{42010}a chuva vai parar.
+{43043}{43095}Hoje a tarde vai chover de novo.
+{43099}{43167}E em outras regiões...
+{48650}{48692}Garotas gostosas, aqui.
+{48705}{48736}Vem, vem.
+{48939}{48989}Deve demorar a passar.
+{48994}{49023}Vou te dar um desconto.
+{49251}{49327}Crianças não podem entrar!
+{49331}{49383}Se manda!
+{49535}{49600}Ei! Eu disse para sumir!
+{49881}{49903}Lily!
+{49931}{49979}Venha logo sua lerda!
+{50225}{50299}Qual você quer?
+{50328}{50339}A mais limpa.
+{50358}{50459}Isso não garanto... A não ser que use um barbeador...
+{51834}{51877}Não quero pegar nada.
+{52820}{52848}O quê?
+{52931}{52970}É linda!
+{55109}{55159}O que foi?
+{55170}{55218}Notícias ruins?
+{55222}{55255}Largue isso.
+{55259}{55339}Você não pode fazer nada.
+{55379}{55436}O que me lembrou uma música.
+{60685}{60770}Chove demais aqui.
+{61218}{61265}Eu odeio a chuva.
+{61918}{61987}Quero viver num lugar onde não chova.
+{62055}{62147}Vá embora então, para onde quiser.
+{62455}{62494}Mas e se...
+{62552}{62593}Descobrir que é do mesmo jeito que aqui.
+{62660}{62715}Não existirá mais nada com o que sonhar.
+{62787}{62823}Você está com medo.
+{63123}{63144}Ei.
+{63186}{63214}Você?
+{63281}{63307}O que tem?
+{63515}{63562}O que está fazendo aqui?
+{63601}{63635}Viajando.
+{63695}{63738}Até que a chuva pare.
+{63780}{63815}É livre para ir?
+{63852}{63878}Sim.
+{66703}{66730}Está indo embora?
+{71783}{71834}Sandy, você é tão boba.
+{73584}{73616}O que aconteceu?
+{73812}{73890}Você quer ir embora, não é?
+{73938}{73982}Leve ele com você.
+{74659}{74709}Encontrou ele?
+{74729}{74751}Não.
+{74755}{74784}Olhe nos fundos!
+{74842}{74861}Ele não está aqui.
+{74865}{74895}Não está lá?
+{75161}{75211}Foi ele.
+{75225}{75271}Eu sei que foi ele que atirou.
+{75323}{75370}Não vou deixar que escape.
+{75443}{75489}Vou matá-lo.
+{76153}{76211}Você ficou doido?
+{76215}{76229}O que está fazendo?
+{76232}{76292}Leve-nos para a estação.
+{76299}{76313}O quê?
+{76317}{76339}Vai!
+{76368}{76406}Mas que porra...!
+{77801}{77826}Fei!
+{77924}{77956}É ele.
+{78095}{78108}Não pare!
+{78174}{78199}Que porra é essa!
+{78227}{78254}Meu Deus!
+{78526}{78584}São homens do Ku!
+{78626}{78661}O que eles estão fazendo?
+{78665}{78721}O que está acontecendo?
+{78763}{78808}Onde estamos indo?
+{78849}{78901}Onde?
+{79818}{79844}Tragam ele aqui.
+{81275}{81302}Como vai você?
+{81306}{81332}Meu nome é Ku-Hung.
+{81555}{81591}Sou irmão de Ku-Chiping.
+{81616}{81643}E?
+{81698}{81748}Meu irmão foi assassinado.
+{81767}{81813}Não sou um otário.
+{81855}{81911}Eu sei quem o matou.
+{81915}{81974}Seu insolente desgraçado!
+{82078}{82115}E?
+{82136}{82212}Já disse, não sou um otário.
+{82244}{82291}Eu sei como as coisas funcionam no seu mundo.
+{82330}{82363}Então?
+{82370}{82439}Como elas funcionam?
+{82502}{82560}Vou assumir pelo meu irmão.
+{82819}{82859}E então o quê?
+{82866}{82916}Matar o cara que pegou meu irmão.
+{82920}{83017}E depois falamos do futuro.
+{83043}{83078}Do futuro?
+{83136}{83174}O negócio da vigança.
+{83353}{83382}Gostei dele.
+{83679}{83733}O que você faz?
+{83793}{83829}Sou advogado.
+{84743}{84806}Isto é um pesadelo.
+{84810}{84859}O que eu fiz de errado?
+{84970}{85014}Que estrada é essa?
+{85222}{85267}O que estamos fazendo?
+{85271}{85308}Deveríamos voltar?
+{85432}{85479}Saia daqui!
+{86680}{86747}O que você fez?
+{86771}{86796}Ei!
+{86820}{86858}Estou falando com você!
+{86880}{86910}Você queria...
+{86938}{86996}...sair da cidade, não é?
+{88837}{88923}Não me admiro ainda não termos encontrado ele!
+{91439}{91463}Não!
+{91474}{91508}Não olhe para ele.
+{91530}{91683}Você não o reconheceria.
+{91810}{91832}Cunhada...
+{91872}{91902}Eu vou cuidar de você.
+{92723}{92745}Cunhada.
+{92802}{92844}Posso ficar com isso?
+{92915}{92949}Cuide bem dele.
+{93815}{93847}Estou entediada.
+{93888}{93932}Fale comigo.
+{94292}{94337}O que você é?
+{94947}{94979}Sem dúvida...
+{95039}{95071}É essa garota.
+{95165}{95206}Lily.
+{95210}{95279}Ela é esperta.
+{95282}{95378}Trabalha desde os 14.
+{95384}{95433}É a mais lucrativa aqui.
+{95851}{95957}Página da Lily. Meu nome é Lily, moro em Taipei.
+{95960}{95993}Tenho 22 anos.
+{95997}{96048}Trabalho como esteticista.
+{96061}{96095}Essa manhã choveu de novo.
+{96099}{96152}Por que tanta chuva?
+{96156}{96200}Chuva o ano todo.
+{96203}{96231}Estou cansada disso.
+{96235}{96328}Eu reclamo com os meus clientes...
+{96332}{96362}o dia todo.
+{96365}{96443}Apareça quando estiver na cidade.
+{96465}{96502}Estarei aqui.
+{96510}{96536}Lily.
+{96592}{96629}Puta desgraçada.
+{96895}{96983}Que boa ideia.
+{97065}{97087}Vamos.
+{97177}{97229}Já estão indo?
+{97397}{97485}Você é o novo chefe?
+{98105}{98154}Vocês se parecem tanto.
+{98250}{98290}Quietos.
+{98327}{98374}Parados.
+{98447}{98490}Uma dupla estranha.
+{98580}{98635}Ei baixinho, qual é o seu nome?
+{98687}{98720}Olá?
+{98743}{98817}Estou perguntando seu nome?
+{99007}{99043}Não vai me dizer?
+{99199}{99225}É Cheng.
+{99388}{99418}Eu não tinha ideia.
+{99822}{99855}Me perdoe.
+{100678}{100705}Não podem encontrá-lo?
+{100711}{100765}Onde diabos ele está?
+{100769}{100800}Por que não podem encontrá-lo?
+{100804}{100861}Seus imbecis inúteis!
+{101103}{101129}Me perdoem.
+{101643}{101675}Eles não vão fugir de mim.
+{101689}{101764}O homem, a garota, e a criança...
+{101788}{101822}Matem todos.
+{101951}{102042}A previsão para amanhã...
+{102143}{102209}Temperatura estará entre 18 e 20 graus.
+{102244}{102327}Com uma chance de chuva de 70%.
+{102635}{102719}''Meu-nome-é-Cheng''
+{102723}{102767}Cheng.
+{102785}{102812}Cheng.
+{102816}{102863}Este é o seu nome.
+{102944}{102980}Entendeu?
+{103031}{103094}Agora você escreve.
+{103388}{103434}Droga.
+{103547}{103582}O que eu estou fazendo aqui?
+{103761}{103783}Eu vou voltar.
+{103787}{103818}É melhor não.
+{103852}{103930}Não se estiver chovendo.
+{103938}{103970}Dá azar.
+{104031}{104066}Do que está falando?
+{104194}{104270}Minha vó costumava dizer.
+{104322}{104357}Sua vó?
+{105283}{105395}Preciso do meu dinheiro.
+{105408}{105436}Tudo bem.
+{105440}{105466}Eu tenho aqui.
+{105488}{105583}Onde está agora?.
+{105599}{105638}Uma casamata na praia.
+{105657}{105686}A praia?
+{105717}{105745}Compreendo.
+{105871}{105951}''Ligue para Hung''
+{105956}{105990}Ok...
+{106038}{106100}Vou te conseguir um passaporte e o dinheiro.
+{106104}{106147}Não se preocupe.
+{106164}{106289}Lembre-se, você é meu filho... Família.
+{106303}{106372}Você fez muito por essa cidade.
+{106375}{106431}Fuja em segurança.
+{107568}{107594}Estamos partindo.
+{107607}{107634}O quê?
+{107643}{107675}O que está acontecendo?
+{110827}{110870}Vai fundo Cheng!
+{110874}{110909}Vamos derrotá-lo!
+{111172}{111214}Não vai funcionar.
+{111230}{111264}Como sabe?.
+{111308}{111363}Não vai ter gasolina.
+{111428}{111469}Como você sabe?.
+{111555}{111604}Eu matei Ku-Chiping.
+{111655}{111679}Por quê?
+{111754}{111781}Era um trabalho.
+{111840}{111888}Causou uma confusão do caralho.
+{113190}{113260}Tudo bem, podemos confiar nele.
+{113479}{113506}Quem é este?
+{113647}{113680}Você está bem?
+{113728}{113754}Entre.
+{113811}{113840}Você está bem?
+{114083}{114116}Ele é boa pessoa.
+{114136}{114205}Não se preocupe.
+{114284}{114450}Muita gente está feliz com a morte dele.
+{114471}{114520}Você estará seguro aqui.
+{114747}{114781}Você gosta?
+{114800}{114831}Eu mesmo fiz.
+{115108}{115158}Eu pensei que...
+{115179}{115214}Não se preocupe...
+{115219}{115284}Se encontrá-los, são seus.
+{115369}{115437}Mas cuidado, ele não é idiota.
+{115440}{115513}E ele não sai quando está chovendo.
+{115517}{115566}Ele deve estar por perto.
+{115645}{115695}E agora é hora da previsão do tempo.
+{115700}{115779}Amanhã o vento vai parar...
+{115783}{115873}e vai clarear na parte da tarde.
+{116871}{116927}''Me avise sobre Lily, um japonês, e um garoto...
+{116931}{116974}...e ganhe $500,000 dólares taiwaneses. Ku-Hung.''
+{117019}{117047}Olhe!
+{119539}{119619}Vamos nos dividir e ir para a estação.
+{119623}{119671}Você vai na frente.
+{119677}{119730}Eu vou matá-los e te alcançar.
+{122007}{122052}Esteticista?
+{122061}{122101}Estaticista o caralho...
+{122104}{122130}Puta desgraçada.
+{123550}{123578}O que vai fazer?
+{123586}{123633}Eu vou estourar os miolos do moleque!
+{124187}{124219}Acabou.
+{129883}{129915}Você quer me matar?
+{129971}{130050}É caso de vida ou morte.
+{130438}{130474}Não desvie o olhar.
+{130531}{130611}Encare a tristeza e a raiva...
+{131001}{131094}Cresça e venha me matar.
+{131098}{131133}Estarei esperando por você aqui.
+{131983}{132027}Vai parar de chover amanhã.
+{133000}{140000}Legendas traduzidas pelo blog Filmoteca Online; Venha assistir filmes online em filmotecaon-line.blogspot.com

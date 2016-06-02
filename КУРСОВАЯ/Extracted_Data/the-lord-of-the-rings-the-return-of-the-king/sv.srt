@@ -1,0 +1,7655 @@
+1
+00:00:11,000 --> 00:00:16,100
+Stort tack till <font color=#FFFF00>Galadhorn</font> och alla på <font color=#FFFF00>elvish.org</font>
+
+2
+00:00:19,500 --> 00:00:23,300
+för hjälp av översättning av fraserna på
+<font color=#008000>Sindarin</font>, <font color=#0080C0>Quenya</font> och <font color=#800080>Rohirric (Fornengelska)</font>.
+
+3
+00:00:34,200 --> 00:00:40,200
+Härskarringen
+<font color=#FFFF00>Översättning och text: Mikerophone</font>
+
+4
+00:01:17,300 --> 00:01:18,925
+Sméagol!
+
+5
+00:01:19,093 --> 00:01:21,335
+Jag har en!
+
+6
+00:01:21,971 --> 00:01:23,964
+Jag har en fisk, Sméag. Sméagol!
+
+7
+00:01:24,140 --> 00:01:27,260
+Sätt fart och hala in den.
+
+8
+00:01:35,485 --> 00:01:37,312
+Déagol!
+
+9
+00:02:34,711 --> 00:02:36,537
+Déagol?
+
+10
+00:02:39,090 --> 00:02:41,332
+Déagol.
+
+11
+00:02:57,150 --> 00:02:59,226
+Ge oss den, Déagol, min älskade.
+
+12
+00:03:04,198 --> 00:03:05,479
+Varför det?
+
+13
+00:03:06,576 --> 00:03:08,818
+Därför att...
+
+14
+00:03:08,995 --> 00:03:12,743
+...det är min födelsedag
+och jag vill ha den.
+
+15
+00:04:46,801 --> 00:04:52,043
+Min älskade.
+
+16
+00:04:59,605 --> 00:05:02,523
+De förbannade oss.
+
+17
+00:05:02,692 --> 00:05:04,067
+Mördare.
+
+18
+00:05:04,235 --> 00:05:06,690
+“Mördare” kallade de os.
+
+19
+00:05:06,862 --> 00:05:11,655
+De förbannade oss
+och körde iväg oss.
+
+20
+00:05:12,785 --> 00:05:14,493
+Gollum.
+
+21
+00:05:14,662 --> 00:05:16,370
+Gollum.
+
+22
+00:05:16,539 --> 00:05:18,496
+Gollum.
+
+23
+00:05:22,044 --> 00:05:25,045
+Och vi grät, älskade.
+
+24
+00:05:25,214 --> 00:05:28,797
+Vi grät för att vi var så ensamma.
+
+25
+00:05:31,387 --> 00:05:35,171
+<i>Och sval
+Så skönt för fot</i>
+
+26
+00:05:36,183 --> 00:05:40,561
+<i>Vi önskar så
+en fisk att få</i>
+
+27
+00:05:40,730 --> 00:05:43,980
+<i>Så saftigt god</i>
+
+28
+00:05:49,739 --> 00:05:53,867
+Vi glömde hur bröd smakade...
+
+29
+00:05:54,034 --> 00:05:57,653
+hur träd låter...
+
+30
+00:05:58,539 --> 00:06:01,742
+hur mjuk vinden är.
+
+31
+00:06:02,376 --> 00:06:08,046
+Vi glömde rentav vårt eget namn.
+
+32
+00:06:16,182 --> 00:06:22,599
+Min älskade.
+
+33
+00:07:06,857 --> 00:07:09,099
+Vakna!
+
+34
+00:07:10,152 --> 00:07:11,812
+Vakna!
+
+35
+00:07:11,987 --> 00:07:13,779
+Vakna, sömntutor.
+
+36
+00:07:13,948 --> 00:07:15,821
+Vi måste ge oss av, ja.
+
+37
+00:07:15,991 --> 00:07:18,661
+Vi måste ge oss av genast.
+
+38
+00:07:22,206 --> 00:07:25,290
+Har ni inte sovit alls, herr Frodo?
+
+39
+00:07:27,503 --> 00:07:30,041
+Själv har jag minsann
+sovit för länge.
+
+40
+00:07:31,423 --> 00:07:33,167
+Det börjar visst bli sent.
+
+41
+00:07:33,342 --> 00:07:34,836
+Nej.
+
+42
+00:07:35,010 --> 00:07:36,919
+Det är det inte.
+
+43
+00:07:37,096 --> 00:07:40,132
+Det är inte ens middag än.
+
+44
+00:07:40,307 --> 00:07:42,881
+Dagarna blir mörkare.
+
+45
+00:07:47,147 --> 00:07:49,354
+Kom nu!
+
+46
+00:07:51,777 --> 00:07:54,019
+Måste gå! Ingen tid!
+
+47
+00:07:54,196 --> 00:07:56,568
+Inte förrän herr Frodo ätit något.
+
+48
+00:07:56,740 --> 00:07:59,611
+Ingen tid att förlora, dummer.
+
+49
+00:08:08,377 --> 00:08:09,657
+Här.
+
+50
+00:08:12,881 --> 00:08:14,708
+Du, då?
+
+51
+00:08:14,883 --> 00:08:18,252
+Jag är inte hungrig,
+åtminstone inte på lembasbröd.
+
+52
+00:08:18,846 --> 00:08:20,221
+Sam.
+
+53
+00:08:22,808 --> 00:08:24,350
+Okej.
+
+54
+00:08:24,518 --> 00:08:27,009
+Vi har inte så mycket kvar.
+
+55
+00:08:27,187 --> 00:08:30,058
+Vi måste vara försiktiga,
+så att det inte tar slut.
+
+56
+00:08:32,234 --> 00:08:35,152
+Ät det där nu, herr Frodo.
+
+57
+00:08:35,320 --> 00:08:36,731
+Jag har ransonerat det...
+
+58
+00:08:37,239 --> 00:08:38,899
+så det borde räcka.
+
+59
+00:08:41,076 --> 00:08:42,274
+Till vad?
+
+60
+00:08:43,954 --> 00:08:45,697
+Vägen hem.
+
+61
+00:08:53,547 --> 00:08:55,872
+Kom, hober.
+
+62
+00:08:57,259 --> 00:08:59,133
+Mycket nära nu.
+
+63
+00:08:59,303 --> 00:09:02,553
+Mycket nära till Mordor.
+
+64
+00:09:02,723 --> 00:09:05,392
+Ingenstans är säkert här.
+
+65
+00:09:05,559 --> 00:09:07,717
+Skynda på.
+
+65,5
+00:09:50,200 --> 00:09:56,000
+Sagan om konungens återkomst
+
+66
+00:10:00,113 --> 00:10:01,821
+Det är gott.
+
+67
+00:10:02,741 --> 00:10:04,484
+Definitivt från Fylke.
+
+68
+00:10:06,703 --> 00:10:08,826
+Långbottenblad.
+
+69
+00:10:14,169 --> 00:10:18,498
+Det känns som att vara 
+tillbaka på Gröna draken.
+
+70
+00:10:19,591 --> 00:10:22,841
+- Gröna draken.
+- En ölsejdel i handen...
+
+71
+00:10:23,011 --> 00:10:27,590
+och fötterna på en bänk efter 
+ett hårt dagsverke.
+
+72
+00:10:28,183 --> 00:10:31,634
+Utom att du aldrig gjort
+ett hårt dagsverke.
+
+73
+00:10:44,449 --> 00:10:47,486
+Välkomna, mina herrar...
+
+74
+00:10:47,661 --> 00:10:49,903
+till Isengård!
+
+75
+00:10:50,288 --> 00:10:54,037
+Era små skurkar!
+En lustig jakt ledde ni ut oss på...
+
+76
+00:10:54,209 --> 00:10:59,204
+och nu hittar vi er festande 
+och...och rökande!
+
+77
+00:10:59,381 --> 00:11:02,548
+Vi sitter på ett segerfält och...
+
+78
+00:11:02,718 --> 00:11:06,217
+...njuter litet välförtjänt undfägnad.
+
+79
+00:11:07,305 --> 00:11:11,137
+Det salta fläsket är särskilt gott.
+
+80
+00:11:11,685 --> 00:11:14,057
+Salt fläsk?
+
+81
+00:11:15,272 --> 00:11:18,688
+- Hober.
+- Vi lyder under Lavskägge...
+
+82
+00:11:18,859 --> 00:11:21,694
+som tagit över skötseln 
+av Isengård.
+
+83
+00:11:24,239 --> 00:11:27,240
+Unge Mäster Gandalf.
+
+84
+00:11:27,409 --> 00:11:31,987
+Jag är glad att du har kommit.
+
+85
+00:11:32,164 --> 00:11:36,576
+Skog och vatten, stock och sten
+kan jag hålla i styr
+
+86
+00:11:36,751 --> 00:11:40,417
+Men det är en trollkarl här...
+
+87
+00:11:40,589 --> 00:11:42,581
+inlåst i tornet.
+
+88
+00:11:45,260 --> 00:11:46,588
+Visa dig.
+
+89
+00:11:46,845 --> 00:11:48,553
+Var försiktiga.
+
+90
+00:11:49,347 --> 00:11:52,017
+Även i nederlagets stund
+är Saruman farlig.
+
+91
+00:11:52,184 --> 00:11:54,307
+Av med hans huvud, bara.
+
+92
+00:11:54,478 --> 00:11:56,517
+Nej.
+
+93
+00:11:56,855 --> 00:11:59,180
+Vi behöver honom levande.
+
+94
+00:12:00,192 --> 00:12:02,765
+Vi måste få honom att tala.
+
+95
+00:12:04,654 --> 00:12:08,866
+Du har utkämpat många krig, 
+kung Théoden...
+
+96
+00:12:09,034 --> 00:12:10,528
+...och stiftat fred efteråt.
+
+97
+00:12:10,702 --> 00:12:15,660
+Ska vi inte hålla rådslag som förr,
+min gamle vän?
+
+98
+00:12:15,832 --> 00:12:19,035
+Kan vi inte stifta fred, du och jag?
+
+99
+00:12:19,211 --> 00:12:21,120
+Vi skall ha fred.
+
+100
+00:12:23,048 --> 00:12:25,171
+Vi skall ha fred...
+
+101
+00:12:25,342 --> 00:12:29,386
+när du svarat för
+brännandet av Västfold...
+
+102
+00:12:29,554 --> 00:12:32,306
+och barnen som ligger döda där!
+
+103
+00:12:33,058 --> 00:12:37,221
+Vi skall ha fred när de soldater...
+
+104
+00:12:37,395 --> 00:12:39,471
+...whose bodies were hewn
+even as they lay dead...
+
+105
+00:12:39,648 --> 00:12:43,182
+...vars döda kroppar höggs i bitar
+framför Hornborgens port blivit hämnade!
+
+106
+00:12:44,736 --> 00:12:50,323
+När du hänger från en galge
+till nöje för dina egna kråkor...
+
+107
+00:12:51,242 --> 00:12:53,484
+då skall vi ha fred.
+
+108
+00:12:56,247 --> 00:12:58,952
+Galgar och kråkor?
+
+109
+00:12:59,292 --> 00:13:00,537
+Gaggige gubbe!
+
+110
+00:13:02,003 --> 00:13:04,838
+Vad vill du ha, Gandalf Gråhamne?
+
+111
+00:13:05,840 --> 00:13:08,331
+Låt mig gissa. Nyckeln till Orthanc.
+
+112
+00:13:08,510 --> 00:13:11,427
+Eller kanske till och med 
+nyckeln till Barad-Dûr...
+
+113
+00:13:11,596 --> 00:13:15,594
+tillsammans med de sju kungarnas kronor
+och de fem trollkarlarnas stavar!
+
+114
+00:13:15,767 --> 00:13:18,721
+Ditt förräderi har kostat många liv.
+
+115
+00:13:18,895 --> 00:13:21,267
+Tusentals fler står nu på spel.
+
+116
+00:13:21,439 --> 00:13:23,811
+Men du kan rädda dem, Saruman.
+
+117
+00:13:23,984 --> 00:13:26,272
+Du var djupt insatt i fiendens planer.
+
+118
+00:13:26,444 --> 00:13:29,730
+Så du har kommit för att få information.
+
+119
+00:13:30,615 --> 00:13:32,442
+Det har jag till dig.
+
+120
+00:13:37,914 --> 00:13:40,868
+Något ruttnar i Midgårds hjärta.
+
+121
+00:13:41,042 --> 00:13:43,284
+Något du inte lyckats se.
+
+122
+00:13:45,797 --> 00:13:49,296
+Men Det stora ögat har sett det.
+
+123
+00:13:50,343 --> 00:13:54,044
+Även i detta nu utnyttjar han övertaget.
+
+124
+00:13:55,807 --> 00:13:59,140
+Han kommer snart att anfalla.
+
+125
+00:14:01,354 --> 00:14:03,477
+Ni kommer alla att dö.
+
+126
+00:14:05,984 --> 00:14:09,234
+Men det vet du redan, Gandalf, eller hur?
+
+127
+00:14:09,404 --> 00:14:14,030
+Inte tror du väl att denne Utbygdsjägare 
+skall sitta på Gondors tron.
+
+128
+00:14:14,200 --> 00:14:20,286
+Denne landsflykting, framkrupen
+ur skuggorna, skall aldrig bli kung.
+
+129
+00:14:21,624 --> 00:14:25,289
+Gandalf tvekar inte att offra dem
+som står honom närmast...
+
+130
+00:14:26,212 --> 00:14:28,419
+dem han påstår sig älska.
+
+131
+00:14:29,466 --> 00:14:34,009
+Säg mig, vilka tröstens ord 
+gav du halvlingen...
+
+132
+00:14:34,179 --> 00:14:37,215
+innan du skickade honom
+att möta sitt öde?
+
+133
+00:14:39,642 --> 00:14:44,351
+Den väg du sänt honom på
+kan endast leda till döden.
+
+134
+00:14:44,689 --> 00:14:46,847
+Jag har hört nog!
+
+135
+00:14:47,025 --> 00:14:48,852
+Skjut honom.
+Sätt en pil in i hans gap.
+
+136
+00:14:49,360 --> 00:14:51,020
+Nej.
+
+137
+00:14:51,487 --> 00:14:53,694
+Kom ner, Saruman...
+
+138
+00:14:53,865 --> 00:14:57,815
+- och ditt liv skall skonas.
+- Behåll din medömkan och din nåd.
+
+139
+00:14:57,994 --> 00:14:59,322
+Jag behöver dem inte!
+
+140
+00:15:08,546 --> 00:15:10,005
+Saruman...
+
+141
+00:15:11,049 --> 00:15:14,215
+...din stav är bruten.
+
+142
+00:15:25,104 --> 00:15:28,556
+Grima, du behöver inte följa honom.
+
+143
+00:15:29,734 --> 00:15:32,403
+Du var inte alltid sådan du är nu.
+
+144
+00:15:32,570 --> 00:15:35,405
+En gång var du en av Rohans män.
+
+145
+00:15:35,573 --> 00:15:36,818
+Kom ner.
+
+146
+00:15:36,991 --> 00:15:39,696
+En av Rohans män?
+
+147
+00:15:40,620 --> 00:15:42,862
+Vad är huset Rohan...
+
+148
+00:15:43,039 --> 00:15:46,704
+annat än en halmtäckt lada
+där stråtrövare dricker i stanken...
+
+149
+00:15:46,876 --> 00:15:50,577
+och deras yngel rullar runt 
+på golvet med hundarna?
+
+150
+00:15:51,089 --> 00:15:57,542
+Segern vid Helms klyfta tillhör
+inte dig, Théoden hästmästare.
+
+151
+00:15:58,179 --> 00:16:02,758
+Du är en ringa son
+av större förfäder.
+
+152
+00:16:05,103 --> 00:16:06,811
+Grima...
+
+153
+00:16:07,647 --> 00:16:09,521
+kom ner.
+
+154
+00:16:09,857 --> 00:16:11,268
+Bli fri från honom.
+
+155
+00:16:11,442 --> 00:16:15,440
+- Fri? Han blir aldrig fri.
+- Nej.
+
+156
+00:16:15,822 --> 00:16:18,443
+Ner, ynkrygg!
+
+157
+00:16:20,201 --> 00:16:21,481
+Saruman!
+
+158
+00:16:21,661 --> 00:16:24,282
+Du var djupt insatt i
+fiendens planer.
+
+159
+00:16:24,789 --> 00:16:26,947
+Tala om vad du vet!
+
+160
+00:16:28,459 --> 00:16:33,702
+Dra tillbaka dina vakter, och jag
+talar om var ert öde skall avgöras.
+
+161
+00:16:33,881 --> 00:16:37,416
+Jag låter mig inte hållas fången här.
+
+162
+00:17:04,537 --> 00:17:06,079
+Skicka bud till våra allierade...
+
+163
+00:17:06,247 --> 00:17:09,164
+...och till varje fritt hörn av Midgård.
+
+164
+00:17:09,709 --> 00:17:12,829
+Fienden rör sig emot oss.
+Vi måste få veta var han slår till.
+
+165
+00:17:32,023 --> 00:17:35,972
+Sarumans smuts...
+
+166
+00:17:36,152 --> 00:17:39,984
+sköljs bort.
+
+167
+00:17:40,156 --> 00:17:44,699
+Träd ska återkomma för att leva här.
+
+168
+00:17:45,203 --> 00:17:47,361
+Unga träd.
+
+169
+00:17:47,538 --> 00:17:49,745
+- Vilda träd.
+- Pippin!
+
+170
+00:17:59,217 --> 00:18:01,375
+Välsigne min bark!
+
+171
+00:18:01,552 --> 00:18:03,426
+Peregrin Took!
+
+172
+00:18:03,596 --> 00:18:06,217
+Den där tar jag hand om, min gosse.
+
+173
+00:18:06,390 --> 00:18:08,264
+Skynda på.
+
+174
+00:18:58,442 --> 00:19:04,029
+I kväll minns vi dem som gav sitt
+blod för att försvara detta rike.
+
+175
+00:19:04,699 --> 00:19:06,738
+Hell, ni segerrika döda.
+
+176
+00:19:06,909 --> 00:19:08,320
+Hell!
+
+177
+00:19:19,296 --> 00:19:21,206
+Inga uppehåll.
+
+178
+00:19:21,382 --> 00:19:25,545
+- Inget spill.
+- Och inga uppstötningar.
+
+179
+00:19:26,053 --> 00:19:27,713
+Så det är en dryckeslek?
+
+180
+00:19:29,265 --> 00:19:31,969
+Den siste som står vinner.
+
+181
+00:19:36,313 --> 00:19:38,306
+Vad ska vi skåla för?
+Lås oss skåla på för segern!
+
+182
+00:19:38,482 --> 00:19:39,893
+För segern!
+
+182,5
+00:19:52,740 --> 00:19:55,900
+<font color=#800080>Westu Aragorn hál.</font>
+<font color=#FFFF00>(Må väl, Aragorn.)</font>
+
+183
+00:20:23,861 --> 00:20:25,521
+Jag är glad för din skull.
+
+184
+00:20:25,905 --> 00:20:28,312
+Han är en hedervärd man.
+
+185
+00:20:28,741 --> 00:20:31,196
+Ni är båda hedervärda män.
+
+186
+00:20:33,037 --> 00:20:38,375
+Det var inte Théoden av Rohan
+som ledde vårt folk till seger.
+
+187
+00:20:46,550 --> 00:20:48,377
+Lyssna inte på mig.
+
+188
+00:20:49,219 --> 00:20:50,714
+Du är ung.
+
+189
+00:20:50,888 --> 00:20:53,213
+Och den här kvällen är din.
+
+190
+00:21:07,571 --> 00:21:09,231
+Här, här.
+
+191
+00:21:10,741 --> 00:21:16,660
+Det är dvärgar som tar en simtur
+med små håriga kvinnor.
+
+192
+00:21:22,044 --> 00:21:23,289
+Jag känner någonting.
+
+193
+00:21:25,422 --> 00:21:27,913
+En lätt pirrning i fingrarna.
+
+194
+00:21:28,634 --> 00:21:30,211
+Jag tror att det påverkar mig.
+
+195
+00:21:32,137 --> 00:21:33,845
+Vad var det jag sa?
+
+196
+00:21:34,014 --> 00:21:37,348
+Han klarar inte att dricka.
+
+197
+00:21:44,692 --> 00:21:46,020
+Färdiglekt.
+
+198
+00:21:46,193 --> 00:21:49,609
+<i>Åh, sök i söder, sök i norr
+drick ni hela staden torr/i>
+
+199
+00:21:49,780 --> 00:21:53,730
+<i>men brunare öl ni aldrig ser
+men brunare öl ni aldrig ser</i>
+
+200
+00:21:53,909 --> 00:21:58,286
+<i>än i våran stad vi sköljer ner
+än i våran stad vi sköljer ner</i>
+
+201
+00:21:58,455 --> 00:22:02,370
+<i>Hinka ni ert älsklingsöl
+oss det faller ej i smaken</i>
+
+202
+00:22:02,543 --> 00:22:05,709
+<i>ty för folk av dygd
+finns en enda brygd</i>
+
+203
+00:22:08,340 --> 00:22:09,621
+Pippin!
+
+204
+00:22:10,092 --> 00:22:13,128
+<i>ty för folk av dygd
+finns en enda brygd</i>
+
+205
+00:22:13,470 --> 00:22:16,175
+<i>den från Gröna Draken</i>
+
+206
+00:22:18,892 --> 00:22:21,727
+Tackar! Jag vann!
+
+207
+00:22:23,480 --> 00:22:25,971
+Inget nytt om Frodo?
+
+208
+00:22:26,150 --> 00:22:29,649
+Inte ett ord. Ingenting.
+
+209
+00:22:30,487 --> 00:22:32,646
+Än finns det tid.
+
+210
+00:22:34,158 --> 00:22:37,443
+Varje dag kommer Frodo närmare Mordor.
+
+211
+00:22:38,203 --> 00:22:40,279
+Vet vi det?
+
+212
+00:22:44,126 --> 00:22:45,834
+Vad säger dig ditt hjärta?
+
+213
+00:22:52,885 --> 00:22:56,218
+Att Frodo lever.
+
+214
+00:22:58,390 --> 00:23:00,181
+Ja.
+
+215
+00:23:02,769 --> 00:23:04,928
+Ja, han lever.
+
+216
+00:23:07,191 --> 00:23:10,026
+För farligt. För farligt.
+
+217
+00:23:10,193 --> 00:23:11,438
+Tjuvar.
+
+218
+00:23:11,612 --> 00:23:13,651
+De stal den från oss.
+
+219
+00:23:13,822 --> 00:23:17,321
+Döda dem. Döda dem. Döda båda två.
+
+220
+00:23:19,369 --> 00:23:22,204
+Tyst! Får inte väcka dem.
+
+221
+00:23:22,372 --> 00:23:24,910
+Får inte förstöra allt nu.
+
+222
+00:23:25,083 --> 00:23:27,159
+Men de vet.
+
+223
+00:23:27,336 --> 00:23:29,209
+De vet.
+
+224
+00:23:29,379 --> 00:23:32,001
+De misstänker oss.
+
+225
+00:23:33,216 --> 00:23:36,751
+Vad säger den, min skatt, min älskade?
+
+226
+00:23:36,929 --> 00:23:40,511
+Börjar Sméagol få skälvan?
+
+227
+00:23:41,183 --> 00:23:43,555
+Nej. Inte.
+
+228
+00:23:43,727 --> 00:23:47,974
+Aldrig. Sméagol hatar otäcka hober.
+
+229
+00:23:48,148 --> 00:23:52,976
+Sméagol vill se dem döda.
+
+230
+00:23:53,153 --> 00:23:55,691
+Det ska vi också.
+
+231
+00:23:55,864 --> 00:23:59,909
+Sméagol gjorde det en gång,
+han kan göra det en gång till.
+
+232
+00:24:03,246 --> 00:24:05,916
+Den är vår!
+
+233
+00:24:06,083 --> 00:24:08,752
+Vår!
+
+234
+00:24:09,878 --> 00:24:12,749
+Vi måste ha tillbaka vår skatt.
+Vi måste ha tillbaka den.
+
+235
+00:24:12,923 --> 00:24:16,339
+Tålamod! Tålamod, min älskade.
+
+236
+00:24:16,510 --> 00:24:20,887
+Först måste vi leda dem till henne.
+
+237
+00:24:21,765 --> 00:24:26,759
+Vi leder dem
+till den vindlande trappan.
+
+238
+00:24:26,937 --> 00:24:29,606
+Ja, trappan. Och sen?
+
+239
+00:24:29,773 --> 00:24:32,774
+Upp, upp, upp, upp, 
+uppför trappan går vi... 
+
+240
+00:24:32,943 --> 00:24:39,361
+...tills vi kommer till tunneln.
+
+241
+00:24:39,741 --> 00:24:42,861
+Och när de har gått in...
+
+242
+00:24:43,036 --> 00:24:45,823
+...kommer de inte ut igen.
+
+243
+00:24:46,748 --> 00:24:49,619
+Hon är alltid hungrig.
+244
+00:24:50,377 --> 00:24:54,588
+Hon kräver ständigt föda.
+
+245
+00:24:54,756 --> 00:24:56,167
+Hon måste äta.
+
+246
+00:24:56,341 --> 00:24:58,464
+Allt hon får är snuskiga orcher.
+
+247
+00:24:58,635 --> 00:25:01,387
+Och de smakar inte så värst gott,
+eller hur, älskade?
+
+248
+00:25:02,013 --> 00:25:03,638
+Nej.
+
+249
+00:25:03,807 --> 00:25:08,516
+Inte gott alls, min kära.
+
+250
+00:25:08,687 --> 00:25:11,474
+Hon hungrar efter smakligare kött.
+
+251
+00:25:11,648 --> 00:25:13,475
+Hobkött.
+
+252
+00:25:13,650 --> 00:25:18,478
+Och när hon slänger benen
+och de tomma kläderna...
+
+253
+00:25:18,655 --> 00:25:21,739
+så hittar vi den.
+
+254
+00:25:21,908 --> 00:25:26,238
+Och tar den åt mig!
+
+255
+00:25:27,998 --> 00:25:29,408
+Åt oss.
+
+256
+00:25:29,916 --> 00:25:32,917
+Ja. Vi menade “åt oss.”
+
+257
+00:25:33,086 --> 00:25:36,537
+Gollum. Gollum.
+
+258
+00:25:36,715 --> 00:25:41,211
+Den älskade kommer att bli vår...
+
+259
+00:25:41,386 --> 00:25:45,882
+när hoberna är döda!
+
+260
+00:25:46,391 --> 00:25:47,850
+Din svekfulla lilla padda!
+
+261
+00:25:50,562 --> 00:25:52,851
+Nej! Nej! Husbond!
+
+262
+00:25:53,023 --> 00:25:54,647
+Nej, Sam! Låt honom vara!
+
+263
+00:25:55,525 --> 00:25:58,194
+Jag hörde det från hans egna mun.
+Han tänker mörda oss.
+
+264
+00:25:58,361 --> 00:26:02,525
+Aldrig! Sméagol skulle inte
+göra en fluga förnär.
+
+265
+00:26:04,034 --> 00:26:06,607
+Han är en vidrig fet hob...
+
+266
+00:26:06,786 --> 00:26:08,364
+som hatar Sméagol...
+
+267
+00:26:08,538 --> 00:26:11,325
+och hittar på otäcka lögner.
+
+268
+00:26:11,499 --> 00:26:14,169
+Din usla lilla mask!
+Jag ska slå in skallen på dig!
+
+269
+00:26:14,544 --> 00:26:15,825
+Sam!
+
+270
+00:26:16,212 --> 00:26:18,501
+Kalla mig lögnare! Då ljuger du!
+
+271
+00:26:19,466 --> 00:26:23,380
+- Om du skrämmer bort honom är vi vilse!
+- Det struntar jag i! Jag kan inte göra det, herr Frodo.
+
+272
+00:26:23,553 --> 00:26:26,720
+- Jag tänker inte vänta på att han ska döda oss!
+- Jag skickar inte bort honom.
+
+273
+00:26:27,057 --> 00:26:28,385
+Du ser det inte, eller hur?
+
+274
+00:26:28,808 --> 00:26:30,219
+Han är en skurk.
+
+275
+00:26:31,227 --> 00:26:34,846
+Vi klarar det inte själva, Sam.
+Inte utan en vägvisare.
+
+276
+00:26:35,690 --> 00:26:38,561
+Jag behöver dig vid min sida.
+
+277
+00:26:39,361 --> 00:26:41,686
+Jag står vid er sida, herr Frodo.
+
+278
+00:26:43,198 --> 00:26:46,152
+Jag vet det, Sam. Jag vet det.
+
+279
+00:26:46,701 --> 00:26:48,694
+Lita på mig.
+
+280
+00:26:48,870 --> 00:26:51,242
+Kom, Sméagol.
+
+281
+00:27:59,190 --> 00:28:00,649
+Hur dags är det nu?
+
+282
+00:28:02,986 --> 00:28:04,480
+Det är ännu inte gryning.
+
+283
+00:28:11,411 --> 00:28:14,447
+Jag drömde att jag såg en stor våg...
+
+284
+00:28:14,622 --> 00:28:18,620
+som svallade upp över gröna marker
+och högre än kullarna.
+
+285
+00:28:19,878 --> 00:28:22,333
+Jag stod vid randen.
+
+286
+00:28:23,256 --> 00:28:26,423
+Det rådde fullständigt mörker
+i avgrunden framför mina fötter.
+
+287
+00:28:28,344 --> 00:28:31,131
+Ett ljus sken bakom mig...
+
+288
+00:28:31,764 --> 00:28:34,172
+men jag kunde inte vända mig om.
+
+289
+00:28:34,350 --> 00:28:37,766
+Jag kunde bara stå där och vänta.
+
+290
+00:28:39,230 --> 00:28:41,935
+Natten förändrar många tankar.
+
+291
+00:28:42,317 --> 00:28:44,475
+Sov, Èowyn.
+
+292
+00:28:45,028 --> 00:28:47,269
+Sov...
+
+293
+00:28:49,991 --> 00:28:51,865
+medan du kan.
+
+294
+00:29:16,017 --> 00:29:18,306
+Stjärnorna är skymda.
+
+295
+00:29:19,312 --> 00:29:22,811
+Någonting rör sig i öster.
+
+296
+00:29:23,483 --> 00:29:26,602
+En sömnlös illvilja.
+
+297
+00:29:28,613 --> 00:29:31,400
+Fiendens öga rör sig.
+
+298
+00:29:44,837 --> 00:29:47,542
+Vad gör du?
+
+299
+00:29:52,178 --> 00:29:53,637
+Pippin!
+
+300
+00:30:01,145 --> 00:30:02,889
+Pippin?
+
+301
+00:30:15,785 --> 00:30:17,113
+Pippin.
+
+302
+00:30:17,787 --> 00:30:20,456
+- Är du galen?
+- Jag vill bara titta på den.
+
+303
+00:30:20,623 --> 00:30:21,738
+Bara en gång till.
+
+304
+00:30:21,999 --> 00:30:24,075
+Lägg tillbaka den.
+
+305
+00:30:34,345 --> 00:30:36,136
+Pippin.
+
+306
+00:30:42,645 --> 00:30:44,139
+Nej!
+
+307
+00:30:49,235 --> 00:30:50,480
+Pippin.
+
+308
+00:30:53,823 --> 00:30:55,021
+Han är här.
+
+309
+00:30:55,199 --> 00:30:57,488
+Jag ser dig.
+
+310
+00:31:00,496 --> 00:31:02,121
+Pippin!
+
+311
+00:31:16,762 --> 00:31:19,514
+Hjälp! Gandalf, hjälp!
+
+312
+00:31:21,267 --> 00:31:23,141
+Someone help him!
+
+313
+00:31:29,525 --> 00:31:30,723
+Pippin!
+
+314
+00:31:31,861 --> 00:31:33,106
+Took-dåre!
+
+315
+00:31:54,216 --> 00:31:56,423
+Se på mig.
+
+316
+00:31:58,387 --> 00:32:02,515
+Gandalf, förlåt mig.
+
+317
+00:32:02,683 --> 00:32:04,557
+Se på mig.
+
+318
+00:32:04,727 --> 00:32:06,554
+Vad såg du?
+
+319
+00:32:10,066 --> 00:32:12,142
+Ett träd.
+
+320
+00:32:13,110 --> 00:32:14,984
+Det var ett vitt träd...
+
+321
+00:32:15,154 --> 00:32:16,648
+på en borggård av sten.
+
+322
+00:32:19,450 --> 00:32:20,730
+Det var dött.
+
+323
+00:32:24,914 --> 00:32:26,741
+Staden brann.
+
+324
+00:32:26,916 --> 00:32:30,285
+Minas Tirith? Är det vad du såg?
+
+325
+00:32:30,961 --> 00:32:33,001
+Jag såg...
+
+326
+00:32:36,384 --> 00:32:37,759
+Jag såg honom.
+
+327
+00:32:40,763 --> 00:32:43,005
+Jag hörde hans röst i mitt huvud.
+
+328
+00:32:43,182 --> 00:32:45,590
+Och vad sa du till honom?
+
+329
+00:32:45,768 --> 00:32:47,595
+Tala!
+
+330
+00:32:51,774 --> 00:32:54,941
+Han ville veta mitt namn, 
+men jag svarade inte.
+
+331
+00:32:55,111 --> 00:32:56,569
+Han gjorde mig illa.
+
+332
+00:32:56,737 --> 00:32:59,193
+Vad berättade du
+om Frodo och Ringen?
+
+333
+00:33:02,701 --> 00:33:05,157
+Pippins ögon ljög inte.
+
+334
+00:33:05,996 --> 00:33:08,238
+En dåre...
+
+335
+00:33:08,415 --> 00:33:10,704
+men en ärlig dåre förblir han.
+
+336
+00:33:11,168 --> 00:33:14,703
+Han avslöjade inget om Frodo
+och Ringen för Sauron.
+
+337
+00:33:15,756 --> 00:33:18,128
+Vi har haft tur.
+
+338
+00:33:18,300 --> 00:33:22,168
+I palantiren fick Pippin 
+en glimt av fiendens plan.
+
+339
+00:33:23,097 --> 00:33:27,047
+Sauron bereder sig
+att slå mot Minas Tirith.
+
+340
+00:33:27,643 --> 00:33:31,392
+Hans nederlag vid Helms klyfta
+visade fienden en sak.
+
+341
+00:33:31,564 --> 00:33:33,889
+Elendils arvinge har trätt fram.
+
+342
+00:33:34,066 --> 00:33:36,189
+Människorna är inte så 
+svaga som han trodde.
+
+343
+00:33:36,360 --> 00:33:40,144
+Det finns mod och kanske 
+styrka att utmana honom.
+
+344
+00:33:40,364 --> 00:33:42,238
+Sauron fruktar det.
+
+345
+00:33:42,408 --> 00:33:46,737
+Han tänker inte riskera att folken
+i Midgård enas under en fana.
+
+346
+00:33:47,913 --> 00:33:50,321
+Han jämnar Minas Tirith med marken...
+
+347
+00:33:50,499 --> 00:33:53,998
+för att inte få se en kung på tronen.
+
+348
+00:33:54,169 --> 00:33:58,084
+Om Gondors vårdkasar tänds
+måste Rohan vara berett för krig.
+
+349
+00:33:59,008 --> 00:34:01,214
+Säg mig...
+
+350
+00:34:01,385 --> 00:34:05,169
+varför ska vi rida till deras hjälp? 
+De kom inte till vår.
+
+351
+00:34:09,059 --> 00:34:10,886
+Vad är vi skyldiga Gondor?
+
+352
+00:34:12,021 --> 00:34:14,060
+- Jag ger mig av.
+- Nej!
+
+353
+00:34:14,231 --> 00:34:17,398
+- De måste varnas.
+- Det ska de bli.
+
+354
+00:34:20,821 --> 00:34:23,359
+Du ska ta en annan väg till
+Minas Tirith.
+
+355
+00:34:23,907 --> 00:34:28,368
+Följ floden,
+ta dig an de svarta skeppen.
+
+356
+00:34:29,330 --> 00:34:35,122
+Vet att nu är saker i görningen
+som inte kan göras ogjorda.
+
+358
+00:34:36,629 --> 00:34:38,705
+Jag rider mot Minas Tirith...
+
+359
+00:34:40,966 --> 00:34:43,635
+och jag rider inte ensam.
+
+360
+00:34:45,387 --> 00:34:49,052
+Av alla nyfikna hober är du,
+Peregrin Took, den värste.
+
+361
+00:34:50,059 --> 00:34:51,719
+Skynda på! Skynda!
+
+362
+00:34:53,228 --> 00:34:54,639
+Vart ska vi?
+
+363
+00:34:54,813 --> 00:34:56,058
+Varför tittade du?
+
+364
+00:34:56,231 --> 00:34:58,983
+Varför måste du alltid titta?
+
+365
+00:34:59,151 --> 00:35:02,235
+- Jag vet inte. Jag kan bara inte låta bli.
+- Det kan du aldrig.
+
+366
+00:35:02,696 --> 00:35:04,107
+Förlåt, då.
+
+367
+00:35:06,200 --> 00:35:09,117
+- Jag ska inte göra om det.
+- Förstår du inte?
+
+368
+00:35:09,870 --> 00:35:11,827
+Fienden tror att du har Ringen.
+
+369
+00:35:11,997 --> 00:35:15,746
+Han söker dig, Pip. 
+De måste ta dig härifrån.
+
+370
+00:35:17,169 --> 00:35:19,838
+Och du? Du följer med mig?
+
+371
+00:35:22,049 --> 00:35:23,460
+Merry?
+
+372
+00:35:23,634 --> 00:35:24,914
+Skynda på.
+
+373
+00:35:30,432 --> 00:35:31,808
+Hur långt är det till Minas Tirith?
+
+374
+00:35:31,975 --> 00:35:34,597
+Tre dagars ritt, i nazgûl-fart.
+
+375
+00:35:34,770 --> 00:35:38,269
+Och du må hoppas att vi inte
+har en av dem efter oss.
+
+376
+00:35:38,982 --> 00:35:40,477
+Här.
+
+377
+00:35:40,651 --> 00:35:42,442
+Något till färden.
+
+378
+00:35:43,320 --> 00:35:45,277
+Sista gnuttan Långbottenblad.
+
+379
+00:35:45,447 --> 00:35:49,445
+Jag vet att du har slut.
+Du röker för mycket, Pip.
+
+380
+00:35:49,618 --> 00:35:52,109
+Men... Men vi ses snart igen.
+
+381
+00:35:55,457 --> 00:35:57,948
+- Det gör vi väl?
+- Jag vet inte.
+
+382
+00:35:59,962 --> 00:36:02,001
+Jag vet inte vad som ska hända.
+
+383
+00:36:02,172 --> 00:36:03,880
+- Merry.
+- Spring, Skuggfaxe.
+
+384
+00:36:04,049 --> 00:36:05,508
+Visa vad brådska betyder.
+
+385
+00:36:05,676 --> 00:36:07,585
+Merry!
+
+386
+00:36:18,063 --> 00:36:19,178
+Merry!
+
+387
+00:36:29,658 --> 00:36:31,152
+Han har alltid följt mig...
+
+388
+00:36:31,827 --> 00:36:33,866
+vart än jag gick...
+
+389
+00:36:34,204 --> 00:36:35,996
+redan innan vi var tjugingar.
+
+390
+00:36:37,165 --> 00:36:41,080
+Jag drog in honom
+i de värsta bekymmer...
+
+391
+00:36:41,253 --> 00:36:43,329
+men jag fanns alltid där
+för att dra ut honom igen.
+
+392
+00:36:45,799 --> 00:36:47,673
+Nu är han borta.
+
+393
+00:36:49,344 --> 00:36:52,262
+Precis som Frodo och Sam.
+
+394
+00:36:52,889 --> 00:36:57,469
+En sak har jag lärt mig:
+hober är en dristig sort.
+
+396
+00:36:58,020 --> 00:37:01,720
+Dumdristig, kanske.
+Han är ju en Took.
+
+397
+00:37:16,204 --> 00:37:18,493
+För henne den säkraste vägen.
+
+398
+00:37:18,665 --> 00:37:21,156
+Ett skepp ligger i Grå hamnarna.
+
+399
+00:37:21,335 --> 00:37:25,202
+Det väntar på
+att bära henne över havet.
+
+400
+00:37:25,380 --> 00:37:28,749
+Arwen Undómiels sista resa.
+
+401
+00:38:34,366 --> 00:38:37,450
+Det finns inget för dig här...
+
+402
+00:38:37,953 --> 00:38:40,159
+bara död.
+
+403
+00:38:47,462 --> 00:38:48,743
+Lady Arwen...
+
+404
+00:38:49,673 --> 00:38:51,582
+vi kan inte dröja.
+
+405
+00:38:54,052 --> 00:38:55,297
+Min dam!
+
+406
+00:39:14,698 --> 00:39:17,319
+- Berätta vad du har sett.
+- Arwen.
+
+407
+00:39:17,492 --> 00:39:19,449
+Du har gåvan att se in i framtiden.
+
+408
+00:39:19,619 --> 00:39:21,411
+Vad såg du?
+
+409
+00:39:22,038 --> 00:39:25,372
+Jag såg in i din framtid 
+och såg död.
+
+410
+00:39:25,917 --> 00:39:28,040
+Men det finns också liv.
+
+411
+00:39:29,963 --> 00:39:34,008
+Du såg att det fanns ett barn.
+Du såg min son.
+
+412
+00:39:34,634 --> 00:39:37,172
+Den framtiden är nästan borta.
+
+413
+00:39:37,345 --> 00:39:39,338
+Men inte förlorad.
+
+414
+00:39:41,933 --> 00:39:44,140
+Ingenting är säkert.
+
+415
+00:39:45,854 --> 00:39:48,559
+Vissa saker är säkra.
+
+416
+00:39:52,360 --> 00:39:55,195
+Om jag lämnar honom nu...
+
+417
+00:39:55,363 --> 00:39:57,985
+kommer jag att ångra det för alltid.
+
+418
+00:39:59,075 --> 00:40:01,401
+Tiden är inne.
+
+419
+00:40:06,666 --> 00:40:10,450
+<i>Ur askan ska lågor bli väckta</i>
+
+420
+00:40:10,628 --> 00:40:14,044
+<i>ur skuggor ett ljus ska ses grytt</i>
+
+421
+00:40:14,215 --> 00:40:17,501
+<i>och omsmidd bli klingan, den bräckta</i>
+
+422
+00:40:24,893 --> 00:40:28,096
+<i>en kronlös bli konung på nytt</i>
+
+423
+00:40:31,858 --> 00:40:33,898
+Smid om svärdet.
+
+423,5
+00:40:35,800 --> 00:40:37,150
+<font color=#008000>Ada.</font>
+<font color=#FFFF00>(Pappa.)</font>
+
+424
+00:41:08,770 --> 00:41:11,475
+Dina händer är kalla.
+
+425
+00:41:14,859 --> 00:41:17,979
+Eldars liv lämnar dig.
+
+426
+00:41:21,407 --> 00:41:23,317
+Detta var mitt val.
+
+426,5
+00:41:24,300 --> 00:41:25,000
+<font color=#008000>Ada...</font>
+<font color=#FFFF00>(Pappa...)</font>
+
+427
+00:41:25,161 --> 00:41:27,450
+med eller mot din vilja...
+
+428
+00:41:28,790 --> 00:41:33,084
+finns det nu inget skepp
+som kan bära mig hädan.
+
+429
+00:42:20,300 --> 00:42:23,135
+Nu kom vi in i Gondors rike.
+
+430
+00:42:34,772 --> 00:42:37,014
+Minas Tirith.
+
+431
+00:42:37,608 --> 00:42:39,934
+Kungarnas stad.
+
+432
+00:43:11,309 --> 00:43:13,100
+Giv rum!
+
+433
+00:43:42,298 --> 00:43:44,125
+Där är trädet.
+
+434
+00:43:44,300 --> 00:43:45,960
+Gandalf. Gandalf.
+
+435
+00:43:46,135 --> 00:43:48,377
+Ja, Gondors vita träd.
+
+436
+00:43:48,554 --> 00:43:50,381
+Konungens träd.
+
+437
+00:43:50,556 --> 00:43:53,226
+Men herr Denethor är inte kung.
+
+438
+00:43:53,392 --> 00:43:56,062
+Han är enbart rikshovmästare
+som har tronen i sin vård.
+
+439
+00:43:56,813 --> 00:44:00,347
+Hör noga på.
+Herr Denethor är Boromirs far.
+
+440
+00:44:00,900 --> 00:44:04,684
+Att berätta om hans älskade sons död
+skulle vara oklokt.
+
+441
+00:44:05,154 --> 00:44:08,606
+Och nämn inte Frodo eller Ringen.
+
+442
+00:44:09,492 --> 00:44:12,244
+Säg inget om Aragorn heller.
+
+443
+00:44:14,080 --> 00:44:17,947
+Det är nog säkrast att du inte
+säger något alls, Peregrin Took.
+
+444
+00:44:48,114 --> 00:44:54,615
+Hell dig, Denethor, son av Ecthelion,
+Gondors herre och rikshovmästare.
+
+445
+00:45:00,126 --> 00:45:04,835
+Jag kommer med tidender
+i denna mörka stund, och med råd.
+
+446
+00:45:05,798 --> 00:45:09,167
+Du kanske kommer
+för att förklara det här.
+
+447
+00:45:14,807 --> 00:45:19,350
+Du kanske kommer för
+att berätta varför min son är död.
+
+448
+00:45:33,826 --> 00:45:36,827
+Boromir dog för att rädda oss...
+
+449
+00:45:36,996 --> 00:45:38,656
+min frände och mig.
+
+450
+00:45:38,831 --> 00:45:42,330
+- Han föll när han skyddade oss.
+- Pippin.
+
+451
+00:45:47,840 --> 00:45:51,291
+Jag erbjuder min tjänst, sådan den nu är...
+
+452
+00:45:51,844 --> 00:45:53,837
+för att gälda denna skuld.
+
+453
+00:45:56,015 --> 00:45:59,348
+Detta är det första jag säger åt dig:
+
+454
+00:46:00,061 --> 00:46:03,512
+Hur kunde du komma undan,
+men inte min son?
+
+455
+00:46:03,856 --> 00:46:06,181
+En så stark man?
+
+456
+00:46:06,859 --> 00:46:10,193
+Den starkaste kan dödas av en pil...
+
+457
+00:46:10,446 --> 00:46:12,355
+Boromir träffades av många.
+
+458
+00:46:16,494 --> 00:46:18,202
+Upp med dig.
+
+459
+00:46:18,370 --> 00:46:22,997
+Min herre, det blir tid 
+att sörja Boromir...
+
+460
+00:46:23,459 --> 00:46:25,202
+men den är inte nu.
+
+461
+00:46:25,920 --> 00:46:28,126
+Kriget är på väg.
+
+462
+00:46:28,464 --> 00:46:32,877
+Fienden står vid din dörr.
+Som rikhovmästare är du ansvarig...
+
+463
+00:46:33,052 --> 00:46:37,215
+för stadens försvar.
+Var är Gondors arméer?
+
+464
+00:46:37,389 --> 00:46:42,265
+Du har alltjämt vänner.
+Du står inte ensam i striden.
+
+465
+00:46:42,436 --> 00:46:46,932
+Skicka bud efter Théoden av Rohan.
+Tänd vårdkasarna.
+
+466
+00:46:48,526 --> 00:46:52,060
+Du tror att du är vis, Mithrandir.
+
+467
+00:46:52,238 --> 00:46:55,274
+Men trots allt ditt skarpsinne
+äger du ingen visdom.
+
+468
+00:46:57,409 --> 00:47:01,573
+Tror du att Vita tornets 
+ögon är blinda?
+
+469
+00:47:01,747 --> 00:47:04,831
+Jag har sett mer än du vet.
+
+470
+00:47:05,000 --> 00:47:08,204
+Din vänstra hand skulle använda mig
+som en sköld mot Mordor.
+
+471
+00:47:08,379 --> 00:47:11,249
+Din högra skulle
+försöka byta ut mig.
+
+472
+00:47:11,423 --> 00:47:15,124
+Jag vet vem som rider med
+Théoden av Rohan.
+
+473
+00:47:15,302 --> 00:47:21,257
+Ja, ord har nått mina öron om
+denne Aragorn, son av Arathorn.
+
+474
+00:47:21,433 --> 00:47:26,261
+Och jag tänker inte böja mig för
+denne Utbygdsjägare från norr.
+
+475
+00:47:26,438 --> 00:47:30,935
+Den siste av ett luggslitet hus
+sedan länge berövat herradömet.
+
+476
+00:47:31,110 --> 00:47:36,946
+Du är inte behörig att avvisa
+konungens återkomst, rikshovmästare.
+
+477
+00:47:37,116 --> 00:47:41,528
+Styret över Gondor är mitt
+och ingen annans!
+
+478
+00:47:46,709 --> 00:47:48,500
+Kom.
+
+479
+00:47:56,427 --> 00:47:59,000
+Allt har vänts i fåfäng ärelystnad.
+
+480
+00:47:59,179 --> 00:48:02,631
+Han skulle till och med använda
+sin sorg som en mantel.
+
+481
+00:48:05,519 --> 00:48:08,306
+I tusen år har staden stått.
+
+482
+00:48:09,398 --> 00:48:11,806
+Och nu, på en galnings nyck,
+faller den.
+
+483
+00:48:13,027 --> 00:48:15,233
+Och Det vita trädet,
+konungens träd...
+
+484
+00:48:15,404 --> 00:48:16,946
+ska aldrig blomma mer.
+
+485
+00:48:17,114 --> 00:48:20,483
+- Varför vaktar de det fortfarande, då?
+- För att de än har hopp.
+
+486
+00:48:20,659 --> 00:48:23,826
+Ett svagt och tynande hopp 
+att det en dag ska blomma.
+
+487
+00:48:23,996 --> 00:48:28,741
+Att en kung ska komma och staden
+bli det den en gång var...
+
+488
+00:48:28,917 --> 00:48:31,835
+innan den förföll.
+
+489
+00:48:32,004 --> 00:48:35,254
+Den visdom som förts hit 
+från västern övergavs.
+
+490
+00:48:35,424 --> 00:48:39,718
+Kungarna byggde gravar
+ståtligare än husen för de levande...
+
+491
+00:48:39,928 --> 00:48:41,838
+och höll sina anfäders namn...
+
+492
+00:48:42,014 --> 00:48:44,801
+kärare än sina söners.
+
+493
+00:48:44,975 --> 00:48:50,017
+Barnlösa herrar satt i åldrande salar
+och grunnade över släktvapen...
+
+494
+00:48:50,189 --> 00:48:55,527
+eller i höga, kalla torn
+och ställde frågor till stjärnorna.
+
+495
+00:48:55,694 --> 00:48:59,478
+Gondors folk förföll.
+
+496
+00:49:00,449 --> 00:49:02,774
+Konungarnas ättelinje bröts.
+
+497
+00:49:03,494 --> 00:49:05,866
+Det vita trädet vissnade.
+
+498
+00:49:06,580 --> 00:49:10,744
+Gondors styre gavs åt ringare män.
+
+499
+00:49:21,470 --> 00:49:22,715
+Mordor.
+
+500
+00:49:23,222 --> 00:49:26,887
+Ja, där ligger det.
+
+501
+00:49:27,726 --> 00:49:31,060
+Den här staden har alltid
+legat i dess skugga.
+
+502
+00:49:33,065 --> 00:49:34,725
+En storm är på väg.
+
+503
+00:49:35,400 --> 00:49:38,318
+Det är inte denna världens väder.
+
+504
+00:49:38,487 --> 00:49:40,693
+Det är Saurons verk.
+
+505
+00:49:40,864 --> 00:49:44,613
+Ett rökmoln han sänder 
+framför sin här.
+
+506
+00:49:45,202 --> 00:49:47,657
+Mordors orcher trivs 
+illa i dagsljus...
+
+507
+00:49:47,829 --> 00:49:49,656
+så han döljer solens anlete...
+
+508
+00:49:49,831 --> 00:49:53,580
+för att de lättare 
+ska dra ut i krig.
+
+509
+00:49:53,752 --> 00:49:57,038
+När Mordors skugga når staden...
+
+510
+00:49:57,756 --> 00:49:59,464
+börjar det.
+
+511
+00:50:01,134 --> 00:50:02,712
+Jaha...
+
+512
+00:50:03,095 --> 00:50:04,423
+Minas Tirith...
+
+513
+00:50:06,348 --> 00:50:07,759
+Mycket imponerande.
+
+514
+00:50:07,933 --> 00:50:10,554
+- Så vart ska vi nu?
+- Åh, det är för sent för det, Peregrin.
+
+515
+00:50:10,727 --> 00:50:12,934
+Vi kan inte lämna staden.
+
+516
+00:50:15,274 --> 00:50:18,477
+Hjälpen måste komma till oss.
+
+517
+00:50:19,987 --> 00:50:22,656
+Det börjar närma sig tedags.
+
+518
+00:50:22,823 --> 00:50:26,523
+Åtminstone på anständiga platser.
+
+519
+00:50:26,702 --> 00:50:30,284
+Vi är inte på anständiga platser.
+
+520
+00:50:35,836 --> 00:50:37,081
+Herr Frodo?
+
+521
+00:50:40,132 --> 00:50:41,330
+Vad är det?
+
+522
+00:50:43,802 --> 00:50:46,174
+Det är bara en känsla.
+
+523
+00:50:48,598 --> 00:50:50,757
+Jag tror inte
+att jag kommer tillbaka.
+
+524
+00:50:55,272 --> 00:50:57,810
+Jo, det gör ni. 
+Det är klart att ni gör.
+
+525
+00:50:58,442 --> 00:51:00,315
+Det där är bara mjältsjuka.
+
+526
+00:51:00,777 --> 00:51:03,233
+Vi ska dit och tillbaks igen...
+
+527
+00:51:03,405 --> 00:51:05,694
+precis som herr Bilbo.
+
+528
+00:51:06,658 --> 00:51:08,781
+Du ska få se.
+
+529
+00:51:16,960 --> 00:51:20,578
+Jag tror att den här trakten en gång
+var en del av kungariket Gondor.
+
+530
+00:51:24,968 --> 00:51:29,013
+För länge sen, när det fanns en kung.
+
+531
+00:51:49,659 --> 00:51:52,495
+Herr Frodo, titta.
+
+532
+00:51:54,122 --> 00:51:56,874
+Kungen har fått en krona igen.
+
+533
+00:52:08,011 --> 00:52:12,258
+Kom nu, hober! Nu får vi inte
+stanna. Den här vägen.
+
+534
+00:52:29,115 --> 00:52:33,160
+Jag antar att det här bara är
+en ceremoniell befattning.
+
+535
+00:52:33,328 --> 00:52:37,575
+De väntar sig väl inte 
+att jag ska slåss?
+
+536
+00:52:38,416 --> 00:52:41,666
+- Eller gör de?
+- Du står i rikshovmästarens tjänst nu.
+
+537
+00:52:41,836 --> 00:52:45,205
+Du måste göra som du blir tillsagd,
+Peregrin Took.
+
+538
+00:52:49,261 --> 00:52:51,752
+Löjeväckande hob.
+
+539
+00:52:52,931 --> 00:52:55,137
+Citadellvakt.
+
+540
+00:53:04,651 --> 00:53:06,478
+Tack.
+
+541
+00:53:15,870 --> 00:53:18,112
+Man ser inga stjärnor längre.
+
+542
+00:53:18,623 --> 00:53:19,821
+Är det dags?
+
+543
+00:53:21,001 --> 00:53:22,744
+Ja.
+
+544
+00:53:25,380 --> 00:53:27,040
+Det är så tyst.
+
+545
+00:53:28,049 --> 00:53:32,296
+Det är det djupa andetaget
+innan dykningen.
+
+546
+00:53:33,471 --> 00:53:36,342
+Jag vill inte vara med om strid...
+
+547
+00:53:37,183 --> 00:53:42,141
+men att vänta utan annan utväg
+är än värre.
+
+548
+00:53:45,692 --> 00:53:49,310
+Finns det något hopp, Gandalf,
+för Frodo och Sam?
+
+549
+00:53:50,655 --> 00:53:53,775
+Det har aldrig funnits mycket hopp.
+
+550
+00:53:55,744 --> 00:53:57,487
+Bara en dåres hopp.
+
+551
+00:54:03,376 --> 00:54:06,163
+Fienden är redo.
+
+552
+00:54:06,337 --> 00:54:09,007
+Hans fulla styrka är samlad.
+
+553
+00:54:09,174 --> 00:54:12,673
+Inte bara orcher, utan också människor.
+
+554
+00:54:12,844 --> 00:54:15,880
+<i>Haradrims legioner från söder...</i>
+
+555
+00:54:16,055 --> 00:54:18,760
+<i>lejda krigare från kusten.</i>
+
+556
+00:54:18,933 --> 00:54:21,507
+<i>Alla hörsammar Mordors kallelse.</i>
+
+557
+00:54:21,686 --> 00:54:23,228
+Kom igen.
+
+558
+00:54:24,355 --> 00:54:27,689
+Det här blir slutet för Gondor
+som vi känner det.
+
+559
+00:54:27,859 --> 00:54:31,228
+Här kommer hammarslaget
+att falla hårdast.
+
+560
+00:54:32,197 --> 00:54:36,526
+Om de tar floden,
+om garnisonen i Osgiliath faller...
+
+561
+00:54:36,701 --> 00:54:40,366
+kommer stadens sista värn
+att vara borta.
+
+562
+00:54:40,538 --> 00:54:44,583
+Vi har Den vite trollkarlen,
+det måste ju räknas som någonting.
+
+563
+00:54:50,465 --> 00:54:52,042
+Gandalf?
+
+564
+00:54:55,762 --> 00:54:59,427
+<i>Sauron har ännu inte visat upp
+sin dödligaste tjänare...</i>
+
+565
+00:54:59,891 --> 00:55:03,723
+<i>den som ska leda
+Mordors arméer i krig.</i>
+
+566
+00:55:03,895 --> 00:55:09,055
+<i>Den de säger
+att ingen levande man kan döda.</i>
+
+567
+00:55:10,068 --> 00:55:12,226
+Häxmästaren av Angmar.
+
+568
+00:55:13,321 --> 00:55:15,693
+Du har träffat honom förut.
+
+569
+00:55:16,366 --> 00:55:18,939
+Han knivhögg Frodo på Väderklint.
+
+570
+00:55:25,500 --> 00:55:28,205
+Han är nazgûlernas herre.
+
+571
+00:55:28,670 --> 00:55:31,125
+<i>Den störste av de nio.</i>
+
+572
+00:55:31,297 --> 00:55:34,915
+<i>Minas Morgul är hans näste.</i>
+
+573
+00:55:38,388 --> 00:55:41,922
+Den döda staden.
+
+574
+00:55:42,100 --> 00:55:47,307
+Mycket otäck plats. Full av fiender.
+
+575
+00:55:54,529 --> 00:55:56,687
+Fort. Fort.
+
+576
+00:55:56,864 --> 00:56:00,862
+De kommer att se. De kommer att se.
+
+577
+00:56:10,128 --> 00:56:15,418
+Bort därifrån. Bort därifrån.
+Titta. Vi har hittat den.
+
+578
+00:56:15,591 --> 00:56:19,459
+Vägen in till Mordor.
+
+579
+00:56:19,637 --> 00:56:23,966
+Den hemliga trappan.
+
+580
+00:56:24,392 --> 00:56:26,764
+Klättra.
+
+581
+00:56:47,039 --> 00:56:49,791
+- Nej, herr Frodo!
+- Inte den vägen!
+
+582
+00:56:54,630 --> 00:56:57,501
+- Vad gör den?
+- Nej.
+
+583
+00:56:57,675 --> 00:57:00,759
+- De kallar på mig.
+- Nej.
+
+584
+00:57:30,416 --> 00:57:33,370
+Göm er! Göm er!
+
+585
+00:58:16,921 --> 00:58:19,756
+Jag kan känna hans klinga.
+
+586
+00:58:31,435 --> 00:58:33,558
+Vi är framme vid det till sist.
+
+587
+00:58:35,398 --> 00:58:38,268
+Vår tids stora slag.
+
+588
+00:59:17,440 --> 00:59:20,690
+Kom då, hober. Vi måste klättra.
+
+589
+00:59:30,578 --> 00:59:33,579
+Brädet är uppställt.
+
+590
+00:59:33,748 --> 00:59:36,285
+Pjäserna rör sig.
+
+591
+00:59:38,836 --> 00:59:41,505
+Upp, upp, uppför trappan går vi.
+
+592
+00:59:41,672 --> 00:59:44,341
+Och sen in i tunneln.
+
+593
+00:59:44,508 --> 00:59:47,711
+Vad finns det i tunneln?
+
+594
+00:59:48,262 --> 00:59:51,014
+Nu ska du lyssna noga.
+
+595
+00:59:51,182 --> 00:59:54,099
+Om något händer honom,
+svarar du inför mig.
+
+596
+00:59:54,268 --> 00:59:59,186
+Minsta nys om att något inte 
+står rätt till, så är det slut med dig.
+
+598
+00:59:59,398 --> 01:00:02,067
+Ingen mer slinkare, ingen mer stinkare.
+
+599
+01:00:02,401 --> 01:00:05,022
+Du är borta. Förstått?
+
+600
+01:00:05,905 --> 01:00:07,897
+Jag bevakar dig.
+
+601
+01:00:13,245 --> 01:00:15,238
+Vad handlade det där om?
+
+602
+01:00:15,414 --> 01:00:17,822
+Inget. Jag klargjorde bara en sak.
+
+603
+01:00:24,465 --> 01:00:27,335
+Peregrin Took,
+det finns ett uppdrag att utföra.
+
+604
+01:00:27,509 --> 01:00:32,088
+Ännu en möjlighet för en Fylke-bo
+att visa sitt folks stora värde.
+
+605
+01:00:36,936 --> 01:00:38,513
+Du får inte svika mig.
+
+606
+01:01:12,763 --> 01:01:15,847
+Det har varit tyst på andra sidan floden.
+
+607
+01:01:16,016 --> 01:01:18,341
+Orcherna ligger lågt.
+
+608
+01:01:18,519 --> 01:01:20,511
+Garnisonen kan ha dragit bort.
+
+609
+01:01:21,647 --> 01:01:24,352
+Vi har skickat spanare till Cair Andros.
+
+610
+01:01:24,525 --> 01:01:27,810
+Om orcherna anfaller från norr
+blir vi förvarnade.
+
+611
+01:01:53,137 --> 01:01:54,335
+Tysta.
+
+612
+01:01:58,434 --> 01:02:00,391
+Vi behöver 10 till.
+
+613
+01:02:21,707 --> 01:02:23,249
+Döda honom!
+
+614
+01:02:40,559 --> 01:02:42,967
+De kommer inte från norr.
+
+615
+01:02:44,396 --> 01:02:48,725
+Till floden, fort! Kvicka på.
+
+616
+01:02:52,196 --> 01:02:53,773
+Fortare.
+
+617
+01:03:06,919 --> 01:03:09,291
+Dra era svärd.
+
+618
+01:04:03,850 --> 01:04:06,424
+Stoppa! Stoppa dem!
+
+619
+01:05:26,725 --> 01:05:28,599
+Vad?
+
+620
+01:05:41,156 --> 01:05:42,567
+Amon Dîn.
+
+621
+01:05:48,371 --> 01:05:51,408
+Vårdkasen.
+Vårdkasen på Amon Dîn brinner.
+
+622
+01:05:54,669 --> 01:05:58,881
+Hoppet har tänts.
+
+623
+01:07:31,266 --> 01:07:35,643
+Minas Tiriths vårdkasar!
+Vårdkasarna är tända!
+
+624
+01:07:36,855 --> 01:07:38,479
+Gondor kallar på hjälp.
+
+625
+01:07:48,992 --> 01:07:51,909
+Och Rohan skall svara.
+
+626
+01:07:52,328 --> 01:07:55,116
+Uppbåda Rohirrim.
+
+627
+01:08:10,221 --> 01:08:12,178
+Samla hären vid Duneharv.
+
+628
+01:08:12,348 --> 01:08:16,726
+Så många som går att uppbringa.
+Ni har två dagar på er.
+
+629
+01:08:16,895 --> 01:08:22,185
+Den tredje dagen rider 
+vi till Gondor och krig.
+
+630
+01:08:23,151 --> 01:08:24,479
+- Framåt.
+- Väldigt bra, herre.
+
+631
+01:08:24,652 --> 01:08:25,981
+- Gamling.
+- Min herre.
+
+632
+01:08:26,154 --> 01:08:27,731
+Rid snabbt genom Riddermark.
+
+633
+01:08:27,906 --> 01:08:30,029
+Kalla varje duglig man till Duneharv.
+
+634
+01:08:30,200 --> 01:08:31,777
+Ska bli.
+
+635
+01:08:35,872 --> 01:08:39,039
+- Rider ni med oss?
+- Bara till lägret.
+
+636
+01:08:39,209 --> 01:08:43,123
+Det är hävd att hovets damer
+bjuder männen farväl.
+
+637
+01:08:49,677 --> 01:08:51,586
+Männen har funnit sin anförare.
+
+638
+01:08:51,763 --> 01:08:55,096
+De följer er i strid, också in i döden.
+
+639
+01:08:55,266 --> 01:08:56,844
+Ni har givit oss hopp.
+
+640
+01:09:00,063 --> 01:09:02,020
+Ursäkta mig.
+
+641
+01:09:03,358 --> 01:09:04,852
+Jag har ett svärd.
+
+642
+01:09:05,151 --> 01:09:06,526
+Var snäll och tag emot det.
+
+643
+01:09:07,654 --> 01:09:12,150
+Jag erbjuder er min tjänst, kung Théoden.
+
+644
+01:09:15,578 --> 01:09:17,654
+Jag antar den gärna.
+
+645
+01:09:18,748 --> 01:09:22,828
+Du skall vara Meriadoc,
+väpnare av Rohan.
+
+646
+01:09:27,715 --> 01:09:28,913
+Ryttare.
+
+647
+01:09:29,592 --> 01:09:35,215
+Jag önskar att jag kunde uppbåda en legion 
+dvärgar, fullt utrustade och oborstade.
+
+648
+01:09:35,598 --> 01:09:38,552
+Ditt folk behöver kanske inte
+rida ut i krig.
+
+649
+01:09:38,726 --> 01:09:42,142
+Jag är rädd att kriget redan
+är på marsch mot deras länder.
+
+650
+01:10:00,623 --> 01:10:04,074
+Så det är vid Minas Tiriths murar...
+
+651
+01:10:04,252 --> 01:10:08,119
+som vår tids öde skall avgöras.
+
+652
+01:10:10,716 --> 01:10:16,256
+Stunden är kommen.
+Rohans ryttare, ni svurit era eder.
+
+653
+01:10:16,431 --> 01:10:19,965
+Fullgör nu dem alla.
+För herre och land!
+
+654
+01:11:03,060 --> 01:11:05,018
+Faramir!
+
+655
+01:11:11,319 --> 01:11:15,019
+Vi kan inte hålla dem tillbaka.
+Staden är förlorad.
+
+656
+01:11:15,615 --> 01:11:18,699
+Säg till männen att lämna ställningarna.
+Vi rider mot Minas Tirith.
+
+657
+01:11:27,460 --> 01:11:29,702
+Nazgûl.
+
+658
+01:11:32,089 --> 01:11:34,545
+Ta skydd!
+
+659
+01:11:34,717 --> 01:11:37,255
+Nazgûl!
+
+660
+01:11:37,428 --> 01:11:41,093
+Lämna ställningarna!
+Ryck tillbaka till Minas Tirith!
+
+661
+01:11:47,688 --> 01:11:49,562
+Tillbaka!
+
+662
+01:11:56,614 --> 01:12:01,192
+- Reträtt! Reträtt!
+- Run for your lives!
+
+663
+01:12:25,434 --> 01:12:29,764
+Människornas tidsålder är slut.
+
+664
+01:12:29,939 --> 01:12:35,562
+Orchernas tid har kommit.
+
+665
+01:12:37,947 --> 01:12:40,272
+- Fortsätt.
+- Det är en Nazgûl.
+
+666
+01:12:41,909 --> 01:12:44,281
+Ta skydd, min herre!
+
+667
+01:12:44,578 --> 01:12:45,907
+Den kommer!
+
+668
+01:12:51,460 --> 01:12:54,829
+- Det är Mithrandir.
+- Den vite ryttaren!
+
+669
+01:13:34,795 --> 01:13:36,170
+Dra!
+
+670
+01:13:53,898 --> 01:13:56,305
+Mithrandir.
+
+671
+01:13:56,483 --> 01:13:58,227
+De bröt igenom våra försvar.
+
+672
+01:13:58,402 --> 01:14:00,608
+De intog bron och västra stranden.
+
+673
+01:14:01,697 --> 01:14:05,861
+- Orchbataljoner går över floden.
+- Detta öde har herr Denethor förutsett.
+
+674
+01:14:06,035 --> 01:14:10,578
+- Länge har han förutsett detta.
+- Förutsett utan att göra något.
+
+675
+01:14:13,959 --> 01:14:16,367
+Faramir?
+
+676
+01:14:18,297 --> 01:14:22,129
+Han är inte den första halvling
+som har korsat din väg.
+
+677
+01:14:22,301 --> 01:14:24,507
+Nej.
+
+678
+01:14:25,846 --> 01:14:27,388
+Har du sett Frodo och Sam?
+
+679
+01:14:28,265 --> 01:14:31,681
+- Var? När?
+- I Ithilien.
+
+680
+01:14:31,852 --> 01:14:33,928
+För knappt två dagar sen.
+
+681
+01:14:34,396 --> 01:14:38,857
+Gandalf, de tar vägen till Morguls dal.
+
+682
+01:14:39,568 --> 01:14:42,189
+Och sedan passet Cirith Ungol.
+
+683
+01:14:44,406 --> 01:14:46,778
+Vad betyder det?
+
+684
+01:14:46,950 --> 01:14:51,862
+- Vad är det som är fel?
+- Faramir, berätta allt.
+
+685
+01:14:52,039 --> 01:14:54,078
+Berätta allt du vet.
+
+686
+01:14:55,250 --> 01:14:58,666
+Är det så här du vill tjäna din stad?
+
+687
+01:14:58,837 --> 01:15:02,123
+Du riskerar dess undergång.
+
+688
+01:15:03,175 --> 01:15:04,753
+Jag gjorde det jag bedömde
+vara det rätta.
+
+689
+01:15:05,469 --> 01:15:08,470
+Det du bedömde vara det rätta.
+
+690
+01:15:09,098 --> 01:15:14,970
+Du skickade Maktens ring till Mordor,
+i händerna på en vettlös halvling.
+
+691
+01:15:18,941 --> 01:15:23,768
+Den skulle ha förts tillbaka
+till citadellet, för säkert förvar.
+
+692
+01:15:25,406 --> 01:15:30,118
+Gömts mörkt och djupt nere i valven...
+
+694
+01:15:30,285 --> 01:15:32,444
+inte för att användas...
+
+695
+01:15:36,625 --> 01:15:41,501
+utom i nödens yttersta stund.
+
+696
+01:15:41,964 --> 01:15:44,003
+I would not use the Ring.
+
+697
+01:15:44,174 --> 01:15:47,259
+Jag skulle inte använda Ringen, ens
+om Minas Tirith annars ginge under.
+
+698
+01:15:47,594 --> 01:15:52,422
+Du har alltid önskat uppträda
+herremässigt och älskvärt...
+
+699
+01:15:52,599 --> 01:15:54,841
+som en av kungarna förr.
+
+700
+01:15:56,645 --> 01:16:00,394
+Boromir skulle ha
+kommit ihåg sin fars nöd.
+
+701
+01:16:00,816 --> 01:16:03,271
+Han skulle ha bragt mig
+en kunglig gåva.
+
+702
+01:16:03,485 --> 01:16:06,023
+Boromir skulle inte ha fört Ringen hit.
+
+703
+01:16:06,446 --> 01:16:09,566
+Han skulle ha tagit den och fallit.
+
+704
+01:16:09,741 --> 01:16:11,983
+- Det vet du inget om!
+- Han skulle ha behållit den som sin.
+
+705
+01:16:13,871 --> 01:16:16,029
+Och när han återvände...
+
+706
+01:16:17,166 --> 01:16:18,826
+skulle du inte ha känt igen din son.
+
+707
+01:16:19,001 --> 01:16:21,539
+Boromir var trofast mot mig!
+
+708
+01:16:21,712 --> 01:16:24,285
+Han var ingen trollkarls lärling!
+
+709
+01:16:32,431 --> 01:16:33,759
+Far?
+
+710
+01:16:46,445 --> 01:16:48,354
+Min son...
+
+711
+01:17:14,598 --> 01:17:15,973
+Lämna mig.
+
+712
+01:17:49,549 --> 01:17:52,087
+Försiktigt, husbond. Försiktigt.
+
+713
+01:17:52,427 --> 01:17:55,345
+Mycket långt att falla.
+
+714
+01:17:57,849 --> 01:18:01,764
+Mycket farligt på trappan.
+
+715
+01:18:04,439 --> 01:18:06,977
+Kom då, husbond.
+
+716
+01:18:12,781 --> 01:18:15,948
+Kom till Sméagol.
+
+717
+01:18:22,290 --> 01:18:23,785
+Herr Frodo.
+
+718
+01:18:24,793 --> 01:18:26,335
+Bort med dig!
+
+719
+01:18:26,503 --> 01:18:28,709
+Rör honom inte!
+
+720
+01:18:32,843 --> 01:18:35,678
+Varför hatar han stackars Sméagol?
+
+721
+01:18:35,846 --> 01:18:39,546
+Vad har Sméagol gjort honom?
+
+722
+01:18:39,724 --> 01:18:42,097
+Husbond?
+
+723
+01:18:42,894 --> 01:18:46,346
+Husbond bär en tung börda.
+
+724
+01:18:46,523 --> 01:18:51,944
+Sméagol vet.
+Tung, tung börda.
+
+725
+01:18:52,112 --> 01:18:55,362
+Den fete kan inte förstå.
+
+726
+01:18:57,409 --> 01:19:00,160
+Sméagol ser efter husbond.
+
+727
+01:19:01,371 --> 01:19:03,577
+Han vill ha den.
+
+728
+01:19:03,748 --> 01:19:08,291
+Han behöver den.
+Sméagol ser det i hans öga.
+
+729
+01:19:08,461 --> 01:19:13,918
+Mycket snart kommer han
+att be om den. Du ska få se.
+
+730
+01:19:14,092 --> 01:19:17,959
+Den fete kommer att ta den ifrån dig.
+
+731
+01:19:25,186 --> 01:19:29,516
+Skicka fram alla legioner.
+
+732
+01:19:29,691 --> 01:19:33,736
+Avsluta inte anfallet
+förrän staden är intagen.
+
+733
+01:19:34,446 --> 01:19:37,565
+Dräp dem alla.
+
+734
+01:19:39,242 --> 01:19:45,031
+- Trollkarlen, då?
+- Jag ska krossa honom.
+
+735
+01:19:48,376 --> 01:19:50,784
+Var är Théodens ryttare?
+
+736
+01:19:50,962 --> 01:19:53,536
+Kommer Rohans armé?
+
+737
+01:19:53,715 --> 01:19:55,957
+Mithrandir.
+
+738
+01:19:57,010 --> 01:20:00,877
+Mod är ert bästa försvar nu.
+
+739
+01:20:05,685 --> 01:20:08,390
+Vad tänkte du på, Peregrin Took?
+
+740
+01:20:10,482 --> 01:20:16,187
+Vad kan en hob göra för en sådan
+mäktig herre över människorna?
+
+741
+01:20:16,363 --> 01:20:17,857
+Bra gjort.
+
+742
+01:20:21,034 --> 01:20:25,079
+Storsint dåd skall inte
+tyglas med kallt råd.
+
+743
+01:20:25,830 --> 01:20:28,368
+Du ska ansluta dig till borgvakten.
+
+744
+01:20:28,917 --> 01:20:31,918
+De hittade ändå ett livré åt mig.
+
+745
+01:20:32,087 --> 01:20:34,542
+Det tillhörde en pojke i staden.
+
+746
+01:20:34,714 --> 01:20:36,256
+En dum pojke...
+
+747
+01:20:36,424 --> 01:20:40,671
+som dräpte drakar i stället 
+för att ägna sig åt studier.
+
+748
+01:20:40,845 --> 01:20:43,597
+- Var den din?
+- Ja, den var min.
+
+749
+01:20:43,765 --> 01:20:45,556
+Min far lät göra den åt mig.
+
+750
+01:20:46,601 --> 01:20:47,929
+Tja...
+
+751
+01:20:48,103 --> 01:20:50,095
+Jag är längre än du var då.
+
+752
+01:20:50,271 --> 01:20:53,605
+Men jag lär inte växa mer, 
+utom på bredden.
+
+753
+01:20:56,569 --> 01:20:58,609
+Den passade inte mig heller.
+
+754
+01:20:58,780 --> 01:21:01,615
+Det var Boromir som var soldaten.
+
+755
+01:21:04,619 --> 01:21:07,027
+De var så lika, han och far.
+
+756
+01:21:09,124 --> 01:21:10,748
+Stolta.
+
+757
+01:21:10,917 --> 01:21:12,115
+Till och med envisa.
+
+758
+01:21:13,878 --> 01:21:15,372
+Men starka.
+
+759
+01:21:16,881 --> 01:21:20,048
+Jag tror att du har styrka
+av en annan sort.
+
+760
+01:21:20,677 --> 01:21:23,132
+Och en dag kommer din far att se det.
+
+761
+01:21:27,308 --> 01:21:31,092
+Här svär jag Gondor
+trohet och tjänst.
+
+762
+01:21:31,271 --> 01:21:32,765
+I frid eller strid...
+
+763
+01:21:33,398 --> 01:21:35,853
+levande eller döende...
+
+764
+01:21:37,235 --> 01:21:38,480
+från...
+
+765
+01:21:41,155 --> 01:21:43,943
+Från denna stund och allt framgent...
+
+766
+01:21:44,117 --> 01:21:46,026
+tills min herre löser mig...
+
+767
+01:21:47,537 --> 01:21:49,743
+eller döden tar mig.
+
+768
+01:21:50,331 --> 01:21:52,822
+Och jag skall inte förgäta det...
+
+769
+01:21:53,001 --> 01:21:56,370
+eller brista i att
+vedergälla det som ges.
+
+770
+01:22:03,970 --> 01:22:06,259
+Trohet med kärlek.
+
+771
+01:22:07,348 --> 01:22:09,008
+Tapperhet med ära.
+
+772
+01:22:10,602 --> 01:22:13,935
+Svek med hämnd.
+
+773
+01:22:22,572 --> 01:22:26,652
+Vi borde inte så lättvindigt
+överge våra yttre försvar.
+
+774
+01:22:26,826 --> 01:22:29,578
+De försvar din bror så länge höll.
+
+775
+01:22:29,746 --> 01:22:32,237
+- Vad önskar ni att jag gör?
+- Jag skulle inte ge upp...
+
+776
+01:22:32,415 --> 01:22:35,202
+floden och Pelennor utan kamp.
+
+777
+01:22:35,376 --> 01:22:37,036
+Osgiliath måste återtas.
+
+778
+01:22:37,211 --> 01:22:39,251
+Min herre, Osgiliath är i fiendens hand.
+
+779
+01:22:39,922 --> 01:22:42,710
+Mycket måste riskeras i krig.
+
+780
+01:22:45,345 --> 01:22:49,294
+Finns det en anförare här, som ännu
+har mod att göra sin herres vilja?
+
+781
+01:22:55,521 --> 01:22:58,771
+Du önskar att våra 
+roller varit ombytta.
+
+782
+01:22:59,734 --> 01:23:02,569
+Att jag var död, och Boromir i livet.
+
+783
+01:23:05,990 --> 01:23:07,734
+Ja.
+
+784
+01:23:08,409 --> 01:23:10,616
+Det önskar jag.
+
+785
+01:23:19,003 --> 01:23:21,494
+Eftersom ni berövats Boromir...
+
+786
+01:23:23,341 --> 01:23:26,258
+skall jag göra vad jag kan
+i hans ställe.
+
+787
+01:23:34,435 --> 01:23:38,896
+Om jag återvänder,
+tänk då högre om mig, far.
+
+788
+01:23:40,983 --> 01:23:44,602
+Det beror på hur du återvänder.
+
+789
+01:25:07,903 --> 01:25:10,229
+Vad sysslar du med?
+
+790
+01:25:10,406 --> 01:25:11,651
+Smiter i väg?
+
+791
+01:25:12,366 --> 01:25:14,193
+Smiter?
+
+792
+01:25:15,202 --> 01:25:17,361
+Smiter?
+
+793
+01:25:18,789 --> 01:25:21,956
+Fet hob är alltid så artig.
+
+794
+01:25:22,126 --> 01:25:27,203
+Sméagol visar hemliga vägar
+som ingen annan kunnat finna...
+
+795
+01:25:27,381 --> 01:25:29,540
+och de säger “smiter.”
+
+796
+01:25:30,176 --> 01:25:32,749
+Smiter?
+
+797
+01:25:33,387 --> 01:25:36,092
+Mycket god vän. Ja, min skatt.
+
+798
+01:25:36,265 --> 01:25:38,886
+- Väldigt snällt, väldigt snällt.
+- Ja, ja!
+
+799
+01:25:40,144 --> 01:25:42,350
+Du skrämde mig, det är allt.
+
+800
+01:25:42,855 --> 01:25:44,682
+Vad gjorde du?
+
+801
+01:25:46,317 --> 01:25:48,440
+Smiter.
+
+802
+01:25:48,819 --> 01:25:51,904
+Visst, som du vill.
+
+803
+01:25:54,158 --> 01:25:56,649
+Jag är ledsen att behöva 
+väcka er, herr Frodo.
+
+804
+01:25:57,036 --> 01:25:58,993
+Vi måste vidare.
+
+805
+01:26:04,168 --> 01:26:05,746
+Det är fortfarande mörkt.
+
+806
+01:26:05,920 --> 01:26:08,126
+Det är alltid mörkt här.
+
+807
+01:26:12,384 --> 01:26:14,294
+Det är borta!
+
+808
+01:26:15,513 --> 01:26:18,383
+- Alvbrödet.
+- Vad?
+
+809
+01:26:18,557 --> 01:26:20,016
+Det är ju allt vi har.
+
+810
+01:26:24,105 --> 01:26:26,596
+Han tog det. Det måste han ha gjort!
+
+811
+01:26:27,108 --> 01:26:30,358
+Sméagol?
+Nej, nej, inte stackars Sméagol.
+
+812
+01:26:30,528 --> 01:26:33,445
+Sméagol hatar otäckt alvbröd.
+
+813
+01:26:33,614 --> 01:26:36,781
+Lögnråtta!
+Vad gjorde du med det?!
+
+814
+01:26:36,951 --> 01:26:38,493
+Han äter det inte.
+
+815
+01:26:39,495 --> 01:26:41,820
+- Han kan inte ha tagit det.
+- Titta.
+
+816
+01:26:42,873 --> 01:26:44,700
+Vad är det här?
+
+817
+01:26:47,378 --> 01:26:50,711
+Smulor på hans jacka.
+Han tog det!
+
+818
+01:26:51,423 --> 01:26:53,083
+Han tog det.
+
+819
+01:26:53,926 --> 01:26:58,137
+Jag har sett att han stoppar 
+i sig när husbond inte ser.
+
+820
+01:26:58,305 --> 01:27:00,097
+Det är en vidrig lögn!
+
+821
+01:27:00,266 --> 01:27:02,472
+Din stinkande falska smitare!
+
+822
+01:27:02,643 --> 01:27:03,888
+- Sam!
+- Kalla mig...
+
+823
+01:27:04,061 --> 01:27:05,306
+Sluta!
+
+824
+01:27:06,313 --> 01:27:07,511
+Sam!
+
+825
+01:27:08,816 --> 01:27:12,434
+- Jag ska döda honom!
+- Sam! Nej!
+
+826
+01:27:13,487 --> 01:27:19,027
+Förlåt, jag menade inte att gå
+så långt, jag blev bara så... så arg.
+
+827
+01:27:19,201 --> 01:27:21,324
+Här, bara...
+Bara vila en stund nu.
+
+828
+01:27:21,495 --> 01:27:23,571
+- Jag klarar mig.
+- Nej.
+
+829
+01:27:23,747 --> 01:27:26,832
+Nej, ni är alldeles utmattad.
+
+830
+01:27:27,001 --> 01:27:29,124
+Det är den där Gollum.
+
+831
+01:27:29,295 --> 01:27:31,003
+Det är det här stället.
+
+832
+01:27:31,171 --> 01:27:33,745
+Det är den där saken 
+du bär runt halsen.
+
+833
+01:27:37,261 --> 01:27:38,541
+Jag kunde hjälpa till.
+
+834
+01:27:38,721 --> 01:27:41,390
+Jag kunde bära den en stund.
+
+835
+01:27:41,557 --> 01:27:43,300
+Bära den en stund.
+
+836
+01:27:43,475 --> 01:27:44,720
+Jag kunde bära den... Jag kunde bära den.
+
+837
+01:27:45,352 --> 01:27:50,809
+Dela bördan... dela bördan...
+bördan... bördan.
+
+838
+01:27:50,983 --> 01:27:52,181
+Bort!
+
+839
+01:27:52,359 --> 01:27:53,937
+Jag vill inte behålla den.
+
+840
+01:27:57,531 --> 01:27:59,524
+Jag vill bara hjälpa till.
+
+841
+01:28:01,577 --> 01:28:04,198
+Ser du? Ser du?
+
+842
+01:28:04,371 --> 01:28:07,787
+Han vill ha den själv.
+
+843
+01:28:07,958 --> 01:28:09,666
+Tyst med dig!
+
+844
+01:28:10,210 --> 01:28:12,037
+Bort härifrån!
+Försvinn!
+
+845
+01:28:12,212 --> 01:28:14,039
+Nej, Sam.
+
+846
+01:28:14,214 --> 01:28:15,459
+Det gäller dig.
+
+847
+01:28:19,678 --> 01:28:21,386
+Jag är ledsen, Sam.
+
+848
+01:28:23,057 --> 01:28:24,432
+Men han ljuger.
+
+849
+01:28:24,600 --> 01:28:27,269
+Han har förgiftat ert sinne mot mig.
+
+850
+01:28:28,687 --> 01:28:30,596
+Du kan inte hjälpa mig mer.
+
+851
+01:28:32,566 --> 01:28:34,440
+Det där menar du inte.
+
+852
+01:28:36,945 --> 01:28:38,737
+Gå hem.
+
+853
+01:29:58,777 --> 01:30:00,568
+Faramir!
+
+854
+01:30:00,737 --> 01:30:02,647
+Faramir!
+
+855
+01:30:04,157 --> 01:30:06,197
+Din fars vilja
+har blivit till vansinne.
+
+856
+01:30:07,369 --> 01:30:09,409
+Kasta inte bort ditt liv.
+
+857
+01:30:10,163 --> 01:30:12,489
+Vart hör min trohet om inte hit?
+
+858
+01:30:13,125 --> 01:30:16,042
+Det här är staden
+Númenors människor grundade.
+
+859
+01:30:16,670 --> 01:30:19,457
+Jag ger gärna livet för att 
+försvara hennes skönhet...
+
+860
+01:30:19,631 --> 01:30:22,834
+minne och visdom.
+
+861
+01:30:25,220 --> 01:30:28,636
+Din far älskar dig, Faramir.
+
+862
+01:30:29,349 --> 01:30:32,350
+Han kommer att minnas det
+innan slutet är inne.
+
+863
+01:31:41,963 --> 01:31:43,506
+Kan du sjunga, Junker Hob?
+
+864
+01:31:46,384 --> 01:31:47,879
+Tja...
+
+865
+01:31:48,428 --> 01:31:50,053
+ja.
+
+866
+01:31:50,764 --> 01:31:54,512
+Åtminstone bra nog
+för mitt eget folk.
+
+867
+01:31:56,144 --> 01:31:58,552
+Men vi har inga sånger
+för stora hallar...
+
+868
+01:31:59,606 --> 01:32:00,851
+och onda tider.
+
+869
+01:32:01,691 --> 01:32:04,858
+Varför skulle dina sånger
+vara opassande i mina hallar?
+
+870
+01:32:07,656 --> 01:32:09,066
+Seså, sjung en sång för mig.
+
+871
+01:32:20,126 --> 01:32:23,460
+<i>Bakom oss hemmet</i>
+
+872
+01:32:23,630 --> 01:32:27,378
+<i>en värld framför ses</i>
+
+873
+01:32:29,803 --> 01:32:35,639
+<i>där det är många
+stigar som ges</i>
+
+874
+01:32:37,435 --> 01:32:40,970
+<i>Bland skuggorna</i>
+
+875
+01:32:41,147 --> 01:32:45,311
+<i>mot nattens rand</i>
+
+876
+01:32:46,987 --> 01:32:52,064
+<i>tills alla stjärnor
+står i brand</i>
+
+877
+01:32:55,078 --> 01:32:59,407
+<i>Dis och skugga</i>
+
+878
+01:32:59,583 --> 01:33:03,876
+<i>moln och skymning</i>
+
+879
+01:33:06,256 --> 01:33:09,589
+<i>bleknar bort</i>
+
+880
+01:33:11,970 --> 01:33:15,968
+<i>bleknar...</i>
+
+881
+01:33:21,730 --> 01:33:24,102
+<i>bort</i>
+
+882
+01:33:48,506 --> 01:33:51,958
+Marschera! Marschera!
+
+883
+01:33:52,135 --> 01:33:57,342
+Marschera! Marschera! Marschera!
+
+884
+01:34:00,810 --> 01:34:03,136
+Giv rum för kungen.
+
+885
+01:34:04,647 --> 01:34:06,640
+Giv rum.
+
+886
+01:34:09,110 --> 01:34:11,150
+Kungen är här.
+
+887
+01:34:13,114 --> 01:34:14,739
+Min herre.
+
+888
+01:34:15,992 --> 01:34:17,949
+Min herre.
+
+889
+01:34:18,411 --> 01:34:19,609
+Grimbold, hur många?
+
+890
+01:34:19,788 --> 01:34:22,243
+Femhundra man från Västfold,
+min herre.
+
+891
+01:34:23,208 --> 01:34:25,877
+Vi har trehundra till från Fenmark,
+kung Théoden.
+
+892
+01:34:27,003 --> 01:34:30,953
+- Var är ryttarna från Snöbäcken?
+- Inga har kommit, min herre.
+
+893
+01:34:48,024 --> 01:34:50,147
+Sextusen spjut.
+
+894
+01:34:51,194 --> 01:34:53,187
+Inte hälften av vad jag hoppades på.
+
+895
+01:34:53,488 --> 01:34:56,857
+Sex tusen räcker inte för att 
+bryta igenom Mordors front.
+
+896
+01:34:59,619 --> 01:35:01,362
+Det kommer fler.
+
+897
+01:35:01,746 --> 01:35:04,700
+För varje tappad timme 
+nalkas Gondors nederlag.
+
+898
+01:35:04,874 --> 01:35:07,448
+Vi måste rida i gryningen.
+
+899
+01:35:26,938 --> 01:35:29,263
+Hästarna är rastlösa...
+
+900
+01:35:29,440 --> 01:35:30,935
+och männen tysta.
+
+901
+01:35:31,401 --> 01:35:34,520
+De blir oroliga i skuggan av berget.
+
+902
+01:35:36,990 --> 01:35:38,863
+Vägen där...
+
+903
+01:35:39,784 --> 01:35:41,860
+vart leder den?
+
+904
+01:35:42,620 --> 01:35:46,452
+Det är vägen till Dimholt,
+dörren under berget.
+
+905
+01:35:47,166 --> 01:35:50,167
+Ingen som vågar sig dit återvänder.
+
+906
+01:35:51,379 --> 01:35:53,253
+Det där berget är ont.
+
+907
+01:36:16,195 --> 01:36:18,022
+Aragorn.
+
+908
+01:36:18,781 --> 01:36:20,690
+Vi letar reda på lite mat.
+
+909
+01:36:37,175 --> 01:36:38,585
+Så där.
+
+910
+01:36:39,552 --> 01:36:42,553
+En sann väpnare av Rohan.
+
+911
+01:36:46,184 --> 01:36:48,176
+Jag är redo.
+
+912
+01:36:49,771 --> 01:36:51,051
+Förlåt.
+
+913
+01:36:51,230 --> 01:36:53,472
+Den är inte alls så farlig.
+
+914
+01:36:53,983 --> 01:36:56,308
+Den är inte ens vass.
+
+915
+01:36:56,986 --> 01:37:00,402
+Det duger inte. Du kan inte döda 
+många orcher med en oslipad klinga.
+
+916
+01:37:00,573 --> 01:37:02,067
+Kom.
+
+917
+01:37:06,450 --> 01:37:08,940
+Till smedjan. Fort!
+
+918
+01:37:10,412 --> 01:37:12,951
+Du borde inte uppmuntra honom.
+
+919
+01:37:13,124 --> 01:37:15,578
+Du borde inte tvivla på honom.
+
+920
+01:37:15,750 --> 01:37:19,034
+Jag tvivlar inte på hans mod,
+bara på hans räckvidd.
+
+921
+01:37:21,755 --> 01:37:23,333
+Varför skulle Merry lämnas kvar?
+
+922
+01:37:23,506 --> 01:37:26,128
+Han har också orsak att gå i krig.
+
+923
+01:37:28,302 --> 01:37:31,470
+Varför får han inte slåss
+för dem han älskar?
+
+924
+01:37:34,725 --> 01:37:37,725
+Du vet lika lite om krig som hoben.
+
+925
+01:37:38,979 --> 01:37:41,053
+När fruktan tar honom...
+
+926
+01:37:41,230 --> 01:37:46,271
+och skriken och stridens 
+fasor tar över...
+
+927
+01:37:46,651 --> 01:37:48,811
+tror du att han då
+skulle stå kvar och slåss?
+
+928
+01:37:51,363 --> 01:37:52,989
+Han skulle fly.
+
+929
+01:37:53,158 --> 01:37:55,196
+Och det skulle han göra rätt i.
+
+930
+01:37:57,412 --> 01:38:01,360
+Krig hör männen till, Éowyn.
+
+931
+01:38:37,029 --> 01:38:40,731
+Jag väljer ett dödligt liv.
+
+932
+01:38:43,661 --> 01:38:46,530
+Jag önskar att jag fått se honom...
+
+933
+01:38:47,664 --> 01:38:50,368
+en sista gång.
+
+934
+01:39:01,551 --> 01:39:02,963
+Min herre?
+
+935
+01:39:04,804 --> 01:39:07,378
+Kung Théoden väntar på er.
+
+936
+01:39:28,157 --> 01:39:30,116
+Jag drar mig tillbaka.
+
+937
+01:39:44,757 --> 01:39:46,000
+Min herre Elrond.
+
+938
+01:39:46,590 --> 01:39:50,088
+Jag kommer å en annans vägnar,
+en jag älskar.
+
+939
+01:39:53,180 --> 01:39:55,171
+Arwen är döende.
+
+940
+01:39:59,977 --> 01:40:04,021
+Hon kommer inte länge
+att överleva ondskan från Mordor.
+
+941
+01:40:04,772 --> 01:40:08,143
+Aftonstjärnans ljus mattas.
+
+942
+01:40:08,319 --> 01:40:12,316
+Allt eftersom Saurons makt växer
+avtar hennes styrka.
+
+943
+01:40:12,489 --> 01:40:16,237
+Arwens liv är nu bundet
+till Ringens öde.
+
+944
+01:40:16,993 --> 01:40:19,565
+Skuggan är över oss, Aragorn.
+
+945
+01:40:19,953 --> 01:40:21,614
+Slutet är inne.
+
+946
+01:40:21,998 --> 01:40:24,618
+Det blir inte vårt slut, utan hans.
+
+947
+01:40:25,375 --> 01:40:28,957
+Du rider till krig,
+men inte till seger.
+
+948
+01:40:29,962 --> 01:40:33,627
+Saurons arméer marscherar
+mot Minas Tirith. Det vet du.
+
+949
+01:40:33,799 --> 01:40:38,211
+Men i hemlighet skickar han en
+styrka som ska anfalla från floden.
+
+950
+01:40:38,678 --> 01:40:42,093
+En flotta av piratskepp
+seglar från söder.
+
+951
+01:40:42,724 --> 01:40:44,800
+De är i staden om två dagar.
+
+952
+01:40:45,307 --> 01:40:48,144
+Du står mot en övermakt, Aragorn.
+
+953
+01:40:48,855 --> 01:40:50,976
+Du behöver fler män.
+
+954
+01:40:51,356 --> 01:40:53,099
+Det finns inga.
+
+955
+01:40:54,858 --> 01:40:58,774
+Det finns de som dväljs i bergen.
+
+956
+01:41:07,787 --> 01:41:09,945
+Mördare...
+
+957
+01:41:10,123 --> 01:41:11,533
+förrädare.
+
+958
+01:41:14,000 --> 01:41:16,160
+Skulle du kalla dem till strid?
+
+959
+01:41:16,337 --> 01:41:17,913
+De tror inte på något.
+
+960
+01:41:18,087 --> 01:41:20,211
+De hörsammar ingen.
+
+961
+01:41:20,381 --> 01:41:23,465
+De skulle hörsamma Gondors kung.
+
+962
+01:41:30,599 --> 01:41:35,724
+Andúril, Västerns flamma,
+smidd av bitarna av Narsil.
+
+963
+01:41:50,031 --> 01:41:54,443
+Sauron har knappast glömt
+Elendils svärd.
+
+964
+01:42:08,506 --> 01:42:13,251
+Klingan som var brutet...
+skall återvända till Minas Tirith.
+
+965
+01:42:13,427 --> 01:42:15,835
+Den som kan nyttja svärdets styrka...
+
+966
+01:42:16,014 --> 01:42:19,881
+kan tillkalla en stridshär dödligare 
+än någon som går på denna jord.
+
+967
+01:42:21,728 --> 01:42:23,885
+Lägg utbygdsjägaren åt sidan.
+
+968
+01:42:24,062 --> 01:42:27,395
+Bli den du föddes att bli.
+
+969
+01:42:27,565 --> 01:42:29,558
+Ta vägen genom Dimholt.
+
+970
+01:42:33,400 --> 01:42:36,357
+<font color=#008000>Ónen i-Estel Edain.</font>
+<font color=#FFFF00>(Jag gav hopp till människorna.)</font>
+
+971
+01:42:39,300 --> 01:42:43,746
+<font color=#008000>Ú-chebin Estel anim.</font>
+<font color=#FFFF00>(Jag behåller inget hopp själv.)</font>
+
+972
+01:42:55,590 --> 01:42:57,250
+Varför gör ni detta?
+
+973
+01:42:57,718 --> 01:43:00,920
+Kriget står i öst. Ni kan inte
+ge er av strax före striden.
+
+974
+01:43:03,348 --> 01:43:05,422
+Ni kan inte överge männen.
+
+975
+01:43:06,725 --> 01:43:08,302
+Éowyn...
+
+976
+01:43:08,476 --> 01:43:10,683
+Vi behöver dig här.
+
+977
+01:43:11,814 --> 01:43:13,685
+Varför kom du hit?
+
+978
+01:43:15,359 --> 01:43:17,316
+Vet du inte det?
+
+979
+01:43:26,616 --> 01:43:29,618
+Det är blott en skugga
+och en tanke som du älskar.
+
+980
+01:43:33,541 --> 01:43:35,946
+Jag kan inte ge dig
+det du söker efter.
+
+981
+01:43:49,472 --> 01:43:53,385
+Jag har önskat dig glädje 
+sedan första gången jag såg dig.
+
+982
+01:44:12,534 --> 01:44:14,821
+Och vart är du på väg, då?
+
+983
+01:44:14,994 --> 01:44:16,322
+Inte den här gången.
+
+984
+01:44:16,495 --> 01:44:18,701
+Den här gången måste du 
+stanna kvar, Gimli.
+
+985
+01:44:21,417 --> 01:44:24,250
+Har du inget lärt
+om dvärgars envishet?
+
+986
+01:44:24,419 --> 01:44:28,083
+Det är så gott du finner dig i det.
+Vi följer med dig, pojk.
+
+987
+01:44:50,400 --> 01:44:52,558
+- Vad händer?
+- Vart är han på väg?
+
+988
+01:44:52,902 --> 01:44:54,775
+Vart är han på väg?
+
+989
+01:44:57,365 --> 01:44:59,403
+Jag förstår inte.
+
+990
+01:45:03,827 --> 01:45:05,619
+Herr Aragorn!
+
+991
+01:45:06,039 --> 01:45:08,743
+Varför ger han sig av
+kvällen före slaget?
+
+992
+01:45:09,958 --> 01:45:12,035
+För att det inte finns något hopp.
+
+993
+01:45:12,710 --> 01:45:14,833
+Han ger sig av för att han måste.
+
+994
+01:45:15,004 --> 01:45:16,713
+Alltför få har kommit.
+
+995
+01:45:16,882 --> 01:45:19,039
+Vi kan inte besegra Mordors arméer.
+
+996
+01:45:21,553 --> 01:45:23,212
+Nej...
+
+997
+01:45:23,637 --> 01:45:24,882
+det kan vi inte.
+
+998
+01:45:27,765 --> 01:45:31,549
+Men icke desto mindre
+kommer vi att möta dem i strid.
+
+999
+01:45:45,989 --> 01:45:47,733
+Jag har lämnat förhållningsorder.
+
+1000
+01:45:50,409 --> 01:45:53,661
+Folket ska lyda
+under ditt styre i mitt ställe.
+
+1001
+01:46:00,253 --> 01:46:02,495
+Ta över mitt säte i Gyllene hallen.
+
+1002
+01:46:03,755 --> 01:46:06,591
+Må du länge försvara Edoras...
+
+1003
+01:46:06,759 --> 01:46:09,082
+om striden går illa.
+
+1004
+01:46:10,178 --> 01:46:13,593
+Vilka andra plikter
+lägger ni på mig, min herre?
+
+1005
+01:46:15,808 --> 01:46:17,765
+Plikter?
+
+1006
+01:46:19,936 --> 01:46:21,266
+Nej.
+
+1007
+01:46:29,571 --> 01:46:31,693
+Jag vill att du ler igen...
+
+1008
+01:46:35,118 --> 01:46:40,109
+inte sörjer över dem
+vars stund har kommit.
+
+1009
+01:46:44,957 --> 01:46:48,458
+Du ska leva och få se nya dagar...
+
+1010
+01:46:52,799 --> 01:46:55,550
+och ingen mer förtvivlan.
+
+1011
+01:47:01,766 --> 01:47:05,465
+Vad för slags armé
+håller till på en sådan plats?
+
+1012
+01:47:05,644 --> 01:47:07,471
+En som är förbannad.
+
+1013
+01:47:09,439 --> 01:47:11,977
+För länge sedan svor 
+bergsmännen en ed...
+
+1014
+01:47:12,398 --> 01:47:15,151
+till Gondors siste konung...
+
+1015
+01:47:15,737 --> 01:47:17,312
+Att komma till hans hjälp...
+
+1016
+01:47:17,486 --> 01:47:19,195
+och strida.
+
+1017
+01:47:19,698 --> 01:47:21,854
+Men när tiden var inne...
+
+1018
+01:47:22,491 --> 01:47:25,113
+när Gondors nöd var trängande...
+
+1019
+01:47:25,286 --> 01:47:27,158
+flydde de...
+
+1020
+01:47:27,329 --> 01:47:30,699
+och försvann in i bergets mörker.
+
+1021
+01:47:31,749 --> 01:47:34,075
+Så Isildur lade på dem
+förbannelsen...
+
+1022
+01:47:35,627 --> 01:47:39,496
+att inte få vila
+förrän löftet var uppfyllt.
+
+1023
+01:47:43,802 --> 01:47:46,968
+Vem skall kalla ut dem 
+från den grå skymningen...
+
+1024
+01:47:47,430 --> 01:47:49,671
+det glömda folket?
+
+1025
+01:47:49,848 --> 01:47:52,340
+Arvingen till honom de svor sin ed.
+
+1026
+01:47:52,811 --> 01:47:54,683
+Från norr skall han komma...
+
+1027
+01:47:55,187 --> 01:47:56,847
+driven av nöden.
+
+1028
+01:47:57,940 --> 01:48:01,438
+Han skall gå igenom porten
+till De dödas väg.
+
+1029
+01:48:19,917 --> 01:48:23,202
+Själva mitt blods värme
+tycks ha stulits från mig.
+
+1030
+01:48:28,759 --> 01:48:30,713
+Vägen är stängd.
+
+1031
+01:48:31,469 --> 01:48:33,425
+Den byggdes av dem som är döda.
+
+1032
+01:48:34,055 --> 01:48:36,295
+Och de döda håller den.
+
+1033
+01:48:36,848 --> 01:48:38,390
+Vägen är stängd.
+
+1034
+01:48:49,735 --> 01:48:51,229
+Brego!
+
+1035
+01:48:54,738 --> 01:48:57,444
+Jag fruktar inte döden.
+
+1036
+01:49:09,752 --> 01:49:12,159
+Det här har man aldrig hört förr.
+
+1037
+01:49:12,337 --> 01:49:16,998
+Att en alv kan gå under jorden
+medan en dvärg inte vågar.
+
+1038
+01:49:17,175 --> 01:49:18,504
+Åh.
+
+1039
+01:49:18,677 --> 01:49:21,510
+Åh, det lär jag få höra i all evighet.
+
+1040
+01:49:36,525 --> 01:49:38,769
+Vi måste rida lätt och snabbt.
+
+1041
+01:49:38,945 --> 01:49:40,688
+Vi har lång väg framför oss.
+
+1042
+01:49:40,863 --> 01:49:43,948
+Man och häst måste nå vägs ände
+med styrka nog att strida.
+
+1043
+01:49:49,453 --> 01:49:52,456
+Små hober hör inte hemma i krig,
+Junker Meriadoc.
+
+1044
+01:49:52,791 --> 01:49:54,782
+Alla mina vänner kämpar.
+
+1045
+01:49:54,958 --> 01:49:56,833
+Det vore en skam att bli kvar.
+
+1046
+01:49:57,003 --> 01:49:59,124
+Det är tre dagars ritt till Minas Tirith.
+
+1047
+01:49:59,296 --> 01:50:01,668
+Och ingen av mina ryttare kan 
+ta dig som börda.
+
+1048
+01:50:02,676 --> 01:50:04,796
+Jag vill strida.
+
+1049
+01:50:05,301 --> 01:50:07,295
+Jag säger inte mer.
+
+1050
+01:50:24,110 --> 01:50:26,065
+Rid med mig.
+
+1051
+01:50:27,529 --> 01:50:28,940
+Min dam.
+
+1052
+01:50:29,115 --> 01:50:31,485
+Form up! Move out!
+
+1053
+01:50:31,658 --> 01:50:34,861
+Fall in i led! Avmarsch!
+
+1054
+01:50:37,955 --> 01:50:39,154
+Rid!
+
+1055
+01:50:39,333 --> 01:50:42,286
+Rid mot Gondor!
+
+1056
+01:51:23,912 --> 01:51:25,656
+Vad är det?
+
+1057
+01:51:25,830 --> 01:51:27,372
+Vad ser du?
+
+1058
+01:51:27,623 --> 01:51:29,747
+Skepnader av män...
+
+1059
+01:51:32,419 --> 01:51:33,796
+och av hästar.
+
+1060
+01:51:34,547 --> 01:51:35,744
+Var?
+
+1061
+01:51:35,921 --> 01:51:38,877
+Bleka banér likt molntrasor.
+
+1062
+01:51:41,303 --> 01:51:43,509
+Spjut höjer sig...
+
+1063
+01:51:44,140 --> 01:51:47,589
+som en vinterskog höljd i dimma.
+
+1064
+01:51:48,849 --> 01:51:51,008
+De döda följer...
+
+1065
+01:51:52,230 --> 01:51:53,722
+de har blivit kallade.
+
+1066
+01:51:54,396 --> 01:51:56,224
+De döda?
+
+1067
+01:51:56,608 --> 01:51:58,314
+Kallade?
+
+1068
+01:51:58,734 --> 01:52:00,608
+Det visste jag redan.
+
+1069
+01:52:03,947 --> 01:52:05,690
+Mycket bra.
+
+1070
+01:52:06,408 --> 01:52:08,483
+Mycket bra! Legolas!
+
+1071
+01:52:46,443 --> 01:52:47,854
+Se inte ner.
+
+1072
+01:53:40,448 --> 01:53:45,573
+Vem träder in i mitt rike?
+
+1073
+01:53:49,331 --> 01:53:51,538
+En som begär er tro och lydnad.
+
+1074
+01:53:54,502 --> 01:53:59,841
+De döda låter inte
+de levande slippa förbi.
+
+1075
+01:54:00,175 --> 01:54:02,843
+Mig släpper ni förbi!
+
+1076
+01:54:26,363 --> 01:54:29,734
+Vägen är stängd.
+
+1077
+01:54:30,909 --> 01:54:35,370
+Den byggdes av dem som är döda.
+
+1078
+01:54:35,747 --> 01:54:39,910
+Och de döda håller den.
+
+1079
+01:54:49,050 --> 01:54:52,136
+Vägen är stängd.
+
+1080
+01:54:53,888 --> 01:54:56,510
+Nu måste du dö.
+
+1081
+01:55:00,395 --> 01:55:03,227
+Jag kallar er att fullgöra er ed.
+
+1082
+01:55:03,563 --> 01:55:08,521
+Ingen, utom kungen av Gondor,
+befaller över mig.
+
+1083
+01:55:14,115 --> 01:55:16,271
+Den klingan bröts.
+
+1084
+01:55:18,910 --> 01:55:21,115
+Den har smitts hel på nytt.
+
+1085
+01:55:29,044 --> 01:55:30,586
+Kämpa för oss...
+
+1086
+01:55:30,754 --> 01:55:33,293
+och återvinn er heder.
+
+1087
+01:55:37,469 --> 01:55:38,797
+Vad säger ni?
+
+1088
+01:55:51,022 --> 01:55:52,565
+Vad säger ni?
+
+1089
+01:55:53,315 --> 01:55:55,107
+Du förslösar din tid, Aragorn.
+
+1090
+01:55:55,276 --> 01:55:58,442
+De hade ingen heder i livet, 
+de har ingen heder i döden.
+
+1091
+01:55:58,945 --> 01:56:01,436
+Jag är Isildurs arvinge.
+
+1092
+01:56:01,992 --> 01:56:03,947
+Kämpa för mig...
+
+1093
+01:56:04,534 --> 01:56:08,115
+så ska jag hålla er ed för fullgjord.
+
+1094
+01:56:12,040 --> 01:56:13,998
+Vad säger ni?
+
+1095
+01:56:21,924 --> 01:56:24,131
+Ni har mitt ord!
+
+1096
+01:56:24,427 --> 01:56:28,424
+Kämpa och jag ska befria er 
+från denna levande död!
+
+1097
+01:56:29,888 --> 01:56:31,384
+Vad säger ni?!
+
+1098
+01:56:34,685 --> 01:56:37,639
+Stanna, ni förrädare!
+
+1099
+01:57:04,587 --> 01:57:05,619
+Ut!
+
+1100
+01:57:26,981 --> 01:57:28,559
+Legolas!
+
+1101
+01:57:29,694 --> 01:57:30,889
+Spring!
+
+1102
+01:58:37,209 --> 01:58:39,285
+Vi kämpar.
+
+1103
+01:58:49,638 --> 01:58:52,211
+Öppna porten! Fort!
+
+1104
+01:59:23,250 --> 01:59:25,241
+Fort! Skynda!
+
+1105
+01:59:39,013 --> 01:59:40,638
+Faramir!
+
+1106
+01:59:41,641 --> 01:59:44,891
+Säg inte att han har fallit.
+
+1107
+01:59:46,062 --> 01:59:47,605
+Fienden var dem övermäktig.
+
+1108
+01:59:48,021 --> 01:59:49,599
+Ingen överlevde.
+
+1109
+01:59:50,315 --> 01:59:52,309
+Fruktan.
+
+1110
+01:59:52,858 --> 01:59:56,063
+Staden osar av den.
+
+1111
+01:59:58,406 --> 02:00:00,861
+Låt oss lindra deras smärta.
+
+1112
+02:00:01,117 --> 02:00:02,859
+Släpp loss fångarna.
+
+1113
+02:00:03,035 --> 02:00:04,992
+Katapulter!
+
+1114
+02:00:18,341 --> 02:00:21,791
+Mina söner har gått åt.
+
+1115
+02:00:22,844 --> 02:00:25,760
+Min ättelinje har nått sitt slut.
+
+1116
+02:00:28,600 --> 02:00:30,009
+Han lever!
+
+1117
+02:00:30,183 --> 02:00:33,351
+Rikshovmästarnas hus har förgåtts.
+
+1118
+02:00:33,521 --> 02:00:34,978
+Han behöver läkemedel, min herre.
+
+1119
+02:00:36,022 --> 02:00:38,690
+Min ättelinje är slut!
+
+1120
+02:00:40,193 --> 02:00:42,186
+Min herre!
+
+1121
+02:00:55,707 --> 02:00:57,532
+Rohan...
+
+1122
+02:00:58,291 --> 02:01:00,701
+har övergivit oss.
+
+1123
+02:01:15,141 --> 02:01:18,343
+Théoden har svikit mig.
+
+1124
+02:01:29,485 --> 02:01:31,312
+Överge era poster!
+
+1125
+02:01:32,363 --> 02:01:36,278
+Fly! Fly för era liv!
+
+1126
+02:01:46,418 --> 02:01:47,959
+Gör er redo för strid!
+
+1127
+02:01:48,503 --> 02:01:51,670
+Till muren! Försvara muren!
+
+1128
+02:01:52,839 --> 02:01:54,798
+Hitåt!
+
+1129
+02:01:55,551 --> 02:01:57,921
+Återgå till era poster!
+
+1130
+02:02:08,729 --> 02:02:11,349
+Förpassa de slemma kräken
+till avgrunden.
+
+1131
+02:02:21,532 --> 02:02:22,990
+Stanna där ni är.
+
+1132
+02:02:39,965 --> 02:02:41,375
+Vi behöver mer stenskärvor!
+
+1133
+02:02:41,549 --> 02:02:43,422
+Akta!
+
+1134
+02:02:43,592 --> 02:02:46,131
+Ner till den lägre kretsen, fort!
+
+1135
+02:02:48,012 --> 02:02:49,555
+Gruppera er i par!
+
+1136
+02:03:58,534 --> 02:04:01,533
+Håll dem tillbaka! Ge inte efter för fruktan.
+
+1137
+02:04:02,037 --> 02:04:05,537
+Stanna på era poster! Kämpa!
+
+1138
+02:04:46,202 --> 02:04:47,824
+Inte mot tornen!
+
+1139
+02:04:47,993 --> 02:04:50,995
+Sikta på trollen! Döda trollen!
+
+1140
+02:04:51,748 --> 02:04:53,574
+Fäll dem!
+
+1141
+02:05:28,697 --> 02:05:30,736
+Slå tillbaka dem!
+
+1142
+02:05:30,906 --> 02:05:32,900
+Peregrin Took!
+
+1143
+02:05:33,783 --> 02:05:36,952
+- Gå tillbaka till citadellet!
+- Du kallade ut oss till strid.
+
+1144
+02:05:52,634 --> 02:05:55,006
+Det här är ingen plats för en hob.
+
+1145
+02:06:20,742 --> 02:06:22,201
+Sannerligen en citadellvakt.
+
+1146
+02:06:22,827 --> 02:06:26,160
+Tillbaka uppför kullen nu, fort!
+
+1147
+02:06:37,507 --> 02:06:40,461
+Vad gör ni, värdelösa avskum?!
+
+1148
+02:06:40,635 --> 02:06:42,593
+Porten ger inte vika.
+Den är för stark..
+
+1149
+02:06:48,934 --> 02:06:51,341
+Tillbaka dit, och slå in den.
+
+1150
+02:06:51,520 --> 02:06:53,512
+Inget kan ta sig igenom.
+
+1151
+02:06:56,442 --> 02:06:58,681
+Grond tar sig igenom.
+
+1152
+02:07:02,111 --> 02:07:04,188
+För hit varghuvudet.
+
+1153
+02:07:07,367 --> 02:07:12,705
+Grond! Grond! Grond! Grond!
+
+1154
+02:07:13,038 --> 02:07:16,869
+Grond! Grond! Grond!
+
+1155
+02:07:18,794 --> 02:07:22,210
+Grond! Grond! Grond!
+
+1156
+02:07:22,923 --> 02:07:26,587
+Grond! Grond! Grond!
+
+1157
+02:07:27,009 --> 02:07:31,172
+Grond! Grond! Grond!
+
+1158
+02:07:31,346 --> 02:07:35,046
+Grond! Grond! Grond!
+
+1159
+02:07:55,279 --> 02:07:57,071
+Ni släpps inte längre.
+
+1160
+02:08:00,285 --> 02:08:03,238
+Ni kommer inte in i Gondor.
+
+1161
+02:08:03,664 --> 02:08:05,990
+Vem är du att vägra oss tillträde?
+
+1162
+02:08:06,167 --> 02:08:09,916
+Legolas, skjut ett varningsskott
+förbi båtsmans öra.
+
+1163
+02:08:12,172 --> 02:08:13,833
+Sikta noga.
+
+1164
+02:08:20,556 --> 02:08:22,930
+Nu räcker det. Vi har varnat er.
+
+1165
+02:08:23,102 --> 02:08:25,308
+Bered er att bli bordade.
+
+1166
+02:08:26,690 --> 02:08:27,934
+Bordade?
+
+1167
+02:08:28,107 --> 02:08:29,767
+Av dig och vems armé?
+
+1168
+02:08:31,319 --> 02:08:33,610
+Den här armén.
+
+1169
+02:08:50,299 --> 02:08:52,127
+In där.
+
+1170
+02:08:53,803 --> 02:08:55,677
+Vad är det här för ställe?
+
+1171
+02:09:00,102 --> 02:09:03,471
+Husbond måste gå in i tunneln.
+
+1172
+02:09:04,857 --> 02:09:08,856
+Nu när jag är här,
+tror jag inte att jag vill det.
+
+1173
+02:09:10,949 --> 02:09:13,189
+Det är enda vägen.
+
+1174
+02:09:15,579 --> 02:09:17,570
+Gå in...
+
+1175
+02:09:18,123 --> 02:09:20,328
+eller gå tillbaka.
+
+1176
+02:09:23,002 --> 02:09:25,788
+Jag kan inte gå tillbaka.
+
+1177
+02:09:37,979 --> 02:09:40,682
+- Vad är det för lukt?
+- Orchsmuts.
+
+1178
+02:09:40,855 --> 02:09:44,106
+De kommer hit ibland.
+
+1179
+02:09:49,073 --> 02:09:50,948
+Skynda på.
+
+1180
+02:09:55,832 --> 02:09:57,788
+Den här vägen.
+
+1181
+02:10:00,629 --> 02:10:02,420
+Sméagol?
+
+1182
+02:10:03,382 --> 02:10:05,540
+Här borta.
+
+1183
+02:10:13,851 --> 02:10:17,018
+Det är klibbigt. Vad är det?
+
+1184
+02:10:17,188 --> 02:10:19,479
+Du ska få se.
+
+1185
+02:10:19,651 --> 02:10:21,975
+Åh, ja.
+
+1186
+02:10:22,152 --> 02:10:25,319
+Du ska få se.
+
+1187
+02:10:34,206 --> 02:10:35,867
+Sméagol?
+
+1188
+02:10:37,170 --> 02:10:38,452
+Sméagol!
+
+1189
+02:10:41,174 --> 02:10:43,085
+Sméagol!
+
+1190
+02:10:52,355 --> 02:10:54,310
+Sam.
+
+1191
+02:12:34,384 --> 02:12:36,509
+Och dig, Frodo Bagger...
+
+1192
+02:12:36,680 --> 02:12:42,054
+Jag ger dig Eärendils ljus,
+vår mest älskade stjärna.
+
+1193
+02:12:42,853 --> 02:12:46,139
+Må det vara ett ljus för dig på mörka platser...
+
+1194
+02:12:46,315 --> 02:12:49,900
+när allt annat ljus släcks.
+
+1194,5
+02:12:50,000 --> 02:12:55,000
+<font color=#0080C0>Aiya Eärendil Elenion Ancalima!</font>
+<font color=#FFFF00>(Häll Eärendil, ljusast av stjärnor!)</font>
+
+1195
+02:14:06,195 --> 02:14:09,484
+<i>Stygga fluga lilla</i>
+
+1196
+02:14:09,659 --> 02:14:12,863
+<i>Varför lipa illa?</i>
+
+1197
+02:14:13,413 --> 02:14:16,747
+<i>Fångad i ett nät</i>
+
+1198
+02:14:16,917 --> 02:14:19,671
+<i>Snart är du...</i>
+
+1199
+02:14:20,045 --> 02:14:21,873
+Äten.
+
+1200
+02:14:59,048 --> 02:15:01,753
+Kom den undan, min skatt?
+
+1201
+02:15:01,926 --> 02:15:04,050
+Inte den här gången.
+
+1202
+02:15:04,221 --> 02:15:07,305
+- Inte den här gången!
+- Nej!
+
+1203
+02:15:14,149 --> 02:15:17,483
+Det var inte vi. Det var inte vi!
+
+1204
+02:15:17,944 --> 02:15:20,567
+Sméagol skulle inte skada husbond.
+
+1205
+02:15:20,739 --> 02:15:22,648
+Vi lovade.
+
+1206
+02:15:22,825 --> 02:15:25,315
+Du måste tro oss.
+
+1207
+02:15:25,494 --> 02:15:27,203
+Det var den älskade.
+
+1208
+02:15:27,372 --> 02:15:32,166
+Den älskade fick oss att göra det.
+
+1209
+02:15:49,271 --> 02:15:52,189
+Jag måste förstöra den, Sméagol.
+
+1210
+02:16:01,200 --> 02:16:04,537
+Jag måste förstöra den
+för bådas vår skull.
+
+1211
+02:16:14,718 --> 02:16:16,044
+Nej!
+
+1212
+02:16:39,285 --> 02:16:41,695
+Jag är så ledsen, Sam.
+
+1213
+02:16:46,170 --> 02:16:48,743
+Jag är så ledsen.
+
+1214
+02:17:14,493 --> 02:17:19,321
+Denna uppgift gavs dig,
+Frodo av Fylke.
+
+1215
+02:17:20,456 --> 02:17:22,866
+Om du inte finner en väg...
+
+1216
+02:17:24,127 --> 02:17:25,373
+kommer ingen att göra det.
+
+1217
+02:17:59,209 --> 02:18:01,961
+Spejarna rapporterar att 
+Minas Tirith är omringat.
+
+1218
+02:18:02,129 --> 02:18:04,419
+Nedre kretsen brinner.
+
+1219
+02:18:04,883 --> 02:18:07,339
+Fienden rycker fram från alla håll.
+
+1220
+02:18:07,510 --> 02:18:08,709
+Tiden är emot oss.
+
+1221
+02:18:09,305 --> 02:18:10,633
+Gör er redo!
+
+1222
+02:18:10,806 --> 02:18:12,633
+Fatta mod, Merry.
+
+1223
+02:18:12,808 --> 02:18:15,014
+Det är snart över.
+
+1224
+02:18:15,603 --> 02:18:17,181
+Min dam...
+
+1225
+02:18:17,773 --> 02:18:20,344
+ni är skön och modig...
+
+1226
+02:18:20,691 --> 02:18:23,100
+och ni har mycket att leva för...
+
+1227
+02:18:24,445 --> 02:18:26,854
+och det är många som älskar er.
+
+1228
+02:18:29,618 --> 02:18:32,371
+Jag vet att det är för sent att vända om.
+
+1229
+02:18:32,915 --> 02:18:36,118
+Jag vet att det inte är stor idé att hoppas.
+
+1230
+02:18:37,337 --> 02:18:40,752
+Om jag var en Rohans riddare,
+i stånd till stordåd...
+
+1231
+02:18:40,923 --> 02:18:44,043
+Men det är jag inte.
+
+1232
+02:18:44,219 --> 02:18:46,047
+Jag är en hob.
+
+1233
+02:18:48,765 --> 02:18:51,258
+Jag vet att jag inte
+kan rädda Midgård.
+
+1234
+02:18:54,648 --> 02:18:56,971
+Jag vill bara hjälpa mina vänner.
+
+1235
+02:18:59,069 --> 02:19:00,564
+Frodo.
+
+1236
+02:19:01,363 --> 02:19:03,155
+Sam.
+
+1237
+02:19:04,741 --> 02:19:06,781
+Pippin.
+
+1238
+02:19:08,204 --> 02:19:11,288
+Mer än något annat
+önskar jag få se dem igen.
+
+1239
+02:19:15,503 --> 02:19:17,830
+Förbered avmarsch!
+
+1240
+02:19:18,007 --> 02:19:20,794
+Skynda. Vi rider hela natten.
+
+1241
+02:19:37,445 --> 02:19:38,773
+Till strid.
+
+1242
+02:19:39,197 --> 02:19:40,691
+Till strid.
+
+1243
+02:20:03,725 --> 02:20:05,515
+Tillbaka till porten!
+
+1244
+02:20:05,810 --> 02:20:07,970
+Fort!
+
+1245
+02:20:27,877 --> 02:20:32,375
+Jag är rikshovmästare åt Anárions hus.
+
+1246
+02:20:32,550 --> 02:20:34,921
+Som sådan har jag vandrat.
+
+1247
+02:20:36,137 --> 02:20:39,221
+Och som sådan skall jag sova.
+
+1248
+02:20:45,271 --> 02:20:47,395
+Gondor är förlorat.
+
+1249
+02:20:47,857 --> 02:20:51,311
+Det finns inget hopp för människorna.
+
+1250
+02:21:05,919 --> 02:21:08,757
+Varför flyr de dårarna?
+
+1251
+02:21:10,300 --> 02:21:13,385
+Bättre att dö förr än senare.
+
+1252
+02:21:15,513 --> 02:21:17,590
+För dö måste vi.
+
+1253
+02:21:29,737 --> 02:21:32,776
+Ingen grav för Denethor och Faramir.
+
+1254
+02:21:33,909 --> 02:21:39,914
+Ingen lång dödssömn i balsamerad ro.
+
+1255
+02:21:40,084 --> 02:21:45,245
+Brinna skall vi
+som forntida hednakungar.
+
+1256
+02:21:48,927 --> 02:21:50,755
+Hämta ved och olja.
+
+1257
+02:21:53,515 --> 02:21:54,927
+Stå fast.
+
+1258
+02:21:55,101 --> 02:21:57,139
+Stå fast.
+
+1259
+02:22:11,536 --> 02:22:14,110
+YNi är soldater av Gondor.
+
+1260
+02:22:14,332 --> 02:22:18,793
+Vad som än kommer genom porten
+skall ni stå fast.
+
+1261
+02:22:25,260 --> 02:22:26,423
+Spring!
+
+1262
+02:22:28,346 --> 02:22:29,840
+En salva!
+
+1263
+02:22:30,598 --> 02:22:32,474
+Skjut!
+
+1264
+02:24:25,645 --> 02:24:27,686
+Släpp honom, ditt äckel.
+
+1265
+02:24:29,608 --> 02:24:31,268
+Släpp honom!
+
+1266
+02:24:32,530 --> 02:24:34,686
+Du rör honom inte igen.
+
+1267
+02:24:37,825 --> 02:24:39,701
+Kom an och gör upp.
+
+1268
+02:26:29,452 --> 02:26:31,076
+Tillbaka!
+
+1269
+02:26:41,881 --> 02:26:43,163
+Herr Frodo.
+
+1270
+02:26:52,728 --> 02:26:54,721
+Åh, nej.
+
+1271
+02:26:54,897 --> 02:26:56,854
+Frodo.
+
+1272
+02:26:57,149 --> 02:26:59,024
+Herr Frodo.
+
+1273
+02:27:03,615 --> 02:27:04,943
+Vakna.
+
+1274
+02:27:08,789 --> 02:27:11,160
+Lämna mig inte här ensam.
+
+1275
+02:27:12,668 --> 02:27:15,121
+Gå inte dit jag inte kan följa er.
+
+1276
+02:27:19,424 --> 02:27:20,800
+Vakna.
+
+1277
+02:27:27,476 --> 02:27:29,681
+Du sover inte.
+
+1278
+02:27:31,814 --> 02:27:33,723
+Du är död.
+
+1279
+02:27:52,503 --> 02:27:53,998
+Bort med dig, ditt avskum!
+
+1280
+02:28:03,600 --> 02:28:04,927
+Vad är det här?
+
+1281
+02:28:06,101 --> 02:28:08,855
+Ser ut som om gamla 
+Honmonstret roat sig.
+
+1282
+02:28:10,858 --> 02:28:13,349
+Har hon dödat en igen?
+
+1283
+02:28:13,570 --> 02:28:15,526
+Nej.
+
+1284
+02:28:18,242 --> 02:28:20,233
+Den här gynnarn är inte död.
+
+1285
+02:28:20,576 --> 02:28:22,867
+Inte död?
+
+1286
+02:28:23,039 --> 02:28:28,828
+Hon hugger till med gadden och
+han blir lealös som en urbenad fisk.
+
+1287
+02:28:29,170 --> 02:28:31,923
+Sen har hon sitt lilla roliga.
+
+1288
+02:28:32,258 --> 02:28:33,965
+Det är så hon vill äta.
+
+1289
+02:28:34,467 --> 02:28:36,591
+Färskt blod.
+
+1290
+02:28:36,763 --> 02:28:39,087
+Bär honom till tornet!
+
+1291
+02:28:42,558 --> 02:28:44,268
+Samwise, din dåre.
+
+1292
+02:28:44,436 --> 02:28:47,272
+Avskummet vaknar om några timmar.
+
+1293
+02:28:47,440 --> 02:28:49,932
+Då kommer han önskar att han aldrig fötts.
+
+1294
+02:29:14,220 --> 02:29:17,472
+Hans själs boning faller sönder.
+
+1295
+02:29:18,515 --> 02:29:19,976
+Han brinner...
+
+1296
+02:29:21,103 --> 02:29:22,432
+brinner redan.
+
+1297
+02:29:22,815 --> 02:29:24,806
+Han är inte död.
+
+1298
+02:29:25,275 --> 02:29:26,936
+Han är inte död!
+
+1299
+02:29:29,154 --> 02:29:30,946
+Nej! Nej!
+
+1300
+02:29:31,116 --> 02:29:33,439
+Nej! Nej!
+
+1301
+02:29:33,618 --> 02:29:35,611
+Han är inte död!
+
+1302
+02:29:35,995 --> 02:29:39,447
+- Farväl, Peregrin, son av Paladin.
+- Nej! Nej! Nej!
+
+1303
+02:29:39,625 --> 02:29:42,958
+Jag löser dig från min tjänst.
+
+1304
+02:29:44,295 --> 02:29:48,626
+Gå din väg och dö på vad sätt
+som synes dig bäst.
+
+1305
+02:29:50,802 --> 02:29:53,129
+Häll olja på veden!
+
+1306
+02:29:54,850 --> 02:29:56,889
+Kom med, soldater! Hitåt!
+
+1307
+02:29:57,394 --> 02:30:00,311
+- Skynda över dit! Skynda er!
+- Gandalf!
+
+1308
+02:30:00,689 --> 02:30:02,148
+Var är Gandalf?
+
+1309
+02:30:03,277 --> 02:30:04,650
+Gandalf!
+
+1310
+02:30:09,992 --> 02:30:11,154
+Reträtt!
+
+1311
+02:30:13,329 --> 02:30:15,072
+De har brutit in i staden!
+
+1312
+02:30:15,248 --> 02:30:18,204
+Vik tillbaka till andra stadskretsen!
+
+1313
+02:30:22,007 --> 02:30:23,582
+Få bort kvinnor och barn härifrån!
+
+1314
+02:30:23,964 --> 02:30:25,711
+Få dem härifrån!
+
+1315
+02:30:25,885 --> 02:30:27,380
+Reträtt!
+
+1316
+02:30:27,554 --> 02:30:29,345
+Kom igen. Kom igen.
+
+1317
+02:30:29,681 --> 02:30:33,929
+Gå in i staden. Döda alla i er väg.
+
+1318
+02:30:41,944 --> 02:30:44,352
+Hugg ner dem!
+
+1319
+02:31:04,886 --> 02:31:07,758
+Kämpa. Kämpa till sista man!
+
+1320
+02:31:07,932 --> 02:31:09,211
+Kämpa för era liv!
+
+1321
+02:31:09,391 --> 02:31:10,637
+Gandalf!
+
+1322
+02:31:15,023 --> 02:31:16,400
+Gandalf!
+
+1323
+02:31:16,567 --> 02:31:19,141
+Denethor har förlorat förståndet!
+
+1324
+02:31:19,320 --> 02:31:21,609
+Han tänker bränna Faramir levande!
+
+1325
+02:31:21,781 --> 02:31:23,573
+Upp, kvickt!
+
+1326
+02:31:30,416 --> 02:31:31,911
+Vänd tillbaka till avgrunden.
+
+1327
+02:31:33,418 --> 02:31:36,587
+Fall ner i det intet
+som väntar dig och din herre.
+
+1328
+02:31:36,754 --> 02:31:43,258
+Känner du inte igen döden
+när du ser den, gamle man?
+
+1329
+02:31:43,430 --> 02:31:48,093
+Detta är min stund.
+
+1330
+02:31:57,655 --> 02:31:59,234
+Gandalf!
+
+1331
+02:32:08,125 --> 02:32:11,661
+Du har misslyckats.
+
+1332
+02:32:12,464 --> 02:32:17,292
+Människornas värld
+kommer att falla.
+
+1333
+02:33:14,574 --> 02:33:16,035
+Mod, Merry.
+
+1334
+02:33:16,203 --> 02:33:18,573
+Mod för våra vänner.
+
+1335
+02:33:22,125 --> 02:33:25,210
+Bilda led, era kryp! Bilda led!
+
+1336
+02:33:25,379 --> 02:33:28,629
+Pikar i täten.
+Bågskyttar bakom dem.
+
+1337
+02:33:36,723 --> 02:33:39,892
+Èomer, led din éored
+på vänster flank.
+
+1338
+02:33:40,063 --> 02:33:41,306
+Flank redo.
+
+1339
+02:33:41,479 --> 02:33:44,352
+Gamling, följ kungens banér
+nerför mitten.
+
+1340
+02:33:44,526 --> 02:33:48,227
+Grimbold, led ditt kompani åt höger.
+
+1341
+02:33:48,406 --> 02:33:51,156
+Framåt och frukta intet mörker!
+
+1342
+02:33:51,324 --> 02:33:55,156
+Res er, res er, Théodens ryttare!
+
+1343
+02:33:55,413 --> 02:34:00,573
+Spjut skall skakas,
+sköldar skall splittras.
+
+1344
+02:34:00,793 --> 02:34:04,494
+En svärdsdag, en röd dag...
+
+1345
+02:34:04,672 --> 02:34:08,257
+förrn solen går upp.!
+
+1346
+02:34:16,020 --> 02:34:20,349
+Vad som än händer, stanna hos mig.
+Jag ska beskydda dig.
+
+1347
+02:34:26,698 --> 02:34:28,774
+Rid nu!
+
+1348
+02:34:30,285 --> 02:34:32,408
+Rid nu!
+
+1349
+02:34:32,996 --> 02:34:35,785
+Rid! Rid mot undergång...
+
+1350
+02:34:35,960 --> 02:34:38,709
+och världens fall!
+
+1351
+02:34:40,631 --> 02:34:42,040
+Död!
+
+1352
+02:34:42,464 --> 02:34:45,384
+Död!
+
+1353
+02:34:45,553 --> 02:34:48,803
+- Död!
+- Död!
+
+1354
+02:34:49,224 --> 02:34:50,800
+- Död!
+- Död!
+
+1355
+02:34:51,517 --> 02:34:54,968
+- Död!
+- Död!
+
+1356
+02:35:00,068 --> 02:35:02,476
+Framåt, Eorlingar!
+
+1357
+02:35:45,455 --> 02:35:47,196
+Skjut!
+
+1358
+02:35:51,000 --> 02:35:52,200
+Död!
+
+1359
+02:35:56,424 --> 02:35:57,704
+Anfall!
+
+1360
+02:35:58,176 --> 02:35:59,754
+Skjut fritt!
+
+1361
+02:36:57,118 --> 02:37:00,403
+Sätt eld på vårt kött.
+
+1362
+02:37:18,056 --> 02:37:19,801
+Hejda detta vanvett!
+
+1363
+02:37:24,149 --> 02:37:28,727
+Du kan för en dag
+triumfera på slagfältet...
+
+1364
+02:37:29,320 --> 02:37:32,903
+men mot den makt 
+som rest sig i öster...
+
+1365
+02:37:33,074 --> 02:37:36,324
+finns det ingen seger.
+
+1366
+02:38:05,528 --> 02:38:07,272
+Nej!
+
+1367
+02:38:07,448 --> 02:38:10,117
+Du ska inte ta min son ifrån mig!
+
+1368
+02:38:10,283 --> 02:38:12,610
+Nej! Nej!
+
+1369
+02:38:23,547 --> 02:38:25,209
+Faramir.
+
+1370
+02:38:38,775 --> 02:38:42,724
+Så slutar Denethor Echtelions son.
+
+1371
+02:39:10,267 --> 02:39:12,059
+Driv dem mot floden!
+
+1372
+02:39:14,813 --> 02:39:16,808
+Säkra staden!
+
+1373
+02:39:56,820 --> 02:39:58,779
+Slut leden!
+
+1374
+02:39:59,907 --> 02:40:01,864
+Slut leden!
+
+1375
+02:40:08,874 --> 02:40:11,497
+Blås till anfall! Rid rätt på!
+
+1376
+02:40:12,129 --> 02:40:14,288
+Anfall!
+
+1377
+02:41:33,262 --> 02:41:34,639
+Fäll honom!
+
+1378
+02:42:01,335 --> 02:42:03,956
+Ta tyglarna. Dra åt vänster!
+
+1379
+02:42:06,342 --> 02:42:07,623
+Vänster!
+
+1380
+02:42:25,029 --> 02:42:26,688
+Sikta på deras huvuden!
+
+1381
+02:42:32,704 --> 02:42:35,989
+Fäll den! Fäll den! Fäll den!
+
+1382
+02:42:49,847 --> 02:42:51,343
+Merry!
+
+1383
+02:44:04,766 --> 02:44:06,807
+Jag trodde inte
+det skulle sluta så här.
+
+1384
+02:44:08,102 --> 02:44:09,514
+Sluta?
+
+1385
+02:44:10,773 --> 02:44:12,895
+Nej, resan slutar inte här.
+
+1386
+02:44:15,403 --> 02:44:18,523
+Döden är bara ännu en stig...
+
+1387
+02:44:19,115 --> 02:44:20,777
+som vi alla måste gå.
+
+1388
+02:44:22,034 --> 02:44:25,488
+Den här världens grå regnridå 
+dras undan...
+
+1389
+02:44:25,665 --> 02:44:29,283
+och blir till silverne glas.
+
+1390
+02:44:31,463 --> 02:44:33,420
+Och då ser du det.
+
+1391
+02:44:35,344 --> 02:44:37,714
+Vad då, Gandalf?
+
+1392
+02:44:38,848 --> 02:44:40,174
+Ser vad då?
+
+1393
+02:44:41,431 --> 02:44:43,640
+Vita stränder...
+
+1394
+02:44:45,311 --> 02:44:47,720
+och bortom dem.
+
+1395
+02:44:49,192 --> 02:44:50,983
+Ett fjärran grönt land...
+
+1396
+02:44:51,694 --> 02:44:54,611
+under en snabbt stigande sol.
+
+1397
+02:44:58,658 --> 02:45:00,154
+Tja...
+
+1398
+02:45:00,329 --> 02:45:01,989
+det är ju inte så illa.
+
+1399
+02:45:02,165 --> 02:45:03,574
+Nej.
+
+1400
+02:45:05,627 --> 02:45:07,287
+Nej, det är det inte.
+
+1401
+02:45:23,689 --> 02:45:27,023
+Samling runt mig!
+
+1402
+02:45:47,800 --> 02:45:52,343
+Festa på hans kött.
+
+1403
+02:45:56,684 --> 02:45:59,056
+Jag dödar dig, om du rör honom.
+
+1404
+02:45:59,229 --> 02:46:04,686
+Gå inte mellan nazgûlen
+och hans byte.
+
+1405
+02:47:13,103 --> 02:47:16,308
+Sena som vanligt, piratavskum!
+
+1406
+02:47:16,734 --> 02:47:18,974
+Här finns att göra för knivar.
+
+1407
+02:47:19,152 --> 02:47:22,356
+Hitåt, era sjöråttor!
+Lämna era skepp!
+
+1408
+02:47:37,840 --> 02:47:39,962
+Det finns så det räcker till oss båda.
+
+1409
+02:47:40,133 --> 02:47:42,210
+Må bäste dvärg vinna.
+
+1410
+02:47:59,697 --> 02:48:01,905
+Din dåre.
+
+1411
+02:48:02,075 --> 02:48:05,492
+Ingen man kan döda mig.
+
+1412
+02:48:07,872 --> 02:48:11,041
+Dö nu.
+
+1413
+02:48:21,722 --> 02:48:23,715
+Jag är ingen man.
+
+1414
+02:48:40,243 --> 02:48:43,743
+- Femton! Sexton!
+- Sjutton!
+
+1415
+02:48:51,548 --> 02:48:53,459
+Merry!
+
+1416
+02:49:35,471 --> 02:49:37,264
+Legolas!
+
+1417
+02:49:59,666 --> 02:50:02,039
+Trettiotre. Trettiofyra.
+
+1418
+02:50:49,138 --> 02:50:51,511
+Det räknas ändå bara som en!
+
+1419
+02:50:51,683 --> 02:50:53,842
+Dåså, kom an!
+
+1420
+02:51:37,569 --> 02:51:40,404
+Jag känner igen ditt ansikte...
+
+1421
+02:51:42,283 --> 02:51:44,111
+Éowyn.
+
+1422
+02:51:46,704 --> 02:51:49,075
+Det skymmer för min blick.
+
+1423
+02:51:50,207 --> 02:51:51,583
+Nej.
+
+1424
+02:51:52,419 --> 02:51:54,043
+Nej.
+
+1425
+02:51:56,132 --> 02:51:58,622
+Jag ska rädda dig.
+
+1426
+02:51:59,968 --> 02:52:02,296
+Det har du redan gjort.
+
+1427
+02:52:05,977 --> 02:52:07,599
+Éowyn...
+
+1428
+02:52:09,102 --> 02:52:11,596
+min kropp är bruten.
+
+1429
+02:52:16,653 --> 02:52:19,110
+Du måste låta mig gå.
+
+1430
+02:52:24,997 --> 02:52:27,570
+Jag går till mina fäder...
+
+1431
+02:52:29,043 --> 02:52:31,879
+i vars mäktiga sällskap...
+
+1432
+02:52:32,338 --> 02:52:35,672
+jag nu inte skall skämmas.
+
+1433
+02:52:52,278 --> 02:52:53,902
+Éowyn.
+
+1434
+02:53:40,415 --> 02:53:42,872
+Lös oss.
+
+1435
+02:53:44,795 --> 02:53:46,504
+Dum idé.
+
+1436
+02:53:46,673 --> 02:53:50,504
+Användbara i en knipa
+trots att de är döda.
+
+1437
+02:53:50,676 --> 02:53:52,670
+Du gav oss ditt ord.
+
+1438
+02:53:54,430 --> 02:53:56,555
+Ni har fullgjort er ed.
+
+1439
+02:53:57,891 --> 02:53:59,222
+Gå.
+
+1440
+02:54:00,104 --> 02:54:01,764
+Ha frid.
+
+1441
+02:54:45,140 --> 02:54:47,049
+Merry.
+
+1442
+02:54:47,643 --> 02:54:50,847
+Nej!
+
+1443
+02:54:54,773 --> 02:54:57,182
+Nej!
+
+1454
+02:56:44,294 --> 02:56:45,491
+Merry!
+
+1455
+02:56:47,089 --> 02:56:49,128
+Merry!
+
+1456
+02:57:00,478 --> 02:57:02,304
+Merry.
+
+1457
+02:57:04,773 --> 02:57:06,017
+Merry, det är jag.
+
+1458
+02:57:08,651 --> 02:57:10,192
+Det är Pippin.
+
+1459
+02:57:12,696 --> 02:57:14,985
+Jag visste att du skulle hitta mig.
+
+1460
+02:57:15,158 --> 02:57:16,354
+Ja.
+
+1461
+02:57:18,785 --> 02:57:20,861
+Tänker du lämna mig?
+
+1462
+02:57:21,413 --> 02:57:23,120
+Nej, Merry.
+
+1463
+02:57:24,417 --> 02:57:26,657
+Jag ska ta hand om dig.
+
+1464
+02:58:10,667 --> 02:58:12,080
+Bort med tassarna!
+
+1465
+02:58:12,253 --> 02:58:15,419
+Den där skinande skjortan är min.
+
+1466
+02:58:15,673 --> 02:58:19,837
+Den ska till det Stora ögat
+tillsammans med allt annat.
+
+1467
+02:58:21,388 --> 02:58:25,218
+Jag tar inga order
+från stinkande Morgul-råttor!
+
+1468
+02:58:26,058 --> 02:58:31,218
+Om du rör den, sticker jag 
+svärdet i magen på dig.
+
+1469
+02:58:51,916 --> 02:58:53,706
+Det avskummet försökte
+knivhugga mig.
+
+1470
+02:58:53,876 --> 02:58:55,619
+Döda honom!
+
+1471
+03:00:38,851 --> 03:00:40,843
+Där där är för Frodo!
+
+1472
+03:00:41,228 --> 03:00:43,350
+Och för Fylke!
+
+1473
+03:00:46,941 --> 03:00:49,065
+Och där är för min farsgubbe!
+
+1474
+03:01:18,555 --> 03:01:21,889
+Sluta med ditt gnäll, din dyngråtta.
+
+1475
+03:01:23,017 --> 03:01:27,727
+Jag ska få dig att blöda
+som en stucken gris.
+
+1476
+03:01:35,070 --> 03:01:36,730
+Inte om jag sticker dig först.
+
+1477
+03:01:36,905 --> 03:01:38,448
+Sam!
+
+1478
+03:01:43,496 --> 03:01:45,534
+Åh, Sam, jag är så ledsen.
+
+1479
+03:01:45,705 --> 03:01:47,746
+Ledsen för allt.
+
+1480
+03:01:48,249 --> 03:01:51,915
+- Nu ska jag ta dig härifrån.
+- Det är för sent, det är över.
+
+1481
+03:01:52,088 --> 03:01:54,956
+De tog den. Sam...
+
+1482
+03:01:55,756 --> 03:01:57,252
+de tog Ringen.
+
+1483
+03:01:58,009 --> 03:02:00,715
+Ursäkta mig, men det gjorde de inte.
+
+1484
+03:02:12,690 --> 03:02:14,895
+Jag trodde att jag förlorat er...
+
+1485
+03:02:15,276 --> 03:02:16,983
+så jag tog den.
+
+1486
+03:02:18,152 --> 03:02:20,228
+Bara för att hålla i säkert förvar.
+
+1487
+03:02:21,490 --> 03:02:23,234
+Ge mig den.
+
+1488
+03:02:26,786 --> 03:02:28,992
+Give me the Ring, Sam.
+
+1489
+03:02:33,668 --> 03:02:34,912
+Sam.
+
+1490
+03:02:36,504 --> 03:02:38,462
+Ge mig Ringen.
+
+1491
+03:02:59,192 --> 03:03:00,472
+Du måste förstå.
+
+1492
+03:03:03,987 --> 03:03:05,815
+Ringen är min börda.
+
+1493
+03:03:06,992 --> 03:03:09,149
+Den skulle krossa dig, Sam.
+
+1494
+03:03:12,330 --> 03:03:14,286
+Kom då, herr Frodo.
+
+1495
+03:03:15,625 --> 03:03:17,249
+Vi måste hitta kläder.
+
+1496
+03:03:17,417 --> 03:03:20,453
+Du kan inte gå omkring i 
+Mordor i bara skinnet.
+
+1497
+03:03:42,191 --> 03:03:44,398
+Vi klarade det, herr Frodo.
+
+1498
+03:03:44,903 --> 03:03:47,189
+Vi tog oss till Mordor.
+
+1499
+03:03:48,531 --> 03:03:50,191
+De är så många.
+
+1500
+03:03:51,159 --> 03:03:53,732
+Vi kan aldrig ta oss igenom 
+utan att bli upptäckta.
+
+1501
+03:03:58,874 --> 03:04:02,207
+Det är han, Ögat.
+
+1502
+03:04:09,927 --> 03:04:12,547
+Vi måste gå in där, herr Frodo.
+
+1503
+03:04:13,011 --> 03:04:15,051
+Vi har inget val.
+
+1504
+03:04:18,058 --> 03:04:22,470
+Kom, vi tar oss nerför kullen
+till att börja med.
+
+1505
+03:04:31,822 --> 03:04:35,071
+Frodo har försvunnit ur mitt synfält.
+
+1506
+03:04:36,408 --> 03:04:39,245
+Mörkret djupnar.
+
+1507
+03:04:39,412 --> 03:04:41,783
+Vi skulle veta
+om Sauron haft Ringen.
+
+1508
+03:04:41,957 --> 03:04:43,995
+Det är bara en fråga om tid.
+
+1509
+03:04:45,502 --> 03:04:47,909
+Visst har han lidit ett nederlag...
+
+1510
+03:04:48,963 --> 03:04:53,458
+men bakom Mordors murar
+omgrupperar fienden sig.
+
+1511
+03:04:53,633 --> 03:04:55,460
+Låt honom stanna där.
+
+1512
+03:04:55,636 --> 03:04:58,306
+Låt honom ruttna! 
+Varför skulle vi bekymra oss?
+
+1513
+03:04:58,473 --> 03:05:03,633
+Därför att tiotusen orcher nu står
+mellan Frodo och Domedagsberget.
+
+1514
+03:05:10,400 --> 03:05:12,891
+Jag skickade honom i döden.
+
+1515
+03:05:14,444 --> 03:05:15,727
+Nej.
+
+1516
+03:05:16,238 --> 03:05:18,645
+Det finns fortfarande hopp för Frodo.
+
+1517
+03:05:18,992 --> 03:05:23,118
+Han behöver tid, och kunna ta sig
+över Gorgoroths slätter ohotad.
+
+1518
+03:05:24,205 --> 03:05:26,778
+- Vi kan ge honom det.
+- Hur?
+
+1519
+03:05:27,124 --> 03:05:29,828
+Genom att locka ut Saurons arméer.
+
+1520
+03:05:30,001 --> 03:05:32,125
+Tömma hans land.
+
+1521
+03:05:32,337 --> 03:05:35,421
+Sen marscherar vi mot Svarta porten.
+
+1522
+03:05:36,049 --> 03:05:39,050
+Vi kan inte segra genom vapenmakt.
+
+1523
+03:05:39,218 --> 03:05:40,797
+Inte åt oss själva.
+
+1524
+03:05:41,012 --> 03:05:46,600
+Men vi kan ge Frodo en chans om vi
+får Saurons öga att se stint på oss.
+
+1525
+03:05:48,394 --> 03:05:52,177
+Då är han blind för allt annat.
+
+1526
+03:05:52,940 --> 03:05:54,137
+En skenmanöver.
+
+1527
+03:05:54,317 --> 03:05:56,107
+Mot säker död...
+
+1528
+03:05:56,277 --> 03:05:59,029
+liten chans att lyckas...
+
+1529
+03:05:59,905 --> 03:06:01,483
+Vad väntar vi pår?
+
+1530
+03:06:02,075 --> 03:06:04,481
+Sauron kommer att misstänka en fälla.
+
+1531
+03:06:05,284 --> 03:06:07,325
+Han tar inte det betet.
+
+1532
+03:06:08,830 --> 03:06:11,320
+Åh, det tror jag att han gör.
+
+1533
+03:06:45,739 --> 03:06:48,360
+Länge har du jagat mig.
+
+1534
+03:06:49,242 --> 03:06:50,525
+Länge har jag undflytt dig.
+
+1535
+03:06:52,372 --> 03:06:53,950
+Men inte längre.
+
+1536
+03:06:55,667 --> 03:06:58,073
+Skåda Elendils svärd.
+
+1537
+03:07:42,585 --> 03:07:45,077
+Staden har tystnat.
+
+1538
+03:07:46,757 --> 03:07:49,792
+Det finns ingen värme kvar i solen.
+
+1539
+03:07:50,593 --> 03:07:52,302
+Det blir så kallt.
+
+1540
+03:07:55,307 --> 03:07:58,342
+Det är bara vätan
+av det första vårregnet.
+
+1541
+03:08:04,733 --> 03:08:07,934
+Jag tror inte
+att detta mörker skall bestå.
+
+1542
+03:08:36,595 --> 03:08:38,137
+Titta, orcherna...
+
+1543
+03:08:38,681 --> 03:08:40,673
+de ger sig av.
+
+1544
+03:08:41,726 --> 03:08:43,802
+Där ser du, herr Frodo...
+
+1545
+03:08:43,977 --> 03:08:46,303
+litet tur till sist.
+
+1546
+03:08:46,479 --> 03:08:48,306
+Sätt fart, era sniglar!
+
+1547
+03:08:49,608 --> 03:08:52,977
+Kom igen! Fortare!
+
+1548
+03:09:00,994 --> 03:09:04,244
+Kvicka på, avskum...
+
+1549
+03:09:04,414 --> 03:09:08,661
+Jag ska piska er in till benen...
+
+1550
+03:09:11,544 --> 03:09:13,170
+Sätt fart!
+
+1551
+03:09:13,338 --> 03:09:15,664
+Vad har jag sagt er?!
+
+1552
+03:09:22,515 --> 03:09:24,009
+Upp med er!
+
+1553
+03:09:24,391 --> 03:09:27,060
+Pallra på, ert slödder!
+
+1554
+03:09:27,227 --> 03:09:30,844
+Ni två, håll er i främsta ledet!
+
+1555
+03:09:31,023 --> 03:09:35,933
+Sätt fart! Gå på!
+In i ledet! Rör på er!
+
+1556
+03:09:48,913 --> 03:09:52,746
+Till porten, era sniglar!
+Kvicka på!
+
+1557
+03:10:02,135 --> 03:10:05,718
+Vet ni inte att vi är i krig?
+
+1558
+03:10:28,035 --> 03:10:30,905
+Kompani, halt!
+
+1559
+03:10:34,750 --> 03:10:38,117
+Inspektion!
+
+1560
+03:10:38,295 --> 03:10:40,749
+Sam, hjälp mig.
+
+1561
+03:10:40,921 --> 03:10:42,749
+Herr Frodo!
+
+1562
+03:10:45,468 --> 03:10:48,006
+Stå upp, herr Frodo.
+Stå upp!
+
+1563
+03:10:48,178 --> 03:10:50,004
+Den är så tung.
+
+1564
+03:10:59,148 --> 03:11:00,309
+Åh, nej.
+
+1565
+03:11:05,946 --> 03:11:07,937
+Vad ska jag göra?
+Vad ska vi göra?
+
+1566
+03:11:10,992 --> 03:11:12,154
+- Slå mig.
+- Vad?
+
+1567
+03:11:12,326 --> 03:11:14,365
+Slå mig, Sam. Börja ett slagsmål.
+
+1568
+03:11:14,538 --> 03:11:16,113
+Bort med dig!
+
+1569
+03:11:16,788 --> 03:11:19,114
+Ingen knuffar mig, din fula mask.
+
+1570
+03:11:27,758 --> 03:11:29,797
+Bort med dig!
+
+1571
+03:11:30,718 --> 03:11:32,628
+Bryt! Bryt!
+
+1572
+03:11:35,182 --> 03:11:39,725
+Jag skär upp magen på dig
+om du inte slutar det här larmet!
+
+1573
+03:11:39,936 --> 03:11:42,262
+Gå, Sam. Nu!
+
+1574
+03:11:51,195 --> 03:11:52,739
+Sätt fart, era avskum!
+
+1575
+03:11:52,906 --> 03:11:54,815
+Tillbaka i ledet!
+
+1576
+03:11:55,325 --> 03:11:57,117
+Ni maskar!
+
+1577
+03:11:57,788 --> 03:12:00,786
+Tillbaka i ledet, era sniglar!
+
+1578
+03:12:03,207 --> 03:12:06,659
+Sätt igång, era sniglar. Rör på er.
+
+1579
+03:12:09,380 --> 03:12:11,337
+Rör på er!
+
+1580
+03:12:55,466 --> 03:12:57,505
+Jag klarar inte...
+
+1581
+03:12:57,676 --> 03:13:01,426
+Jag kan inte...
+Jag klarar inte av Ringen, Sam.
+
+1582
+03:13:01,640 --> 03:13:02,753
+Den är... Den är...
+
+1583
+03:13:02,932 --> 03:13:05,504
+Den är en sådan börda att bära.
+
+1584
+03:13:06,393 --> 03:13:07,423
+Den är...
+
+1585
+03:13:07,602 --> 03:13:09,559
+så tung.
+
+1586
+03:13:14,568 --> 03:13:16,975
+Vi går den vägen, så rakt vi kan.
+
+1587
+03:13:18,446 --> 03:13:21,566
+Det är ingen idé att bära med oss 
+något vi inte säkert behöver.
+
+1588
+03:13:36,754 --> 03:13:38,582
+Herr Frodo.
+
+1589
+03:13:40,091 --> 03:13:41,585
+Titta.
+
+1590
+03:13:44,178 --> 03:13:46,005
+Det finns ljus...
+
+1591
+03:13:46,348 --> 03:13:48,754
+och skönhet där uppe...
+
+1592
+03:13:48,934 --> 03:13:50,641
+som ingen skugga kan nå.
+
+1593
+03:14:41,692 --> 03:14:43,317
+Ta min.
+
+1594
+03:14:43,817 --> 03:14:45,942
+Det är några droppar kvar.
+
+1595
+03:15:01,168 --> 03:15:03,742
+Då har vi inget kvar till hemfärden.
+
+1596
+03:15:04,671 --> 03:15:07,838
+Jag tror inte att det blir
+någon hemfärd, herr Frodo.
+
+1597
+03:16:00,724 --> 03:16:02,884
+Frodo, ner!
+
+1598
+03:16:04,646 --> 03:16:06,553
+Göm dig!
+
+1599
+03:16:16,700 --> 03:16:18,736
+Frodo!
+
+1600
+03:16:24,581 --> 03:16:25,991
+Var är de?
+
+1601
+03:17:02,074 --> 03:17:05,111
+Må Svarta landets herre komma ut!
+
+1602
+03:17:06,036 --> 03:17:08,872
+Må rättvisa skipas över honom!
+
+1603
+03:17:52,372 --> 03:17:56,322
+Min herre, Sauron den store,
+hälsar dig välkommen.
+
+1604
+03:18:02,172 --> 03:18:05,873
+Är någon i det här packet behörig
+att förhandla med mig?
+
+1605
+03:18:06,261 --> 03:18:09,380
+Vi kommer inte för att förhandla med Sauron...
+
+1606
+03:18:09,555 --> 03:18:12,509
+trolös och förbannad.
+
+1607
+03:18:12,683 --> 03:18:16,098
+Säg din herre:
+Mordors arméer måste upplösas.
+
+1608
+03:18:16,269 --> 03:18:18,940
+Han ska lämna dessa länder
+och aldrig återvända.
+
+1609
+03:18:19,982 --> 03:18:22,520
+Gamle Gråskägg.
+
+1610
+03:18:23,944 --> 03:18:28,237
+Jag har ett tecken jag blivit 
+befalld att visa dig.
+
+1611
+03:18:33,244 --> 03:18:34,574
+Frodo.
+
+1612
+03:18:37,415 --> 03:18:38,874
+Frodo.
+
+1613
+03:18:39,877 --> 03:18:41,073
+- Tyst.
+- Nej!
+
+1614
+03:18:41,918 --> 03:18:43,249
+Tyst!
+
+1615
+03:18:45,048 --> 03:18:48,794
+Halvlingen var dig kär, ser jag.
+
+1616
+03:18:49,802 --> 03:18:53,882
+Du ska veta att han led svårt
+i händerna på sin värd.
+
+1617
+03:18:59,393 --> 03:19:05,148
+Vem hade trott att någon så liten
+kunde utstå så stor smärta?
+
+1618
+03:19:07,776 --> 03:19:09,900
+Och det gjorde han, Gandalf.
+
+1619
+03:19:10,071 --> 03:19:11,815
+Det gjorde han.
+
+1620
+03:19:18,829 --> 03:19:20,324
+Och vem är det här?
+
+1621
+03:19:20,498 --> 03:19:22,574
+Isildurs arvinge?
+
+1622
+03:19:22,750 --> 03:19:25,751
+Det krävs mer för att bli kung
+än en bruten alvisk klinga.
+
+1623
+03:19:30,506 --> 03:19:33,080
+Då var det nog
+slut på förhandlingarna.
+
+1624
+03:19:35,221 --> 03:19:36,417
+Jag tror inte på det.
+
+1625
+03:19:38,432 --> 03:19:39,806
+Jag tänker inte tro det.
+
+1626
+03:19:55,907 --> 03:19:57,698
+Vik tillbaka.
+
+1627
+03:19:57,991 --> 03:20:00,031
+Vik tillbaka!
+
+1628
+03:20:12,256 --> 03:20:14,294
+Det är borta, herr Frodo.
+
+1629
+03:20:16,759 --> 03:20:19,761
+Ljuset fortsatte bort mot norr.
+
+1630
+03:20:19,972 --> 03:20:21,763
+Något drar till sig dess blick..
+
+1631
+03:20:39,280 --> 03:20:42,032
+Stå fast! Stå fast.
+
+1632
+03:20:44,120 --> 03:20:48,115
+Söner av Gondor och av Rohan,
+mina bröder!
+
+1633
+03:20:51,000 --> 03:20:52,875
+I era ögon ser jag...
+
+1634
+03:20:53,252 --> 03:20:57,297
+samma fruktan som kan få mig 
+att fälla modet.
+
+1635
+03:20:59,258 --> 03:21:03,173
+Det kanske kommer en dag
+när människornas mod sviker dem...
+
+1636
+03:21:03,344 --> 03:21:06,631
+när vi överger vänner 
+och bryter alla band.
+
+1637
+03:21:06,806 --> 03:21:09,476
+Men det är inte i dag.
+
+1638
+03:21:09,767 --> 03:21:12,804
+Splittrade sköldars vargatid...
+
+1639
+03:21:12,979 --> 03:21:15,850
+när människornas tidsålder störtar samman.
+
+1640
+03:21:16,023 --> 03:21:18,481
+Men det är inte i dag.
+
+1641
+03:21:18,653 --> 03:21:20,311
+I dag ska vi strida!
+
+1642
+03:21:22,781 --> 03:21:26,446
+Vid allt ni håller kärt 
+på denna goda jord...
+
+1643
+03:21:26,617 --> 03:21:30,865
+bjuder jag er att stå fasta, 
+män av Västern!
+
+1644
+03:22:59,329 --> 03:23:02,865
+Vem kunde tro att jag skulle dö 
+sida vid sida med en alv.
+
+1645
+03:23:03,333 --> 03:23:05,660
+Vad sägs som sida vid sida med en vän?
+
+1646
+03:23:09,215 --> 03:23:10,959
+Jo.
+
+1647
+03:23:11,800 --> 03:23:13,592
+Det skulle jag kunna göra.
+
+1648
+03:23:43,913 --> 03:23:45,990
+Minns du Fylke, herr Frodo?
+
+1649
+03:23:48,961 --> 03:23:51,202
+Det är snart vår.
+
+1650
+03:23:52,006 --> 03:23:54,709
+Fruktträden står i blom.
+
+1651
+03:23:54,883 --> 03:23:58,548
+Och fåglarna bygger bo i hasselsnåret.
+
+1652
+03:23:59,929 --> 03:24:03,926
+Och folk sår sommarkorn
+på de lägre fälten....
+
+1653
+03:24:04,976 --> 03:24:09,354
+och äter de första jordgubbarna
+med grädde.
+
+1654
+03:24:11,275 --> 03:24:13,764
+Minns du smaken av jordgubbar?
+
+1655
+03:24:15,361 --> 03:24:17,069
+Nej, Sam.
+
+1656
+03:24:17,237 --> 03:24:20,190
+Jag kan inte minnas hur mat smakar...
+
+1657
+03:24:21,324 --> 03:24:24,610
+inte heller hur vatten låter...
+
+1658
+03:24:24,786 --> 03:24:28,370
+eller hur gräs känns.
+
+1659
+03:24:29,332 --> 03:24:30,875
+Jag är...
+
+1660
+03:24:31,752 --> 03:24:33,126
+naken i mörkret.
+
+1661
+03:24:34,795 --> 03:24:37,085
+Det finns... Det finns ingenting.
+
+1662
+03:24:37,257 --> 03:24:41,965
+Ingen slöja mellan mig 
+och hjulet av eld.
+
+1663
+03:24:43,221 --> 03:24:45,129
+Jag kan se honom framför mig...
+
+1664
+03:24:45,557 --> 03:24:47,215
+fast jag är klarvaken.
+
+1665
+03:24:48,267 --> 03:24:50,723
+Låt oss då göra oss av med den...
+
+1666
+03:24:51,310 --> 03:24:53,554
+en gång för alla.
+
+1667
+03:24:54,273 --> 03:24:56,347
+Kom då, herr Frodo.
+
+1668
+03:24:56,524 --> 03:24:59,146
+Jag kan inte bära den åt er...
+
+1669
+03:24:59,570 --> 03:25:01,607
+men jag kan bära er.
+
+1670
+03:25:02,156 --> 03:25:03,898
+Kom!
+
+1671
+03:25:34,309 --> 03:25:37,264
+<i>Aragorn.</i>
+
+1672
+03:25:48,825 --> 03:25:51,446
+<i>Elessar.</i>
+
+1673
+03:26:03,423 --> 03:26:05,829
+För Frodo.
+
+1674
+03:26:40,790 --> 03:26:42,285
+Titta, herr Frodo.
+
+1675
+03:26:43,001 --> 03:26:45,206
+En dörröppning.
+
+1676
+03:26:45,795 --> 03:26:47,455
+Vi är nästan framme.
+
+1677
+03:26:49,800 --> 03:26:53,747
+Listiga hober som klättrar så högt!
+
+1678
+03:27:07,690 --> 03:27:09,349
+Får inte gå den vägen.
+
+1679
+03:27:10,901 --> 03:27:13,358
+Får inte skada den älskade.
+
+1680
+03:27:13,529 --> 03:27:15,273
+Du svor!
+
+1681
+03:27:15,448 --> 03:27:17,524
+Du svor vid den älskade!
+
+1682
+03:27:19,411 --> 03:27:21,367
+Sméagol lovade!
+
+1683
+03:27:22,287 --> 03:27:24,282
+Sméagol ljög.
+
+1684
+03:28:16,797 --> 03:28:18,672
+Frodo!
+
+1685
+03:28:45,784 --> 03:28:47,528
+Örnar.
+
+1686
+03:28:48,954 --> 03:28:50,447
+Örnarna kommer!
+
+1687
+03:29:13,270 --> 03:29:15,141
+Frodo!
+
+1688
+03:29:20,399 --> 03:29:21,682
+Jag är här, Sam.
+
+1689
+03:29:29,157 --> 03:29:30,782
+Förstör den!
+
+1690
+03:29:41,335 --> 03:29:44,620
+Gör det! Nu!
+
+1691
+03:29:44,797 --> 03:29:47,336
+Kasta den i elden!
+
+1692
+03:30:00,731 --> 03:30:03,400
+Vad väntar du på?
+
+1693
+03:30:05,275 --> 03:30:07,648
+Släpp den, bara!
+
+1694
+03:30:40,851 --> 03:30:43,094
+Ringen är min.
+
+1695
+03:30:46,648 --> 03:30:48,391
+Nej.
+
+1696
+03:30:48,817 --> 03:30:50,097
+Nej.
+
+1697
+03:30:58,535 --> 03:31:01,204
+Nej!
+
+1698
+03:32:45,636 --> 03:32:47,509
+Ja!
+
+1699
+03:32:48,680 --> 03:32:50,388
+Ja!
+
+1700
+03:32:51,517 --> 03:32:54,386
+Min skatt! Min skatt!
+
+1701
+03:32:54,560 --> 03:32:57,729
+Min skatt! Min skatt!
+
+1702
+03:33:50,656 --> 03:33:52,482
+Räck mig din hand!
+
+1703
+03:34:00,832 --> 03:34:03,240
+Ta min hand!
+
+1704
+03:34:05,921 --> 03:34:07,249
+Nej!
+
+1705
+03:34:14,512 --> 03:34:16,468
+Släpp inte taget.
+
+1706
+03:34:21,060 --> 03:34:22,637
+Släpp inte taget.
+
+1707
+03:34:24,271 --> 03:34:25,730
+Sträck ut!
+
+1708
+03:35:54,899 --> 03:35:57,770
+Frodo!
+
+1709
+03:35:58,361 --> 03:36:01,362
+Frodo!
+
+1710
+03:37:22,732 --> 03:37:24,559
+Den är borta.
+
+1711
+03:37:29,029 --> 03:37:30,772
+Det är gjort.
+
+1712
+03:37:31,282 --> 03:37:33,275
+Ja, herr Frodo.
+
+1713
+03:37:34,660 --> 03:37:37,068
+Det är över nu.
+
+1714
+03:38:02,728 --> 03:38:05,099
+Jag kan se Fylke.
+
+1715
+03:38:07,317 --> 03:38:09,640
+Vinfloden.
+
+1716
+03:38:11,780 --> 03:38:13,770
+Baggershus.
+
+1717
+03:38:16,117 --> 03:38:18,820
+Gandalfs fyrverkerier.
+
+1718
+03:38:19,245 --> 03:38:22,993
+Ljusen i kalasträdet.
+
+1719
+03:38:24,499 --> 03:38:27,618
+Rosa Kattun som dansar.
+
+1720
+03:38:28,754 --> 03:38:31,458
+Hon hade band i håret.
+
+1721
+03:38:34,383 --> 03:38:37,339
+Om jag någonsin skulle gift mig...
+
+1722
+03:38:38,263 --> 03:38:40,503
+så skulle det varit med henne.
+
+1723
+03:38:41,933 --> 03:38:44,008
+Det skulle varit med henne.
+
+1724
+03:38:56,196 --> 03:38:59,362
+Jag är glad att jag är med dig,
+Samwise Gamgee...
+
+1725
+03:39:03,661 --> 03:39:06,578
+här vid slutet av allting.
+
+1726
+03:40:56,269 --> 03:40:58,308
+Gandalf?
+
+1727
+03:41:17,956 --> 03:41:19,947
+Frodo!
+
+1728
+03:41:39,727 --> 03:41:41,552
+Gimli!
+
+1729
+03:43:24,533 --> 03:43:28,282
+Nu kommer konungens dagar.
+
+1730
+03:43:33,292 --> 03:43:35,617
+Må de vara välsignade.
+
+1731
+03:43:55,897 --> 03:43:58,567
+Den här dagen tillhör inte en enda man...
+
+1732
+03:43:58,732 --> 03:44:00,605
+utan alla.
+
+1733
+03:44:02,277 --> 03:44:05,197
+Låt oss tillsammans åter
+bygga upp denna värld...
+
+1734
+03:44:05,365 --> 03:44:09,611
+som vi må dela i fredens dagar.
+
+1734,1
+03:44:22,000 --> 03:44:25,370
+<i><font color=#0080C0>Et Eärello</font></i>
+<i><font color=#FFFF00>(Ut från det stora havet)</font></i>
+
+1734,2
+03:44:26,800 --> 03:44:33,100
+<font color=#0080C0>Endorenna utúlien.</font>
+<font color=#FFFF00>(till Midgård jag kommen är)</font>
+
+1734,3
+03:44:35,250 --> 03:44:39,000
+<font color=#0080C0>Sinome maruvan</font>
+<font color=#FFFF00>(På denna plats kommer jag vistas)</font>
+
+1734,4
+03:44:40,000 --> 03:44:45,800
+<i><font color=#0080C0>ar Hildinyar</font></i>
+<i><font color=#FFFF00>(och mina arvingar)</font></i>
+
+1734,5
+03:44:46,500 --> 03:44:56,000
+<i><font color=#0080C0>tenn’ Ambar-metta</font></i>
+<i><font color=#FFFF00>(tills världen tar slut)</font></i>
+
+1734,6
+03:45:04,000 --> 03:45:06,100
+<font color=#008000>Hannon le.</font>
+<font color=#FFFF00>(Tack.)</font>
+
+1735
+03:46:44,099 --> 03:46:46,174
+Mina vänner...
+
+1736
+03:46:51,478 --> 03:46:54,149
+ni bugar inte för någon.
+
+1737
+03:47:38,316 --> 03:47:40,439
+<i>Och således var det.</i>
+
+1738
+03:47:40,609 --> 03:47:44,228
+<i>som Midgårds fjärde ålder
+tog sin början.</i>
+
+1739
+03:47:44,406 --> 03:47:46,943
+<i>Och Ringens brödraskap...</i>
+
+1740
+03:47:47,116 --> 03:47:51,612
+<i>fastän evigt sammanbundet
+av vänskap och kärlek...</i>
+
+1741
+03:47:51,786 --> 03:47:54,195
+<i>tog slut.</i>
+
+1742
+03:47:59,211 --> 03:48:04,003
+<i>Tretton månader på dagen efter att
+Gandalf sänt oss på vår långa resa...</i>
+
+1743
+03:48:04,173 --> 03:48:08,385
+<i>fann vi oss inför en välbekant syn..</i>
+
+1744
+03:48:10,930 --> 03:48:13,634
+<i>Vi var hemma.</i>
+
+1745
+03:48:20,189 --> 03:48:22,062
+God dag.
+
+1746
+03:48:39,248 --> 03:48:41,456
+Akta pumpan.
+
+1747
+03:49:29,546 --> 03:49:31,123
+Mer borta här, Rosa.
+
+1748
+03:49:31,297 --> 03:49:33,292
+God natt, pojkar.
+
+1749
+03:50:30,854 --> 03:50:34,852
+<i>Hur tar en upp trådarna
+från ett gammalt liv</i>
+
+1750
+03:50:36,193 --> 03:50:38,399
+<i>Hur fortsätter du...</i>
+
+1751
+03:50:38,570 --> 03:50:43,777
+<i>när du i sitt hjärta 
+börjar förstå...</i>
+
+1752
+03:50:45,035 --> 03:50:47,989
+<i>att det inte finns
+någon återvändo?</i>
+
+1753
+03:50:48,704 --> 03:50:52,370
+<i>Det finns vissa saker
+som tiden inte kan läka...</i>
+
+1754
+03:50:52,876 --> 03:50:55,793
+<i>vissa skador
+som går alltför djupt...</i>
+
+1755
+03:50:57,546 --> 03:51:00,382
+<i>som blivit bestående.</i>
+
+1756
+03:51:21,069 --> 03:51:24,104
+Dit och tillbaka igen...
+en hobs berättelse, av Bilbo Bagger
+
+1757
+03:51:38,544 --> 03:51:40,417
+Herr Frodo?
+
+1758
+03:51:43,758 --> 03:51:45,133
+Vad är det?
+
+1759
+03:51:46,969 --> 03:51:50,918
+Det är fyra år på dagen
+sen Väderklint, Sam.
+
+1760
+03:51:51,598 --> 03:51:54,302
+Det har aldrig riktigt läkt.
+
+1761
+03:51:58,272 --> 03:52:03,514
+Dit och tillbaka igen...
+en hobs berättelse, av Bilbo Bagger.
+
+1762
+03:52:04,277 --> 03:52:08,060
+och Härskarringen
+av Frodo Bagger.
+
+1763
+03:52:08,573 --> 03:52:10,729
+Du skrev klart den.
+
+1764
+03:52:13,620 --> 03:52:15,113
+Inte riktigt.
+
+1765
+03:52:15,954 --> 03:52:18,492
+Det finns plats för lite till.
+
+1766
+03:52:21,126 --> 03:52:25,337
+Bilbo sa en gång att hans roll
+i sagan skulle ta slut...
+
+1767
+03:52:25,505 --> 03:52:28,790
+att var och en av oss
+måste komma och gå i berättandet.
+
+1768
+03:52:29,675 --> 03:52:32,510
+Bilbos historia var nu slut.
+
+1769
+03:52:33,011 --> 03:52:35,930
+Det skulle inte bli fler resor
+för honom...
+
+1770
+03:52:36,099 --> 03:52:37,640
+utom en.
+
+1771
+03:52:38,392 --> 03:52:41,974
+Berätta en gång till
+vart vi är på väg, min pojk?
+
+1772
+03:52:42,146 --> 03:52:44,139
+Till hamnen, Bilbo.
+
+1773
+03:52:44,315 --> 03:52:47,019
+Alverna har förlänat dig 
+en särskild ära...
+
+1774
+03:52:47,191 --> 03:52:49,815
+en plats på det sista skeppet
+som lämnar Midgård.
+
+1775
+03:52:51,531 --> 03:52:53,190
+Frodo...
+
+1776
+03:52:54,616 --> 03:52:59,158
+finns det någon möjlighet
+att få se min gamla ring igen?
+
+1777
+03:52:59,787 --> 03:53:02,030
+Den som jag gav till dig.
+
+1778
+03:53:05,669 --> 03:53:07,826
+Jag är ledsen, farbror.
+
+1779
+03:53:10,381 --> 03:53:13,001
+Jag är rädd att jag har tappat den.
+
+1780
+03:53:13,176 --> 03:53:14,966
+Åh.
+
+1781
+03:53:15,594 --> 03:53:17,053
+Synd.
+
+1782
+03:53:19,806 --> 03:53:23,674
+Jag skulle gärna
+ha hållit i den en sista gång.
+
+1783
+03:53:52,839 --> 03:53:57,879
+Det här var en syn
+jag aldrig sett förut.
+
+1784
+03:54:12,065 --> 03:54:15,397
+De tre ringarnas makt är slut.
+
+1785
+03:54:16,194 --> 03:54:18,981
+Tiden är inne...
+
+1786
+03:54:19,155 --> 03:54:22,441
+för människornas herravälde.
+
+1787
+03:54:22,900 --> 03:54:26,300
+<font color=#008000>I Aear cân ven na mar.</font>
+<font color=#FFFF00>(Havet kallar oss hem.)</font>
+
+1788
+03:54:34,835 --> 03:54:36,994
+Jag tror att jag...
+
+1789
+03:54:37,172 --> 03:54:41,548
+är fullt beredd för ännu ett äventyr.
+
+1790
+03:55:12,622 --> 03:55:14,912
+Farväl...
+
+1791
+03:55:15,084 --> 03:55:17,834
+mina tappra hober.
+
+1792
+03:55:19,796 --> 03:55:21,789
+Mitt verk är nu avslutat.
+
+1793
+03:55:25,716 --> 03:55:30,594
+Här, till sist, vid havets strand...
+
+1794
+03:55:31,265 --> 03:55:34,100
+kommer slutet för vårt brödraskap.
+
+1795
+03:55:37,645 --> 03:55:40,137
+Jag ska inte säga: “Gråt inte”...
+
+1796
+03:55:40,816 --> 03:55:44,813
+ty inte alla tårar är av ondo.
+
+1797
+03:56:02,378 --> 03:56:04,287
+Det är dags, Frodo.
+
+1798
+03:56:09,843 --> 03:56:11,836
+Vad menar han?
+
+1799
+03:56:14,306 --> 03:56:17,177
+Vi begav oss ut
+för att rädda Fylke, Sam.
+
+1800
+03:56:18,769 --> 03:56:21,520
+Och det är räddat.
+
+1801
+03:56:25,190 --> 03:56:27,859
+Men inte för mig.
+
+1802
+03:56:28,778 --> 03:56:31,232
+Det menar du inte.
+
+1803
+03:56:32,449 --> 03:56:34,524
+Du kan inte ge dig av.
+
+1804
+03:56:43,000 --> 03:56:45,705
+De sista sidorna ska du skriva, Sam.
+
+1805
+04:00:18,788 --> 04:00:21,658
+<i>Min käre Sam.</i>
+
+1806
+04:00:23,583 --> 04:00:26,917
+<i>Du kan inte alltid vara sliten itu.</i>
+
+1807
+04:00:27,086 --> 04:00:31,214
+<i>Du måste vara en och hel i många år.</i>
+
+1808
+04:00:31,966 --> 04:00:37,422
+<i>Du har så mycket att glädjas åt,
+att vara, och att göra.</i>
+
+1809
+04:00:38,682 --> 04:00:41,848
+<i>Din roll i historien fortsätter.</i>
+
+1810
+04:00:42,601 --> 04:00:44,344
+Nå...
+
+1811
+04:00:46,231 --> 04:00:47,938
+då är jag tillbaka.
