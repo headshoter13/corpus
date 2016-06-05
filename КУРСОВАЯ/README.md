@@ -23,5 +23,7 @@ The script extracts all the *srt*-subs from zips from folder *subs* to folder *E
 #### 3)To launch the Allignment.py
 This big script perform the allignment of *srt*-files from folder *Extracted_Data* and create the additional file to new folder *Corpora*. In result, it creates 1 *xml*-file with all the languages for each film
 
+<br><br>
+P.S. The script *gzExtract.py* extracts subs which were sent to me by the administrator of *OpenSubtitles.org*. All the results of its allignment are in the appropriate folder *Corpora*.
 
 
